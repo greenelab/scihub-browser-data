@@ -7,3 +7,7 @@ Other repositories for this study include:
 
 + [`greenelab/scihub`](https://github.com/greenelab/scihub) which hosts the Sci-Hub Stats Browser via GitHub Pages.
 + [`greenelab/scihub-manuscript`](https://github.com/greenelab/scihub-manuscript) which is the source for the study manuscript.
+
+## Environment
+
+This repository uses the conda [`environment.yml`](https://github.com/greenelab/scihub/blob/master/environment.yml) from `greenelab/scihub`.
