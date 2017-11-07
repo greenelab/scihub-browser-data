@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Frontiers Media S.A.",
+  "journals": 32,
+  "scihub": 10407,
+  "crossref_open_access": 62989,
+  "crossref_active": 63994,
+  "crossref": 64101,
+  "coverage": 0.16235316,
+  "publisher_slug": "frontiers-media-s-a",
+  "access_logs": {
+    "downloads": 0.1123,
+    "visitors": 0.10659,
+    "countries": 0.09451,
+    "days": 0.10433,
+    "months": 0.09518,
+    "n_articles_requested": 1475,
+    "n_articles": 19448
+  }
+}

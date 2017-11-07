@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Minnesota Press",
+  "journals": 4,
+  "scihub": 1086,
+  "crossref_open_access": 0,
+  "crossref_active": 1761,
+  "crossref": 1761,
+  "coverage": 0.61669506,
+  "publisher_slug": "university-of-minnesota-press",
+  "access_logs": {
+    "downloads": 0.04225,
+    "visitors": 0.04225,
+    "countries": 0.04225,
+    "days": 0.04225,
+    "months": 0.04225,
+    "n_articles_requested": 11,
+    "n_articles": 284
+  }
+}

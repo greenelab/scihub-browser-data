@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Missouri Botanical Garden",
+  "journals": 2,
+  "scihub": 4607,
+  "crossref_open_access": 0,
+  "crossref_active": 4610,
+  "crossref": 4610,
+  "coverage": 0.99934924,
+  "publisher_slug": "missouri-botanical-garden",
+  "access_logs": {
+    "downloads": 1.2615,
+    "visitors": 1.1538,
+    "countries": 0.90769,
+    "days": 1.1077,
+    "months": 0.93846,
+    "n_articles_requested": 68,
+    "n_articles": 130
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "US National Research Council",
+  "journals": 1,
+  "scihub": 11980,
+  "crossref_open_access": 0,
+  "crossref_active": 16924,
+  "crossref": 16924,
+  "coverage": 0.70787048,
+  "publisher_slug": "us-national-research-council",
+  "access_logs": {
+    "downloads": 0.1654,
+    "visitors": 0.1468,
+    "countries": 0.13232,
+    "days": 0.14266,
+    "months": 0.12198,
+    "n_articles_requested": 169,
+    "n_articles": 1451
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "The Korean Society for Applied Biological Chemistry",
+  "journals": 2,
+  "scihub": 879,
+  "crossref_open_access": 0,
+  "crossref_active": 460,
+  "crossref": 1381,
+  "coverage": 0.63649529,
+  "publisher_slug": "the-korean-society-for-applied-biological-chemistry",
+  "access_logs": {
+    "downloads": 0.84308,
+    "visitors": 0.76615,
+    "countries": 0.66154,
+    "days": 0.76,
+    "months": 0.61538,
+    "n_articles_requested": 121,
+    "n_articles": 325
+  }
+}

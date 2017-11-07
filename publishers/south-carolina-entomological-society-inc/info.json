@@ -1,0 +1,19 @@
+{
+  "publisher_name": "South Carolina Entomological Society Inc",
+  "journals": 1,
+  "scihub": 126,
+  "crossref_open_access": 0,
+  "crossref_active": 127,
+  "crossref": 127,
+  "coverage": 0.99212598,
+  "publisher_slug": "south-carolina-entomological-society-inc",
+  "access_logs": {
+    "downloads": 0.47059,
+    "visitors": 0.35294,
+    "countries": 0.29412,
+    "days": 0.41176,
+    "months": 0.35294,
+    "n_articles_requested": 6,
+    "n_articles": 17
+  }
+}

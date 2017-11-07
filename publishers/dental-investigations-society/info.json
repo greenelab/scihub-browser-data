@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Dental Investigations Society",
+  "journals": 1,
+  "scihub": 18,
+  "crossref_open_access": 0,
+  "crossref_active": 406,
+  "crossref": 406,
+  "coverage": 0.04433498,
+  "publisher_slug": "dental-investigations-society",
+  "access_logs": {
+    "downloads": 0.01538,
+    "visitors": 0.01538,
+    "countries": 0.01538,
+    "days": 0.01538,
+    "months": 0.01538,
+    "n_articles_requested": 3,
+    "n_articles": 195
+  }
+}

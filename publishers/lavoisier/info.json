@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Lavoisier",
+  "journals": 16,
+  "scihub": 4999,
+  "crossref_open_access": 0,
+  "crossref_active": 10607,
+  "crossref": 11456,
+  "coverage": 0.43636522,
+  "publisher_slug": "lavoisier",
+  "access_logs": {
+    "downloads": 0.26061,
+    "visitors": 0.23838,
+    "countries": 0.16162,
+    "days": 0.2404,
+    "months": 0.1899,
+    "n_articles_requested": 44,
+    "n_articles": 495
+  }
+}

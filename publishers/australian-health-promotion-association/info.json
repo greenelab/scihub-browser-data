@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Australian Health Promotion Association",
+  "journals": 1,
+  "scihub": 99,
+  "crossref_open_access": 0,
+  "crossref_active": 251,
+  "crossref": 251,
+  "coverage": 0.39442231,
+  "publisher_slug": "australian-health-promotion-association",
+  "access_logs": {
+    "downloads": 0.10909,
+    "visitors": 0.10909,
+    "countries": 0.10909,
+    "days": 0.10909,
+    "months": 0.10909,
+    "n_articles_requested": 11,
+    "n_articles": 110
+  }
+}

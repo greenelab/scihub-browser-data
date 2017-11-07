@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Korean Meteorological Society",
+  "journals": 1,
+  "scihub": 310,
+  "crossref_open_access": 0,
+  "crossref_active": 324,
+  "crossref": 324,
+  "coverage": 0.95679012,
+  "publisher_slug": "korean-meteorological-society",
+  "access_logs": {
+    "downloads": 0.55556,
+    "visitors": 0.50794,
+    "countries": 0.47619,
+    "days": 0.46032,
+    "months": 0.46032,
+    "n_articles_requested": 21,
+    "n_articles": 63
+  }
+}

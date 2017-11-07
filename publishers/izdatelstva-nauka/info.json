@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Izdatel'stva Nauka",
+  "journals": 37,
+  "scihub": 1475,
+  "crossref_open_access": 0,
+  "crossref_active": 4882,
+  "crossref": 23524,
+  "coverage": 0.06270192,
+  "publisher_slug": "izdatelstva-nauka",
+  "access_logs": {
+    "downloads": 0.02696,
+    "visitors": 0.02287,
+    "countries": 0.01734,
+    "days": 0.02251,
+    "months": 0.01724,
+    "n_articles_requested": 108,
+    "n_articles": 11018
+  }
+}

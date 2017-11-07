@@ -1,0 +1,19 @@
+{
+  "publisher_name": "International Association for Dental Research",
+  "journals": 1,
+  "scihub": 625,
+  "crossref_open_access": 0,
+  "crossref_active": 822,
+  "crossref": 822,
+  "coverage": 0.76034063,
+  "publisher_slug": "international-association-for-dental-research",
+  "access_logs": {
+    "downloads": 1.5625,
+    "visitors": 1.4375,
+    "countries": 1.4375,
+    "days": 1.4375,
+    "months": 1.25,
+    "n_articles_requested": 10,
+    "n_articles": 16
+  }
+}

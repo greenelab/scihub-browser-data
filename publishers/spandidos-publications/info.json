@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Spandidos Publications",
+  "journals": 4,
+  "scihub": 12200,
+  "crossref_open_access": 0,
+  "crossref_active": 16681,
+  "crossref": 17540,
+  "coverage": 0.69555302,
+  "publisher_slug": "spandidos-publications",
+  "access_logs": {
+    "downloads": 0.14093,
+    "visitors": 0.13341,
+    "countries": 0.1203,
+    "days": 0.13027,
+    "months": 0.12013,
+    "n_articles_requested": 598,
+    "n_articles": 5719
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Berghahn",
+  "journals": 18,
+  "scihub": 2577,
+  "crossref_open_access": 0,
+  "crossref_active": 4696,
+  "crossref": 4696,
+  "coverage": 0.54876491,
+  "publisher_slug": "berghahn",
+  "access_logs": {
+    "downloads": 0.30096,
+    "visitors": 0.28591,
+    "countries": 0.25992,
+    "days": 0.28044,
+    "months": 0.22709,
+    "n_articles_requested": 126,
+    "n_articles": 731
+  }
+}

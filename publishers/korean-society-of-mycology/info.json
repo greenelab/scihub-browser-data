@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Korean Society of Mycology",
+  "journals": 1,
+  "scihub": 224,
+  "crossref_open_access": 789,
+  "crossref_active": 789,
+  "crossref": 789,
+  "coverage": 0.28390368,
+  "publisher_slug": "korean-society-of-mycology",
+  "access_logs": {
+    "downloads": 0.05755,
+    "visitors": 0.05755,
+    "countries": 0.05036,
+    "days": 0.05755,
+    "months": 0.05036,
+    "n_articles_requested": 7,
+    "n_articles": 139
+  }
+}

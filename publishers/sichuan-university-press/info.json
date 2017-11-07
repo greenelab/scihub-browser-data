@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Sichuan University Press",
+  "journals": 1,
+  "scihub": 275,
+  "crossref_open_access": 279,
+  "crossref_active": 279,
+  "crossref": 279,
+  "coverage": 0.98566308,
+  "publisher_slug": "sichuan-university-press",
+  "access_logs": {
+    "downloads": 1.9038,
+    "visitors": 1.7115,
+    "countries": 1.2885,
+    "days": 1.75,
+    "months": 1.2308,
+    "n_articles_requested": 33,
+    "n_articles": 52
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Research Information Ltd.",
+  "journals": 1,
+  "scihub": 1146,
+  "crossref_open_access": 0,
+  "crossref_active": 1252,
+  "crossref": 1252,
+  "coverage": 0.91533546,
+  "publisher_slug": "research-information-ltd",
+  "access_logs": {
+    "downloads": 0.07634,
+    "visitors": 0.0687,
+    "countries": 0.0458,
+    "days": 0.05344,
+    "months": 0.0458,
+    "n_articles_requested": 5,
+    "n_articles": 131
+  }
+}

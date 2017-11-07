@@ -1,0 +1,19 @@
+{
+  "publisher_name": "BioScientifica Ltd.",
+  "journals": 6,
+  "scihub": 42603,
+  "crossref_open_access": 0,
+  "crossref_active": 50557,
+  "crossref": 50557,
+  "coverage": 0.84267263,
+  "publisher_slug": "bioscientifica-ltd",
+  "access_logs": {
+    "downloads": 2.1573,
+    "visitors": 1.9234,
+    "countries": 1.3891,
+    "days": 1.7796,
+    "months": 1.2722,
+    "n_articles_requested": 900,
+    "n_articles": 1488
+  }
+}

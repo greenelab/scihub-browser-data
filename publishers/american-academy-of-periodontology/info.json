@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Academy of Periodontology",
+  "journals": 2,
+  "scihub": 10064,
+  "crossref_open_access": 0,
+  "crossref_active": 9893,
+  "crossref": 10116,
+  "coverage": 0.99485963,
+  "publisher_slug": "american-academy-of-periodontology",
+  "access_logs": {
+    "downloads": 4.2798,
+    "visitors": 3.9002,
+    "countries": 2.7372,
+    "days": 3.6959,
+    "months": 2.3139,
+    "n_articles_requested": 338,
+    "n_articles": 411
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Society of Rheology",
+  "journals": 2,
+  "scihub": 2925,
+  "crossref_open_access": 0,
+  "crossref_active": 4311,
+  "crossref": 4311,
+  "coverage": 0.67849687,
+  "publisher_slug": "society-of-rheology",
+  "access_logs": {
+    "downloads": 1.1545,
+    "visitors": 1.0682,
+    "countries": 0.83636,
+    "days": 1.0364,
+    "months": 0.81818,
+    "n_articles_requested": 95,
+    "n_articles": 220
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Physiological Society",
+  "journals": 15,
+  "scihub": 41507,
+  "crossref_open_access": 965,
+  "crossref_active": 55287,
+  "crossref": 60506,
+  "coverage": 0.68599808,
+  "publisher_slug": "american-physiological-society",
+  "access_logs": {
+    "downloads": 2.0256,
+    "visitors": 1.7915,
+    "countries": 1.2664,
+    "days": 1.5723,
+    "months": 1.0744,
+    "n_articles_requested": 3077,
+    "n_articles": 5579
+  }
+}

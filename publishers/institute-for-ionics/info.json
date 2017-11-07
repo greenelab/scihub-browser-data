@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Institute for Ionics",
+  "journals": 1,
+  "scihub": 2797,
+  "crossref_open_access": 0,
+  "crossref_active": 2846,
+  "crossref": 2846,
+  "coverage": 0.98278285,
+  "publisher_slug": "institute-for-ionics",
+  "access_logs": {
+    "downloads": 2.5115,
+    "visitors": 2.1775,
+    "countries": 1.3946,
+    "days": 2.1023,
+    "months": 1.5511,
+    "n_articles_requested": 362,
+    "n_articles": 479
+  }
+}

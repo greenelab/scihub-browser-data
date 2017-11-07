@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Chinese Ceramic Society",
+  "journals": 1,
+  "scihub": 98,
+  "crossref_open_access": 0,
+  "crossref_active": 101,
+  "crossref": 101,
+  "coverage": 0.97029703,
+  "publisher_slug": "chinese-ceramic-society",
+  "access_logs": {
+    "downloads": 5.4737,
+    "visitors": 4.7895,
+    "countries": 2.5789,
+    "days": 4.3684,
+    "months": 2.2632,
+    "n_articles_requested": 15,
+    "n_articles": 19
+  }
+}

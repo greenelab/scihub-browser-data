@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Wiley-Blackwell",
+  "journals": 1639,
+  "scihub": 5786361,
+  "crossref_open_access": 97617,
+  "crossref_active": 5468759,
+  "crossref": 6107661,
+  "coverage": 0.94739394,
+  "publisher_slug": "wiley-blackwell",
+  "access_logs": {
+    "downloads": 1.0307,
+    "visitors": 0.90993,
+    "countries": 0.63143,
+    "days": 0.86148,
+    "months": 0.59745,
+    "n_articles_requested": 95234,
+    "n_articles": 313630
+  }
+}

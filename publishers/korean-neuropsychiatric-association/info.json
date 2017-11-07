@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Korean Neuropsychiatric Association",
+  "journals": 1,
+  "scihub": 4,
+  "crossref_open_access": 619,
+  "crossref_active": 619,
+  "crossref": 619,
+  "coverage": 0.00646204,
+  "publisher_slug": "korean-neuropsychiatric-association",
+  "access_logs": {
+    "downloads": 0.01841,
+    "visitors": 0.01841,
+    "countries": 0.01841,
+    "days": 0.01841,
+    "months": 0.01227,
+    "n_articles_requested": 2,
+    "n_articles": 163
+  }
+}

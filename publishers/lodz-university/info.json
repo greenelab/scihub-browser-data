@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Lodz University",
+  "journals": 1,
+  "scihub": 55,
+  "crossref_open_access": 0,
+  "crossref_active": 131,
+  "crossref": 131,
+  "coverage": 0.41984733,
+  "publisher_slug": "lodz-university",
+  "access_logs": {
+    "downloads": 0.15385,
+    "visitors": 0.15385,
+    "countries": 0.15385,
+    "days": 0.15385,
+    "months": 0.15385,
+    "n_articles_requested": 6,
+    "n_articles": 39
+  }
+}

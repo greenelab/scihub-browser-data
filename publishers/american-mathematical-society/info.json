@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Mathematical Society",
+  "journals": 15,
+  "scihub": 65560,
+  "crossref_open_access": 2884,
+  "crossref_active": 99329,
+  "crossref": 99523,
+  "coverage": 0.6587422,
+  "publisher_slug": "american-mathematical-society",
+  "access_logs": {
+    "downloads": 0.39817,
+    "visitors": 0.3373,
+    "countries": 0.26773,
+    "days": 0.32037,
+    "months": 0.26407,
+    "n_articles_requested": 442,
+    "n_articles": 2185
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Nuclear Receptor Signaling Atlas",
+  "journals": 1,
+  "scihub": 6,
+  "crossref_open_access": 99,
+  "crossref_active": 99,
+  "crossref": 99,
+  "coverage": 0.06060606,
+  "publisher_slug": "nuclear-receptor-signaling-atlas",
+  "access_logs": {
+    "downloads": 0.2,
+    "visitors": 0.2,
+    "countries": 0.2,
+    "days": 0.2,
+    "months": 0.2,
+    "n_articles_requested": 1,
+    "n_articles": 10
+  }
+}

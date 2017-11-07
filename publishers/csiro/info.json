@@ -1,0 +1,19 @@
+{
+  "publisher_name": "CSIRO",
+  "journals": 31,
+  "scihub": 32653,
+  "crossref_open_access": 55,
+  "crossref_active": 63602,
+  "crossref": 85262,
+  "coverage": 0.38297248,
+  "publisher_slug": "csiro",
+  "access_logs": {
+    "downloads": 0.64116,
+    "visitors": 0.56466,
+    "countries": 0.47229,
+    "days": 0.56662,
+    "months": 0.44795,
+    "n_articles_requested": 1275,
+    "n_articles": 4601
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Czech Geological Society",
+  "journals": 1,
+  "scihub": 132,
+  "crossref_open_access": 249,
+  "crossref_active": 249,
+  "crossref": 249,
+  "coverage": 0.53012048,
+  "publisher_slug": "czech-geological-society",
+  "access_logs": {
+    "downloads": 0.09302,
+    "visitors": 0.09302,
+    "countries": 0.06977,
+    "days": 0.06977,
+    "months": 0.06977,
+    "n_articles_requested": 3,
+    "n_articles": 43
+  }
+}

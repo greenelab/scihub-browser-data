@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Slavica Publishers",
+  "journals": 2,
+  "scihub": 456,
+  "crossref_open_access": 0,
+  "crossref_active": 1183,
+  "crossref": 1183,
+  "coverage": 0.38546069,
+  "publisher_slug": "slavica-publishers",
+  "access_logs": {
+    "downloads": 0.74719,
+    "visitors": 0.69663,
+    "countries": 0.61798,
+    "days": 0.70225,
+    "months": 0.61236,
+    "n_articles_requested": 63,
+    "n_articles": 178
+  }
+}

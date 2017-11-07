@@ -1,0 +1,19 @@
+{
+  "publisher_name": "C.V. Mosby Company",
+  "journals": 2,
+  "scihub": 15678,
+  "crossref_open_access": 0,
+  "crossref_active": 7375,
+  "crossref": 15778,
+  "coverage": 0.99366206,
+  "publisher_slug": "c-v-mosby-company",
+  "access_logs": {
+    "downloads": 1.7107,
+    "visitors": 1.5034,
+    "countries": 1.1367,
+    "days": 1.426,
+    "months": 0.92255,
+    "n_articles_requested": 189,
+    "n_articles": 439
+  }
+}

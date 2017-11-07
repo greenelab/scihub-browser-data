@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Royal College of Nursing Publishing Co.",
+  "journals": 9,
+  "scihub": 44165,
+  "crossref_open_access": 0,
+  "crossref_active": 107055,
+  "crossref": 199180,
+  "coverage": 0.22173411,
+  "publisher_slug": "royal-college-of-nursing-publishing-co",
+  "access_logs": {
+    "downloads": 0.04849,
+    "visitors": 0.04432,
+    "countries": 0.03774,
+    "days": 0.04238,
+    "months": 0.03519,
+    "n_articles_requested": 379,
+    "n_articles": 12930
+  }
+}

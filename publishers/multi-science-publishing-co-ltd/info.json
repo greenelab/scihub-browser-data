@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Multi-Science Publishing Co Ltd.",
+  "journals": 4,
+  "scihub": 477,
+  "crossref_open_access": 0,
+  "crossref_active": 100,
+  "crossref": 968,
+  "coverage": 0.4927686,
+  "publisher_slug": "multi-science-publishing-co-ltd",
+  "access_logs": {
+    "downloads": 0.22667,
+    "visitors": 0.22667,
+    "countries": 0.21333,
+    "days": 0.22667,
+    "months": 0.21333,
+    "n_articles_requested": 14,
+    "n_articles": 75
+  }
+}

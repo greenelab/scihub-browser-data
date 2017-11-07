@@ -1,0 +1,19 @@
+{
+  "publisher_name": "The Coleopterists Society",
+  "journals": 1,
+  "scihub": 1493,
+  "crossref_open_access": 0,
+  "crossref_active": 1525,
+  "crossref": 1525,
+  "coverage": 0.97901639,
+  "publisher_slug": "the-coleopterists-society",
+  "access_logs": {
+    "downloads": 1.0073,
+    "visitors": 0.75182,
+    "countries": 0.59854,
+    "days": 0.85401,
+    "months": 0.59854,
+    "n_articles_requested": 62,
+    "n_articles": 137
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Polish Scientific Publishers PWN",
+  "journals": 2,
+  "scihub": 385,
+  "crossref_open_access": 197,
+  "crossref_active": 456,
+  "crossref": 456,
+  "coverage": 0.84429825,
+  "publisher_slug": "polish-scientific-publishers-pwn",
+  "access_logs": {
+    "downloads": 1.1349,
+    "visitors": 1.0238,
+    "countries": 0.78571,
+    "days": 1.0159,
+    "months": 0.7619,
+    "n_articles_requested": 53,
+    "n_articles": 126
+  }
+}

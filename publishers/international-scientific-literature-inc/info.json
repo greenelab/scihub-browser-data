@@ -1,0 +1,19 @@
+{
+  "publisher_name": "International Scientific Literature, Inc",
+  "journals": 3,
+  "scihub": 9,
+  "crossref_open_access": 915,
+  "crossref_active": 1064,
+  "crossref": 1064,
+  "coverage": 0.00845865,
+  "publisher_slug": "international-scientific-literature-inc",
+  "access_logs": {
+    "downloads": 0.00272,
+    "visitors": 0.00272,
+    "countries": 0.00272,
+    "days": 0.00272,
+    "months": 0.00272,
+    "n_articles_requested": 1,
+    "n_articles": 367
+  }
+}

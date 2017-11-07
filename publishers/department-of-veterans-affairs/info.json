@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Department of Veterans Affairs",
+  "journals": 1,
+  "scihub": 743,
+  "crossref_open_access": 1609,
+  "crossref_active": 1609,
+  "crossref": 1609,
+  "coverage": 0.4617775,
+  "publisher_slug": "department-of-veterans-affairs",
+  "access_logs": {
+    "downloads": 0.18636,
+    "visitors": 0.18182,
+    "countries": 0.18182,
+    "days": 0.18182,
+    "months": 0.17727,
+    "n_articles_requested": 31,
+    "n_articles": 220
+  }
+}

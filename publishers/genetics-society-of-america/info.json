@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Genetics Society of America",
+  "journals": 2,
+  "scihub": 7077,
+  "crossref_open_access": 1489,
+  "crossref_active": 7317,
+  "crossref": 7317,
+  "coverage": 0.96719967,
+  "publisher_slug": "genetics-society-of-america",
+  "access_logs": {
+    "downloads": 1.2684,
+    "visitors": 1.0707,
+    "countries": 0.7418,
+    "days": 0.99898,
+    "months": 0.69365,
+    "n_articles_requested": 374,
+    "n_articles": 976
+  }
+}

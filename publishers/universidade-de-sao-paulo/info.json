@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Universidade de Sao Paulo",
+  "journals": 24,
+  "scihub": 165,
+  "crossref_open_access": 9729,
+  "crossref_active": 11415,
+  "crossref": 14485,
+  "coverage": 0.01139109,
+  "publisher_slug": "universidade-de-sao-paulo",
+  "access_logs": {
+    "downloads": 0.00411,
+    "visitors": 0.00411,
+    "countries": 0.00352,
+    "days": 0.00352,
+    "months": 0.00352,
+    "n_articles_requested": 6,
+    "n_articles": 1705
+  }
+}

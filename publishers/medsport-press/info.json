@@ -1,0 +1,19 @@
+{
+  "publisher_name": "MedSport Press",
+  "journals": 3,
+  "scihub": 8,
+  "crossref_open_access": 0,
+  "crossref_active": 468,
+  "crossref": 468,
+  "coverage": 0.01709402,
+  "publisher_slug": "medsport-press",
+  "access_logs": {
+    "downloads": 0.06818,
+    "visitors": 0.05682,
+    "countries": 0.04546,
+    "days": 0.05682,
+    "months": 0.05682,
+    "n_articles_requested": 3,
+    "n_articles": 88
+  }
+}

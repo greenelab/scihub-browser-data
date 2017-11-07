@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Diabetes Technology Society",
+  "journals": 1,
+  "scihub": 1948,
+  "crossref_open_access": 0,
+  "crossref_active": 2037,
+  "crossref": 2037,
+  "coverage": 0.9563083,
+  "publisher_slug": "diabetes-technology-society",
+  "access_logs": {
+    "downloads": 1.1877,
+    "visitors": 1.0528,
+    "countries": 0.8563,
+    "days": 1.0352,
+    "months": 0.80645,
+    "n_articles_requested": 150,
+    "n_articles": 341
+  }
+}

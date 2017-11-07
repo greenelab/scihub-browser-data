@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Mosquito Control Association",
+  "journals": 1,
+  "scihub": 1019,
+  "crossref_open_access": 0,
+  "crossref_active": 1022,
+  "crossref": 1022,
+  "coverage": 0.99706458,
+  "publisher_slug": "american-mosquito-control-association",
+  "access_logs": {
+    "downloads": 0.52174,
+    "visitors": 0.47826,
+    "countries": 0.42391,
+    "days": 0.41304,
+    "months": 0.40217,
+    "n_articles_requested": 29,
+    "n_articles": 92
+  }
+}

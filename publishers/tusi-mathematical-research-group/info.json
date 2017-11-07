@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Tusi Mathematical Research Group",
+  "journals": 1,
+  "scihub": 139,
+  "crossref_open_access": 314,
+  "crossref_active": 314,
+  "crossref": 314,
+  "coverage": 0.44267516,
+  "publisher_slug": "tusi-mathematical-research-group",
+  "access_logs": {
+    "downloads": 0.30631,
+    "visitors": 0.28829,
+    "countries": 0.18018,
+    "days": 0.27928,
+    "months": 0.21622,
+    "n_articles_requested": 15,
+    "n_articles": 111
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Society of Nephrology",
+  "journals": 2,
+  "scihub": 8848,
+  "crossref_open_access": 0,
+  "crossref_active": 8928,
+  "crossref": 8928,
+  "coverage": 0.99103943,
+  "publisher_slug": "american-society-of-nephrology",
+  "access_logs": {
+    "downloads": 3.5552,
+    "visitors": 3.2267,
+    "countries": 2.1557,
+    "days": 2.882,
+    "months": 1.657,
+    "n_articles_requested": 804,
+    "n_articles": 1169
+  }
+}

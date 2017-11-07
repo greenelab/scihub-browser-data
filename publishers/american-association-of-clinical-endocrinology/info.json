@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Association of Clinical Endocrinology",
+  "journals": 1,
+  "scihub": 301,
+  "crossref_open_access": 0,
+  "crossref_active": 2928,
+  "crossref": 2928,
+  "coverage": 0.10280055,
+  "publisher_slug": "american-association-of-clinical-endocrinology",
+  "access_logs": {
+    "downloads": 0.42932,
+    "visitors": 0.37435,
+    "countries": 0.27487,
+    "days": 0.32723,
+    "months": 0.24084,
+    "n_articles_requested": 48,
+    "n_articles": 382
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Association for Research in Vision and Ophthalmology",
+  "journals": 2,
+  "scihub": 1439,
+  "crossref_open_access": 23132,
+  "crossref_active": 23628,
+  "crossref": 23628,
+  "coverage": 0.06090232,
+  "publisher_slug": "association-for-research-in-vision-and-ophthalmology",
+  "access_logs": {
+    "downloads": 0.03051,
+    "visitors": 0.03051,
+    "countries": 0.02516,
+    "days": 0.02722,
+    "months": 0.02516,
+    "n_articles_requested": 54,
+    "n_articles": 2425
+  }
+}

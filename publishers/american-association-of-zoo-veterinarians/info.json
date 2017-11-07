@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Association of Zoo Veterinarians",
+  "journals": 1,
+  "scihub": 2229,
+  "crossref_open_access": 0,
+  "crossref_active": 2241,
+  "crossref": 2241,
+  "coverage": 0.99464525,
+  "publisher_slug": "american-association-of-zoo-veterinarians",
+  "access_logs": {
+    "downloads": 0.38314,
+    "visitors": 0.31418,
+    "countries": 0.30651,
+    "days": 0.30651,
+    "months": 0.30268,
+    "n_articles_requested": 68,
+    "n_articles": 261
+  }
+}

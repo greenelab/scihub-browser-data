@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Associacao Brasileira de Divulgacao Cientifica",
+  "journals": 2,
+  "scihub": 32,
+  "crossref_open_access": 1909,
+  "crossref_active": 1909,
+  "crossref": 1909,
+  "coverage": 0.0167627,
+  "publisher_slug": "associacao-brasileira-de-divulgacao-cientifica",
+  "access_logs": {
+    "downloads": 0.06818,
+    "visitors": 0.06818,
+    "countries": 0.05303,
+    "days": 0.06061,
+    "months": 0.05303,
+    "n_articles_requested": 4,
+    "n_articles": 132
+  }
+}

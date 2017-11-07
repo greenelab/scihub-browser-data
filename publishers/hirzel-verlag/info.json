@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Hirzel Verlag",
+  "journals": 2,
+  "scihub": 1117,
+  "crossref_open_access": 0,
+  "crossref_active": 1056,
+  "crossref": 1207,
+  "coverage": 0.92543496,
+  "publisher_slug": "hirzel-verlag",
+  "access_logs": {
+    "downloads": 0.55172,
+    "visitors": 0.55172,
+    "countries": 0.51724,
+    "days": 0.54187,
+    "months": 0.50246,
+    "n_articles_requested": 80,
+    "n_articles": 203
+  }
+}

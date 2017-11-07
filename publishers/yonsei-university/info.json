@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Yonsei University",
+  "journals": 1,
+  "scihub": 18,
+  "crossref_open_access": 4276,
+  "crossref_active": 4276,
+  "crossref": 4276,
+  "coverage": 0.00420954,
+  "publisher_slug": "yonsei-university",
+  "access_logs": {
+    "downloads": 0.00204,
+    "visitors": 0.00204,
+    "countries": 0.00204,
+    "days": 0.00204,
+    "months": 0.00204,
+    "n_articles_requested": 1,
+    "n_articles": 491
+  }
+}

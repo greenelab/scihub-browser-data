@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Co-Action Publishing",
+  "journals": 3,
+  "scihub": 1155,
+  "crossref_open_access": 96,
+  "crossref_active": 709,
+  "crossref": 1660,
+  "coverage": 0.69578313,
+  "publisher_slug": "co-action-publishing",
+  "access_logs": {
+    "downloads": 0.03061,
+    "visitors": 0.03061,
+    "countries": 0.03061,
+    "days": 0.03061,
+    "months": 0.03061,
+    "n_articles_requested": 6,
+    "n_articles": 196
+  }
+}

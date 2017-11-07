@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Statistics Sweden",
+  "journals": 1,
+  "scihub": 40,
+  "crossref_open_access": 215,
+  "crossref_active": 215,
+  "crossref": 215,
+  "coverage": 0.18604651,
+  "publisher_slug": "statistics-sweden",
+  "access_logs": {
+    "downloads": 0.06863,
+    "visitors": 0.06863,
+    "countries": 0.05882,
+    "days": 0.06863,
+    "months": 0.06863,
+    "n_articles_requested": 5,
+    "n_articles": 102
+  }
+}

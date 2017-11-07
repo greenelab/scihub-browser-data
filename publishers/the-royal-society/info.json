@@ -1,0 +1,19 @@
+{
+  "publisher_name": "The Royal Society",
+  "journals": 11,
+  "scihub": 59348,
+  "crossref_open_access": 1333,
+  "crossref_active": 64214,
+  "crossref": 65789,
+  "coverage": 0.9020961,
+  "publisher_slug": "the-royal-society",
+  "access_logs": {
+    "downloads": 1.1852,
+    "visitors": 1.0614,
+    "countries": 0.85778,
+    "days": 1.0057,
+    "months": 0.74486,
+    "n_articles_requested": 1877,
+    "n_articles": 4233
+  }
+}

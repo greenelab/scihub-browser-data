@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Kragujevac",
+  "journals": 1,
+  "scihub": 55,
+  "crossref_open_access": 229,
+  "crossref_active": 229,
+  "crossref": 229,
+  "coverage": 0.24017467,
+  "publisher_slug": "university-of-kragujevac",
+  "access_logs": {
+    "downloads": 0.1375,
+    "visitors": 0.1375,
+    "countries": 0.125,
+    "days": 0.1375,
+    "months": 0.125,
+    "n_articles_requested": 10,
+    "n_articles": 80
+  }
+}

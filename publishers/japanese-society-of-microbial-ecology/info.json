@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Japanese Society Of Microbial Ecology",
+  "journals": 1,
+  "scihub": 928,
+  "crossref_open_access": 0,
+  "crossref_active": 943,
+  "crossref": 943,
+  "coverage": 0.98409332,
+  "publisher_slug": "japanese-society-of-microbial-ecology",
+  "access_logs": {
+    "downloads": 0.03448,
+    "visitors": 0.02586,
+    "countries": 0.02586,
+    "days": 0.02586,
+    "months": 0.02586,
+    "n_articles_requested": 3,
+    "n_articles": 116
+  }
+}

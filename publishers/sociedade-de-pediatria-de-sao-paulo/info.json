@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Sociedade De Pediatria De Sao Paulo",
+  "journals": 1,
+  "scihub": 187,
+  "crossref_open_access": 288,
+  "crossref_active": 288,
+  "crossref": 288,
+  "coverage": 0.64930556,
+  "publisher_slug": "sociedade-de-pediatria-de-sao-paulo",
+  "access_logs": {
+    "downloads": 0.31092,
+    "visitors": 0.30252,
+    "countries": 0.2605,
+    "days": 0.29412,
+    "months": 0.2521,
+    "n_articles_requested": 23,
+    "n_articles": 119
+  }
+}

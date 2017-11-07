@@ -1,0 +1,19 @@
+{
+  "publisher_name": "OSA Publishing",
+  "journals": 2,
+  "scihub": 551,
+  "crossref_open_access": 0,
+  "crossref_active": 849,
+  "crossref": 849,
+  "coverage": 0.64899882,
+  "publisher_slug": "osa-publishing",
+  "access_logs": {
+    "downloads": 0.76596,
+    "visitors": 0.67477,
+    "countries": 0.51368,
+    "days": 0.58359,
+    "months": 0.48936,
+    "n_articles_requested": 107,
+    "n_articles": 329
+  }
+}

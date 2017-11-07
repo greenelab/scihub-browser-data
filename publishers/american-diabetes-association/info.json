@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Diabetes Association",
+  "journals": 4,
+  "scihub": 36817,
+  "crossref_open_access": 0,
+  "crossref_active": 41779,
+  "crossref": 41779,
+  "coverage": 0.8812322,
+  "publisher_slug": "american-diabetes-association",
+  "access_logs": {
+    "downloads": 3.1404,
+    "visitors": 2.763,
+    "countries": 1.7009,
+    "days": 2.4303,
+    "months": 1.4303,
+    "n_articles_requested": 1171,
+    "n_articles": 1966
+  }
+}

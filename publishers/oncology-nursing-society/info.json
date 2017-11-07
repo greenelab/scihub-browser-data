@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Oncology Nursing Society",
+  "journals": 2,
+  "scihub": 2292,
+  "crossref_open_access": 0,
+  "crossref_active": 3648,
+  "crossref": 3648,
+  "coverage": 0.62828947,
+  "publisher_slug": "oncology-nursing-society",
+  "access_logs": {
+    "downloads": 0.29056,
+    "visitors": 0.26877,
+    "countries": 0.24939,
+    "days": 0.2615,
+    "months": 0.23245,
+    "n_articles_requested": 82,
+    "n_articles": 413
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Korean Biodiversity Information Facility",
+  "journals": 1,
+  "scihub": 220,
+  "crossref_open_access": 257,
+  "crossref_active": 257,
+  "crossref": 257,
+  "coverage": 0.85603113,
+  "publisher_slug": "korean-biodiversity-information-facility",
+  "access_logs": {
+    "downloads": 0.30667,
+    "visitors": 0.30667,
+    "countries": 0.29333,
+    "days": 0.30667,
+    "months": 0.26667,
+    "n_articles_requested": 18,
+    "n_articles": 75
+  }
+}

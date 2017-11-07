@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Baywood Publishing Co., Inc.",
+  "journals": 4,
+  "scihub": 345,
+  "crossref_open_access": 0,
+  "crossref_active": 1166,
+  "crossref": 2610,
+  "coverage": 0.13218391,
+  "publisher_slug": "baywood-publishing-co-inc",
+  "access_logs": {
+    "downloads": 0.18462,
+    "visitors": 0.18462,
+    "countries": 0.16923,
+    "days": 0.16923,
+    "months": 0.13846,
+    "n_articles_requested": 7,
+    "n_articles": 65
+  }
+}

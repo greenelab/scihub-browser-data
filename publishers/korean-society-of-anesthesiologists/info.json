@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Korean Society of Anesthesiologists",
+  "journals": 1,
+  "scihub": 715,
+  "crossref_open_access": 0,
+  "crossref_active": 1764,
+  "crossref": 1764,
+  "coverage": 0.4053288,
+  "publisher_slug": "korean-society-of-anesthesiologists",
+  "access_logs": {
+    "downloads": 0.06866,
+    "visitors": 0.06567,
+    "countries": 0.06269,
+    "days": 0.06567,
+    "months": 0.06269,
+    "n_articles_requested": 21,
+    "n_articles": 335
+  }
+}

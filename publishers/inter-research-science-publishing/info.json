@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Inter-Research Science Publishing",
+  "journals": 5,
+  "scihub": 2741,
+  "crossref_open_access": 172,
+  "crossref_active": 22164,
+  "crossref": 22164,
+  "coverage": 0.12366901,
+  "publisher_slug": "inter-research-science-publishing",
+  "access_logs": {
+    "downloads": 0.22205,
+    "visitors": 0.19044,
+    "countries": 0.13338,
+    "days": 0.17116,
+    "months": 0.13184,
+    "n_articles_requested": 102,
+    "n_articles": 1297
+  }
+}

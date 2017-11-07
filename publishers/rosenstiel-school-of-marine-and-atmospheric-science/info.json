@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Rosenstiel School of Marine and Atmospheric Science",
+  "journals": 1,
+  "scihub": 327,
+  "crossref_open_access": 0,
+  "crossref_active": 398,
+  "crossref": 398,
+  "coverage": 0.82160804,
+  "publisher_slug": "rosenstiel-school-of-marine-and-atmospheric-science",
+  "access_logs": {
+    "downloads": 0.56667,
+    "visitors": 0.53333,
+    "countries": 0.43333,
+    "days": 0.53333,
+    "months": 0.42222,
+    "n_articles_requested": 26,
+    "n_articles": 90
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Brazilian Society of Chemical Engineering",
+  "journals": 1,
+  "scihub": 30,
+  "crossref_open_access": 1195,
+  "crossref_active": 1195,
+  "crossref": 1195,
+  "coverage": 0.0251046,
+  "publisher_slug": "brazilian-society-of-chemical-engineering",
+  "access_logs": {
+    "downloads": 0.04132,
+    "visitors": 0.03306,
+    "countries": 0.03306,
+    "days": 0.03306,
+    "months": 0.03306,
+    "n_articles_requested": 3,
+    "n_articles": 121
+  }
+}

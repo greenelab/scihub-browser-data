@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Ashley Publications Ltd.",
+  "journals": 2,
+  "scihub": 2645,
+  "crossref_open_access": 0,
+  "crossref_active": 2602,
+  "crossref": 2700,
+  "coverage": 0.97962963,
+  "publisher_slug": "ashley-publications-ltd",
+  "access_logs": {
+    "downloads": 2.4024,
+    "visitors": 2.128,
+    "countries": 1.6037,
+    "days": 2.0396,
+    "months": 1.4604,
+    "n_articles_requested": 211,
+    "n_articles": 328
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Environmental and Engineering Geophysical Society (EEGS)",
+  "journals": 1,
+  "scihub": 319,
+  "crossref_open_access": 0,
+  "crossref_active": 564,
+  "crossref": 564,
+  "coverage": 0.56560284,
+  "publisher_slug": "environmental-and-engineering-geophysical-society-eegs",
+  "access_logs": {
+    "downloads": 0.40385,
+    "visitors": 0.38462,
+    "countries": 0.36538,
+    "days": 0.40385,
+    "months": 0.36538,
+    "n_articles_requested": 13,
+    "n_articles": 52
+  }
+}

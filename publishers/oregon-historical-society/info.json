@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Oregon Historical Society",
+  "journals": 1,
+  "scihub": 537,
+  "crossref_open_access": 0,
+  "crossref_active": 671,
+  "crossref": 671,
+  "coverage": 0.80029806,
+  "publisher_slug": "oregon-historical-society",
+  "access_logs": {
+    "downloads": 0.02424,
+    "visitors": 0.02424,
+    "countries": 0.02424,
+    "days": 0.02424,
+    "months": 0.02424,
+    "n_articles_requested": 3,
+    "n_articles": 165
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Kansas Entomological Society",
+  "journals": 1,
+  "scihub": 619,
+  "crossref_open_access": 0,
+  "crossref_active": 623,
+  "crossref": 623,
+  "coverage": 0.99357945,
+  "publisher_slug": "kansas-entomological-society",
+  "access_logs": {
+    "downloads": 2.2323,
+    "visitors": 2.1818,
+    "countries": 1.404,
+    "days": 2.0202,
+    "months": 0.88889,
+    "n_articles_requested": 58,
+    "n_articles": 99
+  }
+}

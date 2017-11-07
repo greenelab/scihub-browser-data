@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Forensic Science Society",
+  "journals": 2,
+  "scihub": 4192,
+  "crossref_open_access": 0,
+  "crossref_active": 1674,
+  "crossref": 4206,
+  "coverage": 0.99667142,
+  "publisher_slug": "forensic-science-society",
+  "access_logs": {
+    "downloads": 1.0696,
+    "visitors": 0.93671,
+    "countries": 0.79747,
+    "days": 0.91139,
+    "months": 0.75949,
+    "n_articles_requested": 69,
+    "n_articles": 158
+  }
+}

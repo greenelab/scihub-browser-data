@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Bloomsbury Qatar Foundation Journals",
+  "journals": 1,
+  "scihub": 144,
+  "crossref_open_access": 240,
+  "crossref_active": 240,
+  "crossref": 240,
+  "coverage": 0.6,
+  "publisher_slug": "bloomsbury-qatar-foundation-journals",
+  "access_logs": {
+    "downloads": 0.07843,
+    "visitors": 0.07843,
+    "countries": 0.06863,
+    "days": 0.06863,
+    "months": 0.06863,
+    "n_articles_requested": 6,
+    "n_articles": 102
+  }
+}

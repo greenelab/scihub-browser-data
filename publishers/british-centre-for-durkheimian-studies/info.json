@@ -1,0 +1,19 @@
+{
+  "publisher_name": "British Centre for Durkheimian Studies",
+  "journals": 1,
+  "scihub": 40,
+  "crossref_open_access": 0,
+  "crossref_active": 141,
+  "crossref": 141,
+  "coverage": 0.28368794,
+  "publisher_slug": "british-centre-for-durkheimian-studies",
+  "access_logs": {
+    "downloads": 0.14286,
+    "visitors": 0.14286,
+    "countries": 0.14286,
+    "days": 0.14286,
+    "months": 0.14286,
+    "n_articles_requested": 2,
+    "n_articles": 14
+  }
+}

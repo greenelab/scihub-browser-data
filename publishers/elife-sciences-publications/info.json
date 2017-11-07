@@ -1,0 +1,19 @@
+{
+  "publisher_name": "eLife Sciences Publications",
+  "journals": 1,
+  "scihub": 29,
+  "crossref_open_access": 3618,
+  "crossref_active": 3618,
+  "crossref": 3618,
+  "coverage": 0.00801548,
+  "publisher_slug": "elife-sciences-publications",
+  "access_logs": {
+    "downloads": 0.02548,
+    "visitors": 0.02388,
+    "countries": 0.01433,
+    "days": 0.02309,
+    "months": 0.01115,
+    "n_articles_requested": 7,
+    "n_articles": 1256
+  }
+}

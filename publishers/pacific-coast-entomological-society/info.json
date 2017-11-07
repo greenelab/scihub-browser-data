@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Pacific Coast Entomological Society",
+  "journals": 1,
+  "scihub": 380,
+  "crossref_open_access": 0,
+  "crossref_active": 410,
+  "crossref": 410,
+  "coverage": 0.92682927,
+  "publisher_slug": "pacific-coast-entomological-society",
+  "access_logs": {
+    "downloads": 0.54667,
+    "visitors": 0.52,
+    "countries": 0.50667,
+    "days": 0.52,
+    "months": 0.49333,
+    "n_articles_requested": 27,
+    "n_articles": 75
+  }
+}

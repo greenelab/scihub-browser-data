@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Wayne State University Press",
+  "journals": 8,
+  "scihub": 1136,
+  "crossref_open_access": 0,
+  "crossref_active": 2851,
+  "crossref": 2851,
+  "coverage": 0.39845668,
+  "publisher_slug": "wayne-state-university-press",
+  "access_logs": {
+    "downloads": 0.18421,
+    "visitors": 0.17464,
+    "countries": 0.16986,
+    "days": 0.16507,
+    "months": 0.14833,
+    "n_articles_requested": 51,
+    "n_articles": 418
+  }
+}

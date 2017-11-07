@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Marketing Association",
+  "journals": 4,
+  "scihub": 12112,
+  "crossref_open_access": 0,
+  "crossref_active": 12224,
+  "crossref": 12224,
+  "coverage": 0.9908377,
+  "publisher_slug": "american-marketing-association",
+  "access_logs": {
+    "downloads": 7.0316,
+    "visitors": 6.3913,
+    "countries": 4.0791,
+    "days": 5.8498,
+    "months": 2.7866,
+    "n_articles_requested": 207,
+    "n_articles": 253
+  }
+}

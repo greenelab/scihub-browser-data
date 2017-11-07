@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American College of Physicians",
+  "journals": 1,
+  "scihub": 7582,
+  "crossref_open_access": 0,
+  "crossref_active": 55117,
+  "crossref": 55117,
+  "coverage": 0.13756191,
+  "publisher_slug": "american-college-of-physicians",
+  "access_logs": {
+    "downloads": 0.55714,
+    "visitors": 0.50476,
+    "countries": 0.34762,
+    "days": 0.48016,
+    "months": 0.26984,
+    "n_articles_requested": 161,
+    "n_articles": 1260
+  }
+}

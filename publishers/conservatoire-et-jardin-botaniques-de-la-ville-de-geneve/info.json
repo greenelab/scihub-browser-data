@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Conservatoire et Jardin Botaniques de la Ville de Geneve",
+  "journals": 1,
+  "scihub": 282,
+  "crossref_open_access": 0,
+  "crossref_active": 306,
+  "crossref": 306,
+  "coverage": 0.92156863,
+  "publisher_slug": "conservatoire-et-jardin-botaniques-de-la-ville-de-geneve",
+  "access_logs": {
+    "downloads": 0.32609,
+    "visitors": 0.30435,
+    "countries": 0.28261,
+    "days": 0.30435,
+    "months": 0.28261,
+    "n_articles_requested": 10,
+    "n_articles": 46
+  }
+}

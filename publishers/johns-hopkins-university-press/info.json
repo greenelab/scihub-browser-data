@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Johns Hopkins University Press",
+  "journals": 54,
+  "scihub": 84674,
+  "crossref_open_access": 0,
+  "crossref_active": 135224,
+  "crossref": 135224,
+  "coverage": 0.62617583,
+  "publisher_slug": "johns-hopkins-university-press",
+  "access_logs": {
+    "downloads": 0.17356,
+    "visitors": 0.16201,
+    "countries": 0.14653,
+    "days": 0.15921,
+    "months": 0.13572,
+    "n_articles_requested": 576,
+    "n_articles": 5364
+  }
+}

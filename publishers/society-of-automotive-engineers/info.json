@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Society of Automotive Engineers",
+  "journals": 3,
+  "scihub": 53,
+  "crossref_open_access": 0,
+  "crossref_active": 842,
+  "crossref": 842,
+  "coverage": 0.06294537,
+  "publisher_slug": "society-of-automotive-engineers",
+  "access_logs": {
+    "downloads": 0.11712,
+    "visitors": 0.11712,
+    "countries": 0.10811,
+    "days": 0.11712,
+    "months": 0.11261,
+    "n_articles_requested": 19,
+    "n_articles": 222
+  }
+}

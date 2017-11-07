@@ -1,0 +1,19 @@
+{
+  "publisher_name": "British Veterinary Association",
+  "journals": 1,
+  "scihub": 19066,
+  "crossref_open_access": 0,
+  "crossref_active": 35424,
+  "crossref": 35424,
+  "coverage": 0.53822267,
+  "publisher_slug": "british-veterinary-association",
+  "access_logs": {
+    "downloads": 0.19663,
+    "visitors": 0.17823,
+    "countries": 0.15102,
+    "days": 0.16788,
+    "months": 0.14987,
+    "n_articles_requested": 298,
+    "n_articles": 2609
+  }
+}

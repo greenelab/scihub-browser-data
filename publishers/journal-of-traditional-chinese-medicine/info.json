@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Journal of traditional chinese medicine",
+  "journals": 1,
+  "scihub": 852,
+  "crossref_open_access": 0,
+  "crossref_active": 0,
+  "crossref": 891,
+  "coverage": 0.95622896,
+  "publisher_slug": "journal-of-traditional-chinese-medicine",
+  "access_logs": {
+    "downloads": 0.57672,
+    "visitors": 0.56614,
+    "countries": 0.48148,
+    "days": 0.51852,
+    "months": 0.42857,
+    "n_articles_requested": 63,
+    "n_articles": 189
+  }
+}

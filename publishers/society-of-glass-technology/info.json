@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Society of Glass Technology",
+  "journals": 2,
+  "scihub": 74,
+  "crossref_open_access": 0,
+  "crossref_active": 124,
+  "crossref": 124,
+  "coverage": 0.59677419,
+  "publisher_slug": "society-of-glass-technology",
+  "access_logs": {
+    "downloads": 0.28947,
+    "visitors": 0.26316,
+    "countries": 0.21053,
+    "days": 0.26316,
+    "months": 0.21053,
+    "n_articles_requested": 4,
+    "n_articles": 38
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "National Council of Teachers of Mathematics",
+  "journals": 1,
+  "scihub": 1271,
+  "crossref_open_access": 0,
+  "crossref_active": 1274,
+  "crossref": 1274,
+  "coverage": 0.99764521,
+  "publisher_slug": "national-council-of-teachers-of-mathematics",
+  "access_logs": {
+    "downloads": 0.67568,
+    "visitors": 0.64865,
+    "countries": 0.58108,
+    "days": 0.63514,
+    "months": 0.56757,
+    "n_articles_requested": 27,
+    "n_articles": 74
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Biological Society of Washington",
+  "journals": 2,
+  "scihub": 518,
+  "crossref_open_access": 0,
+  "crossref_active": 476,
+  "crossref": 533,
+  "coverage": 0.97185741,
+  "publisher_slug": "biological-society-of-washington",
+  "access_logs": {
+    "downloads": 0.44,
+    "visitors": 0.38667,
+    "countries": 0.36,
+    "days": 0.37333,
+    "months": 0.37333,
+    "n_articles_requested": 20,
+    "n_articles": 75
+  }
+}

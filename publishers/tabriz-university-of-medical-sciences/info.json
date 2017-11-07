@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Tabriz University of Medical Sciences",
+  "journals": 2,
+  "scihub": 25,
+  "crossref_open_access": 149,
+  "crossref_active": 149,
+  "crossref": 149,
+  "coverage": 0.16778523,
+  "publisher_slug": "tabriz-university-of-medical-sciences",
+  "access_logs": {
+    "downloads": 0.29545,
+    "visitors": 0.29545,
+    "countries": 0.25,
+    "days": 0.29545,
+    "months": 0.29545,
+    "n_articles_requested": 10,
+    "n_articles": 44
+  }
+}

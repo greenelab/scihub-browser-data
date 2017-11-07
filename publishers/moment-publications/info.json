@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Moment Publications",
+  "journals": 1,
+  "scihub": 10,
+  "crossref_open_access": 0,
+  "crossref_active": 489,
+  "crossref": 489,
+  "coverage": 0.0204499,
+  "publisher_slug": "moment-publications",
+  "access_logs": {
+    "downloads": 0.02941,
+    "visitors": 0.02941,
+    "countries": 0.02941,
+    "days": 0.02941,
+    "months": 0.02941,
+    "n_articles_requested": 3,
+    "n_articles": 136
+  }
+}

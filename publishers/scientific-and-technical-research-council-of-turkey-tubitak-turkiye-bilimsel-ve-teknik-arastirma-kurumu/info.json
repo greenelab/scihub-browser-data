@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Scientific and Technical research Council of Turkey - TUBITAK/Turkiye Bilimsel ve Teknik Arastirma Kurumu",
+  "journals": 12,
+  "scihub": 2325,
+  "crossref_open_access": 1248,
+  "crossref_active": 4644,
+  "crossref": 4692,
+  "coverage": 0.4955243,
+  "publisher_slug": "scientific-and-technical-research-council-of-turkey-tubitak-turkiye-bilimsel-ve-teknik-arastirma-kurumu",
+  "access_logs": {
+    "downloads": 0.03192,
+    "visitors": 0.02814,
+    "countries": 0.02436,
+    "days": 0.02898,
+    "months": 0.02604,
+    "n_articles_requested": 57,
+    "n_articles": 2381
+  }
+}

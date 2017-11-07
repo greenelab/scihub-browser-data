@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Mark Allen Publishing Ltd.",
+  "journals": 11,
+  "scihub": 18446,
+  "crossref_open_access": 0,
+  "crossref_active": 31226,
+  "crossref": 33767,
+  "coverage": 0.54627299,
+  "publisher_slug": "mark-allen-publishing-ltd",
+  "access_logs": {
+    "downloads": 0.42607,
+    "visitors": 0.37744,
+    "countries": 0.30764,
+    "days": 0.3652,
+    "months": 0.28349,
+    "n_articles_requested": 520,
+    "n_articles": 3023
+  }
+}

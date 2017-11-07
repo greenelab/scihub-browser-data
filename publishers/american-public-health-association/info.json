@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Public Health Association",
+  "journals": 2,
+  "scihub": 36296,
+  "crossref_open_access": 0,
+  "crossref_active": 19401,
+  "crossref": 37712,
+  "coverage": 0.96245227,
+  "publisher_slug": "american-public-health-association",
+  "access_logs": {
+    "downloads": 0.01336,
+    "visitors": 0.01336,
+    "countries": 0.01258,
+    "days": 0.01336,
+    "months": 0.01336,
+    "n_articles_requested": 11,
+    "n_articles": 1272
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "College of Humanities, University of Arizona",
+  "journals": 1,
+  "scihub": 30,
+  "crossref_open_access": 0,
+  "crossref_active": 47,
+  "crossref": 47,
+  "coverage": 0.63829787,
+  "publisher_slug": "college-of-humanities-university-of-arizona",
+  "access_logs": {
+    "downloads": 0.04348,
+    "visitors": 0.04348,
+    "countries": 0.04348,
+    "days": 0.04348,
+    "months": 0.04348,
+    "n_articles_requested": 1,
+    "n_articles": 23
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Peeters Publishers",
+  "journals": 29,
+  "scihub": 95,
+  "crossref_open_access": 0,
+  "crossref_active": 13508,
+  "crossref": 14506,
+  "coverage": 0.00654901,
+  "publisher_slug": "peeters-publishers",
+  "access_logs": {
+    "downloads": 0.15625,
+    "visitors": 0.15625,
+    "countries": 0.15625,
+    "days": 0.15625,
+    "months": 0.125,
+    "n_articles_requested": 2,
+    "n_articles": 32
+  }
+}

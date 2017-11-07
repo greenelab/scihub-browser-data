@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Geological Publishing House",
+  "journals": 1,
+  "scihub": 4033,
+  "crossref_open_access": 0,
+  "crossref_active": 0,
+  "crossref": 4199,
+  "coverage": 0.96046678,
+  "publisher_slug": "geological-publishing-house",
+  "access_logs": {
+    "downloads": 0.1581,
+    "visitors": 0.13468,
+    "countries": 0.1067,
+    "days": 0.12557,
+    "months": 0.11451,
+    "n_articles_requested": 138,
+    "n_articles": 1537
+  }
+}

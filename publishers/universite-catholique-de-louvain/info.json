@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Universite catholique de Louvain",
+  "journals": 2,
+  "scihub": 411,
+  "crossref_open_access": 0,
+  "crossref_active": 1344,
+  "crossref": 1344,
+  "coverage": 0.30580357,
+  "publisher_slug": "universite-catholique-de-louvain",
+  "access_logs": {
+    "downloads": 0.67742,
+    "visitors": 0.58065,
+    "countries": 0.54839,
+    "days": 0.58065,
+    "months": 0.30645,
+    "n_articles_requested": 19,
+    "n_articles": 62
+  }
+}

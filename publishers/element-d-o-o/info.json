@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Element d.o.o.",
+  "journals": 3,
+  "scihub": 15,
+  "crossref_open_access": 0,
+  "crossref_active": 2698,
+  "crossref": 2698,
+  "coverage": 0.00555967,
+  "publisher_slug": "element-d-o-o",
+  "access_logs": {
+    "downloads": 0.02593,
+    "visitors": 0.01852,
+    "countries": 0.00556,
+    "days": 0.01296,
+    "months": 0.00926,
+    "n_articles_requested": 2,
+    "n_articles": 540
+  }
+}

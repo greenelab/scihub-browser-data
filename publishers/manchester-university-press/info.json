@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Manchester University Press",
+  "journals": 2,
+  "scihub": 206,
+  "crossref_open_access": 0,
+  "crossref_active": 332,
+  "crossref": 453,
+  "coverage": 0.45474614,
+  "publisher_slug": "manchester-university-press",
+  "access_logs": {
+    "downloads": 0.0303,
+    "visitors": 0.0303,
+    "countries": 0.0303,
+    "days": 0.0303,
+    "months": 0.0303,
+    "n_articles_requested": 1,
+    "n_articles": 33
+  }
+}

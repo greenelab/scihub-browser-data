@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Accounting Association",
+  "journals": 13,
+  "scihub": 2181,
+  "crossref_open_access": 0,
+  "crossref_active": 5994,
+  "crossref": 5994,
+  "coverage": 0.36386386,
+  "publisher_slug": "american-accounting-association",
+  "access_logs": {
+    "downloads": 0.33584,
+    "visitors": 0.29367,
+    "countries": 0.17018,
+    "days": 0.25904,
+    "months": 0.17169,
+    "n_articles_requested": 56,
+    "n_articles": 664
+  }
+}

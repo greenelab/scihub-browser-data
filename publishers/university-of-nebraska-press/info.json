@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Nebraska Press",
+  "journals": 5,
+  "scihub": 1993,
+  "crossref_open_access": 0,
+  "crossref_active": 2521,
+  "crossref": 4225,
+  "coverage": 0.47171598,
+  "publisher_slug": "university-of-nebraska-press",
+  "access_logs": {
+    "downloads": 0.03125,
+    "visitors": 0.02604,
+    "countries": 0.02604,
+    "days": 0.02604,
+    "months": 0.02604,
+    "n_articles_requested": 9,
+    "n_articles": 384
+  }
+}

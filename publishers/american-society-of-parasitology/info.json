@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Society of Parasitology",
+  "journals": 1,
+  "scihub": 17573,
+  "crossref_open_access": 0,
+  "crossref_active": 17648,
+  "crossref": 17648,
+  "coverage": 0.99575023,
+  "publisher_slug": "american-society-of-parasitology",
+  "access_logs": {
+    "downloads": 1.6284,
+    "visitors": 1.4817,
+    "countries": 1.0734,
+    "days": 1.3991,
+    "months": 1.0459,
+    "n_articles_requested": 129,
+    "n_articles": 218
+  }
+}

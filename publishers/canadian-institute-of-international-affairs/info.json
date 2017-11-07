@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Canadian Institute of International Affairs",
+  "journals": 1,
+  "scihub": 6536,
+  "crossref_open_access": 0,
+  "crossref_active": 10385,
+  "crossref": 10385,
+  "coverage": 0.62936928,
+  "publisher_slug": "canadian-institute-of-international-affairs",
+  "access_logs": {
+    "downloads": 0.16667,
+    "visitors": 0.15741,
+    "countries": 0.11111,
+    "days": 0.14815,
+    "months": 0.10185,
+    "n_articles_requested": 11,
+    "n_articles": 108
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Leibniz Centre for Agricultural Landscape Research (ZALF)",
+  "journals": 1,
+  "scihub": 5,
+  "crossref_open_access": 21,
+  "crossref_active": 0,
+  "crossref": 21,
+  "coverage": 0.23809524,
+  "publisher_slug": "leibniz-centre-for-agricultural-landscape-research-zalf",
+  "access_logs": {
+    "downloads": 0.25,
+    "visitors": 0.25,
+    "countries": 0.25,
+    "days": 0.25,
+    "months": 0.25,
+    "n_articles_requested": 1,
+    "n_articles": 4
+  }
+}

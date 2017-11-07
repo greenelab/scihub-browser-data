@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Cleveland Clinic Educational Foundation",
+  "journals": 1,
+  "scihub": 123,
+  "crossref_open_access": 6282,
+  "crossref_active": 6282,
+  "crossref": 6282,
+  "coverage": 0.01957975,
+  "publisher_slug": "cleveland-clinic-educational-foundation",
+  "access_logs": {
+    "downloads": 0.04464,
+    "visitors": 0.04018,
+    "countries": 0.03125,
+    "days": 0.04018,
+    "months": 0.03125,
+    "n_articles_requested": 6,
+    "n_articles": 224
+  }
+}

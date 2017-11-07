@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Instituto Nacional de Cardiologia Ignazio Chavez",
+  "journals": 1,
+  "scihub": 6,
+  "crossref_open_access": 0,
+  "crossref_active": 343,
+  "crossref": 343,
+  "coverage": 0.01749271,
+  "publisher_slug": "instituto-nacional-de-cardiologia-ignazio-chavez",
+  "access_logs": {
+    "downloads": 0.00885,
+    "visitors": 0.00885,
+    "countries": 0.00885,
+    "days": 0.00885,
+    "months": 0.00885,
+    "n_articles_requested": 1,
+    "n_articles": 113
+  }
+}

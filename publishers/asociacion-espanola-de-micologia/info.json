@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Asociacion Espanola de Micologia",
+  "journals": 1,
+  "scihub": 653,
+  "crossref_open_access": 0,
+  "crossref_active": 661,
+  "crossref": 661,
+  "coverage": 0.98789713,
+  "publisher_slug": "asociacion-espanola-de-micologia",
+  "access_logs": {
+    "downloads": 5.4333,
+    "visitors": 4.9667,
+    "countries": 3.2333,
+    "days": 4.6333,
+    "months": 2.5111,
+    "n_articles_requested": 79,
+    "n_articles": 90
+  }
+}

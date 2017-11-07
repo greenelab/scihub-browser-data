@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Taiwan Institute of Chemical Engineers",
+  "journals": 1,
+  "scihub": 2186,
+  "crossref_open_access": 0,
+  "crossref_active": 2212,
+  "crossref": 2212,
+  "coverage": 0.98824593,
+  "publisher_slug": "taiwan-institute-of-chemical-engineers",
+  "access_logs": {
+    "downloads": 3.5874,
+    "visitors": 3.1481,
+    "countries": 2.1364,
+    "days": 3.0349,
+    "months": 1.98,
+    "n_articles_requested": 489,
+    "n_articles": 601
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Council for Social Development",
+  "journals": 1,
+  "scihub": 434,
+  "crossref_open_access": 0,
+  "crossref_active": 0,
+  "crossref": 681,
+  "coverage": 0.63729809,
+  "publisher_slug": "council-for-social-development",
+  "access_logs": {
+    "downloads": 0.22917,
+    "visitors": 0.19792,
+    "countries": 0.16667,
+    "days": 0.20833,
+    "months": 0.15625,
+    "n_articles_requested": 13,
+    "n_articles": 96
+  }
+}

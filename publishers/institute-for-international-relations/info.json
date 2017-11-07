@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Institute for International Relations",
+  "journals": 1,
+  "scihub": 8,
+  "crossref_open_access": 40,
+  "crossref_active": 40,
+  "crossref": 40,
+  "coverage": 0.2,
+  "publisher_slug": "institute-for-international-relations",
+  "access_logs": {
+    "downloads": 0.16,
+    "visitors": 0.16,
+    "countries": 0.12,
+    "days": 0.16,
+    "months": 0.16,
+    "n_articles_requested": 3,
+    "n_articles": 25
+  }
+}

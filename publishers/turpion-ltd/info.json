@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Turpion Ltd",
+  "journals": 3,
+  "scihub": 11356,
+  "crossref_open_access": 0,
+  "crossref_active": 11679,
+  "crossref": 11679,
+  "coverage": 0.97234352,
+  "publisher_slug": "turpion-ltd",
+  "access_logs": {
+    "downloads": 1.7686,
+    "visitors": 1.4767,
+    "countries": 0.90501,
+    "days": 1.475,
+    "months": 0.97755,
+    "n_articles_requested": 290,
+    "n_articles": 579
+  }
+}

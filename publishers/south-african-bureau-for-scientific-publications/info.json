@@ -1,0 +1,19 @@
+{
+  "publisher_name": "South African Bureau for Scientific Publications",
+  "journals": 5,
+  "scihub": 1747,
+  "crossref_open_access": 207,
+  "crossref_active": 1602,
+  "crossref": 2675,
+  "coverage": 0.65308411,
+  "publisher_slug": "south-african-bureau-for-scientific-publications",
+  "access_logs": {
+    "downloads": 0.21591,
+    "visitors": 0.1875,
+    "countries": 0.15909,
+    "days": 0.19886,
+    "months": 0.15909,
+    "n_articles_requested": 23,
+    "n_articles": 176
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Fundacio per la Universitat Oberta de Catalunya",
+  "journals": 2,
+  "scihub": 156,
+  "crossref_open_access": 511,
+  "crossref_active": 188,
+  "crossref": 511,
+  "coverage": 0.30528376,
+  "publisher_slug": "fundacio-per-la-universitat-oberta-de-catalunya",
+  "access_logs": {
+    "downloads": 0.04301,
+    "visitors": 0.04301,
+    "countries": 0.04301,
+    "days": 0.04301,
+    "months": 0.04301,
+    "n_articles_requested": 4,
+    "n_articles": 93
+  }
+}

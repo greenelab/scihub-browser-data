@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Entomological Society of America",
+  "journals": 2,
+  "scihub": 23282,
+  "crossref_open_access": 0,
+  "crossref_active": 23517,
+  "crossref": 23517,
+  "coverage": 0.99000723,
+  "publisher_slug": "entomological-society-of-america",
+  "access_logs": {
+    "downloads": 1.2806,
+    "visitors": 1.1144,
+    "countries": 0.81505,
+    "days": 1.0125,
+    "months": 0.80878,
+    "n_articles_requested": 310,
+    "n_articles": 638
+  }
+}

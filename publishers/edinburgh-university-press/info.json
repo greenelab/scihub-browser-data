@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Edinburgh University Press",
+  "journals": 22,
+  "scihub": 3297,
+  "crossref_open_access": 0,
+  "crossref_active": 17341,
+  "crossref": 17702,
+  "coverage": 0.18625014,
+  "publisher_slug": "edinburgh-university-press",
+  "access_logs": {
+    "downloads": 0.02407,
+    "visitors": 0.02329,
+    "countries": 0.02252,
+    "days": 0.02329,
+    "months": 0.02174,
+    "n_articles_requested": 27,
+    "n_articles": 1288
+  }
+}

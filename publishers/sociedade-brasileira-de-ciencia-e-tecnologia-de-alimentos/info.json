@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Sociedade Brasileira de Ciencia e Tecnologia de Alimentos",
+  "journals": 1,
+  "scihub": 35,
+  "crossref_open_access": 2487,
+  "crossref_active": 2487,
+  "crossref": 2487,
+  "coverage": 0.01407318,
+  "publisher_slug": "sociedade-brasileira-de-ciencia-e-tecnologia-de-alimentos",
+  "access_logs": {
+    "downloads": 0.02941,
+    "visitors": 0.02941,
+    "countries": 0.02353,
+    "days": 0.02941,
+    "months": 0.02353,
+    "n_articles_requested": 3,
+    "n_articles": 170
+  }
+}

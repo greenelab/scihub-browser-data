@@ -1,0 +1,19 @@
+{
+  "publisher_name": "British Institute of Radiology",
+  "journals": 3,
+  "scihub": 14049,
+  "crossref_open_access": 0,
+  "crossref_active": 28638,
+  "crossref": 29161,
+  "coverage": 0.4817736,
+  "publisher_slug": "british-institute-of-radiology",
+  "access_logs": {
+    "downloads": 1.5496,
+    "visitors": 1.4131,
+    "countries": 1.039,
+    "days": 1.2624,
+    "months": 0.95035,
+    "n_articles_requested": 283,
+    "n_articles": 564
+  }
+}

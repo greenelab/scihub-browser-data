@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Revista Latinoamericana De Psicologia",
+  "journals": 1,
+  "scihub": 84,
+  "crossref_open_access": 112,
+  "crossref_active": 112,
+  "crossref": 112,
+  "coverage": 0.75,
+  "publisher_slug": "revista-latinoamericana-de-psicologia",
+  "access_logs": {
+    "downloads": 0.44444,
+    "visitors": 0.38889,
+    "countries": 0.33333,
+    "days": 0.38889,
+    "months": 0.33333,
+    "n_articles_requested": 15,
+    "n_articles": 54
+  }
+}

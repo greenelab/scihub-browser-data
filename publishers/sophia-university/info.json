@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Sophia University",
+  "journals": 1,
+  "scihub": 3309,
+  "crossref_open_access": 0,
+  "crossref_active": 3826,
+  "crossref": 3826,
+  "coverage": 0.86487193,
+  "publisher_slug": "sophia-university",
+  "access_logs": {
+    "downloads": 0.0274,
+    "visitors": 0.0274,
+    "countries": 0.0274,
+    "days": 0.0274,
+    "months": 0.0274,
+    "n_articles_requested": 2,
+    "n_articles": 73
+  }
+}

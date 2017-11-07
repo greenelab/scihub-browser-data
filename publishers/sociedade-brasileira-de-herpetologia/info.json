@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Sociedade Brasileira de Herpetologia",
+  "journals": 1,
+  "scihub": 306,
+  "crossref_open_access": 0,
+  "crossref_active": 306,
+  "crossref": 306,
+  "coverage": 1.0,
+  "publisher_slug": "sociedade-brasileira-de-herpetologia",
+  "access_logs": {
+    "downloads": 5.2619,
+    "visitors": 4.6667,
+    "countries": 2.1429,
+    "days": 4.381,
+    "months": 2.4762,
+    "n_articles_requested": 36,
+    "n_articles": 42
+  }
+}

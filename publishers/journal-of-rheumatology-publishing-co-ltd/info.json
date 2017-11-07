@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Journal of Rheumatology Publishing Co., Ltd.",
+  "journals": 2,
+  "scihub": 3984,
+  "crossref_open_access": 0,
+  "crossref_active": 4052,
+  "crossref": 4052,
+  "coverage": 0.98321816,
+  "publisher_slug": "journal-of-rheumatology-publishing-co-ltd",
+  "access_logs": {
+    "downloads": 2.5545,
+    "visitors": 2.3945,
+    "countries": 1.9241,
+    "days": 2.1959,
+    "months": 1.5421,
+    "n_articles_requested": 540,
+    "n_articles": 725
+  }
+}

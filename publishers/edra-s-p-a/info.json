@@ -1,0 +1,19 @@
+{
+  "publisher_name": "EDRA S.p.A",
+  "journals": 1,
+  "scihub": 677,
+  "crossref_open_access": 0,
+  "crossref_active": 744,
+  "crossref": 744,
+  "coverage": 0.90994624,
+  "publisher_slug": "edra-s-p-a",
+  "access_logs": {
+    "downloads": 0.44037,
+    "visitors": 0.31193,
+    "countries": 0.27982,
+    "days": 0.30734,
+    "months": 0.27523,
+    "n_articles_requested": 48,
+    "n_articles": 218
+  }
+}

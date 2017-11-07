@@ -1,0 +1,19 @@
+{
+  "publisher_name": "ICE Publishing",
+  "journals": 22,
+  "scihub": 15571,
+  "crossref_open_access": 0,
+  "crossref_active": 17359,
+  "crossref": 17545,
+  "coverage": 0.88748931,
+  "publisher_slug": "ice-publishing",
+  "access_logs": {
+    "downloads": 0.43852,
+    "visitors": 0.33626,
+    "countries": 0.27729,
+    "days": 0.32999,
+    "months": 0.28607,
+    "n_articles_requested": 318,
+    "n_articles": 1594
+  }
+}

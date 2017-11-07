@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Warwick",
+  "journals": 1,
+  "scihub": 215,
+  "crossref_open_access": 0,
+  "crossref_active": 944,
+  "crossref": 944,
+  "coverage": 0.22775424,
+  "publisher_slug": "university-of-warwick",
+  "access_logs": {
+    "downloads": 0.04546,
+    "visitors": 0.03636,
+    "countries": 0.02727,
+    "days": 0.04546,
+    "months": 0.03636,
+    "n_articles_requested": 3,
+    "n_articles": 110
+  }
+}

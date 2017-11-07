@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Turk Patoloji Dernegi",
+  "journals": 1,
+  "scihub": 227,
+  "crossref_open_access": 476,
+  "crossref_active": 476,
+  "crossref": 476,
+  "coverage": 0.47689076,
+  "publisher_slug": "turk-patoloji-dernegi",
+  "access_logs": {
+    "downloads": 0.06542,
+    "visitors": 0.05608,
+    "countries": 0.05608,
+    "days": 0.05608,
+    "months": 0.05608,
+    "n_articles_requested": 5,
+    "n_articles": 107
+  }
+}

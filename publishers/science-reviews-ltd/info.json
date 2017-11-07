@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Science Reviews Ltd.",
+  "journals": 5,
+  "scihub": 5812,
+  "crossref_open_access": 0,
+  "crossref_active": 4907,
+  "crossref": 5994,
+  "coverage": 0.9696363,
+  "publisher_slug": "science-reviews-ltd",
+  "access_logs": {
+    "downloads": 2.1626,
+    "visitors": 1.8984,
+    "countries": 1.3841,
+    "days": 1.8028,
+    "months": 1.3455,
+    "n_articles_requested": 332,
+    "n_articles": 492
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Ferrata Storti Foundation",
+  "journals": 1,
+  "scihub": 2663,
+  "crossref_open_access": 3803,
+  "crossref_active": 3803,
+  "crossref": 3803,
+  "coverage": 0.70023666,
+  "publisher_slug": "ferrata-storti-foundation",
+  "access_logs": {
+    "downloads": 0.61008,
+    "visitors": 0.49916,
+    "countries": 0.41513,
+    "days": 0.47563,
+    "months": 0.41345,
+    "n_articles_requested": 172,
+    "n_articles": 595
+  }
+}

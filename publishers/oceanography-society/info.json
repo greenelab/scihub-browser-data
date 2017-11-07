@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Oceanography Society",
+  "journals": 1,
+  "scihub": 7,
+  "crossref_open_access": 0,
+  "crossref_active": 1893,
+  "crossref": 1893,
+  "coverage": 0.00369783,
+  "publisher_slug": "oceanography-society",
+  "access_logs": {
+    "downloads": 0.00602,
+    "visitors": 0.00602,
+    "countries": 0.00602,
+    "days": 0.00602,
+    "months": 0.00602,
+    "n_articles_requested": 1,
+    "n_articles": 166
+  }
+}

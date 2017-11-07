@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Gallaudet University Press",
+  "journals": 2,
+  "scihub": 227,
+  "crossref_open_access": 0,
+  "crossref_active": 3191,
+  "crossref": 3191,
+  "coverage": 0.07113757,
+  "publisher_slug": "gallaudet-university-press",
+  "access_logs": {
+    "downloads": 0.21429,
+    "visitors": 0.20635,
+    "countries": 0.1746,
+    "days": 0.19048,
+    "months": 0.15079,
+    "n_articles_requested": 15,
+    "n_articles": 126
+  }
+}

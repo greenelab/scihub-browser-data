@@ -1,0 +1,19 @@
+{
+  "publisher_name": "US National Marine Fisheries Services",
+  "journals": 2,
+  "scihub": 80,
+  "crossref_open_access": 0,
+  "crossref_active": 198,
+  "crossref": 198,
+  "coverage": 0.4040404,
+  "publisher_slug": "us-national-marine-fisheries-services",
+  "access_logs": {
+    "downloads": 0.02703,
+    "visitors": 0.02703,
+    "countries": 0.02703,
+    "days": 0.02703,
+    "months": 0.02703,
+    "n_articles_requested": 2,
+    "n_articles": 74
+  }
+}

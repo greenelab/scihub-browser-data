@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Antioch Review, Inc.",
+  "journals": 1,
+  "scihub": 6218,
+  "crossref_open_access": 0,
+  "crossref_active": 6503,
+  "crossref": 6503,
+  "coverage": 0.95617407,
+  "publisher_slug": "antioch-review-inc",
+  "access_logs": {
+    "downloads": 0.02527,
+    "visitors": 0.02527,
+    "countries": 0.02527,
+    "days": 0.02527,
+    "months": 0.02527,
+    "n_articles_requested": 7,
+    "n_articles": 277
+  }
+}

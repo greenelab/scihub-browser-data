@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Sears Foundation for Marine Research",
+  "journals": 1,
+  "scihub": 693,
+  "crossref_open_access": 0,
+  "crossref_active": 1237,
+  "crossref": 1237,
+  "coverage": 0.56022635,
+  "publisher_slug": "sears-foundation-for-marine-research",
+  "access_logs": {
+    "downloads": 0.16,
+    "visitors": 0.16,
+    "countries": 0.16,
+    "days": 0.16,
+    "months": 0.16,
+    "n_articles_requested": 4,
+    "n_articles": 25
+  }
+}

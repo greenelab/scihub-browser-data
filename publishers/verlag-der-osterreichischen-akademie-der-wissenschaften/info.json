@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Verlag der Osterreichischen Akademie der Wissenschaften",
+  "journals": 5,
+  "scihub": 112,
+  "crossref_open_access": 0,
+  "crossref_active": 805,
+  "crossref": 896,
+  "coverage": 0.125,
+  "publisher_slug": "verlag-der-osterreichischen-akademie-der-wissenschaften",
+  "access_logs": {
+    "downloads": 0.0,
+    "visitors": 0.0,
+    "countries": 0.0,
+    "days": 0.0,
+    "months": 0.0,
+    "n_articles_requested": 0,
+    "n_articles": 140
+  }
+}

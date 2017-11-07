@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Sociedade Portuguesa De Cardiologia",
+  "journals": 1,
+  "scihub": 972,
+  "crossref_open_access": 0,
+  "crossref_active": 1005,
+  "crossref": 1005,
+  "coverage": 0.96716418,
+  "publisher_slug": "sociedade-portuguesa-de-cardiologia",
+  "access_logs": {
+    "downloads": 0.30851,
+    "visitors": 0.2766,
+    "countries": 0.24468,
+    "days": 0.28369,
+    "months": 0.24823,
+    "n_articles_requested": 57,
+    "n_articles": 282
+  }
+}

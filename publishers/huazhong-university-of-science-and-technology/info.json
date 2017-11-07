@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Huazhong University of Science and Technology",
+  "journals": 3,
+  "scihub": 4223,
+  "crossref_open_access": 0,
+  "crossref_active": 3192,
+  "crossref": 4237,
+  "coverage": 0.99669578,
+  "publisher_slug": "huazhong-university-of-science-and-technology",
+  "access_logs": {
+    "downloads": 1.4605,
+    "visitors": 1.3588,
+    "countries": 1.0311,
+    "days": 1.2881,
+    "months": 1.0452,
+    "n_articles_requested": 216,
+    "n_articles": 354
+  }
+}

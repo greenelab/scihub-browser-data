@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Penn State University Press",
+  "journals": 14,
+  "scihub": 2968,
+  "crossref_open_access": 0,
+  "crossref_active": 5076,
+  "crossref": 5076,
+  "coverage": 0.58471237,
+  "publisher_slug": "penn-state-university-press",
+  "access_logs": {
+    "downloads": 0.07519,
+    "visitors": 0.07411,
+    "countries": 0.06767,
+    "days": 0.07304,
+    "months": 0.0666,
+    "n_articles_requested": 47,
+    "n_articles": 931
+  }
+}

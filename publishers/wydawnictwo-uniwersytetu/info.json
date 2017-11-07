@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Wydawnictwo Uniwersytetu",
+  "journals": 1,
+  "scihub": 53,
+  "crossref_open_access": 170,
+  "crossref_active": 170,
+  "crossref": 170,
+  "coverage": 0.31176471,
+  "publisher_slug": "wydawnictwo-uniwersytetu",
+  "access_logs": {
+    "downloads": 0.0,
+    "visitors": 0.0,
+    "countries": 0.0,
+    "days": 0.0,
+    "months": 0.0,
+    "n_articles_requested": 0,
+    "n_articles": 40
+  }
+}

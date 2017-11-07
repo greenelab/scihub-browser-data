@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Catholic University of America Press",
+  "journals": 1,
+  "scihub": 87,
+  "crossref_open_access": 0,
+  "crossref_active": 5460,
+  "crossref": 5460,
+  "coverage": 0.01593407,
+  "publisher_slug": "catholic-university-of-america-press",
+  "access_logs": {
+    "downloads": 0.01215,
+    "visitors": 0.0081,
+    "countries": 0.0081,
+    "days": 0.01012,
+    "months": 0.0081,
+    "n_articles_requested": 3,
+    "n_articles": 494
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "South African Medical Association",
+  "journals": 3,
+  "scihub": 54,
+  "crossref_open_access": 2924,
+  "crossref_active": 2924,
+  "crossref": 2924,
+  "coverage": 0.01846785,
+  "publisher_slug": "south-african-medical-association",
+  "access_logs": {
+    "downloads": 0.00149,
+    "visitors": 0.00149,
+    "countries": 0.00149,
+    "days": 0.00149,
+    "months": 0.00149,
+    "n_articles_requested": 1,
+    "n_articles": 670
+  }
+}

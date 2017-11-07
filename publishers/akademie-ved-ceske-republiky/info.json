@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Akademie Ved Ceske Republiky",
+  "journals": 8,
+  "scihub": 6445,
+  "crossref_open_access": 2695,
+  "crossref_active": 4890,
+  "crossref": 24079,
+  "coverage": 0.26766062,
+  "publisher_slug": "akademie-ved-ceske-republiky",
+  "access_logs": {
+    "downloads": 0.42176,
+    "visitors": 0.36066,
+    "countries": 0.29955,
+    "days": 0.35469,
+    "months": 0.29359,
+    "n_articles_requested": 126,
+    "n_articles": 671
+  }
+}

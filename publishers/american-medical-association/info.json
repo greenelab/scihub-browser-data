@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Medical Association",
+  "journals": 39,
+  "scihub": 394362,
+  "crossref_open_access": 0,
+  "crossref_active": 265131,
+  "crossref": 502482,
+  "coverage": 0.78482811,
+  "publisher_slug": "american-medical-association",
+  "access_logs": {
+    "downloads": 1.7821,
+    "visitors": 1.6153,
+    "countries": 1.0647,
+    "days": 1.3909,
+    "months": 0.81161,
+    "n_articles_requested": 3648,
+    "n_articles": 9151
+  }
+}

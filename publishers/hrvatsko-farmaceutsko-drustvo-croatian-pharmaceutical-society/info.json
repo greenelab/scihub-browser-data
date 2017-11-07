@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Hrvatsko Farmaceutsko Drustvo/Croatian Pharmaceutical Society",
+  "journals": 1,
+  "scihub": 289,
+  "crossref_open_access": 300,
+  "crossref_active": 300,
+  "crossref": 300,
+  "coverage": 0.96333333,
+  "publisher_slug": "hrvatsko-farmaceutsko-drustvo-croatian-pharmaceutical-society",
+  "access_logs": {
+    "downloads": 0.9,
+    "visitors": 0.8,
+    "countries": 0.75,
+    "days": 0.8,
+    "months": 0.7,
+    "n_articles_requested": 11,
+    "n_articles": 20
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Entomological Society",
+  "journals": 2,
+  "scihub": 932,
+  "crossref_open_access": 0,
+  "crossref_active": 943,
+  "crossref": 943,
+  "coverage": 0.9883351,
+  "publisher_slug": "american-entomological-society",
+  "access_logs": {
+    "downloads": 0.69748,
+    "visitors": 0.68067,
+    "countries": 0.60504,
+    "days": 0.64706,
+    "months": 0.59664,
+    "n_articles_requested": 49,
+    "n_articles": 119
+  }
+}

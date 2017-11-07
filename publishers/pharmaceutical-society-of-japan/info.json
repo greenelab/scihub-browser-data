@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Pharmaceutical Society of Japan",
+  "journals": 6,
+  "scihub": 43237,
+  "crossref_open_access": 0,
+  "crossref_active": 38135,
+  "crossref": 43537,
+  "coverage": 0.99310931,
+  "publisher_slug": "pharmaceutical-society-of-japan",
+  "access_logs": {
+    "downloads": 0.00078,
+    "visitors": 0.00078,
+    "countries": 0.00078,
+    "days": 0.00078,
+    "months": 0.00078,
+    "n_articles_requested": 1,
+    "n_articles": 1282
+  }
+}

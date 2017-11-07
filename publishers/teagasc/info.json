@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Teagasc",
+  "journals": 1,
+  "scihub": 10,
+  "crossref_open_access": 34,
+  "crossref_active": 34,
+  "crossref": 34,
+  "coverage": 0.29411765,
+  "publisher_slug": "teagasc",
+  "access_logs": {
+    "downloads": 0.06667,
+    "visitors": 0.06667,
+    "countries": 0.06667,
+    "days": 0.06667,
+    "months": 0.06667,
+    "n_articles_requested": 1,
+    "n_articles": 15
+  }
+}

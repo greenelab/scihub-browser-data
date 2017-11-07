@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Korean Society for Biochemistry and Molecular Biology",
+  "journals": 1,
+  "scihub": 11,
+  "crossref_open_access": 1792,
+  "crossref_active": 1792,
+  "crossref": 1792,
+  "coverage": 0.00613839,
+  "publisher_slug": "korean-society-for-biochemistry-and-molecular-biology",
+  "access_logs": {
+    "downloads": 0.01064,
+    "visitors": 0.01064,
+    "countries": 0.00532,
+    "days": 0.00532,
+    "months": 0.00532,
+    "n_articles_requested": 1,
+    "n_articles": 188
+  }
+}

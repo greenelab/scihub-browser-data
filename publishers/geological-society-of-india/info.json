@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Geological Society of India",
+  "journals": 1,
+  "scihub": 1432,
+  "crossref_open_access": 0,
+  "crossref_active": 1482,
+  "crossref": 1482,
+  "coverage": 0.96626181,
+  "publisher_slug": "geological-society-of-india",
+  "access_logs": {
+    "downloads": 0.41776,
+    "visitors": 0.37171,
+    "countries": 0.3125,
+    "days": 0.36184,
+    "months": 0.32237,
+    "n_articles_requested": 78,
+    "n_articles": 304
+  }
+}

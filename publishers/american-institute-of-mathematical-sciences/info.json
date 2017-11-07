@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Institute of Mathematical Sciences",
+  "journals": 14,
+  "scihub": 1316,
+  "crossref_open_access": 0,
+  "crossref_active": 10974,
+  "crossref": 10974,
+  "coverage": 0.11991981,
+  "publisher_slug": "american-institute-of-mathematical-sciences",
+  "access_logs": {
+    "downloads": 0.04136,
+    "visitors": 0.03791,
+    "countries": 0.03216,
+    "days": 0.03676,
+    "months": 0.03504,
+    "n_articles_requested": 55,
+    "n_articles": 1741
+  }
+}

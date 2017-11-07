@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Society of Economic Paleontologists and Mineralogists",
+  "journals": 1,
+  "scihub": 1938,
+  "crossref_open_access": 0,
+  "crossref_active": 2161,
+  "crossref": 2161,
+  "coverage": 0.89680703,
+  "publisher_slug": "society-of-economic-paleontologists-and-mineralogists",
+  "access_logs": {
+    "downloads": 1.2061,
+    "visitors": 1.0382,
+    "countries": 0.78626,
+    "days": 0.98473,
+    "months": 0.77863,
+    "n_articles_requested": 65,
+    "n_articles": 131
+  }
+}

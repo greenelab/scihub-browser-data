@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Universidade Estadual de Maringa",
+  "journals": 10,
+  "scihub": 498,
+  "crossref_open_access": 4482,
+  "crossref_active": 6250,
+  "crossref": 6703,
+  "coverage": 0.07429509,
+  "publisher_slug": "universidade-estadual-de-maringa",
+  "access_logs": {
+    "downloads": 0.00206,
+    "visitors": 0.00103,
+    "countries": 0.00103,
+    "days": 0.00103,
+    "months": 0.00103,
+    "n_articles_requested": 1,
+    "n_articles": 971
+  }
+}

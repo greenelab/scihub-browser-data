@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Egyptian Society of Cardiology",
+  "journals": 1,
+  "scihub": 394,
+  "crossref_open_access": 401,
+  "crossref_active": 401,
+  "crossref": 401,
+  "coverage": 0.98254364,
+  "publisher_slug": "egyptian-society-of-cardiology",
+  "access_logs": {
+    "downloads": 0.33333,
+    "visitors": 0.32051,
+    "countries": 0.30769,
+    "days": 0.3141,
+    "months": 0.29487,
+    "n_articles_requested": 38,
+    "n_articles": 156
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "China Ocean Press",
+  "journals": 1,
+  "scihub": 1456,
+  "crossref_open_access": 0,
+  "crossref_active": 1459,
+  "crossref": 1459,
+  "coverage": 0.9979438,
+  "publisher_slug": "china-ocean-press",
+  "access_logs": {
+    "downloads": 1.9457,
+    "visitors": 1.6467,
+    "countries": 1.2283,
+    "days": 1.6304,
+    "months": 1.1848,
+    "n_articles_requested": 120,
+    "n_articles": 184
+  }
+}

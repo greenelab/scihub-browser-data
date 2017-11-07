@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Association for Laboratory Automation",
+  "journals": 1,
+  "scihub": 1300,
+  "crossref_open_access": 0,
+  "crossref_active": 0,
+  "crossref": 1455,
+  "coverage": 0.89347079,
+  "publisher_slug": "association-for-laboratory-automation",
+  "access_logs": {
+    "downloads": 1.5426,
+    "visitors": 1.3953,
+    "countries": 1.093,
+    "days": 1.2946,
+    "months": 0.86047,
+    "n_articles_requested": 57,
+    "n_articles": 129
+  }
+}

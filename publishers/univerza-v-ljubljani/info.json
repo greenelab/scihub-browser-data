@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Univerza v Ljubljani",
+  "journals": 3,
+  "scihub": 323,
+  "crossref_open_access": 792,
+  "crossref_active": 1325,
+  "crossref": 1325,
+  "coverage": 0.24377358,
+  "publisher_slug": "univerza-v-ljubljani",
+  "access_logs": {
+    "downloads": 0.00602,
+    "visitors": 0.00602,
+    "countries": 0.00602,
+    "days": 0.00602,
+    "months": 0.00602,
+    "n_articles_requested": 1,
+    "n_articles": 166
+  }
+}

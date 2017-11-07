@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Universitet of Nis",
+  "journals": 1,
+  "scihub": 17,
+  "crossref_open_access": 1397,
+  "crossref_active": 1397,
+  "crossref": 1397,
+  "coverage": 0.01216893,
+  "publisher_slug": "universitet-of-nis",
+  "access_logs": {
+    "downloads": 0.00693,
+    "visitors": 0.00693,
+    "countries": 0.00462,
+    "days": 0.00693,
+    "months": 0.00693,
+    "n_articles_requested": 2,
+    "n_articles": 433
+  }
+}

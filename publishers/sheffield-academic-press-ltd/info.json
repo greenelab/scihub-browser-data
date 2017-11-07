@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Sheffield Academic Press Ltd",
+  "journals": 1,
+  "scihub": 66,
+  "crossref_open_access": 0,
+  "crossref_active": 393,
+  "crossref": 393,
+  "coverage": 0.16793893,
+  "publisher_slug": "sheffield-academic-press-ltd",
+  "access_logs": {
+    "downloads": 0.04762,
+    "visitors": 0.04762,
+    "countries": 0.04762,
+    "days": 0.04762,
+    "months": 0.04762,
+    "n_articles_requested": 1,
+    "n_articles": 21
+  }
+}

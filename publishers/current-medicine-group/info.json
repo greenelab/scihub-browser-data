@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Current Medicine Group",
+  "journals": 5,
+  "scihub": 2220,
+  "crossref_open_access": 0,
+  "crossref_active": 2268,
+  "crossref": 2268,
+  "coverage": 0.97883598,
+  "publisher_slug": "current-medicine-group",
+  "access_logs": {
+    "downloads": 0.71694,
+    "visitors": 0.66125,
+    "countries": 0.58701,
+    "days": 0.63573,
+    "months": 0.55916,
+    "n_articles_requested": 162,
+    "n_articles": 431
+  }
+}

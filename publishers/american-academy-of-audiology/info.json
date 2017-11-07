@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Academy of Audiology",
+  "journals": 1,
+  "scihub": 973,
+  "crossref_open_access": 0,
+  "crossref_active": 1066,
+  "crossref": 1066,
+  "coverage": 0.91275797,
+  "publisher_slug": "american-academy-of-audiology",
+  "access_logs": {
+    "downloads": 0.60625,
+    "visitors": 0.55625,
+    "countries": 0.45625,
+    "days": 0.46875,
+    "months": 0.38125,
+    "n_articles_requested": 39,
+    "n_articles": 160
+  }
+}

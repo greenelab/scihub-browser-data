@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Fakulteta za Organizacijske Vede, Univerza v Mariboru",
+  "journals": 1,
+  "scihub": 77,
+  "crossref_open_access": 0,
+  "crossref_active": 144,
+  "crossref": 144,
+  "coverage": 0.53472222,
+  "publisher_slug": "fakulteta-za-organizacijske-vede-univerza-v-mariboru",
+  "access_logs": {
+    "downloads": 0.5,
+    "visitors": 0.5,
+    "countries": 0.5,
+    "days": 0.5,
+    "months": 0.5,
+    "n_articles_requested": 2,
+    "n_articles": 6
+  }
+}

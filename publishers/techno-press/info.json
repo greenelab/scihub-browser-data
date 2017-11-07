@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Techno Press",
+  "journals": 7,
+  "scihub": 165,
+  "crossref_open_access": 0,
+  "crossref_active": 4283,
+  "crossref": 4283,
+  "coverage": 0.0385244,
+  "publisher_slug": "techno-press",
+  "access_logs": {
+    "downloads": 0.02477,
+    "visitors": 0.02202,
+    "countries": 0.01743,
+    "days": 0.0211,
+    "months": 0.01927,
+    "n_articles_requested": 19,
+    "n_articles": 1090
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Instituto Nacional de Salud",
+  "journals": 3,
+  "scihub": 11,
+  "crossref_open_access": 4663,
+  "crossref_active": 4663,
+  "crossref": 4663,
+  "coverage": 0.002359,
+  "publisher_slug": "instituto-nacional-de-salud",
+  "access_logs": {
+    "downloads": 0.00276,
+    "visitors": 0.00276,
+    "countries": 0.00276,
+    "days": 0.00276,
+    "months": 0.00276,
+    "n_articles_requested": 1,
+    "n_articles": 362
+  }
+}

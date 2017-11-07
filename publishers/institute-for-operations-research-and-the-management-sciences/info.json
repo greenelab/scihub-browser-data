@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Institute for Operations Research and the Management Sciences",
+  "journals": 11,
+  "scihub": 26645,
+  "crossref_open_access": 3525,
+  "crossref_active": 29091,
+  "crossref": 29091,
+  "coverage": 0.91591901,
+  "publisher_slug": "institute-for-operations-research-and-the-management-sciences",
+  "access_logs": {
+    "downloads": 1.9612,
+    "visitors": 1.7733,
+    "countries": 1.1708,
+    "days": 1.6689,
+    "months": 1.2125,
+    "n_articles_requested": 886,
+    "n_articles": 1341
+  }
+}

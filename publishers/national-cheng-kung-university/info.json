@@ -1,0 +1,19 @@
+{
+  "publisher_name": "National Cheng Kung University",
+  "journals": 1,
+  "scihub": 75,
+  "crossref_open_access": 0,
+  "crossref_active": 80,
+  "crossref": 80,
+  "coverage": 0.9375,
+  "publisher_slug": "national-cheng-kung-university",
+  "access_logs": {
+    "downloads": 3.5385,
+    "visitors": 3.4615,
+    "countries": 1.5385,
+    "days": 3.2308,
+    "months": 1.8462,
+    "n_articles_requested": 9,
+    "n_articles": 13
+  }
+}

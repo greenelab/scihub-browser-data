@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Canadian Association of Slavists",
+  "journals": 1,
+  "scihub": 630,
+  "crossref_open_access": 0,
+  "crossref_active": 0,
+  "crossref": 1867,
+  "coverage": 0.33743974,
+  "publisher_slug": "canadian-association-of-slavists",
+  "access_logs": {
+    "downloads": 0.27869,
+    "visitors": 0.2623,
+    "countries": 0.22951,
+    "days": 0.27869,
+    "months": 0.2623,
+    "n_articles_requested": 11,
+    "n_articles": 61
+  }
+}

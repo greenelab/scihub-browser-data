@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Natural Sciences Publishing Corporation",
+  "journals": 1,
+  "scihub": 24,
+  "crossref_open_access": 0,
+  "crossref_active": 1304,
+  "crossref": 1304,
+  "coverage": 0.01840491,
+  "publisher_slug": "natural-sciences-publishing-corporation",
+  "access_logs": {
+    "downloads": 0.00526,
+    "visitors": 0.00526,
+    "countries": 0.00526,
+    "days": 0.00526,
+    "months": 0.00526,
+    "n_articles_requested": 3,
+    "n_articles": 570
+  }
+}

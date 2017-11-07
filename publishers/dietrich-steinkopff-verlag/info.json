@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Dietrich Steinkopff Verlag",
+  "journals": 20,
+  "scihub": 52993,
+  "crossref_open_access": 0,
+  "crossref_active": 47925,
+  "crossref": 54828,
+  "coverage": 0.9665317,
+  "publisher_slug": "dietrich-steinkopff-verlag",
+  "access_logs": {
+    "downloads": 1.1589,
+    "visitors": 1.0447,
+    "countries": 0.86093,
+    "days": 1.0208,
+    "months": 0.78435,
+    "n_articles_requested": 1323,
+    "n_articles": 2977
+  }
+}

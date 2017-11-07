@@ -1,0 +1,19 @@
+{
+  "publisher_name": "A.D.A.C.",
+  "journals": 3,
+  "scihub": 763,
+  "crossref_open_access": 0,
+  "crossref_active": 865,
+  "crossref": 865,
+  "coverage": 0.88208092,
+  "publisher_slug": "a-d-a-c",
+  "access_logs": {
+    "downloads": 0.86577,
+    "visitors": 0.72483,
+    "countries": 0.54362,
+    "days": 0.68456,
+    "months": 0.55034,
+    "n_articles_requested": 55,
+    "n_articles": 149
+  }
+}

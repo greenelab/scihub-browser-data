@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Association for the Sociology of Religion",
+  "journals": 1,
+  "scihub": 1758,
+  "crossref_open_access": 0,
+  "crossref_active": 1815,
+  "crossref": 1815,
+  "coverage": 0.96859504,
+  "publisher_slug": "association-for-the-sociology-of-religion",
+  "access_logs": {
+    "downloads": 0.51852,
+    "visitors": 0.48889,
+    "countries": 0.45926,
+    "days": 0.48148,
+    "months": 0.47407,
+    "n_articles_requested": 51,
+    "n_articles": 135
+  }
+}

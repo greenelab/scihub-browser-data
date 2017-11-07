@@ -1,0 +1,19 @@
+{
+  "publisher_name": "VS Verlag fur Sozialwissenschaften",
+  "journals": 4,
+  "scihub": 3997,
+  "crossref_open_access": 0,
+  "crossref_active": 4620,
+  "crossref": 4620,
+  "coverage": 0.86515152,
+  "publisher_slug": "vs-verlag-fur-sozialwissenschaften",
+  "access_logs": {
+    "downloads": 0.09342,
+    "visitors": 0.08493,
+    "countries": 0.07643,
+    "days": 0.08493,
+    "months": 0.07643,
+    "n_articles_requested": 31,
+    "n_articles": 471
+  }
+}

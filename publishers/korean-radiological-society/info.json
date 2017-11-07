@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Korean Radiological Society",
+  "journals": 1,
+  "scihub": 11,
+  "crossref_open_access": 1545,
+  "crossref_active": 1545,
+  "crossref": 1545,
+  "coverage": 0.00711974,
+  "publisher_slug": "korean-radiological-society",
+  "access_logs": {
+    "downloads": 0.00356,
+    "visitors": 0.00356,
+    "countries": 0.00356,
+    "days": 0.00356,
+    "months": 0.00356,
+    "n_articles_requested": 1,
+    "n_articles": 281
+  }
+}

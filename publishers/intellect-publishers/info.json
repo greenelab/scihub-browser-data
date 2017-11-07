@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Intellect Publishers",
+  "journals": 32,
+  "scihub": 6861,
+  "crossref_open_access": 0,
+  "crossref_active": 7419,
+  "crossref": 7555,
+  "coverage": 0.9081403,
+  "publisher_slug": "intellect-publishers",
+  "access_logs": {
+    "downloads": 0.08844,
+    "visitors": 0.08248,
+    "countries": 0.07653,
+    "days": 0.07908,
+    "months": 0.07398,
+    "n_articles_requested": 77,
+    "n_articles": 1176
+  }
+}

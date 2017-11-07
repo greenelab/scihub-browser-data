@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Adelaide",
+  "journals": 2,
+  "scihub": 1062,
+  "crossref_open_access": 0,
+  "crossref_active": 515,
+  "crossref": 1254,
+  "coverage": 0.84688995,
+  "publisher_slug": "university-of-adelaide",
+  "access_logs": {
+    "downloads": 0.98182,
+    "visitors": 0.96364,
+    "countries": 0.94545,
+    "days": 0.96364,
+    "months": 0.83636,
+    "n_articles_requested": 34,
+    "n_articles": 55
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Alexandria University",
+  "journals": 1,
+  "scihub": 875,
+  "crossref_open_access": 903,
+  "crossref_active": 903,
+  "crossref": 903,
+  "coverage": 0.96899225,
+  "publisher_slug": "alexandria-university",
+  "access_logs": {
+    "downloads": 2.6667,
+    "visitors": 2.4593,
+    "countries": 1.6074,
+    "days": 2.3185,
+    "months": 1.6519,
+    "n_articles_requested": 101,
+    "n_articles": 135
+  }
+}

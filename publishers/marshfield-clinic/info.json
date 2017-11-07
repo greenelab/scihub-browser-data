@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Marshfield Clinic",
+  "journals": 1,
+  "scihub": 1370,
+  "crossref_open_access": 1392,
+  "crossref_active": 1392,
+  "crossref": 1392,
+  "coverage": 0.9841954,
+  "publisher_slug": "marshfield-clinic",
+  "access_logs": {
+    "downloads": 0.05096,
+    "visitors": 0.05096,
+    "countries": 0.04459,
+    "days": 0.05096,
+    "months": 0.05096,
+    "n_articles_requested": 7,
+    "n_articles": 157
+  }
+}

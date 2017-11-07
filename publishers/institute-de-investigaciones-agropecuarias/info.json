@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Institute de Investigaciones Agropecuarias",
+  "journals": 2,
+  "scihub": 138,
+  "crossref_open_access": 631,
+  "crossref_active": 631,
+  "crossref": 1029,
+  "coverage": 0.13411079,
+  "publisher_slug": "institute-de-investigaciones-agropecuarias",
+  "access_logs": {
+    "downloads": 0.0354,
+    "visitors": 0.0354,
+    "countries": 0.0354,
+    "days": 0.0354,
+    "months": 0.0354,
+    "n_articles_requested": 4,
+    "n_articles": 113
+  }
+}

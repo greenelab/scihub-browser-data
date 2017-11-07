@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Universidad Nacional Autonoma de Mexico",
+  "journals": 16,
+  "scihub": 5456,
+  "crossref_open_access": 6437,
+  "crossref_active": 8541,
+  "crossref": 8541,
+  "coverage": 0.63880108,
+  "publisher_slug": "universidad-nacional-autonoma-de-mexico",
+  "access_logs": {
+    "downloads": 0.31258,
+    "visitors": 0.27961,
+    "countries": 0.2442,
+    "days": 0.2674,
+    "months": 0.23932,
+    "n_articles_requested": 153,
+    "n_articles": 819
+  }
+}

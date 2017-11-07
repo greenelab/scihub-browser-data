@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Societa Speleologica Italiana",
+  "journals": 1,
+  "scihub": 99,
+  "crossref_open_access": 753,
+  "crossref_active": 753,
+  "crossref": 753,
+  "coverage": 0.1314741,
+  "publisher_slug": "societa-speleologica-italiana",
+  "access_logs": {
+    "downloads": 0.04348,
+    "visitors": 0.04348,
+    "countries": 0.04348,
+    "days": 0.04348,
+    "months": 0.04348,
+    "n_articles_requested": 2,
+    "n_articles": 46
+  }
+}

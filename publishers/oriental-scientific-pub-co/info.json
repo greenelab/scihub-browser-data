@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Oriental Scientific Pub. Co.",
+  "journals": 3,
+  "scihub": 8,
+  "crossref_open_access": 2518,
+  "crossref_active": 977,
+  "crossref": 2623,
+  "coverage": 0.00304994,
+  "publisher_slug": "oriental-scientific-pub-co",
+  "access_logs": {
+    "downloads": 0.00122,
+    "visitors": 0.00122,
+    "countries": 0.00122,
+    "days": 0.00122,
+    "months": 0.00122,
+    "n_articles_requested": 1,
+    "n_articles": 820
+  }
+}

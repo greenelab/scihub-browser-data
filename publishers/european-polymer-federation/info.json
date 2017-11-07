@@ -1,0 +1,19 @@
+{
+  "publisher_name": "European Polymer Federation",
+  "journals": 1,
+  "scihub": 959,
+  "crossref_open_access": 1435,
+  "crossref_active": 1435,
+  "crossref": 1435,
+  "coverage": 0.66829268,
+  "publisher_slug": "european-polymer-federation",
+  "access_logs": {
+    "downloads": 2.7143,
+    "visitors": 2.3571,
+    "countries": 1.5159,
+    "days": 2.1667,
+    "months": 1.5873,
+    "n_articles_requested": 83,
+    "n_articles": 126
+  }
+}

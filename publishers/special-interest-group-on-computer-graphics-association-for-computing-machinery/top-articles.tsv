@@ -1,0 +1,69 @@
+doi	title	authors	title_name	year	downloads	visitors	countries
+10.1145/2666356.2594299	FlowDroid	Steven Arzt, Siegfried Rasthofer, Christian Fritz, Eric Bodden, Alexandre Bartel, Jacques Klein, Yves Le Traon, Damien Octeau, Patrick McDaniel	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	5	5	4
+10.1145/2582193.2633447	BCI Promises in Emotional Involvement in Music and Games	Raffaella Folgieri, Roberto Zampolini	Computers in Entertainment	2015	3	3	2
+10.1145/2775054.2694347	Sirius	Johann Hauswald, Lingjia Tang, Jason Mars, Michael A. Laurenzano, Yunqi Zhang, Cheng Li, Austin Rovinski, Arjun Khurana, Ronald G. Dreslinski, Trevor Mudge, Vinicius Petrucci	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2015	3	3	3
+10.1145/2666356.2594315	Maximal sound predictive race detection with control flow abstraction	Jeff Huang, Patrick O'Neil Meredith, Grigore Rosu	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	2	2	1
+10.1145/2692916.2555259	Time-warp	Nuno Diegues, Paolo Romano	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	2	2	1
+10.1145/2692916.2555273	Lock contention aware thread migrations	Kishore Kumar Pusukuri, Rajiv Gupta, Laxmi Narayan Bhuyan	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	2	2	2
+10.1145/2692916.2555283	Optimistic transactional boosting	Ahmed Hassan, Roberto Palmieri, Binoy Ravindran	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	2	2	2
+10.1145/2701657.2701653	Improving Gameplay in First Person 3-D Games using Multiple Displays	Fernando Roman, Anderson Maciel, Luciana Nedel	Computers in Entertainment	2015	2	2	2
+10.1145/2702109.2633407	Plot Generation with Character-Based Decisions	Simone D. J. Barbosa, Fabio A. Guilherme Da Silva, Antonio L. Furtado, Marco A. Casanova	Computers in Entertainment	2015	6	2	2
+10.1145/2775054.2694358	PuDianNao	Daofu Liu, Tianshi Chen, Shaoli Liu, Jinhong Zhou, Shengyuan Zhou, Olivier Teman, Xiaobing Feng, Xuehai Zhou, Yunji Chen	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2015	3	2	2
+10.1145/2775054.2694381	Page Placement Strategies for GPUs within Heterogeneous Memory Systems	Neha Agarwal, David Nellans, Mark Stephenson, Mike O'Connor, Stephen W. Keckler	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2015	2	2	2
+10.1145/2817817.2731196	Exploring VM Introspection	Sahil Suneja, Canturk Isci, Eyal de Lara, Vasanth Bala	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2015	2	2	2
+10.1145/2543698.2543699	Design Guidelines for Multiplayer Video Games on Multi-touch Displays	Khairi Reda, Dennis Chau, Yasser Mostafa, Nagarajan Sujatha, Jason Leigh, Arthur Nishimoto, Edward Kahler, Jason Demeter	Computers in Entertainment	2014	1	1	1
+10.1145/2582193.2633445	Online Games	Tsung Teng Chen	Computers in Entertainment	2015	1	1	1
+10.1145/2637365.2517214	Using document-oriented GUIs in dynamic software product lines	Dean Kramer, Samia Oussena, Peter Komisarczuk, Tony Clark	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2637365.2517218	Supporting large scale model transformation reuse	Fábio Paulo Basso, Raquel Mainardi Pillat, Toacy Cavalcante Oliveira, Leandro Buss Becker	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2637365.2517226	Declarative visitors to ease fine-grained source code mining with full history on billions of AST nodes	Robert Dyer, Hridesh Rajan, Tien N. Nguyen	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2637365.2517229	Modeling biology with solver-aided programming languages	Rastislav Bodik	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2641638.2641644	SIGPLAN awards	Derek Dreyer	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	0
+10.1145/2666356.2594305	Consolidation of queries with user-defined functions	Marcelo Sousa, Isil Dillig, Dimitrios Vytiniotis, Thomas Dillig, Christos Gkantsidis	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	0
+10.1145/2666356.2594306	Globally precise-restartable execution of parallel programs	Gagan Gupta, Srinath Sridharan, Gurindar S. Sohi	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2666356.2594311	Race detection for Android applications	Pallavi Maiya, Aditya Kanade, Rupak Majumdar	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2666356.2594317	VeriCon	Thomas Ball, Nikolaj Bjørner, Aaron Gember, Shachar Itzhaky, Aleksandr Karbyshev, Mooly Sagiv, Michael Schapira, Asaf Valadarsky	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2666356.2594330	Race detection for event-driven mobile applications	Chun-Hung Hsiao, Jie Yu, Satish Narayanasamy, Ziyun Kong, Cristiano L. Pereira, Gilles A. Pokam, Peter M. Chen, Jason Flinn	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	3	1	1
+10.1145/2674025.2576197	Ginseng	Orna Agmon Ben-Yehuda, Eyal Posener, Muli Ben-Yehuda, Assaf Schuster, Ahuva Mu'alem	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2674025.2576213	DBILL	Yi-Hong Lyu, Ding-Yong Hong, Tai-Yi Wu, Jan-Jan Wu, Wei-Chung Hsu, Pangfeng Liu, Pen-Chung Yew	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2692915.2628165	Using formal methods to enable more secure vehicles	Kathleen Fisher	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2692916.2555244	PREDATOR	Tongping Liu, Chen Tian, Ziang Hu, Emery D. Berger	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2692916.2555248	Resilient X10	David Cunningham, David Grove, Benjamin Herta, Arun Iyengar, Kiyokuni Kawachiya, Hiroki Murata, Vijay Saraswat, Mikio Takeuchi, Olivier Tardieu	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2692916.2555250	Revisiting loop fusion in the polyhedral framework	Sanyam Mehta, Pei-Hung Lin, Pen-Chung Yew	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2692916.2555253	A decomposition for in-place matrix transposition	Bryan Catanzaro, Alexander Keller, Michael Garland	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2692916.2555254	CUDA-NP	Yi Yang, Huiyang Zhou	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2692916.2555258	Singe	Michael Bauer, Sean Treichler, Alex Aiken	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2692916.2555263	Race directed scheduling of concurrent programs	Mahdi Eslamimehr, Jens Palsberg	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2692916.2555264	Parallelizing dynamic programming through rank convergence	Saeed Maleki, Madanlal Musuvathi, Todd Mytkowicz	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2692916.2555265	Efficient search for inputs causing high floating-point errors	Wei-Fan Chiang, Ganesh Gopalakrishnan, Zvonimir Rakamaric, Alexey Solovyev	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2692916.2555268	Triolet	Christopher Rodrigues, Thomas Jablin, Abdul Dakkak, Wen-Mei Hwu	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2692916.2555269	Practical concurrent binary search trees via logical ordering	Dana Drachsler, Martin Vechev, Eran Yahav	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2692916.2555270	Portable, MPI-interoperable coarray fortran	Chaoran Yang, Wesley Bland, John Mellor-Crummey, Pavan Balaji	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2692916.2555274	Infrastructure-free logging and replay of concurrent execution on multiple cores	Kyu Hyung Lee, Dohyeong Kim, Xiangyu Zhang	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2692916.2555275	Parallelization hints via code skeletonization	Cfir Aguston, Yosi Ben Asher, Gadi Haber	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2692916.2555276	Concurrency bug localization using shared memory access pairs	Wenwen Wang, Chenggang Wu, Pen-Chung Yew, Xiang Yuan, Zhenjiang Wang, Jianjun Li, Xiaobing Feng	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2692916.2555277	Task mapping stencil computations for non-contiguous allocations	Vitus J. Leung, David P. Bunde, Jonathan Ebbers, Stefan P. Feer, Nickolas W. Price, Zachary D. Rhodes, Matthew Swank	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2692916.2555278	Data structures for task-based priority scheduling	Martin Wimmer, Francesco Versaci, Jesper Larsson Träff, Daniel Cederman, Philippas Tsigas	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2692916.2555281	Automatic semantic locking	Guy Golan-Gueta, G. Ramalingam, Mooly Sagiv, Eran Yahav	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2692916.2555285	Theoretical analysis of classic algorithms on highly-threaded many-core GPUs	Lin Ma, Kunal Agrawal, Roger D. Chamberlain	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2692916.2555286	SCCMulti	Daniel Tomkins, Timmie Smith, Nancy M. Amato, Lawrence Rauchwerger	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2692916.2555287	Initial study of multi-endpoint runtime for MPI+OpenMP hybrid programming model on multi-core systems	Miao Luo, Xiaoyi Lu, Khaled Hamidouche, Krishna Kandalla, Dhabaleswar K. Panda	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2692916.2557966	Beyond parallel programming with domain specific languages	Kunle Olukotun	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2692916.2558890	21st century computer architecture	Mark D. Hill	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2701657.2633421	Design Techniques for Planning Navigational Systems in 3-D Video Games	Dinara Moura, Magy Seif El-Nasr	Computers in Entertainment	2015	1	1	1
+10.1145/2702109.2633413	Electric Agents	Glenda Revelle, Mirjana Spasojevic, Emily Reardon, Kristin Cook, Lori Takeuchi, Rafael Ballagas, Koichi Mori, Hiroshi Horii, Hayes Raffle, Maria Sandberg	Computers in Entertainment	2015	1	1	1
+10.1145/2702109.2633419	In-Place Sketching for Augmented Reality Games	Nate Hagbi, Raphael Grasset, Oriel Bergig, Mark Billinghurst, Jihad El-Sana	Computers in Entertainment	2015	1	1	1
+10.1145/2702109.2633423	An Integrated Development Framework for Tabletop Computer Games	Yannis Lilis, Anthony Savidis	Computers in Entertainment	2015	1	1	1
+10.1145/2714064.2660218	MIX10	Vineet Kumar, Laurie Hendren	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2714064.2660219	Static analysis for independent app developers	Lucas Brutschy, Pietro Ferrara, Peter Müller	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2714064.2660235	Understanding energy behaviors of thread management constructs	Gustavo Pinto, Fernando Castor, Yu David Liu	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2014	1	1	1
+10.1145/2775051.2676973	Program Boosting	Robert A. Cochran, Loris D'Antoni, Benjamin Livshits, David Molnar, Margus Veanes	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2015	1	1	1
+10.1145/2775051.2676975	Deep Specifications and Certified Abstraction Layers	Ronghui Gu, Jérémie Koenig, Tahina Ramananandro, Zhong Shao, Xiongnan (Newman) Wu, Shu-Chun Weng, Haozhong Zhang, Yu Guo	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2015	1	1	1
+10.1145/2775051.2676976	A Meta Lambda Calculus with Cross-Level Computation	Kazunori Tobisawa	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2015	1	1	1
+10.1145/2775051.2676982	K-Java	Denis Bogdanas, Grigore Roşu	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2015	1	1	1
+10.1145/2775054.2694352	SD-PCM	Rujia Wang, Lei Jiang, Youtao Zhang, Jun Yang	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2015	1	1	1
+10.1145/2775054.2694355	rIOMMU	Moshe Malka, Nadav Amit, Muli Ben-Yehuda, Dan Tsafrir	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2015	1	1	1
+10.1145/2775054.2694375	Architectural Support for Cyber-Physical Systems	Edward A. Lee	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2015	1	1	1
+10.1145/2858788.2688513	A framework for practical parallel fast matrix multiplication	Austin R. Benson, Grey Ballard	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2015	1	1	1
+10.1145/2887747.2804307	Improving Haskell types with SMT	Iavor S. Diatchki	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2015	1	1	1
+10.1145/2887747.2804310	Functional pearl: getting a quick fix on comonads	Kenneth Foner	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2015	1	1	1
+10.1145/2887747.2804319	Freer monads, more extensible effects	Oleg Kiselyov, Hiromi Ishii	SIGPLAN Notices (ACM Special Interest Group on Programming Languages)	2015	1	1	1

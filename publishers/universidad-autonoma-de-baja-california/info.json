@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Universidad Autonoma de Baja California",
+  "journals": 1,
+  "scihub": 69,
+  "crossref_open_access": 213,
+  "crossref_active": 213,
+  "crossref": 213,
+  "coverage": 0.32394366,
+  "publisher_slug": "universidad-autonoma-de-baja-california",
+  "access_logs": {
+    "downloads": 0.16667,
+    "visitors": 0.11905,
+    "countries": 0.11905,
+    "days": 0.11905,
+    "months": 0.09524,
+    "n_articles_requested": 4,
+    "n_articles": 42
+  }
+}

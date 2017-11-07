@@ -1,0 +1,19 @@
+{
+  "publisher_name": "WIT Press",
+  "journals": 5,
+  "scihub": 3,
+  "crossref_open_access": 0,
+  "crossref_active": 1047,
+  "crossref": 1140,
+  "coverage": 0.00263158,
+  "publisher_slug": "wit-press",
+  "access_logs": {
+    "downloads": 0.0,
+    "visitors": 0.0,
+    "countries": 0.0,
+    "days": 0.0,
+    "months": 0.0,
+    "n_articles_requested": 0,
+    "n_articles": 176
+  }
+}

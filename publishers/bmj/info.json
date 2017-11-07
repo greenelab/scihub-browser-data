@@ -1,0 +1,19 @@
+{
+  "publisher_name": "BMJ",
+  "journals": 50,
+  "scihub": 275713,
+  "crossref_open_access": 7960,
+  "crossref_active": 353296,
+  "crossref": 359289,
+  "coverage": 0.76738503,
+  "publisher_slug": "bmj",
+  "access_logs": {
+    "downloads": 0.76326,
+    "visitors": 0.67837,
+    "countries": 0.50019,
+    "days": 0.632,
+    "months": 0.41614,
+    "n_articles_requested": 7548,
+    "n_articles": 34291
+  }
+}

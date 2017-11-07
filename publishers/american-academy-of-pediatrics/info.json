@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Academy of Pediatrics",
+  "journals": 4,
+  "scihub": 19764,
+  "crossref_open_access": 0,
+  "crossref_active": 25356,
+  "crossref": 25356,
+  "coverage": 0.77946048,
+  "publisher_slug": "american-academy-of-pediatrics",
+  "access_logs": {
+    "downloads": 1.9593,
+    "visitors": 1.7741,
+    "countries": 1.2332,
+    "days": 1.6638,
+    "months": 0.91632,
+    "n_articles_requested": 1049,
+    "n_articles": 2629
+  }
+}

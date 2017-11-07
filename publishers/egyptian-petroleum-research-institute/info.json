@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Egyptian Petroleum Research Institute",
+  "journals": 1,
+  "scihub": 358,
+  "crossref_open_access": 0,
+  "crossref_active": 362,
+  "crossref": 362,
+  "coverage": 0.98895028,
+  "publisher_slug": "egyptian-petroleum-research-institute",
+  "access_logs": {
+    "downloads": 3.2361,
+    "visitors": 2.9167,
+    "countries": 2.1528,
+    "days": 2.8194,
+    "months": 1.9444,
+    "n_articles_requested": 63,
+    "n_articles": 72
+  }
+}

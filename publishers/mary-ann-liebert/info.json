@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Mary Ann Liebert",
+  "journals": 119,
+  "scihub": 133117,
+  "crossref_open_access": 223,
+  "crossref_active": 115922,
+  "crossref": 137067,
+  "coverage": 0.97118198,
+  "publisher_slug": "mary-ann-liebert",
+  "access_logs": {
+    "downloads": 1.4399,
+    "visitors": 1.2827,
+    "countries": 0.99428,
+    "days": 1.233,
+    "months": 0.90214,
+    "n_articles_requested": 6883,
+    "n_articles": 14326
+  }
+}

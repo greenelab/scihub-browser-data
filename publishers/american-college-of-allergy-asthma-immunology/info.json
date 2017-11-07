@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American College of Allergy, Asthma, & Immunology",
+  "journals": 1,
+  "scihub": 6375,
+  "crossref_open_access": 0,
+  "crossref_active": 6401,
+  "crossref": 6401,
+  "coverage": 0.99593813,
+  "publisher_slug": "american-college-of-allergy-asthma-immunology",
+  "access_logs": {
+    "downloads": 1.2243,
+    "visitors": 1.1322,
+    "countries": 0.90261,
+    "days": 1.0626,
+    "months": 0.81043,
+    "n_articles_requested": 248,
+    "n_articles": 575
+  }
+}

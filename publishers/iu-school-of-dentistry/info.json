@@ -1,0 +1,19 @@
+{
+  "publisher_name": "IU School of Dentistry",
+  "journals": 1,
+  "scihub": 1529,
+  "crossref_open_access": 0,
+  "crossref_active": 1548,
+  "crossref": 1548,
+  "coverage": 0.9877261,
+  "publisher_slug": "iu-school-of-dentistry",
+  "access_logs": {
+    "downloads": 4.3524,
+    "visitors": 3.9905,
+    "countries": 2.7048,
+    "days": 3.7,
+    "months": 2.2048,
+    "n_articles_requested": 163,
+    "n_articles": 210
+  }
+}

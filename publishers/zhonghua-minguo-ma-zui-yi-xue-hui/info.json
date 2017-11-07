@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Zhonghua Minguo ma zui yi xue hui",
+  "journals": 1,
+  "scihub": 406,
+  "crossref_open_access": 0,
+  "crossref_active": 407,
+  "crossref": 407,
+  "coverage": 0.997543,
+  "publisher_slug": "zhonghua-minguo-ma-zui-yi-xue-hui",
+  "access_logs": {
+    "downloads": 1.2667,
+    "visitors": 1.1667,
+    "countries": 0.88333,
+    "days": 1.15,
+    "months": 0.83333,
+    "n_articles_requested": 21,
+    "n_articles": 60
+  }
+}

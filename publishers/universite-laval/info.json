@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Universite Laval",
+  "journals": 2,
+  "scihub": 4916,
+  "crossref_open_access": 0,
+  "crossref_active": 0,
+  "crossref": 7855,
+  "coverage": 0.62584341,
+  "publisher_slug": "universite-laval",
+  "access_logs": {
+    "downloads": 0.00467,
+    "visitors": 0.00467,
+    "countries": 0.00467,
+    "days": 0.00467,
+    "months": 0.00467,
+    "n_articles_requested": 1,
+    "n_articles": 214
+  }
+}

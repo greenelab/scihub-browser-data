@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Instytut Matematyczny",
+  "journals": 1,
+  "scihub": 29,
+  "crossref_open_access": 0,
+  "crossref_active": 1921,
+  "crossref": 1921,
+  "coverage": 0.0150963,
+  "publisher_slug": "instytut-matematyczny",
+  "access_logs": {
+    "downloads": 0.00905,
+    "visitors": 0.00905,
+    "countries": 0.00905,
+    "days": 0.00905,
+    "months": 0.00905,
+    "n_articles_requested": 2,
+    "n_articles": 221
+  }
+}

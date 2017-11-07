@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Kafkas University",
+  "journals": 1,
+  "scihub": 419,
+  "crossref_open_access": 1720,
+  "crossref_active": 1720,
+  "crossref": 1720,
+  "coverage": 0.24360465,
+  "publisher_slug": "kafkas-university",
+  "access_logs": {
+    "downloads": 0.00843,
+    "visitors": 0.00843,
+    "countries": 0.00562,
+    "days": 0.00843,
+    "months": 0.00843,
+    "n_articles_requested": 3,
+    "n_articles": 356
+  }
+}

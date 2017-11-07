@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Zhejiang University Press",
+  "journals": 3,
+  "scihub": 3911,
+  "crossref_open_access": 0,
+  "crossref_active": 3463,
+  "crossref": 3962,
+  "coverage": 0.98712771,
+  "publisher_slug": "zhejiang-university-press",
+  "access_logs": {
+    "downloads": 0.65563,
+    "visitors": 0.60706,
+    "countries": 0.5011,
+    "days": 0.57395,
+    "months": 0.51435,
+    "n_articles_requested": 172,
+    "n_articles": 453
+  }
+}

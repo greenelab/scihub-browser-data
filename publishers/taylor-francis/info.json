@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Taylor & Francis",
+  "journals": 2710,
+  "scihub": 3000211,
+  "crossref_open_access": 78101,
+  "crossref_active": 2924219,
+  "crossref": 3241697,
+  "coverage": 0.9255063,
+  "publisher_slug": "taylor-francis",
+  "access_logs": {
+    "downloads": 1.2692,
+    "visitors": 1.1355,
+    "countries": 0.85469,
+    "days": 1.0859,
+    "months": 0.78795,
+    "n_articles_requested": 95765,
+    "n_articles": 222702
+  }
+}

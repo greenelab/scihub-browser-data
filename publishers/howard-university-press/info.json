@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Howard University Press",
+  "journals": 1,
+  "scihub": 4779,
+  "crossref_open_access": 0,
+  "crossref_active": 4874,
+  "crossref": 4874,
+  "coverage": 0.98050882,
+  "publisher_slug": "howard-university-press",
+  "access_logs": {
+    "downloads": 0.01439,
+    "visitors": 0.01439,
+    "countries": 0.01439,
+    "days": 0.01439,
+    "months": 0.01439,
+    "n_articles_requested": 2,
+    "n_articles": 139
+  }
+}

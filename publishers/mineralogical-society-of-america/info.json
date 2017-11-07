@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Mineralogical Society of America",
+  "journals": 2,
+  "scihub": 1473,
+  "crossref_open_access": 0,
+  "crossref_active": 1501,
+  "crossref": 1501,
+  "coverage": 0.98134577,
+  "publisher_slug": "mineralogical-society-of-america",
+  "access_logs": {
+    "downloads": 4.3983,
+    "visitors": 4.0847,
+    "countries": 2.839,
+    "days": 3.5763,
+    "months": 2.3983,
+    "n_articles_requested": 102,
+    "n_articles": 118
+  }
+}

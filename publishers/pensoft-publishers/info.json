@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Pensoft Publishers",
+  "journals": 14,
+  "scihub": 6245,
+  "crossref_open_access": 8560,
+  "crossref_active": 11970,
+  "crossref": 11970,
+  "coverage": 0.52172097,
+  "publisher_slug": "pensoft-publishers",
+  "access_logs": {
+    "downloads": 0.04862,
+    "visitors": 0.04524,
+    "countries": 0.04119,
+    "days": 0.04456,
+    "months": 0.04186,
+    "n_articles_requested": 55,
+    "n_articles": 1481
+  }
+}

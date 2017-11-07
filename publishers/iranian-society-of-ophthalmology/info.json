@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Iranian Society of Ophthalmology",
+  "journals": 1,
+  "scihub": 103,
+  "crossref_open_access": 0,
+  "crossref_active": 118,
+  "crossref": 118,
+  "coverage": 0.87288136,
+  "publisher_slug": "iranian-society-of-ophthalmology",
+  "access_logs": {
+    "downloads": 0.42857,
+    "visitors": 0.35714,
+    "countries": 0.28571,
+    "days": 0.35714,
+    "months": 0.35714,
+    "n_articles_requested": 4,
+    "n_articles": 14
+  }
+}

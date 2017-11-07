@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Tsinghua University",
+  "journals": 5,
+  "scihub": 3781,
+  "crossref_open_access": 362,
+  "crossref_active": 3837,
+  "crossref": 3837,
+  "coverage": 0.98540526,
+  "publisher_slug": "tsinghua-university",
+  "access_logs": {
+    "downloads": 3.673,
+    "visitors": 3.1831,
+    "countries": 1.7109,
+    "days": 2.8965,
+    "months": 1.6894,
+    "n_articles_requested": 536,
+    "n_articles": 792
+  }
+}

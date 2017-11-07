@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Alexandrine Press",
+  "journals": 1,
+  "scihub": 512,
+  "crossref_open_access": 0,
+  "crossref_active": 562,
+  "crossref": 562,
+  "coverage": 0.91103203,
+  "publisher_slug": "alexandrine-press",
+  "access_logs": {
+    "downloads": 0.0,
+    "visitors": 0.0,
+    "countries": 0.0,
+    "days": 0.0,
+    "months": 0.0,
+    "n_articles_requested": 0,
+    "n_articles": 67
+  }
+}

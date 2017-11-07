@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Isfahan University of Medical Sciences",
+  "journals": 4,
+  "scihub": 33,
+  "crossref_open_access": 884,
+  "crossref_active": 892,
+  "crossref": 892,
+  "coverage": 0.03699552,
+  "publisher_slug": "isfahan-university-of-medical-sciences",
+  "access_logs": {
+    "downloads": 0.03179,
+    "visitors": 0.0289,
+    "countries": 0.02601,
+    "days": 0.0289,
+    "months": 0.0289,
+    "n_articles_requested": 7,
+    "n_articles": 346
+  }
+}

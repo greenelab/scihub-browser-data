@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Association of Avian Pathologists Inc.",
+  "journals": 1,
+  "scihub": 7262,
+  "crossref_open_access": 0,
+  "crossref_active": 7280,
+  "crossref": 7280,
+  "coverage": 0.99752747,
+  "publisher_slug": "american-association-of-avian-pathologists-inc",
+  "access_logs": {
+    "downloads": 0.88421,
+    "visitors": 0.80526,
+    "countries": 0.63158,
+    "days": 0.72105,
+    "months": 0.58421,
+    "n_articles_requested": 78,
+    "n_articles": 190
+  }
+}

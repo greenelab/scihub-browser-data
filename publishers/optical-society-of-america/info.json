@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Optical Society of America",
+  "journals": 11,
+  "scihub": 118745,
+  "crossref_open_access": 36294,
+  "crossref_active": 109615,
+  "crossref": 126135,
+  "coverage": 0.94141198,
+  "publisher_slug": "optical-society-of-america",
+  "access_logs": {
+    "downloads": 0.99975,
+    "visitors": 0.88666,
+    "countries": 0.68175,
+    "days": 0.85468,
+    "months": 0.68802,
+    "n_articles_requested": 5415,
+    "n_articles": 12132
+  }
+}

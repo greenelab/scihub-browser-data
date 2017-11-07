@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Society for Cell Biology",
+  "journals": 3,
+  "scihub": 9741,
+  "crossref_open_access": 944,
+  "crossref_active": 9856,
+  "crossref": 9858,
+  "coverage": 0.98813147,
+  "publisher_slug": "american-society-for-cell-biology",
+  "access_logs": {
+    "downloads": 0.70751,
+    "visitors": 0.64295,
+    "countries": 0.50198,
+    "days": 0.61924,
+    "months": 0.49275,
+    "n_articles_requested": 276,
+    "n_articles": 759
+  }
+}

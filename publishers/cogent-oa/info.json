@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Cogent OA",
+  "journals": 4,
+  "scihub": 437,
+  "crossref_open_access": 578,
+  "crossref_active": 703,
+  "crossref": 703,
+  "coverage": 0.62162162,
+  "publisher_slug": "cogent-oa",
+  "access_logs": {
+    "downloads": 0.82313,
+    "visitors": 0.78231,
+    "countries": 0.61224,
+    "days": 0.7551,
+    "months": 0.64626,
+    "n_articles_requested": 60,
+    "n_articles": 147
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Chemistry Central",
+  "journals": 3,
+  "scihub": 1669,
+  "crossref_open_access": 1732,
+  "crossref_active": 1732,
+  "crossref": 1732,
+  "coverage": 0.96362587,
+  "publisher_slug": "chemistry-central",
+  "access_logs": {
+    "downloads": 0.70154,
+    "visitors": 0.63385,
+    "countries": 0.54769,
+    "days": 0.64,
+    "months": 0.53846,
+    "n_articles_requested": 113,
+    "n_articles": 325
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Arizona State University",
+  "journals": 2,
+  "scihub": 27,
+  "crossref_open_access": 1178,
+  "crossref_active": 1985,
+  "crossref": 1985,
+  "coverage": 0.01360202,
+  "publisher_slug": "arizona-state-university",
+  "access_logs": {
+    "downloads": 0.00935,
+    "visitors": 0.00935,
+    "countries": 0.00935,
+    "days": 0.00935,
+    "months": 0.00935,
+    "n_articles_requested": 2,
+    "n_articles": 321
+  }
+}

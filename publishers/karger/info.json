@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Karger",
+  "journals": 156,
+  "scihub": 119263,
+  "crossref_open_access": 10957,
+  "crossref_active": 308494,
+  "crossref": 334338,
+  "coverage": 0.35671386,
+  "publisher_slug": "karger",
+  "access_logs": {
+    "downloads": 1.1147,
+    "visitors": 1.0135,
+    "countries": 0.79774,
+    "days": 0.96388,
+    "months": 0.71325,
+    "n_articles_requested": 4801,
+    "n_articles": 12321
+  }
+}

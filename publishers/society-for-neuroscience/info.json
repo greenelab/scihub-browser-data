@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Society for Neuroscience",
+  "journals": 2,
+  "scihub": 20382,
+  "crossref_open_access": 0,
+  "crossref_active": 20741,
+  "crossref": 20741,
+  "coverage": 0.98269129,
+  "publisher_slug": "society-for-neuroscience",
+  "access_logs": {
+    "downloads": 1.556,
+    "visitors": 1.3729,
+    "countries": 0.99553,
+    "days": 1.2754,
+    "months": 0.9051,
+    "n_articles_requested": 1352,
+    "n_articles": 2687
+  }
+}

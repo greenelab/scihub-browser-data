@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Institution of Engineering and Technology",
+  "journals": 24,
+  "scihub": 20366,
+  "crossref_open_access": 0,
+  "crossref_active": 22147,
+  "crossref": 22297,
+  "coverage": 0.91339642,
+  "publisher_slug": "institution-of-engineering-and-technology",
+  "access_logs": {
+    "downloads": 3.2016,
+    "visitors": 2.8058,
+    "countries": 1.5893,
+    "days": 2.7232,
+    "months": 1.6887,
+    "n_articles_requested": 2940,
+    "n_articles": 4166
+  }
+}

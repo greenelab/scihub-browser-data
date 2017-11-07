@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Centro de Ciencias Aplicadas y Desarrollo Tecnologico, Universidad Nacional Autonoma de Mexico",
+  "journals": 1,
+  "scihub": 325,
+  "crossref_open_access": 330,
+  "crossref_active": 330,
+  "crossref": 330,
+  "coverage": 0.98484848,
+  "publisher_slug": "centro-de-ciencias-aplicadas-y-desarrollo-tecnologico-universidad-nacional-autonoma-de-mexico",
+  "access_logs": {
+    "downloads": 1.9136,
+    "visitors": 1.7716,
+    "countries": 1.2222,
+    "days": 1.7037,
+    "months": 1.2531,
+    "n_articles_requested": 100,
+    "n_articles": 162
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "National Research Council",
+  "journals": 1,
+  "scihub": 574,
+  "crossref_open_access": 0,
+  "crossref_active": 584,
+  "crossref": 584,
+  "coverage": 0.98287671,
+  "publisher_slug": "national-research-council",
+  "access_logs": {
+    "downloads": 0.06452,
+    "visitors": 0.06452,
+    "countries": 0.06452,
+    "days": 0.06452,
+    "months": 0.03226,
+    "n_articles_requested": 1,
+    "n_articles": 31
+  }
+}

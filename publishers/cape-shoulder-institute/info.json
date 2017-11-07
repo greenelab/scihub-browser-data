@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Cape Shoulder Institute",
+  "journals": 1,
+  "scihub": 138,
+  "crossref_open_access": 241,
+  "crossref_active": 241,
+  "crossref": 241,
+  "coverage": 0.57261411,
+  "publisher_slug": "cape-shoulder-institute",
+  "access_logs": {
+    "downloads": 0.51064,
+    "visitors": 0.46809,
+    "countries": 0.42553,
+    "days": 0.46809,
+    "months": 0.44681,
+    "n_articles_requested": 14,
+    "n_articles": 47
+  }
+}

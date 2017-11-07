@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Board of Family Medicine.",
+  "journals": 1,
+  "scihub": 2127,
+  "crossref_open_access": 2214,
+  "crossref_active": 2214,
+  "crossref": 2214,
+  "coverage": 0.96070461,
+  "publisher_slug": "american-board-of-family-medicine",
+  "access_logs": {
+    "downloads": 0.40724,
+    "visitors": 0.33032,
+    "countries": 0.27149,
+    "days": 0.30317,
+    "months": 0.22624,
+    "n_articles_requested": 34,
+    "n_articles": 221
+  }
+}

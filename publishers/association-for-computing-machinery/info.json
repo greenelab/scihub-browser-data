@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Association for Computing Machinery",
+  "journals": 49,
+  "scihub": 41013,
+  "crossref_open_access": 0,
+  "crossref_active": 46539,
+  "crossref": 47900,
+  "coverage": 0.85622129,
+  "publisher_slug": "association-for-computing-machinery",
+  "access_logs": {
+    "downloads": 0.92222,
+    "visitors": 0.81277,
+    "countries": 0.61312,
+    "days": 0.77046,
+    "months": 0.5475,
+    "n_articles_requested": 1299,
+    "n_articles": 3947
+  }
+}

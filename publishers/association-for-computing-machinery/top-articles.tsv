@@ -1,0 +1,101 @@
+doi	title	authors	title_name	year	downloads	visitors	countries
+10.1145/2788397	Cloud Computing Resource Scheduling and a Survey of Its Evolutionary Approaches	Zhi-Hui Zhan, Xiao-Fang Liu, Yue-Jiao Gong, Jun Zhang, Henry Shu-Hung Chung, Yun Li	ACM Computing Surveys	2015	61	54	17
+10.1145/2611567	Big data and its technical challenges	H. V. Jagadish, Johannes Gehrke, Alexandros Labrinidis, Yannis Papakonstantinou, Jignesh M. Patel, Raghu Ramakrishnan, Cyrus Shahabi	Communications of the ACM	2014	55	38	17
+10.1145/2500873	Big-data applications in the government sector	Gang-Hoon Kim, Silvana Trimi, Ji-Hyong Chung	Communications of the ACM	2014	43	35	15
+10.1145/2699414	Exascale computing and big data	Daniel A. Reed, Jack Dongarra	Communications of the ACM	2015	28	27	13
+10.1145/2786005	Survey on Broadcast Algorithms for Mobile Ad Hoc Networks	Patricia Ruiz, Pascal Bouvry	ACM Computing Surveys	2015	25	24	12
+10.1145/2556270	Collaborative Filtering beyond the User-Item Matrix	Yue Shi, Martha Larson, Alan Hanjalic	ACM Computing Surveys	2014	24	22	10
+10.1145/2594773	Detecting Faulty Nodes with Data Errors for Wireless Sensor Networks	Shuo Guo, Heng Zhang, Ziguo Zhong, Jiming Chen, Qing Cao, Tian He	ACM Transactions on Sensor Networks	2014	34	22	3
+10.1145/2716260	Taxonomy and Survey of Collaborative Intrusion Detection	Emmanouil Vasilomanolakis, Shankar Karuppayah, Max Mühlhäuser, Mathias Fischer	ACM Computing Surveys	2015	23	22	11
+10.1145/2742642	A Survey of Multiobjective Evolutionary Clustering	Anirban Mukhopadhyay, Ujjwal Maulik, Sanghamitra Bandyopadhyay	ACM Computing Surveys	2015	23	22	10
+10.1145/2764465	Remote Data Auditing in Cloud Computing Environments	Mehdi Sookhak, Abdullah Gani, Hamid Talebian, Adnan Akhunzada, Samee U. Khan, Rajkumar Buyya, Albert Y. Zomaya	ACM Computing Surveys	2015	22	22	11
+10.1145/2767005	From Security to Assurance in the Cloud	Claudio A. Ardagna, Rasool Asal, Ernesto Damiani, Quang Hieu Vu	ACM Computing Surveys	2015	24	22	10
+10.1145/2503009	Distributed data management using MapReduce	Feng Li, Beng Chin Ooi, M. Tamer Özsu, Sai Wu	ACM Computing Surveys	2014	22	20	9
+10.1145/2635675	Opportunistic Routing in Wireless Networks: Models, Algorithms, and Classifications	Azzedine Boukerche, Amir Darehshoorzadeh	ACM Computing Surveys	2014	23	19	7
+10.1145/2655690	Software-Defined Networking Paradigms in Wireless Networks: A Survey	Nachikethas A. Jagadeesan, Bhaskar Krishnamachari	ACM Computing Surveys	2014	17	17	9
+10.1145/2733306	Securing Android	None Sufatrio, Darell J. J. Tan, Tong-Wei Chua, Vrizlynn L. L. Thing	ACM Computing Surveys	2015	17	17	8
+10.1145/2743025	Trajectory Data Mining	Yu Zheng	ACM Transactions on Intelligent Systems and Technology	2015	23	17	9
+10.1145/2619091	TaintDroid	William Enck, Peter Gilbert, Seungyeop Han, Vasant Tendulkar, Byung-Gon Chun, Landon P. Cox, Jaeyeon Jung, Patrick McDaniel, Anmol N. Sheth	ACM Transactions on Computer Systems	2014	17	16	9
+10.1145/2627534.2627557	Big data classification	Shan Suthaharan	Performance Evaluation Review	2014	17	16	11
+10.1145/2492705	A survey of migration mechanisms of virtual machines	Violeta Medina, Juan Manuel García	ACM Computing Surveys	2014	17	15	7
+10.1145/2619088	Survey of Temporal Information Retrieval and Related Applications	Ricardo Campos, Gaël Dias, Alípio M. Jorge, Adam Jatowt	ACM Computing Surveys	2014	15	15	11
+10.1145/2629658	Distributed Separate Coding for Continuous Data Collection in Wireless Sensor Networks	Xiucai Ye, Jie Li, Li Xu	ACM Transactions on Sensor Networks	2014	17	15	1
+10.1145/2716262	A Tutorial on Multilabel Learning	Eva Gibaja, Sebastián Ventura	ACM Computing Surveys	2015	24	15	9
+10.1145/2766330.2766333	Cluster Based Multipath Routing Protocol for Wireless Sensor Networks	Suraj Sharma, Sanjay Kumar Jena	Computer Communication Review	2015	15	15	9
+10.1145/2593512	Interconnected Cloud Computing Environments	Adel Nadjaran Toosi, Rodrigo N. Calheiros, Rajkumar Buyya	ACM Computing Surveys	2014	16	14	7
+10.1145/2677046.2677052	Finding your Way in the Fog	Luis M. Vaquero, Luis Rodero-Merino	Computer Communication Review	2014	16	14	9
+10.1145/2716319	Renegotiation in Service Level Agreement Management for a Cloud-Based System	Ahmad Fadzil M. Hani, Irving Vitra Paputungan, Mohd Fadzil Hassan	ACM Computing Surveys	2015	14	14	10
+10.1145/2523817	Aggregated search	Arlind Kopliku, Karen Pinel-Sauvagnat, Mohand Boughanem	ACM Computing Surveys	2014	19	13	6
+10.1145/2656204	Cloud Computing	Toni Mastelic, Ariel Oleksiak, Holger Claussen, Ivona Brandic, Jean-Marc Pierson, Athanasios V. Vasilakos	ACM Computing Surveys	2014	14	13	9
+10.1145/2693315	Classification Framework of MapReduce Scheduling Algorithms	Nidhi Tiwari, Santonu Sarkar, Umesh Bellur, Maria Indrawan	ACM Computing Surveys	2015	15	13	6
+10.1145/2767181	The State of Public Infrastructure-as-a-Service Cloud Security	Wei Huang, Afshar Ganjali, Beom Heyn Kim, Sukwon Oh, David Lie	ACM Computing Surveys	2015	13	13	7
+10.1145/2517649	Benchmarks for dynamic multi-objective optimisation algorithms	Mardé Helbig, Andries P. Engelbrecht	ACM Computing Surveys	2014	15	12	8
+10.1145/2523819	A survey on ontologies for human behavior recognition	Natalia Díaz Rodríguez, M. P. Cuéllar, Johan Lilius, Miguel Delgado Calvo-Flores	ACM Computing Surveys	2014	13	12	7
+10.1145/2629592	Urban Computing	Yu Zheng, Licia Capra, Ouri Wolfson, Hai Yang	ACM Transactions on Intelligent Systems and Technology	2014	12	12	10
+10.1145/2729974	Many-Objective Software Remodularization Using NSGA-III	Wiem Mkaouer, Marouane Kessentini, Adnan Shaout, Patrice Koligheu, Slim Bechikh, Kalyanmoy Deb, Ali Ouni	ACM Transactions on Software Engineering and Methodology	2015	12	12	6
+10.1145/2771588	Processing Social Media Messages in Mass Emergency	Muhammad Imran, Carlos Castillo, Fernando Diaz, Sarah Vieweg	ACM Computing Surveys	2015	13	11	8
+10.1145/2523813	A survey on concept drift adaptation	João Gama, Indrė Žliobaitė, Albert Bifet, Mykola Pechenizkiy, Abdelhamid Bouchachia	ACM Computing Surveys	2014	10	10	8
+10.1145/2530526	Failure detection in wireless sensor networks	Abu Raihan M. Kamal, Chris J. Bleakley, Simon Dobson	ACM Transactions on Sensor Networks	2014	10	10	6
+10.1145/2542049	A survey of intrusion detection techniques for cyber-physical systems	Robert Mitchell, Ing-Ray Chen	ACM Computing Surveys	2014	11	10	5
+10.1145/2566590.2566610	Trends in steganography	Elżbieta Zielińska, Wojciech Mazurczyk, Krzysztof Szczypiorski	Communications of the ACM	2014	12	10	6
+10.1145/2617756	A Survey on Antispoofing Schemes for Fingerprint Recognition Systems	Emanuela Marasco, Arun Ross	ACM Computing Surveys	2014	11	10	6
+10.1145/2661061.2661063	Abstractions for software-defined networks	Martin Casado, Nate Foster, Arjun Guha	Communications of the ACM	2014	11	10	5
+10.1145/2699909	Dynamic Provable Data Possession	C. Chris Erway, Alptekin Küpçü, Charalampos Papamanthou, Roberto Tamassia	ACM Transactions on Information and System Security	2015	10	10	3
+10.1145/2700481	Identifying Authorities in Online Communities	Mohamed Bouguessa, Lotfi Ben Romdhane	ACM Transactions on Intelligent Systems and Technology	2015	12	10	6
+10.1145/2766962	MultiFab	Pitchaya Sitthi-Amorn, Javier E. Ramos, Yuwang Wangy, Joyce Kwan, Justin Lan, Wenshou Wang, Wojciech Matusik	ACM Transactions on Graphics	2015	14	10	3
+10.1145/2794400	Mobile Crowd Sensing and Computing	Bin Guo, Zhu Wang, Zhiwen Yu, Yu Wang, Neil Y. Yen, Runhe Huang, Xingshe Zhou	ACM Computing Surveys	2015	10	10	8
+10.1145/2797211	Allocation of Virtual Machines in Cloud Data Centers—A Survey of Problem Models and Optimization Algorithms	Zoltán Ádám Mann	ACM Computing Surveys	2015	10	10	2
+10.1145/2602574	The power of social media analytics	Weiguo Fan, Michael D. Gordon	Communications of the ACM	2014	14	9	7
+10.1145/2629697	TetGen, a Delaunay-Based Quality Tetrahedral Mesh Generator	Hang Si	ACM Transactions on Mathematical Software	2015	10	9	8
+10.1145/2668893	The dark side of the sharing economy … and how to lighten it	Arvind Malhotra, Marshall Van Alstyne	Communications of the ACM	2014	9	9	4
+10.1145/2688487	How traditional firms must compete in the sharing economy	Michael A. Cusumano	Communications of the ACM	2014	10	9	7
+10.1145/2700264	Hierarchical Data Aggregation Using Compressive Sensing (HDACS) in WSNs	Xi Xu, Rashid Ansari, Ashfaq Khokhar, Athanasios V. Vasilakos	ACM Transactions on Sensor Networks	2015	14	9	5
+10.1145/2719920	Text and Data Mining Techniques in Adverse Drug Reaction Detection	Sarvnaz Karimi, Chen Wang, Alejandro Metke-Jimenez, Raj Gaire, Cecile Paris	ACM Computing Surveys	2015	10	9	4
+10.1145/2733381	Hierarchical Density Estimates for Data Clustering, Visualization, and Outlier Detection	Ricardo J. G. B. Campello, Davoud Moulavi, Arthur Zimek, Jörg Sander	ACM Transactions on Knowledge Discovery from Data	2015	10	9	8
+10.1145/2766959	Learning visual similarity for product design with convolutional neural networks	Sean Bell, Kavita Bala	ACM Transactions on Graphics	2015	17	9	5
+10.1145/2611779	Intelligent Management Systems for Energy Efficiency in Buildings	Alessandra De Paola, Marco Ortolani, Giuseppe Lo Re, Giuseppe Anastasi, Sajal K. Das	ACM Computing Surveys	2014	8	8	6
+10.1145/2656205	Image Enhancement in Encrypted Domain over Cloud	Ankita Lathey, Pradeep K. Atrey	ACM Transactions on Multimedia Computing, Communications and Applications	2015	9	8	6
+10.1145/2661631	Monte Carlo Methods for Value-at-Risk and Conditional Value-at-Risk	L. Jeff Hong, Zhaolin Hu, Guangwu Liu	ACM Transactions on Modeling and Computer Simulation	2014	9	8	4
+10.1145/2662870	USMART	Juan Ye, Graeme Stevenson, Simon Dobson	Transactions on Interactive Intelligent Systems	2014	8	8	6
+10.1145/2693841	Secure the Cloud	Arpan Roy, Santonu Sarkar, Rajeshwari Ganesan, Geetika Goel	ACM Computing Surveys	2015	10	8	6
+10.1145/2693843	Anticipatory Mobile Computing	Veljko Pejovic, Mirco Musolesi	ACM Computing Surveys	2015	12	8	7
+10.1145/2728171	Teaching Recommender Systems at Large Scale	Joseph A. Konstan, J. D. Walker, D. Christopher Brooks, Keith Brown, Michael D. Ekstrand	ACM Transactions on Computer-Human Interaction	2015	9	8	4
+10.1145/2738037	A Baseline Model for Software Effort Estimation	Peter A. Whigham, Caitlin A. Owen, Stephen G. Macdonell	ACM Transactions on Software Engineering and Methodology	2015	8	8	5
+10.1145/2738051	Dynamic Shared SPM Reuse for Real-Time Multicore Embedded Systems	Morteza Mohajjel Kafshdooz, Alireza Ejlali	Transactions on Architecture and Code Optimization	2015	8	8	2
+10.1145/2746343	Accurate Range-Free Localization for Anisotropic Wireless Sensor Networks	Shigeng Zhang, Xuan Liu, Jianxin Wang, Jiannong Cao, Geyong Min	ACM Transactions on Sensor Networks	2015	8	8	4
+10.1145/2747881	Challenges for Quality of Data in Smart Cities	Payam Barnaghi, Maria Bermudez-Edo, Ralf Tönjes	Journal of Data and Information Quality	2015	8	8	5
+10.1145/2790298	Integrity Attacks on Real-Time Pricing in Electric Power Grids	Rui Tan, Varun Badrinath Krishna, David K. Y. Yau, Zbigniew Kalbarczyk	ACM Transactions on Information and System Security	2015	8	8	8
+10.1145/2584670	User interfaces for smart things -- A generative approach with semantic interaction descriptions	Simon Mayer, Andreas Tschofen, Anind K. Dey, Friedemann Mattern	ACM Transactions on Computer-Human Interaction	2014	8	7	4
+10.1145/2632296	A Survey on DHT-Based Routing for Large-Scale Mobile Ad Hoc Networks	Shahbaz Akhtar Abid, Mazliza Othman, Nadir Shah	ACM Computing Surveys	2014	7	7	3
+10.1145/2661639	Power-Based Diagnosis of Node Silence in Remote High-End Sensing Systems	Yong Yang, Lu Su, Mohammad Khan, Michael Lemay, Tarek Abdelzaher, Jiawei Han	ACM Transactions on Sensor Networks	2014	7	7	1
+10.1145/2666680	Evaluation without ground truth in social media research	Reza Zafarani, Huan Liu	Communications of the ACM	2015	8	7	5
+10.1145/2699682	ISA Wars	Emily Blem, Jaikrishnan Menon, Thiruvengadam Vijayaraghavan, Karthikeyan Sankaralingam	ACM Transactions on Computer Systems	2015	8	7	6
+10.1145/2700495	User-Specific Feature-Based Similarity Models for Top-nRecommendation of New Items	Asmaa Elbadrawy, George Karypis	ACM Transactions on Intelligent Systems and Technology	2015	7	7	5
+10.1145/2701426	NoCMsg	Christopher Zimmer, Frank Mueller	Transactions on Architecture and Code Optimization	2015	8	7	4
+10.1145/2751557	Identifying Opportunities for Valuable Encounters	Julia M. Mayer, Quentin Jones, Starr Roxanne Hiltz	ACM Transactions on Information Systems	2015	8	7	5
+10.1145/2556609	Uncovering social network Sybils in the wild	Zhi Yang, Christo Wilson, Xiao Wang, Tingting Gao, Ben Y. Zhao, Yafei Dai	ACM Transactions on Knowledge Discovery from Data	2014	6	6	2
+10.1145/2594454	Structure and Overlaps of Ground-Truth Communities in Networks	Jaewon Yang, Jure Leskovec	ACM Transactions on Intelligent Systems and Technology	2014	6	6	5
+10.1145/2597999	Adaptive Model-Driven User Interface Development Systems	Pierre A. Akiki, Arosha K. Bandara, Yijun Yu	ACM Computing Surveys	2014	6	6	4
+10.1145/2602204.2602219	The road to SDN	Nick Feamster, Jennifer Rexford, Ellen Zegura	Computer Communication Review	2014	6	6	4
+10.1145/2629662	Building Maximum Lifetime Shortest Path Data Aggregation Trees in Wireless Sensor Networks	Mengfan Shan, Guihai Chen, Dijun Luo, Xiaojun Zhu, Xiaobing Wu	ACM Transactions on Sensor Networks	2014	9	6	4
+10.1145/2632218	Deadline-Constrained Clustered Scheduling for VLIW Architectures using Power-Gated Register Files	Zhibin Liang, Wei Zhang, Yung-Cheng Ma	Transactions on Architecture and Code Optimization	2014	6	6	1
+10.1145/2662412	Teaching Introductory Programming	Theodora Koulouri, Stanislao Lauria, Robert D. Macredie	ACM Transactions on Computing Education	2014	6	6	5
+10.1145/2665077	Keyword Extraction from Arabic Documents using Term Equivalence Classes	Arafat Awajan	ACM Transactions on Asian and Low-Resource Language Information Processing	2015	7	6	5
+10.1145/2676869	A Network Behavior-Based Botnet Detection Mechanism Using PSO and K-means	Shing-Han Li, Yu-Cheng Kao, Zong-Cyuan Zhang, Ying-Ping Chuang, David C. Yen	ACM Transactions on Management Information Systems	2015	6	6	3
+10.1145/2680538	Modeling and Analysis of Fault Detection and Fault Tolerance in Wireless Sensor Networks	Arslan Munir, Joseph Antoon, Ann Gordon-Ross	Transactions on Embedded Computing Systems	2015	6	6	5
+10.1145/2699670	Dynamic User Modeling in Social Media Systems	Hongzhi Yin, Bin Cui, Ling Chen, Zhiting Hu, Xiaofang Zhou	ACM Transactions on Information Systems	2015	7	6	4
+10.1145/2700236	Analytical Reliability Analysis of 3D NoC under TSV Failure	Misagh Khayambashi, Pooria M. Yaghini, Ashkan Eghbal, Nader Bagherzadeh	ACM Journal on Emerging Technologies in Computing Systems	2015	7	6	4
+10.1145/2700299	Robust Color Image Watermarking Using Geometric Invariant Quaternion Polar Harmonic Transform	Hong-Ying Yang, Xiang-Yang Wang, Pan-Pan Niu, Ai-Long Wang	ACM Transactions on Multimedia Computing, Communications and Applications	2015	6	6	4
+10.1145/2701415	Verification of a Cryptographic Primitive	Andrew W. Appel	ACM Transactions on Programming Languages and Systems	2015	6	6	5
+10.1145/2746338	vVote	Chris Culnane, Peter Y. A. Ryan, Steve Schneider, Vanessa Teague	ACM Transactions on Information and System Security	2015	7	6	3
+10.1145/2766891	Perceptually based downscaling of images	A. Cengiz Öztireli, Markus Gross	ACM Transactions on Graphics	2015	6	6	5
+10.1145/2770876	SmartRoad	Shaohan Hu, Lu Su, Hengchang Liu, Hongyan Wang, Tarek F. Abdelzaher	ACM Transactions on Sensor Networks	2015	8	6	4
+10.1145/2775111	A Survey on Hypervisor-Based Monitoring	Erick Bauman, Gbadebo Ayoade, Zhiqiang Lin	ACM Computing Surveys	2015	6	6	6
+10.1145/2785733	Collaborative Security	Guozhu Meng, Yang Liu, Jie Zhang, Alexander Pokluda, Raouf Boutaba	ACM Computing Surveys	2015	6	6	5
+10.1145/2788396	A Survey of CPU-GPU Heterogeneous Computing Techniques	Sparsh Mittal, Jeffrey S. Vetter	ACM Computing Surveys	2015	6	6	5
+10.1145/2499621	A tutorial on human activity recognition using body-worn inertial sensors	Andreas Bulling, Ulf Blanke, Bernt Schiele	ACM Computing Surveys	2014	6	5	4
+10.1145/2532637	A survey on techniques for improving the energy efficiency of large-scale distributed systems	Anne-Cecile Orgerie, Marcos Dias de Assuncao, Laurent Lefevre	ACM Computing Surveys	2014	7	5	3
+10.1145/2555611	A Systematic Survey of Self-Protecting Software Systems	Eric Yuan, Naeem Esfahani, Sam Malek	ACM Transactions on Autonomous and Adaptive Systems	2014	5	5	3
+10.1145/2560019	Management and optimization for nonvolatile memory-based hybrid scratchpad memory on multicore embedded processors	Jingtong Hu, Qingfeng Zhuge, Chun Jason Xue, Wei-Che Tseng, Edwin H.-M. Sha	Transactions on Embedded Computing Systems	2014	6	5	3
+10.1145/2567924	Bionic Autonomic Nervous Systems for Self-Defense against DoS, Spyware, Malware, Virus, and Fishing	Y. S. Dai, Y. P. Xiang, Y. Pan	ACM Transactions on Autonomous and Adaptive Systems	2014	6	5	1
+10.1145/2579617	Leveraging GPUs using cooperative loop speculation	Mehrzad Samadi, Amir Hormati, Janghaeng Lee, Scott Mahlke	Transactions on Architecture and Code Optimization	2014	8	5	3

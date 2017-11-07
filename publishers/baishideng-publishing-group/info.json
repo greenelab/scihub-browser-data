@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Baishideng Publishing Group",
+  "journals": 3,
+  "scihub": 52,
+  "crossref_open_access": 1709,
+  "crossref_active": 1709,
+  "crossref": 1709,
+  "coverage": 0.03042715,
+  "publisher_slug": "baishideng-publishing-group",
+  "access_logs": {
+    "downloads": 0.01809,
+    "visitors": 0.0155,
+    "countries": 0.01421,
+    "days": 0.0155,
+    "months": 0.01163,
+    "n_articles_requested": 7,
+    "n_articles": 774
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "eContent Management Pty Ltd",
+  "journals": 1,
+  "scihub": 208,
+  "crossref_open_access": 0,
+  "crossref_active": 0,
+  "crossref": 262,
+  "coverage": 0.79389313,
+  "publisher_slug": "econtent-management-pty-ltd",
+  "access_logs": {
+    "downloads": 0.42424,
+    "visitors": 0.39394,
+    "countries": 0.36364,
+    "days": 0.39394,
+    "months": 0.39394,
+    "n_articles_requested": 9,
+    "n_articles": 33
+  }
+}

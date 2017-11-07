@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Institute of Measurement Science",
+  "journals": 1,
+  "scihub": 244,
+  "crossref_open_access": 356,
+  "crossref_active": 356,
+  "crossref": 356,
+  "coverage": 0.68539326,
+  "publisher_slug": "institute-of-measurement-science",
+  "access_logs": {
+    "downloads": 0.14118,
+    "visitors": 0.12941,
+    "countries": 0.12941,
+    "days": 0.14118,
+    "months": 0.14118,
+    "n_articles_requested": 11,
+    "n_articles": 85
+  }
+}

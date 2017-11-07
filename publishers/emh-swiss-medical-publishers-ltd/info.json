@@ -1,0 +1,19 @@
+{
+  "publisher_name": "EMH Swiss Medical Publishers Ltd",
+  "journals": 1,
+  "scihub": 41,
+  "crossref_open_access": 1113,
+  "crossref_active": 1113,
+  "crossref": 1113,
+  "coverage": 0.03683738,
+  "publisher_slug": "emh-swiss-medical-publishers-ltd",
+  "access_logs": {
+    "downloads": 0.05747,
+    "visitors": 0.05747,
+    "countries": 0.05364,
+    "days": 0.05747,
+    "months": 0.04215,
+    "n_articles_requested": 5,
+    "n_articles": 261
+  }
+}

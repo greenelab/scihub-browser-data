@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Max-Planck-Institut fur Sonnensystemforschung",
+  "journals": 1,
+  "scihub": 58,
+  "crossref_open_access": 64,
+  "crossref_active": 64,
+  "crossref": 64,
+  "coverage": 0.90625,
+  "publisher_slug": "max-planck-institut-fur-sonnensystemforschung",
+  "access_logs": {
+    "downloads": 0.5,
+    "visitors": 0.5,
+    "countries": 0.5,
+    "days": 0.5,
+    "months": 0.5,
+    "n_articles_requested": 2,
+    "n_articles": 4
+  }
+}

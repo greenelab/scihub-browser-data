@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Society for Information Science & Technology",
+  "journals": 2,
+  "scihub": 1291,
+  "crossref_open_access": 0,
+  "crossref_active": 0,
+  "crossref": 1295,
+  "coverage": 0.9969112,
+  "publisher_slug": "american-society-for-information-science-technology",
+  "access_logs": {
+    "downloads": 0.05556,
+    "visitors": 0.03472,
+    "countries": 0.02778,
+    "days": 0.04861,
+    "months": 0.02778,
+    "n_articles_requested": 2,
+    "n_articles": 144
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Jagiellonian University Press",
+  "journals": 3,
+  "scihub": 902,
+  "crossref_open_access": 0,
+  "crossref_active": 2055,
+  "crossref": 2055,
+  "coverage": 0.43892944,
+  "publisher_slug": "jagiellonian-university-press",
+  "access_logs": {
+    "downloads": 0.02194,
+    "visitors": 0.01724,
+    "countries": 0.01567,
+    "days": 0.02194,
+    "months": 0.02194,
+    "n_articles_requested": 10,
+    "n_articles": 638
+  }
+}

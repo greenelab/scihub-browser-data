@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Canadian Urological Association",
+  "journals": 1,
+  "scihub": 319,
+  "crossref_open_access": 0,
+  "crossref_active": 2771,
+  "crossref": 2771,
+  "coverage": 0.11512089,
+  "publisher_slug": "canadian-urological-association",
+  "access_logs": {
+    "downloads": 0.01705,
+    "visitors": 0.0155,
+    "countries": 0.01395,
+    "days": 0.0155,
+    "months": 0.0124,
+    "n_articles_requested": 7,
+    "n_articles": 645
+  }
+}

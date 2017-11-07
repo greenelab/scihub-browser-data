@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Wageningen Academic Publishers",
+  "journals": 5,
+  "scihub": 430,
+  "crossref_open_access": 0,
+  "crossref_active": 1669,
+  "crossref": 1669,
+  "coverage": 0.2576393,
+  "publisher_slug": "wageningen-academic-publishers",
+  "access_logs": {
+    "downloads": 0.33787,
+    "visitors": 0.28118,
+    "countries": 0.22222,
+    "days": 0.26077,
+    "months": 0.18141,
+    "n_articles_requested": 44,
+    "n_articles": 441
+  }
+}

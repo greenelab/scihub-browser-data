@@ -1,0 +1,19 @@
+{
+  "publisher_name": "The Policy Press",
+  "journals": 5,
+  "scihub": 2266,
+  "crossref_open_access": 0,
+  "crossref_active": 2614,
+  "crossref": 2614,
+  "coverage": 0.8668707,
+  "publisher_slug": "the-policy-press",
+  "access_logs": {
+    "downloads": 0.22222,
+    "visitors": 0.21886,
+    "countries": 0.20875,
+    "days": 0.21549,
+    "months": 0.19865,
+    "n_articles_requested": 47,
+    "n_articles": 297
+  }
+}

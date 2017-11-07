@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Universidad de La Sabana",
+  "journals": 2,
+  "scihub": 51,
+  "crossref_open_access": 484,
+  "crossref_active": 484,
+  "crossref": 484,
+  "coverage": 0.1053719,
+  "publisher_slug": "universidad-de-la-sabana",
+  "access_logs": {
+    "downloads": 0.00735,
+    "visitors": 0.00735,
+    "countries": 0.00735,
+    "days": 0.00735,
+    "months": 0.00735,
+    "n_articles_requested": 1,
+    "n_articles": 136
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Guilford Press",
+  "journals": 11,
+  "scihub": 5068,
+  "crossref_open_access": 0,
+  "crossref_active": 7220,
+  "crossref": 7798,
+  "coverage": 0.64991023,
+  "publisher_slug": "guilford-press",
+  "access_logs": {
+    "downloads": 0.58389,
+    "visitors": 0.52013,
+    "countries": 0.47148,
+    "days": 0.52685,
+    "months": 0.46309,
+    "n_articles_requested": 187,
+    "n_articles": 596
+  }
+}

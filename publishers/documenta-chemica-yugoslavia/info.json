@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Documenta Chemica Yugoslavia",
+  "journals": 1,
+  "scihub": 1071,
+  "crossref_open_access": 2131,
+  "crossref_active": 2131,
+  "crossref": 2131,
+  "coverage": 0.50258095,
+  "publisher_slug": "documenta-chemica-yugoslavia",
+  "access_logs": {
+    "downloads": 0.11069,
+    "visitors": 0.09542,
+    "countries": 0.08779,
+    "days": 0.10305,
+    "months": 0.08779,
+    "n_articles_requested": 22,
+    "n_articles": 262
+  }
+}

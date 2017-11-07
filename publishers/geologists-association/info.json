@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Geologists' Association",
+  "journals": 1,
+  "scihub": 6188,
+  "crossref_open_access": 0,
+  "crossref_active": 6267,
+  "crossref": 6267,
+  "coverage": 0.98739429,
+  "publisher_slug": "geologists-association",
+  "access_logs": {
+    "downloads": 0.5,
+    "visitors": 0.42857,
+    "countries": 0.38889,
+    "days": 0.40476,
+    "months": 0.34921,
+    "n_articles_requested": 29,
+    "n_articles": 126
+  }
+}

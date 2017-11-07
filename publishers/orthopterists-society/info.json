@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Orthopterist's Society",
+  "journals": 1,
+  "scihub": 615,
+  "crossref_open_access": 0,
+  "crossref_active": 615,
+  "crossref": 615,
+  "coverage": 1.0,
+  "publisher_slug": "orthopterists-society",
+  "access_logs": {
+    "downloads": 0.92308,
+    "visitors": 0.76923,
+    "countries": 0.53846,
+    "days": 0.61538,
+    "months": 0.53846,
+    "n_articles_requested": 5,
+    "n_articles": 13
+  }
+}

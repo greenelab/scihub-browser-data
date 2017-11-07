@@ -1,0 +1,19 @@
+{
+  "publisher_name": "The American Academy of Sleep Medicine",
+  "journals": 1,
+  "scihub": 20,
+  "crossref_open_access": 0,
+  "crossref_active": 1203,
+  "crossref": 1203,
+  "coverage": 0.0166251,
+  "publisher_slug": "the-american-academy-of-sleep-medicine",
+  "access_logs": {
+    "downloads": 0.00824,
+    "visitors": 0.00824,
+    "countries": 0.00824,
+    "days": 0.00824,
+    "months": 0.00824,
+    "n_articles_requested": 3,
+    "n_articles": 364
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "China University of Geosciences (Beijing) and Peking University",
+  "journals": 1,
+  "scihub": 526,
+  "crossref_open_access": 543,
+  "crossref_active": 543,
+  "crossref": 543,
+  "coverage": 0.96869245,
+  "publisher_slug": "china-university-of-geosciences-beijing-and-peking-university",
+  "access_logs": {
+    "downloads": 1.0177,
+    "visitors": 0.9292,
+    "countries": 0.76106,
+    "days": 0.90265,
+    "months": 0.69912,
+    "n_articles_requested": 48,
+    "n_articles": 113
+  }
+}

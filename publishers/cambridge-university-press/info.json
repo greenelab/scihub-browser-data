@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Cambridge University Press",
+  "journals": 357,
+  "scihub": 965635,
+  "crossref_open_access": 1148,
+  "crossref_active": 1114395,
+  "crossref": 1137914,
+  "coverage": 0.84860104,
+  "publisher_slug": "cambridge-university-press",
+  "access_logs": {
+    "downloads": 0.25285,
+    "visitors": 0.22892,
+    "countries": 0.19313,
+    "days": 0.22285,
+    "months": 0.18733,
+    "n_articles_requested": 6593,
+    "n_articles": 50904
+  }
+}

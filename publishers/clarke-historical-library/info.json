@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Clarke Historical Library",
+  "journals": 2,
+  "scihub": 1499,
+  "crossref_open_access": 0,
+  "crossref_active": 1553,
+  "crossref": 1553,
+  "coverage": 0.96522859,
+  "publisher_slug": "clarke-historical-library",
+  "access_logs": {
+    "downloads": 0.0101,
+    "visitors": 0.0101,
+    "countries": 0.0101,
+    "days": 0.0101,
+    "months": 0.0101,
+    "n_articles_requested": 1,
+    "n_articles": 99
+  }
+}

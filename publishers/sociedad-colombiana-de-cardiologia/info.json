@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Sociedad Colombiana De Cardiologia",
+  "journals": 1,
+  "scihub": 653,
+  "crossref_open_access": 0,
+  "crossref_active": 673,
+  "crossref": 673,
+  "coverage": 0.97028232,
+  "publisher_slug": "sociedad-colombiana-de-cardiologia",
+  "access_logs": {
+    "downloads": 0.888,
+    "visitors": 0.8,
+    "countries": 0.648,
+    "days": 0.8,
+    "months": 0.632,
+    "n_articles_requested": 49,
+    "n_articles": 125
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Torrey Botanical Society",
+  "journals": 1,
+  "scihub": 883,
+  "crossref_open_access": 0,
+  "crossref_active": 891,
+  "crossref": 891,
+  "coverage": 0.99102132,
+  "publisher_slug": "torrey-botanical-society",
+  "access_logs": {
+    "downloads": 0.57627,
+    "visitors": 0.54237,
+    "countries": 0.42373,
+    "days": 0.47458,
+    "months": 0.40678,
+    "n_articles_requested": 17,
+    "n_articles": 59
+  }
+}

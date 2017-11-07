@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Schools of Oriental Research",
+  "journals": 2,
+  "scihub": 2933,
+  "crossref_open_access": 0,
+  "crossref_active": 3013,
+  "crossref": 3013,
+  "coverage": 0.97344839,
+  "publisher_slug": "american-schools-of-oriental-research",
+  "access_logs": {
+    "downloads": 0.16071,
+    "visitors": 0.16071,
+    "countries": 0.14286,
+    "days": 0.16071,
+    "months": 0.15179,
+    "n_articles_requested": 26,
+    "n_articles": 224
+  }
+}

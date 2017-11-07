@@ -1,0 +1,19 @@
+{
+  "publisher_name": "IBM Corp.",
+  "journals": 2,
+  "scihub": 5381,
+  "crossref_open_access": 0,
+  "crossref_active": 4502,
+  "crossref": 6391,
+  "coverage": 0.84196526,
+  "publisher_slug": "ibm-corp",
+  "access_logs": {
+    "downloads": 4.2558,
+    "visitors": 3.7364,
+    "countries": 2.155,
+    "days": 3.3101,
+    "months": 1.7829,
+    "n_articles_requested": 85,
+    "n_articles": 129
+  }
+}

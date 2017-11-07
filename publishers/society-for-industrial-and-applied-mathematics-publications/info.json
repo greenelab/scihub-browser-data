@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Society for Industrial and Applied Mathematics Publications",
+  "journals": 1,
+  "scihub": 245,
+  "crossref_open_access": 0,
+  "crossref_active": 247,
+  "crossref": 247,
+  "coverage": 0.99190283,
+  "publisher_slug": "society-for-industrial-and-applied-mathematics-publications",
+  "access_logs": {
+    "downloads": 1.6857,
+    "visitors": 1.6571,
+    "countries": 1.4429,
+    "days": 1.6143,
+    "months": 1.2714,
+    "n_articles_requested": 60,
+    "n_articles": 70
+  }
+}

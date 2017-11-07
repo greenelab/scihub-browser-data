@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of South Bohemia",
+  "journals": 1,
+  "scihub": 131,
+  "crossref_open_access": 0,
+  "crossref_active": 140,
+  "crossref": 140,
+  "coverage": 0.93571429,
+  "publisher_slug": "university-of-south-bohemia",
+  "access_logs": {
+    "downloads": 0.66102,
+    "visitors": 0.59322,
+    "countries": 0.54237,
+    "days": 0.61017,
+    "months": 0.52542,
+    "n_articles_requested": 23,
+    "n_articles": 59
+  }
+}

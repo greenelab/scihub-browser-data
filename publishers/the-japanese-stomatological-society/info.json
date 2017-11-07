@@ -1,0 +1,19 @@
+{
+  "publisher_name": "The Japanese Stomatological Society",
+  "journals": 1,
+  "scihub": 194,
+  "crossref_open_access": 0,
+  "crossref_active": 196,
+  "crossref": 196,
+  "coverage": 0.98979592,
+  "publisher_slug": "the-japanese-stomatological-society",
+  "access_logs": {
+    "downloads": 1.4375,
+    "visitors": 1.1562,
+    "countries": 0.8125,
+    "days": 1.0938,
+    "months": 0.8125,
+    "n_articles_requested": 13,
+    "n_articles": 32
+  }
+}

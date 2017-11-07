@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Mammalogical Society of Japan",
+  "journals": 1,
+  "scihub": 365,
+  "crossref_open_access": 0,
+  "crossref_active": 524,
+  "crossref": 524,
+  "coverage": 0.69656489,
+  "publisher_slug": "mammalogical-society-of-japan",
+  "access_logs": {
+    "downloads": 0.91667,
+    "visitors": 0.8125,
+    "countries": 0.66667,
+    "days": 0.72917,
+    "months": 0.6875,
+    "n_articles_requested": 23,
+    "n_articles": 48
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Sociedad Espanola de Ceramica y Vidrio",
+  "journals": 1,
+  "scihub": 89,
+  "crossref_open_access": 0,
+  "crossref_active": 1100,
+  "crossref": 1100,
+  "coverage": 0.08090909,
+  "publisher_slug": "sociedad-espanola-de-ceramica-y-vidrio",
+  "access_logs": {
+    "downloads": 0.38028,
+    "visitors": 0.35211,
+    "countries": 0.30986,
+    "days": 0.35211,
+    "months": 0.30986,
+    "n_articles_requested": 13,
+    "n_articles": 71
+  }
+}

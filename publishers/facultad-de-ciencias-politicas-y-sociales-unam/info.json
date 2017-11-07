@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Facultad de Ciencias Politicas y Sociales, UNAM",
+  "journals": 1,
+  "scihub": 187,
+  "crossref_open_access": 189,
+  "crossref_active": 189,
+  "crossref": 189,
+  "coverage": 0.98941799,
+  "publisher_slug": "facultad-de-ciencias-politicas-y-sociales-unam",
+  "access_logs": {
+    "downloads": 0.15,
+    "visitors": 0.1375,
+    "countries": 0.125,
+    "days": 0.1375,
+    "months": 0.1375,
+    "n_articles_requested": 11,
+    "n_articles": 80
+  }
+}

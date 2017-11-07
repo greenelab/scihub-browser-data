@@ -1,0 +1,19 @@
+{
+  "publisher_name": "British Editorial Society of Bone and Joint Surgery",
+  "journals": 3,
+  "scihub": 4703,
+  "crossref_open_access": 0,
+  "crossref_active": 2226,
+  "crossref": 5973,
+  "coverage": 0.78737653,
+  "publisher_slug": "british-editorial-society-of-bone-and-joint-surgery",
+  "access_logs": {
+    "downloads": 0.76481,
+    "visitors": 0.68866,
+    "countries": 0.60237,
+    "days": 0.6599,
+    "months": 0.54653,
+    "n_articles_requested": 198,
+    "n_articles": 591
+  }
+}

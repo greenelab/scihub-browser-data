@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Association of Critical Care Nurses",
+  "journals": 2,
+  "scihub": 1423,
+  "crossref_open_access": 0,
+  "crossref_active": 1451,
+  "crossref": 1451,
+  "coverage": 0.98070296,
+  "publisher_slug": "american-association-of-critical-care-nurses",
+  "access_logs": {
+    "downloads": 0.98033,
+    "visitors": 0.88852,
+    "countries": 0.70164,
+    "days": 0.85902,
+    "months": 0.66885,
+    "n_articles_requested": 124,
+    "n_articles": 305
+  }
+}

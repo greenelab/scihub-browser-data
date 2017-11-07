@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Asociacion Europes de Direccion y Economia de la Empresa",
+  "journals": 1,
+  "scihub": 75,
+  "crossref_open_access": 0,
+  "crossref_active": 0,
+  "crossref": 75,
+  "coverage": 1.0,
+  "publisher_slug": "asociacion-europes-de-direccion-y-economia-de-la-empresa",
+  "access_logs": {
+    "downloads": 0.5,
+    "visitors": 0.5,
+    "countries": 0.46667,
+    "days": 0.5,
+    "months": 0.5,
+    "n_articles_requested": 11,
+    "n_articles": 30
+  }
+}

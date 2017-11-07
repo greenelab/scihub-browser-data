@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Transaction Periodicals Consortium",
+  "journals": 4,
+  "scihub": 2109,
+  "crossref_open_access": 0,
+  "crossref_active": 1807,
+  "crossref": 2213,
+  "coverage": 0.95300497,
+  "publisher_slug": "transaction-periodicals-consortium",
+  "access_logs": {
+    "downloads": 0.10359,
+    "visitors": 0.09562,
+    "countries": 0.08366,
+    "days": 0.09163,
+    "months": 0.06773,
+    "n_articles_requested": 11,
+    "n_articles": 251
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Australian Physiotherapy Association",
+  "journals": 2,
+  "scihub": 2088,
+  "crossref_open_access": 604,
+  "crossref_active": 604,
+  "crossref": 2104,
+  "coverage": 0.99239544,
+  "publisher_slug": "australian-physiotherapy-association",
+  "access_logs": {
+    "downloads": 1.8247,
+    "visitors": 1.6883,
+    "countries": 1.2208,
+    "days": 1.6234,
+    "months": 0.97403,
+    "n_articles_requested": 73,
+    "n_articles": 154
+  }
+}

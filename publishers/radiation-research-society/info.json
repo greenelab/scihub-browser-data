@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Radiation Research Society",
+  "journals": 1,
+  "scihub": 11701,
+  "crossref_open_access": 0,
+  "crossref_active": 11761,
+  "crossref": 11761,
+  "coverage": 0.99489839,
+  "publisher_slug": "radiation-research-society",
+  "access_logs": {
+    "downloads": 1.3556,
+    "visitors": 1.2218,
+    "countries": 0.92469,
+    "days": 1.1339,
+    "months": 0.90377,
+    "n_articles_requested": 115,
+    "n_articles": 239
+  }
+}

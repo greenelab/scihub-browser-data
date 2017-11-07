@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Institute of Malacology",
+  "journals": 1,
+  "scihub": 219,
+  "crossref_open_access": 0,
+  "crossref_active": 219,
+  "crossref": 219,
+  "coverage": 1.0,
+  "publisher_slug": "institute-of-malacology",
+  "access_logs": {
+    "downloads": 1.2,
+    "visitors": 1.0333,
+    "countries": 0.9,
+    "days": 1.1,
+    "months": 0.93333,
+    "n_articles_requested": 19,
+    "n_articles": 30
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Czech Academy of Sciences",
+  "journals": 1,
+  "scihub": 2,
+  "crossref_open_access": 0,
+  "crossref_active": 185,
+  "crossref": 185,
+  "coverage": 0.01081081,
+  "publisher_slug": "czech-academy-of-sciences",
+  "access_logs": {
+    "downloads": 0.04225,
+    "visitors": 0.04225,
+    "countries": 0.04225,
+    "days": 0.04225,
+    "months": 0.04225,
+    "n_articles_requested": 1,
+    "n_articles": 71
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Wuhan University of Technology",
+  "journals": 1,
+  "scihub": 2858,
+  "crossref_open_access": 0,
+  "crossref_active": 2903,
+  "crossref": 2903,
+  "coverage": 0.98449879,
+  "publisher_slug": "wuhan-university-of-technology",
+  "access_logs": {
+    "downloads": 1.0982,
+    "visitors": 1.0207,
+    "countries": 0.69251,
+    "days": 0.90698,
+    "months": 0.73902,
+    "n_articles_requested": 189,
+    "n_articles": 387
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Xi'an Jiaotong University",
+  "journals": 1,
+  "scihub": 402,
+  "crossref_open_access": 411,
+  "crossref_active": 411,
+  "crossref": 411,
+  "coverage": 0.97810219,
+  "publisher_slug": "xian-jiaotong-university",
+  "access_logs": {
+    "downloads": 2.5843,
+    "visitors": 2.3933,
+    "countries": 1.5281,
+    "days": 2.2584,
+    "months": 1.3258,
+    "n_articles_requested": 59,
+    "n_articles": 89
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "The Technical University of Lodz",
+  "journals": 1,
+  "scihub": 33,
+  "crossref_open_access": 49,
+  "crossref_active": 49,
+  "crossref": 49,
+  "coverage": 0.67346939,
+  "publisher_slug": "the-technical-university-of-lodz",
+  "access_logs": {
+    "downloads": 0.14286,
+    "visitors": 0.14286,
+    "countries": 0.14286,
+    "days": 0.14286,
+    "months": 0.14286,
+    "n_articles_requested": 1,
+    "n_articles": 7
+  }
+}

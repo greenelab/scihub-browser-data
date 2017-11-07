@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Ejmanager LLC",
+  "journals": 1,
+  "scihub": 5,
+  "crossref_open_access": 0,
+  "crossref_active": 226,
+  "crossref": 226,
+  "coverage": 0.02212389,
+  "publisher_slug": "ejmanager-llc",
+  "access_logs": {
+    "downloads": 0.02198,
+    "visitors": 0.02198,
+    "countries": 0.02198,
+    "days": 0.02198,
+    "months": 0.02198,
+    "n_articles_requested": 2,
+    "n_articles": 91
+  }
+}

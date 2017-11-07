@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Wydawnictwo Medyczne Urban i Partner",
+  "journals": 3,
+  "scihub": 2147,
+  "crossref_open_access": 1326,
+  "crossref_active": 2536,
+  "crossref": 2536,
+  "coverage": 0.84660883,
+  "publisher_slug": "wydawnictwo-medyczne-urban-i-partner",
+  "access_logs": {
+    "downloads": 0.37154,
+    "visitors": 0.34387,
+    "countries": 0.30435,
+    "days": 0.33597,
+    "months": 0.3083,
+    "n_articles_requested": 62,
+    "n_articles": 253
+  }
+}

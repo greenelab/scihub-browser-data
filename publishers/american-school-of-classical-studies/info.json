@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American School of Classical Studies",
+  "journals": 1,
+  "scihub": 1557,
+  "crossref_open_access": 0,
+  "crossref_active": 1752,
+  "crossref": 1752,
+  "coverage": 0.88869863,
+  "publisher_slug": "american-school-of-classical-studies",
+  "access_logs": {
+    "downloads": 0.98,
+    "visitors": 0.98,
+    "countries": 0.74,
+    "days": 0.98,
+    "months": 0.88,
+    "n_articles_requested": 26,
+    "n_articles": 50
+  }
+}

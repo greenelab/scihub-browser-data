@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Slovenska Technika Univerzita",
+  "journals": 1,
+  "scihub": 157,
+  "crossref_open_access": 0,
+  "crossref_active": 237,
+  "crossref": 237,
+  "coverage": 0.66244726,
+  "publisher_slug": "slovenska-technika-univerzita",
+  "access_logs": {
+    "downloads": 0.36842,
+    "visitors": 0.31579,
+    "countries": 0.21053,
+    "days": 0.31579,
+    "months": 0.31579,
+    "n_articles_requested": 4,
+    "n_articles": 19
+  }
+}

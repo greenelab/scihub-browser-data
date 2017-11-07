@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Japanese Association for Oral Biology",
+  "journals": 1,
+  "scihub": 465,
+  "crossref_open_access": 0,
+  "crossref_active": 739,
+  "crossref": 739,
+  "coverage": 0.62922869,
+  "publisher_slug": "japanese-association-for-oral-biology",
+  "access_logs": {
+    "downloads": 0.81034,
+    "visitors": 0.77586,
+    "countries": 0.67241,
+    "days": 0.7069,
+    "months": 0.58621,
+    "n_articles_requested": 24,
+    "n_articles": 58
+  }
+}

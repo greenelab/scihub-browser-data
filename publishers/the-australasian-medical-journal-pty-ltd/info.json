@@ -1,0 +1,19 @@
+{
+  "publisher_name": "The Australasian Medical Journal Pty. Ltd",
+  "journals": 1,
+  "scihub": 421,
+  "crossref_open_access": 738,
+  "crossref_active": 738,
+  "crossref": 738,
+  "coverage": 0.5704607,
+  "publisher_slug": "the-australasian-medical-journal-pty-ltd",
+  "access_logs": {
+    "downloads": 0.09244,
+    "visitors": 0.09244,
+    "countries": 0.09244,
+    "days": 0.09244,
+    "months": 0.08403,
+    "n_articles_requested": 10,
+    "n_articles": 119
+  }
+}

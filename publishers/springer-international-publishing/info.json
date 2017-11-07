@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Springer International Publishing",
+  "journals": 1,
+  "scihub": 741,
+  "crossref_open_access": 823,
+  "crossref_active": 823,
+  "crossref": 823,
+  "coverage": 0.90036452,
+  "publisher_slug": "springer-international-publishing",
+  "access_logs": {
+    "downloads": 0.57862,
+    "visitors": 0.53459,
+    "countries": 0.37736,
+    "days": 0.44025,
+    "months": 0.40252,
+    "n_articles_requested": 46,
+    "n_articles": 159
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Society of Transportation and Logistics",
+  "journals": 1,
+  "scihub": 211,
+  "crossref_open_access": 0,
+  "crossref_active": 226,
+  "crossref": 226,
+  "coverage": 0.93362832,
+  "publisher_slug": "american-society-of-transportation-and-logistics",
+  "access_logs": {
+    "downloads": 0.24286,
+    "visitors": 0.24286,
+    "countries": 0.2,
+    "days": 0.24286,
+    "months": 0.21429,
+    "n_articles_requested": 12,
+    "n_articles": 70
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Academy of Natural Sciences of Philadelphia",
+  "journals": 1,
+  "scihub": 186,
+  "crossref_open_access": 0,
+  "crossref_active": 188,
+  "crossref": 188,
+  "coverage": 0.9893617,
+  "publisher_slug": "academy-of-natural-sciences-of-philadelphia",
+  "access_logs": {
+    "downloads": 1.5385,
+    "visitors": 1.4231,
+    "countries": 1.2308,
+    "days": 1.3462,
+    "months": 1.0769,
+    "n_articles_requested": 18,
+    "n_articles": 26
+  }
+}

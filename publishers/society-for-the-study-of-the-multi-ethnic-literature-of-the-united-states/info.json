@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Society for the Study of the Multi-Ethnic Literature of the United States",
+  "journals": 1,
+  "scihub": 2271,
+  "crossref_open_access": 0,
+  "crossref_active": 2326,
+  "crossref": 2326,
+  "coverage": 0.97635426,
+  "publisher_slug": "society-for-the-study-of-the-multi-ethnic-literature-of-the-united-states",
+  "access_logs": {
+    "downloads": 0.11258,
+    "visitors": 0.11258,
+    "countries": 0.10596,
+    "days": 0.10596,
+    "months": 0.10596,
+    "n_articles_requested": 15,
+    "n_articles": 151
+  }
+}

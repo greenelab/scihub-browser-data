@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Cold Spring Harbor Laboratory Press",
+  "journals": 8,
+  "scihub": 20252,
+  "crossref_open_access": 0,
+  "crossref_active": 32782,
+  "crossref": 32782,
+  "coverage": 0.61777805,
+  "publisher_slug": "cold-spring-harbor-laboratory-press",
+  "access_logs": {
+    "downloads": 2.9402,
+    "visitors": 2.639,
+    "countries": 1.7668,
+    "days": 2.4382,
+    "months": 1.3646,
+    "n_articles_requested": 1354,
+    "n_articles": 2474
+  }
+}

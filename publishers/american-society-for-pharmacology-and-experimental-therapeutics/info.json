@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Society for Pharmacology and Experimental Therapeutics",
+  "journals": 5,
+  "scihub": 15833,
+  "crossref_open_access": 0,
+  "crossref_active": 15945,
+  "crossref": 16452,
+  "coverage": 0.9623754,
+  "publisher_slug": "american-society-for-pharmacology-and-experimental-therapeutics",
+  "access_logs": {
+    "downloads": 2.5844,
+    "visitors": 2.2396,
+    "countries": 1.4299,
+    "days": 1.926,
+    "months": 1.2635,
+    "n_articles_requested": 742,
+    "n_articles": 1256
+  }
+}

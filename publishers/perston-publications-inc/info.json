@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Perston Publications, Inc.",
+  "journals": 1,
+  "scihub": 4061,
+  "crossref_open_access": 0,
+  "crossref_active": 4115,
+  "crossref": 4115,
+  "coverage": 0.98687728,
+  "publisher_slug": "perston-publications-inc",
+  "access_logs": {
+    "downloads": 1.6226,
+    "visitors": 1.5358,
+    "countries": 1.2226,
+    "days": 1.4377,
+    "months": 1.1434,
+    "n_articles_requested": 146,
+    "n_articles": 265
+  }
+}

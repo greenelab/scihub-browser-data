@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Purdue University Press",
+  "journals": 5,
+  "scihub": 442,
+  "crossref_open_access": 1252,
+  "crossref_active": 4913,
+  "crossref": 4913,
+  "coverage": 0.0899654,
+  "publisher_slug": "purdue-university-press",
+  "access_logs": {
+    "downloads": 0.02375,
+    "visitors": 0.02111,
+    "countries": 0.01583,
+    "days": 0.02375,
+    "months": 0.02375,
+    "n_articles_requested": 8,
+    "n_articles": 379
+  }
+}

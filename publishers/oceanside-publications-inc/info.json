@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Oceanside Publications, Inc.",
+  "journals": 3,
+  "scihub": 4698,
+  "crossref_open_access": 0,
+  "crossref_active": 4800,
+  "crossref": 4889,
+  "coverage": 0.96093271,
+  "publisher_slug": "oceanside-publications-inc",
+  "access_logs": {
+    "downloads": 0.27845,
+    "visitors": 0.25908,
+    "countries": 0.20823,
+    "days": 0.25182,
+    "months": 0.15981,
+    "n_articles_requested": 27,
+    "n_articles": 413
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Royal Swedish Academy of Sciences",
+  "journals": 1,
+  "scihub": 2109,
+  "crossref_open_access": 0,
+  "crossref_active": 2199,
+  "crossref": 2199,
+  "coverage": 0.95907231,
+  "publisher_slug": "royal-swedish-academy-of-sciences",
+  "access_logs": {
+    "downloads": 1.6207,
+    "visitors": 1.5517,
+    "countries": 1.3103,
+    "days": 1.4828,
+    "months": 1.069,
+    "n_articles_requested": 18,
+    "n_articles": 29
+  }
+}

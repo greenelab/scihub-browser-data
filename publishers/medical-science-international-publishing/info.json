@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Medical Science International Publishing",
+  "journals": 2,
+  "scihub": 40,
+  "crossref_open_access": 2543,
+  "crossref_active": 2543,
+  "crossref": 2550,
+  "coverage": 0.01568627,
+  "publisher_slug": "medical-science-international-publishing",
+  "access_logs": {
+    "downloads": 0.0095,
+    "visitors": 0.0095,
+    "countries": 0.00831,
+    "days": 0.00831,
+    "months": 0.00713,
+    "n_articles_requested": 6,
+    "n_articles": 842
+  }
+}

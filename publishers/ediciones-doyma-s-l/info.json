@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Ediciones Doyma, S.L.",
+  "journals": 1,
+  "scihub": 151,
+  "crossref_open_access": 0,
+  "crossref_active": 152,
+  "crossref": 152,
+  "coverage": 0.99342105,
+  "publisher_slug": "ediciones-doyma-s-l",
+  "access_logs": {
+    "downloads": 0.58333,
+    "visitors": 0.58333,
+    "countries": 0.54167,
+    "days": 0.5,
+    "months": 0.375,
+    "n_articles_requested": 6,
+    "n_articles": 24
+  }
+}

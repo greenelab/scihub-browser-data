@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Walter de Gruyter",
+  "journals": 371,
+  "scihub": 327439,
+  "crossref_open_access": 26382,
+  "crossref_active": 407405,
+  "crossref": 443663,
+  "coverage": 0.7380354,
+  "publisher_slug": "walter-de-gruyter",
+  "access_logs": {
+    "downloads": 0.8189,
+    "visitors": 0.73112,
+    "countries": 0.55979,
+    "days": 0.70472,
+    "months": 0.5368,
+    "n_articles_requested": 8694,
+    "n_articles": 27841
+  }
+}

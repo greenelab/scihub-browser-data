@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Federation of American Societies for Experimental Biology",
+  "journals": 2,
+  "scihub": 11700,
+  "crossref_open_access": 0,
+  "crossref_active": 11781,
+  "crossref": 11781,
+  "coverage": 0.99312452,
+  "publisher_slug": "federation-of-american-societies-for-experimental-biology",
+  "access_logs": {
+    "downloads": 3.4334,
+    "visitors": 3.0212,
+    "countries": 1.9924,
+    "days": 2.7133,
+    "months": 1.676,
+    "n_articles_requested": 818,
+    "n_articles": 1179
+  }
+}

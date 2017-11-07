@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Association for Respiratory Care",
+  "journals": 1,
+  "scihub": 1592,
+  "crossref_open_access": 0,
+  "crossref_active": 1788,
+  "crossref": 1788,
+  "coverage": 0.89038031,
+  "publisher_slug": "american-association-for-respiratory-care",
+  "access_logs": {
+    "downloads": 3.7366,
+    "visitors": 3.3976,
+    "countries": 2.3537,
+    "days": 3.2146,
+    "months": 2.0024,
+    "n_articles_requested": 323,
+    "n_articles": 410
+  }
+}

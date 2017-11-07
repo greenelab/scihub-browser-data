@@ -1,0 +1,19 @@
+{
+  "publisher_name": "King Saud University",
+  "journals": 11,
+  "scihub": 7598,
+  "crossref_open_access": 7226,
+  "crossref_active": 7755,
+  "crossref": 7755,
+  "coverage": 0.979755,
+  "publisher_slug": "king-saud-university",
+  "access_logs": {
+    "downloads": 2.7459,
+    "visitors": 2.4795,
+    "countries": 1.6863,
+    "days": 2.4058,
+    "months": 1.5576,
+    "n_articles_requested": 1194,
+    "n_articles": 1779
+  }
+}

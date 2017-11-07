@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Association of Petroleum Geologists",
+  "journals": 2,
+  "scihub": 1268,
+  "crossref_open_access": 0,
+  "crossref_active": 46218,
+  "crossref": 46218,
+  "coverage": 0.0274352,
+  "publisher_slug": "american-association-of-petroleum-geologists",
+  "access_logs": {
+    "downloads": 1.2733,
+    "visitors": 1.0988,
+    "countries": 0.87209,
+    "days": 1.0291,
+    "months": 0.86628,
+    "n_articles_requested": 98,
+    "n_articles": 172
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Hellenic Society of Medical Oncology (He.S.M.O.)",
+  "journals": 1,
+  "scihub": 10,
+  "crossref_open_access": 37,
+  "crossref_active": 37,
+  "crossref": 37,
+  "coverage": 0.27027027,
+  "publisher_slug": "hellenic-society-of-medical-oncology-he-s-m-o",
+  "access_logs": {
+    "downloads": 0.06667,
+    "visitors": 0.06667,
+    "countries": 0.06667,
+    "days": 0.06667,
+    "months": 0.06667,
+    "n_articles_requested": 2,
+    "n_articles": 30
+  }
+}

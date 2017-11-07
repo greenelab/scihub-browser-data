@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Institute of Agricultural Medicine",
+  "journals": 1,
+  "scihub": 4,
+  "crossref_open_access": 514,
+  "crossref_active": 514,
+  "crossref": 514,
+  "coverage": 0.0077821,
+  "publisher_slug": "institute-of-agricultural-medicine",
+  "access_logs": {
+    "downloads": 0.00481,
+    "visitors": 0.00481,
+    "countries": 0.00481,
+    "days": 0.00481,
+    "months": 0.00481,
+    "n_articles_requested": 1,
+    "n_articles": 208
+  }
+}

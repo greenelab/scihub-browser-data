@@ -1,0 +1,19 @@
+{
+  "publisher_name": "SAGE",
+  "journals": 816,
+  "scihub": 1448041,
+  "crossref_open_access": 30989,
+  "crossref_active": 1557777,
+  "crossref": 1593717,
+  "coverage": 0.90859356,
+  "publisher_slug": "sage",
+  "access_logs": {
+    "downloads": 0.92122,
+    "visitors": 0.82698,
+    "countries": 0.64106,
+    "days": 0.77549,
+    "months": 0.5956,
+    "n_articles_requested": 31971,
+    "n_articles": 89867
+  }
+}

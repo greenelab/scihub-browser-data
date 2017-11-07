@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Colorado",
+  "journals": 2,
+  "scihub": 3032,
+  "crossref_open_access": 0,
+  "crossref_active": 1367,
+  "crossref": 3091,
+  "coverage": 0.98091233,
+  "publisher_slug": "university-of-colorado",
+  "access_logs": {
+    "downloads": 0.55488,
+    "visitors": 0.53049,
+    "countries": 0.40854,
+    "days": 0.46341,
+    "months": 0.39634,
+    "n_articles_requested": 50,
+    "n_articles": 164
+  }
+}

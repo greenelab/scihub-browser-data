@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Generalitat de Catalunya",
+  "journals": 1,
+  "scihub": 567,
+  "crossref_open_access": 0,
+  "crossref_active": 570,
+  "crossref": 570,
+  "coverage": 0.99473684,
+  "publisher_slug": "generalitat-de-catalunya",
+  "access_logs": {
+    "downloads": 3.5333,
+    "visitors": 3.2,
+    "countries": 1.7556,
+    "days": 2.8889,
+    "months": 1.6667,
+    "n_articles_requested": 29,
+    "n_articles": 45
+  }
+}

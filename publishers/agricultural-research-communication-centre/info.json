@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Agricultural Research Communication Centre",
+  "journals": 3,
+  "scihub": 412,
+  "crossref_open_access": 0,
+  "crossref_active": 1586,
+  "crossref": 1586,
+  "coverage": 0.25977301,
+  "publisher_slug": "agricultural-research-communication-centre",
+  "access_logs": {
+    "downloads": 0.04054,
+    "visitors": 0.03716,
+    "countries": 0.03547,
+    "days": 0.03885,
+    "months": 0.03547,
+    "n_articles_requested": 19,
+    "n_articles": 592
+  }
+}

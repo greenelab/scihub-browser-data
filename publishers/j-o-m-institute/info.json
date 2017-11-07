@@ -1,0 +1,19 @@
+{
+  "publisher_name": "J O M Institute",
+  "journals": 1,
+  "scihub": 9356,
+  "crossref_open_access": 0,
+  "crossref_active": 10825,
+  "crossref": 10825,
+  "coverage": 0.86429561,
+  "publisher_slug": "j-o-m-institute",
+  "access_logs": {
+    "downloads": 0.90026,
+    "visitors": 0.79134,
+    "countries": 0.6273,
+    "days": 0.74803,
+    "months": 0.6168,
+    "n_articles_requested": 289,
+    "n_articles": 762
+  }
+}

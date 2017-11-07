@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Psychological Society of Ireland",
+  "journals": 1,
+  "scihub": 864,
+  "crossref_open_access": 0,
+  "crossref_active": 867,
+  "crossref": 867,
+  "coverage": 0.99653979,
+  "publisher_slug": "psychological-society-of-ireland",
+  "access_logs": {
+    "downloads": 0.17647,
+    "visitors": 0.17647,
+    "countries": 0.17647,
+    "days": 0.17647,
+    "months": 0.17647,
+    "n_articles_requested": 3,
+    "n_articles": 17
+  }
+}

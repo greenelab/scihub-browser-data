@@ -1,0 +1,19 @@
+{
+  "publisher_name": "The Resilience Alliance",
+  "journals": 3,
+  "scihub": 448,
+  "crossref_open_access": 2032,
+  "crossref_active": 2032,
+  "crossref": 2360,
+  "coverage": 0.18983051,
+  "publisher_slug": "the-resilience-alliance",
+  "access_logs": {
+    "downloads": 0.02542,
+    "visitors": 0.02331,
+    "countries": 0.02331,
+    "days": 0.02331,
+    "months": 0.02331,
+    "n_articles_requested": 11,
+    "n_articles": 472
+  }
+}

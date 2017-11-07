@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Veterinary and Pharmaceutical Sciences",
+  "journals": 1,
+  "scihub": 497,
+  "crossref_open_access": 1827,
+  "crossref_active": 1827,
+  "crossref": 1827,
+  "coverage": 0.27203065,
+  "publisher_slug": "university-of-veterinary-and-pharmaceutical-sciences",
+  "access_logs": {
+    "downloads": 0.05185,
+    "visitors": 0.03704,
+    "countries": 0.03704,
+    "days": 0.03704,
+    "months": 0.03704,
+    "n_articles_requested": 5,
+    "n_articles": 135
+  }
+}

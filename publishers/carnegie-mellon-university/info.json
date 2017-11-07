@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Carnegie Mellon University",
+  "journals": 1,
+  "scihub": 293,
+  "crossref_open_access": 0,
+  "crossref_active": 581,
+  "crossref": 581,
+  "coverage": 0.50430293,
+  "publisher_slug": "carnegie-mellon-university",
+  "access_logs": {
+    "downloads": 0.01389,
+    "visitors": 0.01389,
+    "countries": 0.01389,
+    "days": 0.01389,
+    "months": 0.01389,
+    "n_articles_requested": 1,
+    "n_articles": 72
+  }
+}

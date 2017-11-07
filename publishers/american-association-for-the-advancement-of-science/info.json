@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Association for the Advancement of Science",
+  "journals": 6,
+  "scihub": 235865,
+  "crossref_open_access": 885,
+  "crossref_active": 267192,
+  "crossref": 268994,
+  "coverage": 0.87684112,
+  "publisher_slug": "american-association-for-the-advancement-of-science",
+  "access_logs": {
+    "downloads": 3.8844,
+    "visitors": 3.3288,
+    "countries": 1.6708,
+    "days": 2.7781,
+    "months": 1.1306,
+    "n_articles_requested": 3566,
+    "n_articles": 9224
+  }
+}

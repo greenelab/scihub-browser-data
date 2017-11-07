@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Universidad Nacional De Colombia",
+  "journals": 19,
+  "scihub": 15,
+  "crossref_open_access": 2284,
+  "crossref_active": 3411,
+  "crossref": 3411,
+  "coverage": 0.00439754,
+  "publisher_slug": "universidad-nacional-de-colombia",
+  "access_logs": {
+    "downloads": 0.00155,
+    "visitors": 0.00155,
+    "countries": 0.00155,
+    "days": 0.00155,
+    "months": 0.00155,
+    "n_articles_requested": 2,
+    "n_articles": 1287
+  }
+}

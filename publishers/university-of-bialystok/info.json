@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Bialystok",
+  "journals": 2,
+  "scihub": 138,
+  "crossref_open_access": 501,
+  "crossref_active": 151,
+  "crossref": 501,
+  "coverage": 0.2754491,
+  "publisher_slug": "university-of-bialystok",
+  "access_logs": {
+    "downloads": 0.05128,
+    "visitors": 0.05128,
+    "countries": 0.04487,
+    "days": 0.05128,
+    "months": 0.05128,
+    "n_articles_requested": 7,
+    "n_articles": 156
+  }
+}

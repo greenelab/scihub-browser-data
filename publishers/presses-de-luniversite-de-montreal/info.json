@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Presses de l'Universite de Montreal",
+  "journals": 4,
+  "scihub": 4749,
+  "crossref_open_access": 0,
+  "crossref_active": 5061,
+  "crossref": 7496,
+  "coverage": 0.63353789,
+  "publisher_slug": "presses-de-luniversite-de-montreal",
+  "access_logs": {
+    "downloads": 0.00699,
+    "visitors": 0.00699,
+    "countries": 0.00699,
+    "days": 0.00699,
+    "months": 0.00699,
+    "n_articles_requested": 2,
+    "n_articles": 286
+  }
+}

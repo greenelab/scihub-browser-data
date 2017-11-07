@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Universitat Politecnica de Catalunya",
+  "journals": 2,
+  "scihub": 202,
+  "crossref_open_access": 102,
+  "crossref_active": 304,
+  "crossref": 304,
+  "coverage": 0.66447368,
+  "publisher_slug": "universitat-politecnica-de-catalunya",
+  "access_logs": {
+    "downloads": 0.80952,
+    "visitors": 0.7619,
+    "countries": 0.67619,
+    "days": 0.7619,
+    "months": 0.55238,
+    "n_articles_requested": 37,
+    "n_articles": 105
+  }
+}

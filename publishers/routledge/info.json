@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Routledge",
+  "journals": 2,
+  "scihub": 1525,
+  "crossref_open_access": 0,
+  "crossref_active": 0,
+  "crossref": 1526,
+  "coverage": 0.99934469,
+  "publisher_slug": "routledge",
+  "access_logs": {
+    "downloads": 0.51613,
+    "visitors": 0.51613,
+    "countries": 0.41935,
+    "days": 0.45161,
+    "months": 0.3871,
+    "n_articles_requested": 9,
+    "n_articles": 31
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Physica-Verlag Gmbh und Co.",
+  "journals": 5,
+  "scihub": 2264,
+  "crossref_open_access": 0,
+  "crossref_active": 2145,
+  "crossref": 4134,
+  "coverage": 0.5476536,
+  "publisher_slug": "physica-verlag-gmbh-und-co",
+  "access_logs": {
+    "downloads": 0.4434,
+    "visitors": 0.41509,
+    "countries": 0.35849,
+    "days": 0.40566,
+    "months": 0.37736,
+    "n_articles_requested": 26,
+    "n_articles": 106
+  }
+}

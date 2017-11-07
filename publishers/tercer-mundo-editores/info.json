@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Tercer Mundo Editores",
+  "journals": 2,
+  "scihub": 184,
+  "crossref_open_access": 106,
+  "crossref_active": 294,
+  "crossref": 294,
+  "coverage": 0.62585034,
+  "publisher_slug": "tercer-mundo-editores",
+  "access_logs": {
+    "downloads": 0.49367,
+    "visitors": 0.4557,
+    "countries": 0.34177,
+    "days": 0.44304,
+    "months": 0.35443,
+    "n_articles_requested": 14,
+    "n_articles": 79
+  }
+}

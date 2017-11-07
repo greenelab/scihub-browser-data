@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Institute of Nuclear Chemistry and Technology",
+  "journals": 1,
+  "scihub": 134,
+  "crossref_open_access": 256,
+  "crossref_active": 256,
+  "crossref": 256,
+  "coverage": 0.5234375,
+  "publisher_slug": "institute-of-nuclear-chemistry-and-technology",
+  "access_logs": {
+    "downloads": 0.29609,
+    "visitors": 0.27933,
+    "countries": 0.24581,
+    "days": 0.28492,
+    "months": 0.26257,
+    "n_articles_requested": 33,
+    "n_articles": 179
+  }
+}

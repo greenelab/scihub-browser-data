@@ -1,0 +1,19 @@
+{
+  "publisher_name": "International Association for Plant Taxonomy",
+  "journals": 1,
+  "scihub": 8577,
+  "crossref_open_access": 0,
+  "crossref_active": 8769,
+  "crossref": 8769,
+  "coverage": 0.97810469,
+  "publisher_slug": "international-association-for-plant-taxonomy",
+  "access_logs": {
+    "downloads": 0.79849,
+    "visitors": 0.7204,
+    "countries": 0.56675,
+    "days": 0.6801,
+    "months": 0.51889,
+    "n_articles_requested": 114,
+    "n_articles": 397
+  }
+}

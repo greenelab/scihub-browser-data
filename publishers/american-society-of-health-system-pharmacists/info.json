@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Society of Health-System Pharmacists",
+  "journals": 1,
+  "scihub": 4530,
+  "crossref_open_access": 0,
+  "crossref_active": 4741,
+  "crossref": 4741,
+  "coverage": 0.95549462,
+  "publisher_slug": "american-society-of-health-system-pharmacists",
+  "access_logs": {
+    "downloads": 0.86526,
+    "visitors": 0.76299,
+    "countries": 0.61201,
+    "days": 0.69156,
+    "months": 0.51948,
+    "n_articles_requested": 188,
+    "n_articles": 616
+  }
+}

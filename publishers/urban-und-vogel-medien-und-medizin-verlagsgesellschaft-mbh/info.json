@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Urban und Vogel Medien und Medizin Verlagsgesellschaft mbH",
+  "journals": 12,
+  "scihub": 20949,
+  "crossref_open_access": 0,
+  "crossref_active": 14683,
+  "crossref": 21085,
+  "coverage": 0.99354992,
+  "publisher_slug": "urban-und-vogel-medien-und-medizin-verlagsgesellschaft-mbh",
+  "access_logs": {
+    "downloads": 0.98264,
+    "visitors": 0.90885,
+    "countries": 0.77865,
+    "days": 0.88368,
+    "months": 0.71615,
+    "n_articles_requested": 471,
+    "n_articles": 1152
+  }
+}

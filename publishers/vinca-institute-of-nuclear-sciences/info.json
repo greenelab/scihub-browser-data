@@ -1,0 +1,19 @@
+{
+  "publisher_name": "VINCA Institute of Nuclear Sciences",
+  "journals": 2,
+  "scihub": 704,
+  "crossref_open_access": 2842,
+  "crossref_active": 2842,
+  "crossref": 2842,
+  "coverage": 0.24771288,
+  "publisher_slug": "vinca-institute-of-nuclear-sciences",
+  "access_logs": {
+    "downloads": 0.01102,
+    "visitors": 0.01102,
+    "countries": 0.00826,
+    "days": 0.01102,
+    "months": 0.00964,
+    "n_articles_requested": 5,
+    "n_articles": 726
+  }
+}

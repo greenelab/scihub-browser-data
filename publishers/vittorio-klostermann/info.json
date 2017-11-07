@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Vittorio Klostermann",
+  "journals": 5,
+  "scihub": 744,
+  "crossref_open_access": 0,
+  "crossref_active": 2573,
+  "crossref": 2664,
+  "coverage": 0.27927928,
+  "publisher_slug": "vittorio-klostermann",
+  "access_logs": {
+    "downloads": 0.01347,
+    "visitors": 0.01347,
+    "countries": 0.01347,
+    "days": 0.01347,
+    "months": 0.01347,
+    "n_articles_requested": 3,
+    "n_articles": 297
+  }
+}

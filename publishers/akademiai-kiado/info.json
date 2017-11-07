@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Akademiai Kiado",
+  "journals": 59,
+  "scihub": 19569,
+  "crossref_open_access": 258,
+  "crossref_active": 20764,
+  "crossref": 37422,
+  "coverage": 0.52292769,
+  "publisher_slug": "akademiai-kiado",
+  "access_logs": {
+    "downloads": 0.08383,
+    "visitors": 0.07271,
+    "countries": 0.0588,
+    "days": 0.07112,
+    "months": 0.05125,
+    "n_articles_requested": 81,
+    "n_articles": 2517
+  }
+}

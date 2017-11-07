@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Association of College and Research Libraies",
+  "journals": 1,
+  "scihub": 921,
+  "crossref_open_access": 6839,
+  "crossref_active": 6839,
+  "crossref": 6839,
+  "coverage": 0.13466881,
+  "publisher_slug": "association-of-college-and-research-libraies",
+  "access_logs": {
+    "downloads": 0.12381,
+    "visitors": 0.12381,
+    "countries": 0.12381,
+    "days": 0.12381,
+    "months": 0.11429,
+    "n_articles_requested": 9,
+    "n_articles": 105
+  }
+}

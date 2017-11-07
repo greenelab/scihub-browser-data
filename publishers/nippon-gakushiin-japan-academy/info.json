@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Nippon Gakushiin/Japan Academy",
+  "journals": 2,
+  "scihub": 2715,
+  "crossref_open_access": 2436,
+  "crossref_active": 5270,
+  "crossref": 5270,
+  "coverage": 0.51518027,
+  "publisher_slug": "nippon-gakushiin-japan-academy",
+  "access_logs": {
+    "downloads": 0.00775,
+    "visitors": 0.00775,
+    "countries": 0.00775,
+    "days": 0.00775,
+    "months": 0.00775,
+    "n_articles_requested": 1,
+    "n_articles": 129
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Gebruder Borntraeger Verlagsbuchhandlung",
+  "journals": 5,
+  "scihub": 2351,
+  "crossref_open_access": 1057,
+  "crossref_active": 3921,
+  "crossref": 3921,
+  "coverage": 0.59959194,
+  "publisher_slug": "gebruder-borntraeger-verlagsbuchhandlung",
+  "access_logs": {
+    "downloads": 0.31268,
+    "visitors": 0.27606,
+    "countries": 0.25915,
+    "days": 0.28451,
+    "months": 0.2169,
+    "n_articles_requested": 62,
+    "n_articles": 355
+  }
+}

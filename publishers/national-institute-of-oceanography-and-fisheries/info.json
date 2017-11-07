@@ -1,0 +1,19 @@
+{
+  "publisher_name": "National Institute of Oceanography and Fisheries",
+  "journals": 1,
+  "scihub": 219,
+  "crossref_open_access": 223,
+  "crossref_active": 223,
+  "crossref": 223,
+  "coverage": 0.98206278,
+  "publisher_slug": "national-institute-of-oceanography-and-fisheries",
+  "access_logs": {
+    "downloads": 1.4699,
+    "visitors": 1.3373,
+    "countries": 1.1687,
+    "days": 1.3253,
+    "months": 1.0843,
+    "n_articles_requested": 55,
+    "n_articles": 83
+  }
+}

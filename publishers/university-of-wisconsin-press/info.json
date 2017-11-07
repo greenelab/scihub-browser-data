@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Wisconsin Press",
+  "journals": 10,
+  "scihub": 10815,
+  "crossref_open_access": 0,
+  "crossref_active": 14867,
+  "crossref": 15884,
+  "coverage": 0.68087384,
+  "publisher_slug": "university-of-wisconsin-press",
+  "access_logs": {
+    "downloads": 0.29053,
+    "visitors": 0.26589,
+    "countries": 0.22568,
+    "days": 0.24514,
+    "months": 0.21012,
+    "n_articles_requested": 118,
+    "n_articles": 771
+  }
+}

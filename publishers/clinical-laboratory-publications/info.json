@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Clinical Laboratory Publications",
+  "journals": 1,
+  "scihub": 9,
+  "crossref_open_access": 0,
+  "crossref_active": 1259,
+  "crossref": 1259,
+  "coverage": 0.00714853,
+  "publisher_slug": "clinical-laboratory-publications",
+  "access_logs": {
+    "downloads": 0.00355,
+    "visitors": 0.00355,
+    "countries": 0.00355,
+    "days": 0.00355,
+    "months": 0.00355,
+    "n_articles_requested": 2,
+    "n_articles": 564
+  }
+}

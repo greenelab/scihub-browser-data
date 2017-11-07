@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Association for Education in Journalism and Mass Communication",
+  "journals": 1,
+  "scihub": 121,
+  "crossref_open_access": 0,
+  "crossref_active": 127,
+  "crossref": 127,
+  "coverage": 0.95275591,
+  "publisher_slug": "association-for-education-in-journalism-and-mass-communication",
+  "access_logs": {
+    "downloads": 0.16667,
+    "visitors": 0.16667,
+    "countries": 0.16667,
+    "days": 0.16667,
+    "months": 0.16667,
+    "n_articles_requested": 2,
+    "n_articles": 12
+  }
+}

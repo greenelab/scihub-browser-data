@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Waterbird Society",
+  "journals": 2,
+  "scihub": 2308,
+  "crossref_open_access": 0,
+  "crossref_active": 1469,
+  "crossref": 2359,
+  "coverage": 0.97838067,
+  "publisher_slug": "waterbird-society",
+  "access_logs": {
+    "downloads": 0.52381,
+    "visitors": 0.47619,
+    "countries": 0.46667,
+    "days": 0.47619,
+    "months": 0.45714,
+    "n_articles_requested": 36,
+    "n_articles": 105
+  }
+}

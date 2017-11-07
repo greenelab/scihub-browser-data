@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Sociedade Brasileira de Quimica",
+  "journals": 1,
+  "scihub": 43,
+  "crossref_open_access": 4895,
+  "crossref_active": 4895,
+  "crossref": 4895,
+  "coverage": 0.00878447,
+  "publisher_slug": "sociedade-brasileira-de-quimica",
+  "access_logs": {
+    "downloads": 0.01406,
+    "visitors": 0.01205,
+    "countries": 0.01004,
+    "days": 0.01205,
+    "months": 0.00803,
+    "n_articles_requested": 3,
+    "n_articles": 498
+  }
+}

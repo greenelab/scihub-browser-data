@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Universities Federation for Animal Welfare",
+  "journals": 1,
+  "scihub": 258,
+  "crossref_open_access": 0,
+  "crossref_active": 308,
+  "crossref": 308,
+  "coverage": 0.83766234,
+  "publisher_slug": "universities-federation-for-animal-welfare",
+  "access_logs": {
+    "downloads": 0.14286,
+    "visitors": 0.12987,
+    "countries": 0.12987,
+    "days": 0.12987,
+    "months": 0.12987,
+    "n_articles_requested": 8,
+    "n_articles": 77
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Sociedad Chilena de Pediatria",
+  "journals": 1,
+  "scihub": 215,
+  "crossref_open_access": 3785,
+  "crossref_active": 3785,
+  "crossref": 3785,
+  "coverage": 0.05680317,
+  "publisher_slug": "sociedad-chilena-de-pediatria",
+  "access_logs": {
+    "downloads": 1.3464,
+    "visitors": 1.1699,
+    "countries": 0.65359,
+    "days": 1.0261,
+    "months": 0.64052,
+    "n_articles_requested": 39,
+    "n_articles": 153
+  }
+}

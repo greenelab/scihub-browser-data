@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Greenleaf Publishing",
+  "journals": 2,
+  "scihub": 305,
+  "crossref_open_access": 0,
+  "crossref_active": 61,
+  "crossref": 328,
+  "coverage": 0.92987805,
+  "publisher_slug": "greenleaf-publishing",
+  "access_logs": {
+    "downloads": 0.02703,
+    "visitors": 0.02703,
+    "countries": 0.02703,
+    "days": 0.02703,
+    "months": 0.02703,
+    "n_articles_requested": 1,
+    "n_articles": 37
+  }
+}

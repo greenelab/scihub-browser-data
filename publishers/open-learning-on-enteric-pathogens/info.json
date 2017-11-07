@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Open Learning on Enteric Pathogens",
+  "journals": 1,
+  "scihub": 435,
+  "crossref_open_access": 0,
+  "crossref_active": 1563,
+  "crossref": 1563,
+  "coverage": 0.27831094,
+  "publisher_slug": "open-learning-on-enteric-pathogens",
+  "access_logs": {
+    "downloads": 0.11364,
+    "visitors": 0.11364,
+    "countries": 0.09848,
+    "days": 0.10859,
+    "months": 0.10354,
+    "n_articles_requested": 36,
+    "n_articles": 396
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Canadian Pharmacists Association",
+  "journals": 1,
+  "scihub": 702,
+  "crossref_open_access": 0,
+  "crossref_active": 1548,
+  "crossref": 1548,
+  "coverage": 0.45348837,
+  "publisher_slug": "canadian-pharmacists-association",
+  "access_logs": {
+    "downloads": 0.21239,
+    "visitors": 0.21239,
+    "countries": 0.19469,
+    "days": 0.19469,
+    "months": 0.19469,
+    "n_articles_requested": 18,
+    "n_articles": 113
+  }
+}

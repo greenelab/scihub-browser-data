@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Scientific.net",
+  "journals": 1,
+  "scihub": 10280,
+  "crossref_open_access": 0,
+  "crossref_active": 10646,
+  "crossref": 10646,
+  "coverage": 0.96562089,
+  "publisher_slug": "scientific-net",
+  "access_logs": {
+    "downloads": 0.58682,
+    "visitors": 0.52946,
+    "countries": 0.41938,
+    "days": 0.51783,
+    "months": 0.45116,
+    "n_articles_requested": 407,
+    "n_articles": 1290
+  }
+}

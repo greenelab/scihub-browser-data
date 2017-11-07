@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Egyptian Society of Anaesthesiologists",
+  "journals": 1,
+  "scihub": 455,
+  "crossref_open_access": 471,
+  "crossref_active": 471,
+  "crossref": 471,
+  "coverage": 0.96602972,
+  "publisher_slug": "egyptian-society-of-anaesthesiologists",
+  "access_logs": {
+    "downloads": 0.34646,
+    "visitors": 0.34646,
+    "countries": 0.29134,
+    "days": 0.33858,
+    "months": 0.30709,
+    "n_articles_requested": 32,
+    "n_articles": 127
+  }
+}

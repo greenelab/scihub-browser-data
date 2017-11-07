@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Fundacao de Pesquisas Cientificas de Ribeirao Preto",
+  "journals": 1,
+  "scihub": 198,
+  "crossref_open_access": 6944,
+  "crossref_active": 6944,
+  "crossref": 6944,
+  "coverage": 0.02851382,
+  "publisher_slug": "fundacao-de-pesquisas-cientificas-de-ribeirao-preto",
+  "access_logs": {
+    "downloads": 0.00469,
+    "visitors": 0.00469,
+    "countries": 0.00312,
+    "days": 0.00375,
+    "months": 0.00344,
+    "n_articles_requested": 11,
+    "n_articles": 3200
+  }
+}

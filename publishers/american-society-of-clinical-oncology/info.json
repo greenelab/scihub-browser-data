@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Society of Clinical Oncology",
+  "journals": 3,
+  "scihub": 18590,
+  "crossref_open_access": 0,
+  "crossref_active": 55526,
+  "crossref": 55526,
+  "coverage": 0.33479811,
+  "publisher_slug": "american-society-of-clinical-oncology",
+  "access_logs": {
+    "downloads": 0.75773,
+    "visitors": 0.67287,
+    "countries": 0.43694,
+    "days": 0.61375,
+    "months": 0.3494,
+    "n_articles_requested": 752,
+    "n_articles": 5209
+  }
+}

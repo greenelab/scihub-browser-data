@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Grupo Aula Medica S.A.",
+  "journals": 2,
+  "scihub": 279,
+  "crossref_open_access": 339,
+  "crossref_active": 626,
+  "crossref": 626,
+  "coverage": 0.4456869,
+  "publisher_slug": "grupo-aula-medica-s-a",
+  "access_logs": {
+    "downloads": 2.0,
+    "visitors": 1.875,
+    "countries": 1.1875,
+    "days": 1.6875,
+    "months": 1.1458,
+    "n_articles_requested": 27,
+    "n_articles": 48
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Institute of Crop Sciences (ICS)",
+  "journals": 1,
+  "scihub": 234,
+  "crossref_open_access": 243,
+  "crossref_active": 243,
+  "crossref": 243,
+  "coverage": 0.96296296,
+  "publisher_slug": "institute-of-crop-sciences-ics",
+  "access_logs": {
+    "downloads": 0.73196,
+    "visitors": 0.64948,
+    "countries": 0.53608,
+    "days": 0.65979,
+    "months": 0.56701,
+    "n_articles_requested": 44,
+    "n_articles": 97
+  }
+}

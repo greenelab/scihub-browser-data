@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Association of Immunologists",
+  "journals": 1,
+  "scihub": 28457,
+  "crossref_open_access": 0,
+  "crossref_active": 28505,
+  "crossref": 28505,
+  "coverage": 0.99831608,
+  "publisher_slug": "american-association-of-immunologists",
+  "access_logs": {
+    "downloads": 3.0252,
+    "visitors": 2.6236,
+    "countries": 1.6506,
+    "days": 2.3398,
+    "months": 1.5016,
+    "n_articles_requested": 1405,
+    "n_articles": 2181
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Methodist DeBakey Heart & Vascular Center",
+  "journals": 1,
+  "scihub": 584,
+  "crossref_open_access": 617,
+  "crossref_active": 617,
+  "crossref": 617,
+  "coverage": 0.9465154,
+  "publisher_slug": "methodist-debakey-heart-vascular-center",
+  "access_logs": {
+    "downloads": 0.09565,
+    "visitors": 0.09565,
+    "countries": 0.08696,
+    "days": 0.09565,
+    "months": 0.08696,
+    "n_articles_requested": 9,
+    "n_articles": 115
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Fundacion Privada Educacion Medica",
+  "journals": 1,
+  "scihub": 134,
+  "crossref_open_access": 0,
+  "crossref_active": 581,
+  "crossref": 581,
+  "coverage": 0.23063683,
+  "publisher_slug": "fundacion-privada-educacion-medica",
+  "access_logs": {
+    "downloads": 0.43333,
+    "visitors": 0.4,
+    "countries": 0.36667,
+    "days": 0.4,
+    "months": 0.36667,
+    "n_articles_requested": 7,
+    "n_articles": 30
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Agencja Wydawnicza ARIES",
+  "journals": 1,
+  "scihub": 2990,
+  "crossref_open_access": 0,
+  "crossref_active": 3024,
+  "crossref": 3024,
+  "coverage": 0.98875661,
+  "publisher_slug": "agencja-wydawnicza-aries",
+  "access_logs": {
+    "downloads": 1.7396,
+    "visitors": 1.5142,
+    "countries": 1.1488,
+    "days": 1.5011,
+    "months": 1.1072,
+    "n_articles_requested": 281,
+    "n_articles": 457
+  }
+}

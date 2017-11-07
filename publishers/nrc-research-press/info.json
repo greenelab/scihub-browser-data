@@ -1,0 +1,19 @@
+{
+  "publisher_name": "NRC Research Press",
+  "journals": 16,
+  "scihub": 133464,
+  "crossref_open_access": 0,
+  "crossref_active": 130553,
+  "crossref": 146616,
+  "coverage": 0.91029628,
+  "publisher_slug": "nrc-research-press",
+  "access_logs": {
+    "downloads": 1.8203,
+    "visitors": 1.5722,
+    "countries": 1.1428,
+    "days": 1.473,
+    "months": 1.0712,
+    "n_articles_requested": 1758,
+    "n_articles": 3116
+  }
+}

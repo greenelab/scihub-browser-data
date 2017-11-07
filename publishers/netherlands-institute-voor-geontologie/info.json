@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Netherlands Institute voor Geontologie",
+  "journals": 1,
+  "scihub": 653,
+  "crossref_open_access": 0,
+  "crossref_active": 668,
+  "crossref": 668,
+  "coverage": 0.97754491,
+  "publisher_slug": "netherlands-institute-voor-geontologie",
+  "access_logs": {
+    "downloads": 0.14286,
+    "visitors": 0.14286,
+    "countries": 0.14286,
+    "days": 0.13095,
+    "months": 0.13095,
+    "n_articles_requested": 10,
+    "n_articles": 84
+  }
+}

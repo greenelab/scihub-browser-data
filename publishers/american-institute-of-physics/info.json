@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Institute of Physics",
+  "journals": 29,
+  "scihub": 533464,
+  "crossref_open_access": 7061,
+  "crossref_active": 556675,
+  "crossref": 594776,
+  "coverage": 0.89691581,
+  "publisher_slug": "american-institute-of-physics",
+  "access_logs": {
+    "downloads": 1.0819,
+    "visitors": 0.94561,
+    "countries": 0.71649,
+    "days": 0.90149,
+    "months": 0.71646,
+    "n_articles_requested": 13076,
+    "n_articles": 30059
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Fundacja Polski Przeglad Chirurgiczny",
+  "journals": 1,
+  "scihub": 523,
+  "crossref_open_access": 996,
+  "crossref_active": 996,
+  "crossref": 996,
+  "coverage": 0.5251004,
+  "publisher_slug": "fundacja-polski-przeglad-chirurgiczny",
+  "access_logs": {
+    "downloads": 0.49275,
+    "visitors": 0.44928,
+    "countries": 0.42995,
+    "days": 0.44444,
+    "months": 0.4058,
+    "n_articles_requested": 64,
+    "n_articles": 207
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Society of Consultant Pharmacists",
+  "journals": 1,
+  "scihub": 406,
+  "crossref_open_access": 0,
+  "crossref_active": 1008,
+  "crossref": 1008,
+  "coverage": 0.40277778,
+  "publisher_slug": "american-society-of-consultant-pharmacists",
+  "access_logs": {
+    "downloads": 0.64925,
+    "visitors": 0.63433,
+    "countries": 0.51493,
+    "days": 0.5597,
+    "months": 0.42537,
+    "n_articles_requested": 35,
+    "n_articles": 134
+  }
+}

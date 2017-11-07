@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Psychological Association",
+  "journals": 75,
+  "scihub": 147816,
+  "crossref_open_access": 389,
+  "crossref_active": 200324,
+  "crossref": 220982,
+  "coverage": 0.66890516,
+  "publisher_slug": "american-psychological-association",
+  "access_logs": {
+    "downloads": 0.23101,
+    "visitors": 0.20351,
+    "countries": 0.16739,
+    "days": 0.18955,
+    "months": 0.15466,
+    "n_articles_requested": 1006,
+    "n_articles": 9744
+  }
+}

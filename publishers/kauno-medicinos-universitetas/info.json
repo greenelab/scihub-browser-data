@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Kauno Medicinos Universitetas",
+  "journals": 1,
+  "scihub": 181,
+  "crossref_open_access": 188,
+  "crossref_active": 188,
+  "crossref": 188,
+  "coverage": 0.96276596,
+  "publisher_slug": "kauno-medicinos-universitetas",
+  "access_logs": {
+    "downloads": 0.66667,
+    "visitors": 0.60185,
+    "countries": 0.5,
+    "days": 0.60185,
+    "months": 0.52778,
+    "n_articles_requested": 40,
+    "n_articles": 108
+  }
+}

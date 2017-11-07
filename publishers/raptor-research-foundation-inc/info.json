@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Raptor Research Foundation, Inc.",
+  "journals": 1,
+  "scihub": 685,
+  "crossref_open_access": 0,
+  "crossref_active": 689,
+  "crossref": 689,
+  "coverage": 0.99419448,
+  "publisher_slug": "raptor-research-foundation-inc",
+  "access_logs": {
+    "downloads": 0.85714,
+    "visitors": 0.7619,
+    "countries": 0.64286,
+    "days": 0.70238,
+    "months": 0.64286,
+    "n_articles_requested": 40,
+    "n_articles": 84
+  }
+}

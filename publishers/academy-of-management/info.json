@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Academy of Management",
+  "journals": 4,
+  "scihub": 6607,
+  "crossref_open_access": 0,
+  "crossref_active": 10107,
+  "crossref": 10597,
+  "coverage": 0.62347834,
+  "publisher_slug": "academy-of-management",
+  "access_logs": {
+    "downloads": 5.6312,
+    "visitors": 4.9668,
+    "countries": 2.9767,
+    "days": 4.2159,
+    "months": 2.2093,
+    "n_articles_requested": 242,
+    "n_articles": 301
+  }
+}

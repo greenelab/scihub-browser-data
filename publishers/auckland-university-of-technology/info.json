@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Auckland University of Technology",
+  "journals": 2,
+  "scihub": 1,
+  "crossref_open_access": 11,
+  "crossref_active": 231,
+  "crossref": 231,
+  "coverage": 0.004329,
+  "publisher_slug": "auckland-university-of-technology",
+  "access_logs": {
+    "downloads": 0.0,
+    "visitors": 0.0,
+    "countries": 0.0,
+    "days": 0.0,
+    "months": 0.0,
+    "n_articles_requested": 0,
+    "n_articles": 63
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Termedia Publishing House Ltd.",
+  "journals": 17,
+  "scihub": 860,
+  "crossref_open_access": 4997,
+  "crossref_active": 6570,
+  "crossref": 6570,
+  "coverage": 0.13089802,
+  "publisher_slug": "termedia-publishing-house-ltd",
+  "access_logs": {
+    "downloads": 0.0587,
+    "visitors": 0.05609,
+    "countries": 0.05,
+    "days": 0.05652,
+    "months": 0.0513,
+    "n_articles_requested": 82,
+    "n_articles": 2300
+  }
+}

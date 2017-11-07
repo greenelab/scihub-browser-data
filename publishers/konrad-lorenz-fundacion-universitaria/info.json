@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Konrad Lorenz Fundacion Universitaria",
+  "journals": 1,
+  "scihub": 64,
+  "crossref_open_access": 68,
+  "crossref_active": 68,
+  "crossref": 68,
+  "coverage": 0.94117647,
+  "publisher_slug": "konrad-lorenz-fundacion-universitaria",
+  "access_logs": {
+    "downloads": 0.18605,
+    "visitors": 0.18605,
+    "countries": 0.18605,
+    "days": 0.18605,
+    "months": 0.18605,
+    "n_articles_requested": 7,
+    "n_articles": 43
+  }
+}

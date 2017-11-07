@@ -1,0 +1,19 @@
+{
+  "publisher_name": "OpenJournals Publishing AOSIS (Pty) Ltd",
+  "journals": 18,
+  "scihub": 1374,
+  "crossref_open_access": 15536,
+  "crossref_active": 15689,
+  "crossref": 15718,
+  "coverage": 0.0874157,
+  "publisher_slug": "openjournals-publishing-aosis-pty-ltd",
+  "access_logs": {
+    "downloads": 0.00441,
+    "visitors": 0.00441,
+    "countries": 0.00294,
+    "days": 0.00441,
+    "months": 0.00441,
+    "n_articles_requested": 5,
+    "n_articles": 1359
+  }
+}

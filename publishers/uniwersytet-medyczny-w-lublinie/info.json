@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Uniwersytet Medyczny w Lublinie",
+  "journals": 1,
+  "scihub": 14,
+  "crossref_open_access": 182,
+  "crossref_active": 182,
+  "crossref": 182,
+  "coverage": 0.07692308,
+  "publisher_slug": "uniwersytet-medyczny-w-lublinie",
+  "access_logs": {
+    "downloads": 0.2,
+    "visitors": 0.2,
+    "countries": 0.2,
+    "days": 0.2,
+    "months": 0.2,
+    "n_articles_requested": 3,
+    "n_articles": 15
+  }
+}

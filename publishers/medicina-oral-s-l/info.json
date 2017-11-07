@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Medicina Oral S.L",
+  "journals": 2,
+  "scihub": 115,
+  "crossref_open_access": 2446,
+  "crossref_active": 2446,
+  "crossref": 2446,
+  "coverage": 0.04701554,
+  "publisher_slug": "medicina-oral-s-l",
+  "access_logs": {
+    "downloads": 0.01203,
+    "visitors": 0.01203,
+    "countries": 0.01053,
+    "days": 0.01053,
+    "months": 0.01053,
+    "n_articles_requested": 7,
+    "n_articles": 665
+  }
+}

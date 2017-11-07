@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Ibn Sina Trust",
+  "journals": 1,
+  "scihub": 149,
+  "crossref_open_access": 675,
+  "crossref_active": 675,
+  "crossref": 675,
+  "coverage": 0.22074074,
+  "publisher_slug": "ibn-sina-trust",
+  "access_logs": {
+    "downloads": 0.01274,
+    "visitors": 0.01274,
+    "countries": 0.01274,
+    "days": 0.01274,
+    "months": 0.01274,
+    "n_articles_requested": 2,
+    "n_articles": 157
+  }
+}

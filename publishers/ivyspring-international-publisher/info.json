@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Ivyspring International Publisher",
+  "journals": 4,
+  "scihub": 186,
+  "crossref_open_access": 3945,
+  "crossref_active": 3945,
+  "crossref": 3945,
+  "coverage": 0.04714829,
+  "publisher_slug": "ivyspring-international-publisher",
+  "access_logs": {
+    "downloads": 0.08483,
+    "visitors": 0.07485,
+    "countries": 0.06287,
+    "days": 0.06986,
+    "months": 0.05788,
+    "n_articles_requested": 40,
+    "n_articles": 1002
+  }
+}

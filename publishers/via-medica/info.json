@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Via Medica",
+  "journals": 16,
+  "scihub": 77,
+  "crossref_open_access": 3285,
+  "crossref_active": 5076,
+  "crossref": 5076,
+  "coverage": 0.01516942,
+  "publisher_slug": "via-medica",
+  "access_logs": {
+    "downloads": 0.00543,
+    "visitors": 0.00488,
+    "countries": 0.00488,
+    "days": 0.00488,
+    "months": 0.00434,
+    "n_articles_requested": 6,
+    "n_articles": 1843
+  }
+}

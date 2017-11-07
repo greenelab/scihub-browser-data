@@ -1,0 +1,101 @@
+doi	title	authors	title_name	year	downloads	visitors	countries
+10.1137/140987997	Copositive Relaxation Beats Lagrangian Dual Bounds in Quadratically and Linearly Constrained Quadratic Optimization Problems	Immanuel M. Bomze	SIAM Journal on Optimization	2015	13	13	2
+10.1137/120868669	Efficient Fully Homomorphic Encryption from (Standard) $\mathsf{LWE}$	Zvika Brakerski, Vinod Vaikuntanathan	SIAM Journal on Computing	2014	14	12	5
+10.1137/120903853	Approximate Controllability of Fractional Evolution Systems with Riemann--Liouville Fractional Derivatives	Zhenhai Liu, Xiuwen Li	SIAM Journal on Control and Optimization	2015	12	12	5
+10.1137/130912190	An Exact Penalty Method for Nonconvex Problems Covering, in Particular, Nonlinear Programming, Semidefinite Programming, and Second-Order Cone Programming	Alfred Auslender	SIAM Journal on Optimization	2015	18	12	5
+10.1137/140996495	Time-Splitting Schemes for Fractional Differential Equations I: Smooth Solutions	Wanrong Cao, Zhongqiang Zhang, George Em Karniadakis	SIAM Journal of Scientific Computing	2015	12	12	5
+10.1137/151003076	Convergence Rate Analysis of Primal-Dual Splitting Schemes	Damek Davis	SIAM Journal on Optimization	2015	13	12	5
+10.1137/140952107	A Discontinuous Petrov--Galerkin Method for Time-Fractional Diffusion Equations	K. Mustapha, B. Abdallah, K. M. Furati	SIAM Journal on Numerical Analysis	2014	12	11	3
+10.1137/14096829x	Generalized Nash Equilibrium Problems in Banach Spaces: Theory, Nikaido--Isoda-Based Path-Following Methods, and Applications	M. Hintermüller, T. Surowiec, A. Kämmler	SIAM Journal on Optimization	2015	11	11	4
+10.1137/140970781	Distributed Adaptive Control for Synchronization in Directed Complex Networks	Wenwu Yu, Jinhu Lü, Xinghuo Yu, Guanrong Chen	SIAM Journal on Control and Optimization	2015	12	11	5
+10.1137/140988218	Optimal Error Estimates of Spectral Petrov--Galerkin and Collocation Methods for  Initial Value Problems of Fractional Differential Equations	Zhongqiang Zhang, Fanhai Zeng, George Em Karniadakis	SIAM Journal on Numerical Analysis	2015	12	11	7
+10.1137/130934192	A Crank--Nicolson ADI Spectral Method for a Two-Dimensional Riesz Space Fractional Nonlinear Reaction-Diffusion Equation	Fanhai Zeng, Fawang Liu, Changpin Li, Kevin Burrage, Ian Turner, V. Anh	SIAM Journal on Numerical Analysis	2014	10	10	4
+10.1137/140958529	Fast Multidimensional Convolution in Low-Rank Tensor Formats via Cross Approximation	M. V. Rakhuba, I. V. Oseledets	SIAM Journal of Scientific Computing	2015	14	10	2
+10.1137/14096668x	EXTRA: An Exact First-Order Algorithm for Decentralized Consensus Optimization	Wei Shi, Qing Ling, Gang Wu, Wotao Yin	SIAM Journal on Optimization	2015	11	10	2
+10.1137/14097238x	Projected Reflected Gradient Methods for Monotone Variational Inequalities	Yu. Malitsky	SIAM Journal on Optimization	2015	10	10	5
+10.1137/14097954x	A Two-Grid Block-Centered Finite Difference Method For Darcy--Forchheimer Flow in Porous Media	Hongxing Rui, Wei Liu	SIAM Journal on Numerical Analysis	2015	10	10	4
+10.1137/140980910	A General Inertial Proximal Point Algorithm for Mixed Variational Inequality Problem	Caihua Chen, Shiqian Ma, Junfeng Yang	SIAM Journal on Optimization	2015	10	10	3
+10.1137/140982039	A Bayesian Approach to Sparse Model Selection in Statistical Shape Models	Ali Gooya, Christos Davatzikos, Alejandro F. Frangi	SIAM Journal on Imaging Sciences	2015	13	10	5
+10.1137/140985536	Tempered Fractional Sturm--Liouville EigenProblems	Mohsen Zayernouri, Mark Ainsworth, George Em Karniadakis	SIAM Journal of Scientific Computing	2015	11	10	6
+10.1137/110850189	Continuity of Optimal Solution Functions and their Conditions on Objective Functions	Yasushi Terazono, Ayumu Matani	SIAM Journal on Optimization	2015	10	9	6
+10.1137/120903221	Second-Order Variational Analysis in Conic Programming with Applications to Optimality and Stability	Boris S. Mordukhovich, Jiří V. Outrata, Héctor Ramírez C.	SIAM Journal on Optimization	2015	9	9	5
+10.1137/130940402	A Generalized Proximal Point Algorithm and Its Convergence Rate	Etienne Corman, Xiaoming Yuan	SIAM Journal on Optimization	2014	9	9	5
+10.1137/14096390x	Numerical Algorithms for Time-Fractional Subdiffusion Equation with Second-Order Accuracy	Fanhai Zeng, Changpin Li, Fawang Liu, Ian Turner	SIAM Journal of Scientific Computing	2015	10	9	5
+10.1137/141001834	Diffusion in Spatially Varying Porous Media	Maria Bruna, S. Jonathan Chapman	SIAM Journal on Applied Mathematics	2015	9	9	3
+10.1137/13090599x	Global Error Bounds for Systems of Convex Polynomials over Polyhedral Constraints	Huynh Van Ngai	SIAM Journal on Optimization	2015	8	8	4
+10.1137/130931862	A Hybrid Proximal Extragradient Self-Concordant Primal Barrier Method for Monotone Variational Inequalities	Renato D. C. Monteiro, Mauricio R. Sicre, B. F. Svaiter	SIAM Journal on Optimization	2015	8	8	3
+10.1137/130933216	Fractional Spectral Collocation Method	Mohsen Zayernouri, George Em Karniadakis	SIAM Journal of Scientific Computing	2014	8	8	3
+10.1137/130942954	iPiano: Inertial Proximal Algorithm for Nonconvex Optimization	Peter Ochs, Yunjin Chen, Thomas Brox, Thomas Pock	SIAM Journal on Imaging Sciences	2014	9	8	4
+10.1137/13094606x	Characterizing FJ and KKT Conditions in Nonconvex Mathematical Programming with Applications	Fabián Flores-Bazán, Giandomenico Mastroeni	SIAM Journal on Optimization	2015	9	8	4
+10.1137/140957639	Incremental Majorization-Minimization Optimization with Application to Large-Scale Machine Learning	Julien Mairal	SIAM Journal on Optimization	2015	8	8	5
+10.1137/140959845	Hölder Stable Minimizers, Tilt Stability, and Hölder metric Regularity of Subdifferentials	Xi Yin Zheng, Kung Fu Ng	SIAM Journal on Optimization	2015	8	8	3
+10.1137/140971609	Two Energy-Conserved Splitting Methods for Three-Dimensional Time-Domain Maxwell's Equations and the Convergence Analysis	Jiaxiang Cai, Jialin Hong, Yushun Wang, Yuezheng Gong	SIAM Journal on Numerical Analysis	2015	10	8	3
+10.1137/140990103	A Staggered Cell-Centered Finite Element Method for Compressible and Nearly-Incompressible Linear Elasticity on General Meshes	Thanh Hai Ong, Thi Thao Phuong Hoang, Stéphane P.A. Bordas, H. Nguyen-Xuan	SIAM Journal on Numerical Analysis	2015	8	8	3
+10.1137/141001299	A Generalized Spectral Collocation Method with Tunable Accuracy for Variable-Order Fractional Differential Equations	Fanhai Zeng, Zhongqiang Zhang, George Em Karniadakis	SIAM Journal of Scientific Computing	2015	8	8	4
+10.1137/15m1022100	A Solver for Nonconvex Bound-Constrained Quadratic Optimization	Hassan Mohy-ud-Din, Daniel P. Robinson	SIAM Journal on Optimization	2015	8	8	6
+10.1137/15m1024718	Integer Factorization of a Positive-Definite Matrix	Joel A. Tropp	SIAM Journal on Discrete Mathematics	2015	9	8	4
+10.1137/120880434	Quantitative Stability Analysis of Stochastic Generalized Equations	Yongchao Liu, Werner Römisch, Huifu Xu	SIAM Journal on Optimization	2014	7	7	2
+10.1137/120896219	Fast Alternating Direction Optimization Methods	Tom Goldstein, Brendan O'Donoghue, Simon Setzer, Richard Baraniuk	SIAM Journal on Imaging Sciences	2014	7	7	4
+10.1137/130915303	Mixed Integer Linear Programming Formulation Techniques	Juan Pablo Vielma	SIAM Review	2015	8	7	7
+10.1137/130917715	KKT Reformulation and Necessary Conditions for Optimality in Nonsmooth Bilevel Optimization	Stephan Dempe, Alain B. Zemkoho	SIAM Journal on Optimization	2014	7	7	4
+10.1137/130919052	Analysis of the Convergence Rate for the Cyclic Projection Algorithm Applied to Basic Semialgebraic Convex Sets	Jonathan M. Borwein, Guoyin Li, Liangjin Yao	SIAM Journal on Optimization	2014	8	7	2
+10.1137/130926730	Newton's Method for Solving Inclusions Using Set-Valued Approximations	Samir Adly, Radek Cibulka, Huynh Van Ngai	SIAM Journal on Optimization	2015	7	7	3
+10.1137/130930522	On Wolfe's Method for Resolving Degeneracy in Linearly Constrained Optimization	Roger Fletcher	SIAM Journal on Optimization	2014	7	7	5
+10.1137/130932715	A Survey of Projection-Based Model Reduction Methods for Parametric Dynamical Systems	Peter Benner, Serkan Gugercin, Karen Willcox	SIAM Review	2015	7	7	7
+10.1137/130933447	Fourth Order Accurate Scheme for the Space Fractional Diffusion Equations	Minghua Chen, Weihua Deng	SIAM Journal on Numerical Analysis	2014	7	7	6
+10.1137/130934258	A Model for the Operation of Perovskite Based Hybrid Solar Cells: Formulation, Analysis, and Comparison to Experiment	J. M. Foster, H. J. Snaith, T. Leijtens, G. Richardson	SIAM Journal on Applied Mathematics	2014	7	7	7
+10.1137/130934921	Natural Preconditioning and Iterative Methods for Saddle Point Systems	Jennifer Pestana, Andrew J. Wathen	SIAM Review	2015	8	7	4
+10.1137/130940967	Discontinuous Spectral Element Methods for Time- and Space-Fractional Advection Equations	Mohsen Zayernouri, George Em Karniadakis	SIAM Journal of Scientific Computing	2014	7	7	5
+10.1137/140961791	A Proximal Stochastic Gradient Method with Progressive Variance Reduction	Lin Xiao, Tong Zhang	SIAM Journal on Optimization	2014	8	7	6
+10.1137/140967222	Identification of Chemotaxis Models with Volume-Filling	Herbert Egger, Jan-Frederik Pietschmann, Matthias Schlottbom	SIAM Journal on Applied Mathematics	2015	7	7	1
+10.1137/140967416	Simultaneous Cartoon and Texture Image Restoration with Higher-Order Regularization	Miyoun Jung, Myungjoo Kang	SIAM Journal on Imaging Sciences	2015	7	7	5
+10.1137/140971580	Smoothing SQP Methods for Solving Degenerate Nonsmooth Constrained Optimization Problems with Applications to Bilevel Programs	Mengwei Xu, Jane J. Ye, Liwei Zhang	SIAM Journal on Optimization	2015	7	7	4
+10.1137/140974833	High-Order Compact Schemes for Parabolic Problems with Mixed Derivatives in Multiple Space Dimensions	Bertram Düring, Christof Heuer	SIAM Journal on Numerical Analysis	2015	8	7	6
+10.1137/140978855	Second Order and Stability Analysis for Optimal Sparse Control of the FitzHugh--Nagumo Equation	Eduardo Casas, Christopher Ryll, Fredi Tröltzsch	SIAM Journal on Control and Optimization	2015	7	7	4
+10.1137/140980545	A Novel High Order Space-Time Spectral Method for the Time Fractional Fokker--Planck Equation	Minling Zheng, Fawang Liu, Ian Turner, Vo Anh	SIAM Journal of Scientific Computing	2015	8	7	5
+10.1137/140992266	From Low-Rank Approximation to a Rational Krylov Subspace Method for the Lyapunov Equation	D. A. Kolesnikov, I. V. Oseledets	SIAM Journal on Matrix Analysis and Applications	2015	8	7	3
+10.1137/140998135	Global Convergence of Splitting Methods for Nonconvex Composite Optimization	Guoyin Li, Ting Kei Pong	SIAM Journal on Optimization	2015	7	7	3
+10.1137/14099961x	Linear Convergence of Subgradient Algorithm for Convex Feasibility on Riemannian Manifolds	Xiangmei Wang, Chong Li, Jinhua Wang, Jen-Chih Yao	SIAM Journal on Optimization	2015	7	7	5
+10.1137/15100309x	Existence and Exact Multiplicity of Phaselocked Solutions of a Kuramoto Model of Mutually Coupled Oscillators	William C. Troy	SIAM Journal on Applied Mathematics	2015	7	7	6
+10.1137/110820592	Carleman Estimates and Null Controllability for a Class of Degenerate Parabolic Equations with Convection Terms	Chunpeng Wang, Runmei Du	SIAM Journal on Control and Optimization	2014	6	6	1
+10.1137/110827144	On the Moreau--Yosida Regularization of the Vector $k$-Norm Related Functions	Bin Wu, Chao Ding, Defeng Sun, Kim-Chuan Toh	SIAM Journal on Optimization	2014	7	6	2
+10.1137/120882329	A Class of Linear Generalized Equations	Nguyen Thanh Qui, Nguyen Dong Yen	SIAM Journal on Optimization	2014	6	6	2
+10.1137/120901374	Exact Boundary Controllability of 1-D Parabolic and Hyperbolic Degenerate Equations	Mamadou Gueye	SIAM Journal on Control and Optimization	2014	8	6	4
+10.1137/130906593	A Study on the Computational Complexity of the Bilevel Knapsack Problem	Alberto Caprara, Margarida Carvalho, Andrea Lodi, Gerhard J. Woeginger	SIAM Journal on Optimization	2014	6	6	5
+10.1137/130906878	Full Lipschitzian and Hölderian Stability in Optimization with Applications to Mathematical Programming and Optimal Control	B. S. Mordukhovich, T. T. A. Nghia	SIAM Journal on Optimization	2014	6	6	4
+10.1137/130910774	Rate of Convergence Analysis of Decomposition Methods Based on the Proximal Method of Multipliers for Convex Minimization	Ron Shefi, Marc Teboulle	SIAM Journal on Optimization	2014	7	6	4
+10.1137/13091364x	Boundary Stabilization of the Navier--Stokes Equations in the Case of Mixed Boundary Conditions	Phuong Anh Nguyen, Jean-Pierre Raymond	SIAM Journal on Control and Optimization	2015	7	6	4
+10.1137/130928637	Full Stability of Locally Optimal Solutions in Second-Order Cone Programs	Boris S. Mordukhovich, Jiří V. Outrata, M. Ebrahim Sarabi	SIAM Journal on Optimization	2014	6	6	3
+10.1137/130930662	Random Attractors for Stochastic Evolution Equations Driven by Fractional Brownian Motion	Hongjun Gao, María J. Garrido-Atienza, Björn Schmalfuss	SIAM Journal on Mathematical Analysis	2014	6	6	4
+10.1137/130931977	Characterizations of the Free Disposal Condition for Nonconvex Economies on Infinite Dimensional Commodity Spaces	Alejandro Jofré, Abderrahim Jourani	SIAM Journal on Optimization	2015	7	6	5
+10.1137/13093933x	Error Analysis of a Finite Element Method for the Space-Fractional Parabolic Equation	Bangti Jin, Raytcho Lazarov, Joseph Pasciak, Zhi Zhou	SIAM Journal on Numerical Analysis	2014	6	6	4
+10.1137/130946046	Finite Element Approximation of the $p(\cdot)$-Laplacian	Dominic Breit, Lars Diening, Sebastian Schwarzacher	SIAM Journal on Numerical Analysis	2015	6	6	4
+10.1137/130947465	An Optimal Feedback Control-Strategy Pair For Zero-Sum Linear-Quadratic Stochastic Differential Game: the Riccati Equation Approach	Zhiyong Yu	SIAM Journal on Control and Optimization	2015	6	6	3
+10.1137/140951618	Local Exact Controllability of a One-Dimensional Nonlinear Schrödinger Equation	Karine Beauchard, Horst Lange, Holger Teismann	SIAM Journal on Control and Optimization	2015	6	6	5
+10.1137/14095412x	Asymptotic Behavior, Spreading Speeds, and Traveling Waves of Nonmonotone Dynamical Systems	Taishan Yi, Xingfu Zou	SIAM Journal on Mathematical Analysis	2015	8	6	2
+10.1137/140957822	Convergence Results for Projected Line-Search Methods on Varieties of Low-Rank Matrices Via Łojasiewicz Inequality	Reinhold Schneider, André Uschmajew	SIAM Journal on Optimization	2015	6	6	3
+10.1137/140968240	A New Computational Method for the Sparsest Solutions to Systems of Linear Equations	Yun-Bin Zhao, Michal Kočvara	SIAM Journal on Optimization	2015	7	6	3
+10.1137/140968926	Asymptotic Perron's Method and Simple Markov Strategies in Stochastic Games and Control	Mihai Sîrbu	SIAM Journal on Control and Optimization	2015	6	6	4
+10.1137/140971671	An Inverse Source Problem for the Elastic Wave in the Lower Half-Space	Justin Tittelfitz	SIAM Journal on Applied Mathematics	2015	7	6	5
+10.1137/140975061	A FEM for an Optimal Control Problem of Fractional Powers of Elliptic Operators	Harbir Antil, Enrique Otárola	SIAM Journal on Control and Optimization	2015	6	6	4
+10.1137/140981769	Spatial Invasion Threshold of Lyme Disease	Wendi Wang, Xiao-Qiang Zhao	SIAM Journal on Applied Mathematics	2015	6	6	2
+10.1137/140982052	$\mathcal{H}_\infty$ Control Problem for Discrete-Time Algebraic Dynamical Systems	Sebastian F. Tudor, Cristian Oară	SIAM Journal on Control and Optimization	2015	8	6	4
+10.1137/140985524	An Advection and Age-Structured Approach to Modeling Bird Migration and Indirect Transmission of Avian Influenza	Stephen A. Gourley, Rachel Jennings, Rongsong Liu	SIAM Journal on Applied Mathematics	2015	7	6	3
+10.1137/140985639	Linearly Constrained Non-Lipschitz Optimization for Image Restoration	Wei Bian, Xiaojun Chen	SIAM Journal on Imaging Sciences	2015	6	6	4
+10.1137/140987936	On the Numerical Behavior of Matrix Splitting Iteration Methods for Solving Linear Systems	Zhong-Zhi Bai, Miroslav RozložnÍk	SIAM Journal on Numerical Analysis	2015	6	6	3
+10.1137/140994058	Approximate Controllability for Nonlinear Evolution Hemivariational Inequalities in Hilbert Spaces	Zhenhai Liu, Xiuwen Li, Dumitru Motreanu	SIAM Journal on Control and Optimization	2015	8	6	3
+10.1137/14099509x	A Proximal Strictly Contractive Peaceman--Rachford Splitting Method for Convex Programming with Applications to Imaging	Xinxin Li, Xiaoming Yuan	SIAM Journal on Imaging Sciences	2015	6	6	2
+10.1137/151005099	Phase Retrieval via Matrix Completion	Emmanuel J. Candès, Yonina C. Eldar, Thomas Strohmer, Vladislav Voroninski	SIAM Review	2015	6	6	4
+10.1137/110855272	Joint Spectral Radius and Path-Complete Graph Lyapunov Functions	Amir Ali Ahmadi, Raphaël M. Jungers, Pablo A. Parrilo, Mardavij Roozbehani	SIAM Journal on Control and Optimization	2014	6	5	4
+10.1137/130910002	Constraint Qualifications in Semi-Infinite Systems and Their Applications in Nonsmooth Semi-Infinite Problems with Mixed Constraints	Nader Kanzi	SIAM Journal on Optimization	2014	5	5	2
+10.1137/130910294	A Dynamical Approach to an Inertial Forward-Backward Algorithm for Convex Minimization	Hédy Attouch, Juan Peypouquet, Patrick Redont	SIAM Journal on Optimization	2014	7	5	2
+10.1137/130915273	$\mathcal{H}_{\infty}$ Observer-Based Control for Discrete-Time One-Sided Lipschitz Systems with Unknown Inputs	Mohamed Benallouch, M. Boutayeb, H. Trinh	SIAM Journal on Control and Optimization	2014	8	5	4
+10.1137/130918320	An Inexact Sequential Quadratic Optimization Algorithm for Nonlinear Optimization	Frank E. Curtis, Travis C. Johnson, Daniel P. Robinson, Andreas Wächter	SIAM Journal on Optimization	2014	5	5	4
+10.1137/130935884	Spectral and Discontinuous Spectral Element Methods for Fractional Delay Equations	Mohsen Zayernouri, Wanrong Cao, Zhongqiang Zhang, George Em Karniadakis	SIAM Journal of Scientific Computing	2014	5	5	2
+10.1137/130940037	A Linesearch-Based Derivative-Free Approach for Nonsmooth Constrained Optimization	G. Fasano, G. Liuzzi, S. Lucidi, F. Rinaldi	SIAM Journal on Optimization	2014	5	5	4
+10.1137/130943133	Orthogonal Low Rank Tensor Approximation: Alternating Least Squares Method and Its Global Convergence	Liqi Wang, Moody T. Chu, Bo Yu	SIAM Journal on Matrix Analysis and Applications	2015	5	5	2
+10.1137/130943649	Accelerating Block-Decomposition First-Order Methods for Solving Composite Saddle-Point and Two-Player Nash Equilibrium Problems	Yunlong He, Renato D. C. Monteiro	SIAM Journal on Optimization	2015	5	5	1
+10.1137/130945363	A Framework for Regularization via Operator Approximation	Julianne M. Chung, Misha E. Kilmer, Dianne P. O'Leary	SIAM Journal of Scientific Computing	2015	5	5	2
+10.1137/13094918x	Constrained Best Euclidean Distance Embedding on a Sphere: A Matrix Optimization Approach	Shuanghua Bai, Huo-Duo Qi, Naihua Xiu	SIAM Journal on Optimization	2015	5	5	2
+10.1137/130951245	Utility Maximization in a Regime Switching Model with Convex Portfolio Constraints and Margin Requirements: Optimality Relations and Explicit Solutions	Andrew J. Heunis	SIAM Journal on Control and Optimization	2015	5	5	4
+10.1137/140955513	Flight Stability of Mosquitos: A Reduced Model	Sarah Iams, John Guckenheimer	SIAM Journal on Applied Mathematics	2014	6	5	5

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Korean Academy of Medical Sciences",
+  "journals": 1,
+  "scihub": 30,
+  "crossref_open_access": 5295,
+  "crossref_active": 5295,
+  "crossref": 5295,
+  "coverage": 0.00566572,
+  "publisher_slug": "korean-academy-of-medical-sciences",
+  "access_logs": {
+    "downloads": 0.00608,
+    "visitors": 0.00608,
+    "countries": 0.00608,
+    "days": 0.00608,
+    "months": 0.00608,
+    "n_articles_requested": 3,
+    "n_articles": 658
+  }
+}

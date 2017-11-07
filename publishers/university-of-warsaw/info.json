@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Warsaw",
+  "journals": 1,
+  "scihub": 52,
+  "crossref_open_access": 130,
+  "crossref_active": 130,
+  "crossref": 130,
+  "coverage": 0.4,
+  "publisher_slug": "university-of-warsaw",
+  "access_logs": {
+    "downloads": 0.11111,
+    "visitors": 0.11111,
+    "countries": 0.11111,
+    "days": 0.11111,
+    "months": 0.11111,
+    "n_articles_requested": 2,
+    "n_articles": 27
+  }
+}

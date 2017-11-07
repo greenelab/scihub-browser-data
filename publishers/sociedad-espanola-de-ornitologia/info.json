@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Sociedad Espanola de Ornitologia",
+  "journals": 1,
+  "scihub": 208,
+  "crossref_open_access": 0,
+  "crossref_active": 216,
+  "crossref": 216,
+  "coverage": 0.96296296,
+  "publisher_slug": "sociedad-espanola-de-ornitologia",
+  "access_logs": {
+    "downloads": 0.64,
+    "visitors": 0.58,
+    "countries": 0.56,
+    "days": 0.62,
+    "months": 0.58,
+    "n_articles_requested": 20,
+    "n_articles": 50
+  }
+}

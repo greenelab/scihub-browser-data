@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Mathematical Sciences Publishers",
+  "journals": 5,
+  "scihub": 699,
+  "crossref_open_access": 0,
+  "crossref_active": 1700,
+  "crossref": 1700,
+  "coverage": 0.41117647,
+  "publisher_slug": "mathematical-sciences-publishers",
+  "access_logs": {
+    "downloads": 0.04626,
+    "visitors": 0.0427,
+    "countries": 0.02847,
+    "days": 0.03203,
+    "months": 0.02847,
+    "n_articles_requested": 7,
+    "n_articles": 281
+  }
+}

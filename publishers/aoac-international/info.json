@@ -1,0 +1,19 @@
+{
+  "publisher_name": "AOAC International",
+  "journals": 1,
+  "scihub": 1130,
+  "crossref_open_access": 0,
+  "crossref_active": 1324,
+  "crossref": 1324,
+  "coverage": 0.85347432,
+  "publisher_slug": "aoac-international",
+  "access_logs": {
+    "downloads": 2.6817,
+    "visitors": 2.3985,
+    "countries": 2.0977,
+    "days": 2.3935,
+    "months": 1.9298,
+    "n_articles_requested": 389,
+    "n_articles": 399
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Tohoku University",
+  "journals": 2,
+  "scihub": 10661,
+  "crossref_open_access": 10446,
+  "crossref_active": 13113,
+  "crossref": 13113,
+  "coverage": 0.81300999,
+  "publisher_slug": "tohoku-university",
+  "access_logs": {
+    "downloads": 0.00709,
+    "visitors": 0.00709,
+    "countries": 0.00709,
+    "days": 0.00709,
+    "months": 0.00709,
+    "n_articles_requested": 1,
+    "n_articles": 282
+  }
+}

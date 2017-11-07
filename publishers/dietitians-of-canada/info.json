@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Dietitians of Canada",
+  "journals": 1,
+  "scihub": 60,
+  "crossref_open_access": 0,
+  "crossref_active": 617,
+  "crossref": 617,
+  "coverage": 0.09724473,
+  "publisher_slug": "dietitians-of-canada",
+  "access_logs": {
+    "downloads": 0.14493,
+    "visitors": 0.14493,
+    "countries": 0.13043,
+    "days": 0.14493,
+    "months": 0.11594,
+    "n_articles_requested": 5,
+    "n_articles": 69
+  }
+}

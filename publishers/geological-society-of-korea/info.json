@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Geological Society of Korea",
+  "journals": 1,
+  "scihub": 817,
+  "crossref_open_access": 0,
+  "crossref_active": 826,
+  "crossref": 826,
+  "coverage": 0.98910412,
+  "publisher_slug": "geological-society-of-korea",
+  "access_logs": {
+    "downloads": 1.2453,
+    "visitors": 1.1226,
+    "countries": 0.80189,
+    "days": 1.0849,
+    "months": 0.88679,
+    "n_articles_requested": 61,
+    "n_articles": 106
+  }
+}

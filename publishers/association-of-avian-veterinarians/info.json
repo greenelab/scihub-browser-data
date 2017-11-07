@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Association of Avian Veterinarians",
+  "journals": 1,
+  "scihub": 857,
+  "crossref_open_access": 0,
+  "crossref_active": 882,
+  "crossref": 882,
+  "coverage": 0.97165533,
+  "publisher_slug": "association-of-avian-veterinarians",
+  "access_logs": {
+    "downloads": 0.7284,
+    "visitors": 0.7037,
+    "countries": 0.58025,
+    "days": 0.65432,
+    "months": 0.61728,
+    "n_articles_requested": 34,
+    "n_articles": 81
+  }
+}

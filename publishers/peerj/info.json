@@ -1,0 +1,19 @@
+{
+  "publisher_name": "PeerJ",
+  "journals": 1,
+  "scihub": 25,
+  "crossref_open_access": 3103,
+  "crossref_active": 3103,
+  "crossref": 3103,
+  "coverage": 0.00805672,
+  "publisher_slug": "peerj",
+  "access_logs": {
+    "downloads": 0.00512,
+    "visitors": 0.00512,
+    "countries": 0.00512,
+    "days": 0.00512,
+    "months": 0.00512,
+    "n_articles_requested": 5,
+    "n_articles": 976
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Florida State University",
+  "journals": 1,
+  "scihub": 103,
+  "crossref_open_access": 0,
+  "crossref_active": 0,
+  "crossref": 1271,
+  "coverage": 0.08103855,
+  "publisher_slug": "florida-state-university",
+  "access_logs": {
+    "downloads": 0.02222,
+    "visitors": 0.02222,
+    "countries": 0.02222,
+    "days": 0.02222,
+    "months": 0.02222,
+    "n_articles_requested": 2,
+    "n_articles": 90
+  }
+}

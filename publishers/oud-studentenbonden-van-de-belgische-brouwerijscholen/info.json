@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Oud-Studentenbonden van de Belgische Brouwerijscholen",
+  "journals": 1,
+  "scihub": 125,
+  "crossref_open_access": 0,
+  "crossref_active": 0,
+  "crossref": 125,
+  "coverage": 1.0,
+  "publisher_slug": "oud-studentenbonden-van-de-belgische-brouwerijscholen",
+  "access_logs": {
+    "downloads": 1.6,
+    "visitors": 1.6,
+    "countries": 1.4,
+    "days": 1.6,
+    "months": 1.6,
+    "n_articles_requested": 4,
+    "n_articles": 5
+  }
+}

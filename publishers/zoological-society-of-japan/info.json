@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Zoological Society of Japan",
+  "journals": 1,
+  "scihub": 2861,
+  "crossref_open_access": 0,
+  "crossref_active": 3134,
+  "crossref": 3134,
+  "coverage": 0.91289087,
+  "publisher_slug": "zoological-society-of-japan",
+  "access_logs": {
+    "downloads": 1.1792,
+    "visitors": 1.0289,
+    "countries": 0.87283,
+    "days": 0.98844,
+    "months": 0.93064,
+    "n_articles_requested": 97,
+    "n_articles": 173
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Society of Tropical Medicine and Hygiene",
+  "journals": 1,
+  "scihub": 3449,
+  "crossref_open_access": 0,
+  "crossref_active": 3593,
+  "crossref": 3593,
+  "coverage": 0.95992207,
+  "publisher_slug": "american-society-of-tropical-medicine-and-hygiene",
+  "access_logs": {
+    "downloads": 1.2545,
+    "visitors": 1.123,
+    "countries": 0.85404,
+    "days": 1.082,
+    "months": 0.77684,
+    "n_articles_requested": 341,
+    "n_articles": 829
+  }
+}

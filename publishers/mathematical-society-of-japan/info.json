@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Mathematical Society of Japan",
+  "journals": 2,
+  "scihub": 598,
+  "crossref_open_access": 0,
+  "crossref_active": 3337,
+  "crossref": 3337,
+  "coverage": 0.17920288,
+  "publisher_slug": "mathematical-society-of-japan",
+  "access_logs": {
+    "downloads": 0.03571,
+    "visitors": 0.02857,
+    "countries": 0.02857,
+    "days": 0.02857,
+    "months": 0.02857,
+    "n_articles_requested": 2,
+    "n_articles": 140
+  }
+}

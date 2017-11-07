@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Rockefeller University Press",
+  "journals": 3,
+  "scihub": 51884,
+  "crossref_open_access": 0,
+  "crossref_active": 57656,
+  "crossref": 57656,
+  "coverage": 0.899889,
+  "publisher_slug": "rockefeller-university-press",
+  "access_logs": {
+    "downloads": 1.8746,
+    "visitors": 1.6453,
+    "countries": 1.0383,
+    "days": 1.4462,
+    "months": 0.90192,
+    "n_articles_requested": 603,
+    "n_articles": 1356
+  }
+}

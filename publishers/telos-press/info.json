@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Telos Press",
+  "journals": 1,
+  "scihub": 2269,
+  "crossref_open_access": 0,
+  "crossref_active": 2438,
+  "crossref": 2438,
+  "coverage": 0.93068089,
+  "publisher_slug": "telos-press",
+  "access_logs": {
+    "downloads": 0.84615,
+    "visitors": 0.80769,
+    "countries": 0.79487,
+    "days": 0.78205,
+    "months": 0.71795,
+    "n_articles_requested": 44,
+    "n_articles": 78
+  }
+}

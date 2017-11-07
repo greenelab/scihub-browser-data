@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Institute of Mathematics, Polish Academy of Sciences",
+  "journals": 2,
+  "scihub": 58,
+  "crossref_open_access": 0,
+  "crossref_active": 1474,
+  "crossref": 1474,
+  "coverage": 0.03934871,
+  "publisher_slug": "institute-of-mathematics-polish-academy-of-sciences",
+  "access_logs": {
+    "downloads": 0.02105,
+    "visitors": 0.01053,
+    "countries": 0.01053,
+    "days": 0.01579,
+    "months": 0.01053,
+    "n_articles_requested": 2,
+    "n_articles": 190
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Instituto de Investigaciones Economicas, UNAM",
+  "journals": 1,
+  "scihub": 202,
+  "crossref_open_access": 206,
+  "crossref_active": 206,
+  "crossref": 206,
+  "coverage": 0.98058252,
+  "publisher_slug": "instituto-de-investigaciones-economicas-unam",
+  "access_logs": {
+    "downloads": 0.26374,
+    "visitors": 0.25275,
+    "countries": 0.23077,
+    "days": 0.24176,
+    "months": 0.23077,
+    "n_articles_requested": 19,
+    "n_articles": 91
+  }
+}

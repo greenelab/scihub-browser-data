@@ -1,0 +1,19 @@
+{
+  "publisher_name": "SEPM Society for Sedimentary Geology",
+  "journals": 1,
+  "scihub": 3409,
+  "crossref_open_access": 0,
+  "crossref_active": 7523,
+  "crossref": 7523,
+  "coverage": 0.45314369,
+  "publisher_slug": "sepm-society-for-sedimentary-geology",
+  "access_logs": {
+    "downloads": 1.1301,
+    "visitors": 1.0411,
+    "countries": 0.76027,
+    "days": 0.82877,
+    "months": 0.70548,
+    "n_articles_requested": 71,
+    "n_articles": 146
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Korean Gastric Cancer Association",
+  "journals": 1,
+  "scihub": 8,
+  "crossref_open_access": 296,
+  "crossref_active": 296,
+  "crossref": 296,
+  "coverage": 0.02702703,
+  "publisher_slug": "korean-gastric-cancer-association",
+  "access_logs": {
+    "downloads": 0.01177,
+    "visitors": 0.01177,
+    "countries": 0.01177,
+    "days": 0.01177,
+    "months": 0.01177,
+    "n_articles_requested": 1,
+    "n_articles": 85
+  }
+}

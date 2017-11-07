@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Eaton Publishing Co.",
+  "journals": 1,
+  "scihub": 78,
+  "crossref_open_access": 0,
+  "crossref_active": 2108,
+  "crossref": 2108,
+  "coverage": 0.0370019,
+  "publisher_slug": "eaton-publishing-co",
+  "access_logs": {
+    "downloads": 0.00495,
+    "visitors": 0.00495,
+    "countries": 0.00495,
+    "days": 0.00495,
+    "months": 0.00495,
+    "n_articles_requested": 1,
+    "n_articles": 202
+  }
+}

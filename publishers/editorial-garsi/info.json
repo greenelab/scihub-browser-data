@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Editorial Garsi",
+  "journals": 1,
+  "scihub": 818,
+  "crossref_open_access": 0,
+  "crossref_active": 826,
+  "crossref": 826,
+  "coverage": 0.99031477,
+  "publisher_slug": "editorial-garsi",
+  "access_logs": {
+    "downloads": 6.1818,
+    "visitors": 5.4416,
+    "countries": 2.6234,
+    "days": 5.1948,
+    "months": 2.5325,
+    "n_articles_requested": 66,
+    "n_articles": 77
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Pion Ltd.",
+  "journals": 3,
+  "scihub": 4244,
+  "crossref_open_access": 1062,
+  "crossref_active": 5294,
+  "crossref": 5294,
+  "coverage": 0.80166226,
+  "publisher_slug": "pion-ltd",
+  "access_logs": {
+    "downloads": 0.30833,
+    "visitors": 0.23889,
+    "countries": 0.21111,
+    "days": 0.22778,
+    "months": 0.20833,
+    "n_articles_requested": 63,
+    "n_articles": 360
+  }
+}

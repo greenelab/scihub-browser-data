@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Carl Heymanns Verlag KG",
+  "journals": 2,
+  "scihub": 1026,
+  "crossref_open_access": 0,
+  "crossref_active": 47,
+  "crossref": 1121,
+  "coverage": 0.91525424,
+  "publisher_slug": "carl-heymanns-verlag-kg",
+  "access_logs": {
+    "downloads": 0.03409,
+    "visitors": 0.03409,
+    "countries": 0.03409,
+    "days": 0.03409,
+    "months": 0.03409,
+    "n_articles_requested": 3,
+    "n_articles": 88
+  }
+}

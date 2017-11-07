@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Medical Library Association",
+  "journals": 1,
+  "scihub": 366,
+  "crossref_open_access": 899,
+  "crossref_active": 899,
+  "crossref": 899,
+  "coverage": 0.40711902,
+  "publisher_slug": "medical-library-association",
+  "access_logs": {
+    "downloads": 0.07194,
+    "visitors": 0.07194,
+    "countries": 0.07194,
+    "days": 0.07194,
+    "months": 0.07194,
+    "n_articles_requested": 9,
+    "n_articles": 139
+  }
+}

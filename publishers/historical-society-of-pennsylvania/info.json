@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Historical Society of Pennsylvania",
+  "journals": 1,
+  "scihub": 378,
+  "crossref_open_access": 0,
+  "crossref_active": 437,
+  "crossref": 437,
+  "coverage": 0.86498856,
+  "publisher_slug": "historical-society-of-pennsylvania",
+  "access_logs": {
+    "downloads": 0.0102,
+    "visitors": 0.0102,
+    "countries": 0.0102,
+    "days": 0.0102,
+    "months": 0.0102,
+    "n_articles_requested": 1,
+    "n_articles": 98
+  }
+}

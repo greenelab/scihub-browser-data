@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Lucent Technologies",
+  "journals": 2,
+  "scihub": 1791,
+  "crossref_open_access": 0,
+  "crossref_active": 1128,
+  "crossref": 1805,
+  "coverage": 0.99224377,
+  "publisher_slug": "lucent-technologies",
+  "access_logs": {
+    "downloads": 4.0,
+    "visitors": 3.2917,
+    "countries": 1.875,
+    "days": 3.125,
+    "months": 1.6667,
+    "n_articles_requested": 14,
+    "n_articles": 24
+  }
+}

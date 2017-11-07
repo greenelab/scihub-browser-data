@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Seismological Society of America",
+  "journals": 2,
+  "scihub": 6866,
+  "crossref_open_access": 0,
+  "crossref_active": 7007,
+  "crossref": 7007,
+  "coverage": 0.97987727,
+  "publisher_slug": "seismological-society-of-america",
+  "access_logs": {
+    "downloads": 1.093,
+    "visitors": 0.94507,
+    "countries": 0.77183,
+    "days": 0.8831,
+    "months": 0.74085,
+    "n_articles_requested": 330,
+    "n_articles": 710
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Servicio Editorial De La Universidad Del Pais Vasco",
+  "journals": 2,
+  "scihub": 49,
+  "crossref_open_access": 157,
+  "crossref_active": 253,
+  "crossref": 253,
+  "coverage": 0.19367589,
+  "publisher_slug": "servicio-editorial-de-la-universidad-del-pais-vasco",
+  "access_logs": {
+    "downloads": 0.01235,
+    "visitors": 0.01235,
+    "countries": 0.01235,
+    "days": 0.01235,
+    "months": 0.01235,
+    "n_articles_requested": 1,
+    "n_articles": 81
+  }
+}

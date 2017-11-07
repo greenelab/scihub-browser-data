@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Indian Academy of Sciences",
+  "journals": 6,
+  "scihub": 8115,
+  "crossref_open_access": 7400,
+  "crossref_active": 8067,
+  "crossref": 8859,
+  "coverage": 0.91601761,
+  "publisher_slug": "indian-academy-of-sciences",
+  "access_logs": {
+    "downloads": 0.93846,
+    "visitors": 0.83776,
+    "countries": 0.66853,
+    "days": 0.8042,
+    "months": 0.6993,
+    "n_articles_requested": 326,
+    "n_articles": 715
+  }
+}

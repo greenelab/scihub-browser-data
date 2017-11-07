@@ -1,0 +1,19 @@
+{
+  "publisher_name": "United Arab Emirates University",
+  "journals": 1,
+  "scihub": 284,
+  "crossref_open_access": 864,
+  "crossref_active": 864,
+  "crossref": 864,
+  "coverage": 0.3287037,
+  "publisher_slug": "united-arab-emirates-university",
+  "access_logs": {
+    "downloads": 0.06996,
+    "visitors": 0.06584,
+    "countries": 0.06173,
+    "days": 0.06584,
+    "months": 0.06584,
+    "n_articles_requested": 15,
+    "n_articles": 243
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "International Seed Testing Association",
+  "journals": 1,
+  "scihub": 933,
+  "crossref_open_access": 0,
+  "crossref_active": 1011,
+  "crossref": 1011,
+  "coverage": 0.92284866,
+  "publisher_slug": "international-seed-testing-association",
+  "access_logs": {
+    "downloads": 1.8375,
+    "visitors": 1.725,
+    "countries": 1.4875,
+    "days": 1.725,
+    "months": 1.35,
+    "n_articles_requested": 57,
+    "n_articles": 80
+  }
+}

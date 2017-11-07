@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Africagrowth Institute",
+  "journals": 1,
+  "scihub": 84,
+  "crossref_open_access": 85,
+  "crossref_active": 85,
+  "crossref": 85,
+  "coverage": 0.98823529,
+  "publisher_slug": "africagrowth-institute",
+  "access_logs": {
+    "downloads": 3.7895,
+    "visitors": 3.3684,
+    "countries": 1.8947,
+    "days": 3.3158,
+    "months": 1.9474,
+    "n_articles_requested": 15,
+    "n_articles": 19
+  }
+}

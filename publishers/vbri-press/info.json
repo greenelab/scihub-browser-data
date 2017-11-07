@@ -1,0 +1,19 @@
+{
+  "publisher_name": "VBRI Press",
+  "journals": 1,
+  "scihub": 52,
+  "crossref_open_access": 907,
+  "crossref_active": 0,
+  "crossref": 907,
+  "coverage": 0.05733186,
+  "publisher_slug": "vbri-press",
+  "access_logs": {
+    "downloads": 0.012,
+    "visitors": 0.012,
+    "countries": 0.012,
+    "days": 0.012,
+    "months": 0.012,
+    "n_articles_requested": 2,
+    "n_articles": 250
+  }
+}

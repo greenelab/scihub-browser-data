@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Hong Kong Physiotherapy Association",
+  "journals": 1,
+  "scihub": 351,
+  "crossref_open_access": 352,
+  "crossref_active": 352,
+  "crossref": 352,
+  "coverage": 0.99715909,
+  "publisher_slug": "hong-kong-physiotherapy-association",
+  "access_logs": {
+    "downloads": 1.2759,
+    "visitors": 1.1379,
+    "countries": 0.93103,
+    "days": 1.1724,
+    "months": 0.7931,
+    "n_articles_requested": 10,
+    "n_articles": 29
+  }
+}

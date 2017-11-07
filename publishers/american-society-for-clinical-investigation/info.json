@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Society for Clinical Investigation",
+  "journals": 1,
+  "scihub": 737,
+  "crossref_open_access": 0,
+  "crossref_active": 32033,
+  "crossref": 32033,
+  "coverage": 0.02300752,
+  "publisher_slug": "american-society-for-clinical-investigation",
+  "access_logs": {
+    "downloads": 0.28508,
+    "visitors": 0.26077,
+    "countries": 0.2011,
+    "days": 0.24199,
+    "months": 0.16796,
+    "n_articles_requested": 64,
+    "n_articles": 905
+  }
+}

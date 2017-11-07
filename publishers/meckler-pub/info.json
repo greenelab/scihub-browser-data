@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Meckler Pub",
+  "journals": 1,
+  "scihub": 538,
+  "crossref_open_access": 0,
+  "crossref_active": 0,
+  "crossref": 633,
+  "coverage": 0.84992101,
+  "publisher_slug": "meckler-pub",
+  "access_logs": {
+    "downloads": 0.45455,
+    "visitors": 0.40909,
+    "countries": 0.40909,
+    "days": 0.40909,
+    "months": 0.36364,
+    "n_articles_requested": 6,
+    "n_articles": 22
+  }
+}

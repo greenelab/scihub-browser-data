@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Polska Akademia Nauk",
+  "journals": 21,
+  "scihub": 4073,
+  "crossref_open_access": 1642,
+  "crossref_active": 16939,
+  "crossref": 19506,
+  "coverage": 0.20880755,
+  "publisher_slug": "polska-akademia-nauk",
+  "access_logs": {
+    "downloads": 0.11785,
+    "visitors": 0.11017,
+    "countries": 0.09635,
+    "days": 0.10672,
+    "months": 0.09405,
+    "n_articles_requested": 175,
+    "n_articles": 2605
+  }
+}

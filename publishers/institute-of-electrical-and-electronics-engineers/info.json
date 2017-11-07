@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Institute of Electrical and Electronics Engineers",
+  "journals": 305,
+  "scihub": 881253,
+  "crossref_open_access": 4562,
+  "crossref_active": 768287,
+  "crossref": 893756,
+  "coverage": 0.98601072,
+  "publisher_slug": "institute-of-electrical-and-electronics-engineers",
+  "access_logs": {
+    "downloads": 2.9314,
+    "visitors": 2.5276,
+    "countries": 1.3526,
+    "days": 2.3781,
+    "months": 1.3476,
+    "n_articles_requested": 40226,
+    "n_articles": 68959
+  }
+}

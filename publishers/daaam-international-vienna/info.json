@@ -1,0 +1,19 @@
+{
+  "publisher_name": "DAAAM International Vienna",
+  "journals": 1,
+  "scihub": 177,
+  "crossref_open_access": 0,
+  "crossref_active": 325,
+  "crossref": 325,
+  "coverage": 0.54461538,
+  "publisher_slug": "daaam-international-vienna",
+  "access_logs": {
+    "downloads": 0.1,
+    "visitors": 0.1,
+    "countries": 0.1,
+    "days": 0.1,
+    "months": 0.1,
+    "n_articles_requested": 7,
+    "n_articles": 70
+  }
+}

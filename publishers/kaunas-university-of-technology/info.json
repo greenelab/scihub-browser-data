@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Kaunas University of Technology",
+  "journals": 6,
+  "scihub": 437,
+  "crossref_open_access": 550,
+  "crossref_active": 2064,
+  "crossref": 2064,
+  "coverage": 0.21172481,
+  "publisher_slug": "kaunas-university-of-technology",
+  "access_logs": {
+    "downloads": 0.0864,
+    "visitors": 0.03676,
+    "countries": 0.03493,
+    "days": 0.08088,
+    "months": 0.04044,
+    "n_articles_requested": 18,
+    "n_articles": 544
+  }
+}

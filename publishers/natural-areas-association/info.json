@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Natural Areas Association",
+  "journals": 1,
+  "scihub": 638,
+  "crossref_open_access": 0,
+  "crossref_active": 671,
+  "crossref": 671,
+  "coverage": 0.95081967,
+  "publisher_slug": "natural-areas-association",
+  "access_logs": {
+    "downloads": 0.44737,
+    "visitors": 0.41228,
+    "countries": 0.36842,
+    "days": 0.39474,
+    "months": 0.35965,
+    "n_articles_requested": 30,
+    "n_articles": 114
+  }
+}

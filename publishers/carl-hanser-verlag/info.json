@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Carl Hanser Verlag",
+  "journals": 8,
+  "scihub": 1783,
+  "crossref_open_access": 0,
+  "crossref_active": 6578,
+  "crossref": 6825,
+  "coverage": 0.26124542,
+  "publisher_slug": "carl-hanser-verlag",
+  "access_logs": {
+    "downloads": 0.41202,
+    "visitors": 0.35408,
+    "countries": 0.24356,
+    "days": 0.29077,
+    "months": 0.21888,
+    "n_articles_requested": 111,
+    "n_articles": 932
+  }
+}

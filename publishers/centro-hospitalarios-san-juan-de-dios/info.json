@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Centro Hospitalarios San Juan De Dios",
+  "journals": 1,
+  "scihub": 3,
+  "crossref_open_access": 320,
+  "crossref_active": 320,
+  "crossref": 320,
+  "coverage": 0.009375,
+  "publisher_slug": "centro-hospitalarios-san-juan-de-dios",
+  "access_logs": {
+    "downloads": 0.01974,
+    "visitors": 0.01316,
+    "countries": 0.00658,
+    "days": 0.01316,
+    "months": 0.01316,
+    "n_articles_requested": 1,
+    "n_articles": 152
+  }
+}

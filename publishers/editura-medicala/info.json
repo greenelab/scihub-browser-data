@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Editura Medicala",
+  "journals": 1,
+  "scihub": 19,
+  "crossref_open_access": 0,
+  "crossref_active": 206,
+  "crossref": 206,
+  "coverage": 0.09223301,
+  "publisher_slug": "editura-medicala",
+  "access_logs": {
+    "downloads": 0.07317,
+    "visitors": 0.07317,
+    "countries": 0.04878,
+    "days": 0.07317,
+    "months": 0.04878,
+    "n_articles_requested": 2,
+    "n_articles": 41
+  }
+}

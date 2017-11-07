@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Warsaw University",
+  "journals": 2,
+  "scihub": 59,
+  "crossref_open_access": 166,
+  "crossref_active": 194,
+  "crossref": 194,
+  "coverage": 0.30412371,
+  "publisher_slug": "warsaw-university",
+  "access_logs": {
+    "downloads": 0.104,
+    "visitors": 0.104,
+    "countries": 0.08,
+    "days": 0.08,
+    "months": 0.08,
+    "n_articles_requested": 9,
+    "n_articles": 125
+  }
+}

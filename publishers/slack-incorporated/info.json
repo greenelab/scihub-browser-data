@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Slack Incorporated",
+  "journals": 11,
+  "scihub": 486,
+  "crossref_open_access": 0,
+  "crossref_active": 22376,
+  "crossref": 22376,
+  "coverage": 0.0217197,
+  "publisher_slug": "slack-incorporated",
+  "access_logs": {
+    "downloads": 0.03876,
+    "visitors": 0.03386,
+    "countries": 0.02285,
+    "days": 0.0306,
+    "months": 0.01754,
+    "n_articles_requested": 24,
+    "n_articles": 2451
+  }
+}

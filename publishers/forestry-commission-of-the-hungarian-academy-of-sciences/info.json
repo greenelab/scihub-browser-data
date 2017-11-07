@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Forestry Commission of the Hungarian Academy of Sciences",
+  "journals": 1,
+  "scihub": 20,
+  "crossref_open_access": 63,
+  "crossref_active": 63,
+  "crossref": 63,
+  "coverage": 0.31746032,
+  "publisher_slug": "forestry-commission-of-the-hungarian-academy-of-sciences",
+  "access_logs": {
+    "downloads": 0.04167,
+    "visitors": 0.04167,
+    "countries": 0.04167,
+    "days": 0.04167,
+    "months": 0.04167,
+    "n_articles_requested": 1,
+    "n_articles": 24
+  }
+}

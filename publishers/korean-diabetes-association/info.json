@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Korean Diabetes Association",
+  "journals": 1,
+  "scihub": 16,
+  "crossref_open_access": 475,
+  "crossref_active": 475,
+  "crossref": 475,
+  "coverage": 0.03368421,
+  "publisher_slug": "korean-diabetes-association",
+  "access_logs": {
+    "downloads": 0.00671,
+    "visitors": 0.00671,
+    "countries": 0.00671,
+    "days": 0.00671,
+    "months": 0.00671,
+    "n_articles_requested": 1,
+    "n_articles": 149
+  }
+}

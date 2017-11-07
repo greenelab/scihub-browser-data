@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Atlantic Geoscience Society",
+  "journals": 1,
+  "scihub": 15,
+  "crossref_open_access": 0,
+  "crossref_active": 43,
+  "crossref": 43,
+  "coverage": 0.34883721,
+  "publisher_slug": "atlantic-geoscience-society",
+  "access_logs": {
+    "downloads": 0.04546,
+    "visitors": 0.04546,
+    "countries": 0.04546,
+    "days": 0.04546,
+    "months": 0.04546,
+    "n_articles_requested": 1,
+    "n_articles": 22
+  }
+}

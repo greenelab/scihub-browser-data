@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Hong Kong Academy of Medicine Press",
+  "journals": 2,
+  "scihub": 8,
+  "crossref_open_access": 434,
+  "crossref_active": 628,
+  "crossref": 628,
+  "coverage": 0.01273885,
+  "publisher_slug": "hong-kong-academy-of-medicine-press",
+  "access_logs": {
+    "downloads": 0.01141,
+    "visitors": 0.0076,
+    "countries": 0.0076,
+    "days": 0.0076,
+    "months": 0.0076,
+    "n_articles_requested": 2,
+    "n_articles": 263
+  }
+}

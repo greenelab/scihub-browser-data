@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Verlag Hans Huber AG",
+  "journals": 10,
+  "scihub": 1642,
+  "crossref_open_access": 0,
+  "crossref_active": 15354,
+  "crossref": 15354,
+  "coverage": 0.10694282,
+  "publisher_slug": "verlag-hans-huber-ag",
+  "access_logs": {
+    "downloads": 0.06538,
+    "visitors": 0.06125,
+    "countries": 0.04955,
+    "days": 0.0585,
+    "months": 0.04611,
+    "n_articles_requested": 42,
+    "n_articles": 1453
+  }
+}

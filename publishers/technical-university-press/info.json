@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Technical University Press",
+  "journals": 1,
+  "scihub": 191,
+  "crossref_open_access": 0,
+  "crossref_active": 971,
+  "crossref": 971,
+  "coverage": 0.19670443,
+  "publisher_slug": "technical-university-press",
+  "access_logs": {
+    "downloads": 0.07692,
+    "visitors": 0.06923,
+    "countries": 0.06923,
+    "days": 0.06923,
+    "months": 0.06923,
+    "n_articles_requested": 9,
+    "n_articles": 130
+  }
+}

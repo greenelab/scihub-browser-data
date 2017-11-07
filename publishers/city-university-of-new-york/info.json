@@ -1,0 +1,19 @@
+{
+  "publisher_name": "City University of New York",
+  "journals": 1,
+  "scihub": 1259,
+  "crossref_open_access": 0,
+  "crossref_active": 1275,
+  "crossref": 1275,
+  "coverage": 0.98745098,
+  "publisher_slug": "city-university-of-new-york",
+  "access_logs": {
+    "downloads": 1.2444,
+    "visitors": 0.97778,
+    "countries": 0.55556,
+    "days": 0.73333,
+    "months": 0.48889,
+    "n_articles_requested": 15,
+    "n_articles": 45
+  }
+}

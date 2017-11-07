@@ -1,0 +1,19 @@
+{
+  "publisher_name": "US Department of Health and Human Services",
+  "journals": 2,
+  "scihub": 9321,
+  "crossref_open_access": 22234,
+  "crossref_active": 22234,
+  "crossref": 22234,
+  "coverage": 0.41922281,
+  "publisher_slug": "us-department-of-health-and-human-services",
+  "access_logs": {
+    "downloads": 0.17557,
+    "visitors": 0.14656,
+    "countries": 0.12824,
+    "days": 0.16336,
+    "months": 0.13893,
+    "n_articles_requested": 70,
+    "n_articles": 655
+  }
+}

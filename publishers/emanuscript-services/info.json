@@ -1,0 +1,19 @@
+{
+  "publisher_name": "EManuscript Services",
+  "journals": 2,
+  "scihub": 545,
+  "crossref_open_access": 0,
+  "crossref_active": 910,
+  "crossref": 910,
+  "coverage": 0.5989011,
+  "publisher_slug": "emanuscript-services",
+  "access_logs": {
+    "downloads": 0.06024,
+    "visitors": 0.05422,
+    "countries": 0.04819,
+    "days": 0.06024,
+    "months": 0.04819,
+    "n_articles_requested": 4,
+    "n_articles": 166
+  }
+}

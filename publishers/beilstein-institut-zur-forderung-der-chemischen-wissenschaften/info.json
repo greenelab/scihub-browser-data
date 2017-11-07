@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Beilstein-Institut Zur Forderung der Chemischen Wissenschaften",
+  "journals": 1,
+  "scihub": 89,
+  "crossref_open_access": 1126,
+  "crossref_active": 1126,
+  "crossref": 1126,
+  "coverage": 0.07904085,
+  "publisher_slug": "beilstein-institut-zur-forderung-der-chemischen-wissenschaften",
+  "access_logs": {
+    "downloads": 0.07416,
+    "visitors": 0.07416,
+    "countries": 0.05393,
+    "days": 0.06517,
+    "months": 0.05393,
+    "n_articles_requested": 18,
+    "n_articles": 445
+  }
+}

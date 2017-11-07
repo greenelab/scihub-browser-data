@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Oxford University Press",
+  "journals": 316,
+  "scihub": 1567250,
+  "crossref_open_access": 71136,
+  "crossref_active": 1748720,
+  "crossref": 1774511,
+  "coverage": 0.88320106,
+  "publisher_slug": "oxford-university-press",
+  "access_logs": {
+    "downloads": 1.0078,
+    "visitors": 0.89834,
+    "countries": 0.65972,
+    "days": 0.82158,
+    "months": 0.58199,
+    "n_articles_requested": 29853,
+    "n_articles": 94183
+  }
+}

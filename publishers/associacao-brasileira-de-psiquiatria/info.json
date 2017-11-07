@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Associacao Brasileira de Psiquiatria",
+  "journals": 1,
+  "scihub": 161,
+  "crossref_open_access": 452,
+  "crossref_active": 452,
+  "crossref": 452,
+  "coverage": 0.35619469,
+  "publisher_slug": "associacao-brasileira-de-psiquiatria",
+  "access_logs": {
+    "downloads": 0.01053,
+    "visitors": 0.01053,
+    "countries": 0.01053,
+    "days": 0.01053,
+    "months": 0.01053,
+    "n_articles_requested": 1,
+    "n_articles": 95
+  }
+}

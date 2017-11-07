@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Higher Education Press",
+  "journals": 5,
+  "scihub": 3272,
+  "crossref_open_access": 0,
+  "crossref_active": 3335,
+  "crossref": 3335,
+  "coverage": 0.98110945,
+  "publisher_slug": "higher-education-press",
+  "access_logs": {
+    "downloads": 2.3158,
+    "visitors": 1.9874,
+    "countries": 1.2632,
+    "days": 1.8947,
+    "months": 1.24,
+    "n_articles_requested": 264,
+    "n_articles": 475
+  }
+}

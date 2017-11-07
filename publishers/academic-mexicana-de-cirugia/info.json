@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Academic Mexicana de Cirugia",
+  "journals": 1,
+  "scihub": 312,
+  "crossref_open_access": 0,
+  "crossref_active": 317,
+  "crossref": 317,
+  "coverage": 0.98422713,
+  "publisher_slug": "academic-mexicana-de-cirugia",
+  "access_logs": {
+    "downloads": 2.3088,
+    "visitors": 2.1029,
+    "countries": 1.3382,
+    "days": 2.0,
+    "months": 1.25,
+    "n_articles_requested": 43,
+    "n_articles": 68
+  }
+}

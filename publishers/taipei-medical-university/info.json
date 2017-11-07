@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Taipei Medical University",
+  "journals": 1,
+  "scihub": 350,
+  "crossref_open_access": 0,
+  "crossref_active": 0,
+  "crossref": 350,
+  "coverage": 1.0,
+  "publisher_slug": "taipei-medical-university",
+  "access_logs": {
+    "downloads": 0.64062,
+    "visitors": 0.625,
+    "countries": 0.46875,
+    "days": 0.59375,
+    "months": 0.45312,
+    "n_articles_requested": 21,
+    "n_articles": 64
+  }
+}

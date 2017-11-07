@@ -1,0 +1,19 @@
+{
+  "publisher_name": "South African Assn. For The Advancement Of Science",
+  "journals": 1,
+  "scihub": 451,
+  "crossref_open_access": 905,
+  "crossref_active": 905,
+  "crossref": 905,
+  "coverage": 0.49834254,
+  "publisher_slug": "south-african-assn-for-the-advancement-of-science",
+  "access_logs": {
+    "downloads": 0.01105,
+    "visitors": 0.01105,
+    "countries": 0.01105,
+    "days": 0.01105,
+    "months": 0.01105,
+    "n_articles_requested": 2,
+    "n_articles": 181
+  }
+}

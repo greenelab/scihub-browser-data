@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Meteorological Society",
+  "journals": 14,
+  "scihub": 56202,
+  "crossref_open_access": 0,
+  "crossref_active": 83655,
+  "crossref": 90771,
+  "coverage": 0.61916251,
+  "publisher_slug": "american-meteorological-society",
+  "access_logs": {
+    "downloads": 0.65344,
+    "visitors": 0.53212,
+    "countries": 0.42621,
+    "days": 0.50585,
+    "months": 0.43477,
+    "n_articles_requested": 1136,
+    "n_articles": 3503
+  }
+}

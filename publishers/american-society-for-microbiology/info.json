@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Society for Microbiology",
+  "journals": 17,
+  "scihub": 145875,
+  "crossref_open_access": 2152,
+  "crossref_active": 162470,
+  "crossref": 162471,
+  "coverage": 0.89785254,
+  "publisher_slug": "american-society-for-microbiology",
+  "access_logs": {
+    "downloads": 1.5732,
+    "visitors": 1.3834,
+    "countries": 0.88876,
+    "days": 1.1819,
+    "months": 0.78561,
+    "n_articles_requested": 5630,
+    "n_articles": 13340
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "National Autonomous University of Mexico, Faculty of Chemistry",
+  "journals": 1,
+  "scihub": 257,
+  "crossref_open_access": 0,
+  "crossref_active": 265,
+  "crossref": 265,
+  "coverage": 0.96981132,
+  "publisher_slug": "national-autonomous-university-of-mexico-faculty-of-chemistry",
+  "access_logs": {
+    "downloads": 0.87,
+    "visitors": 0.83,
+    "countries": 0.68,
+    "days": 0.77,
+    "months": 0.63,
+    "n_articles_requested": 44,
+    "n_articles": 100
+  }
+}

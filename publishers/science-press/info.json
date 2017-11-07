@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Science Press",
+  "journals": 41,
+  "scihub": 23823,
+  "crossref_open_access": 3130,
+  "crossref_active": 50353,
+  "crossref": 57877,
+  "coverage": 0.41161429,
+  "publisher_slug": "science-press",
+  "access_logs": {
+    "downloads": 0.33665,
+    "visitors": 0.3045,
+    "countries": 0.231,
+    "days": 0.28502,
+    "months": 0.22342,
+    "n_articles_requested": 1243,
+    "n_articles": 9238
+  }
+}

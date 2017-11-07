@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Libbey",
+  "journals": 3,
+  "scihub": 177,
+  "crossref_open_access": 0,
+  "crossref_active": 1908,
+  "crossref": 2886,
+  "coverage": 0.06133056,
+  "publisher_slug": "libbey",
+  "access_logs": {
+    "downloads": 0.0,
+    "visitors": 0.0,
+    "countries": 0.0,
+    "days": 0.0,
+    "months": 0.0,
+    "n_articles_requested": 0,
+    "n_articles": 140
+  }
+}

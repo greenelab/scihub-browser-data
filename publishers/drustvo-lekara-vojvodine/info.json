@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Drustvo lekara Vojvodine",
+  "journals": 1,
+  "scihub": 709,
+  "crossref_open_access": 1400,
+  "crossref_active": 1400,
+  "crossref": 1400,
+  "coverage": 0.50642857,
+  "publisher_slug": "drustvo-lekara-vojvodine",
+  "access_logs": {
+    "downloads": 0.06475,
+    "visitors": 0.06475,
+    "countries": 0.06475,
+    "days": 0.06475,
+    "months": 0.06475,
+    "n_articles_requested": 8,
+    "n_articles": 139
+  }
+}

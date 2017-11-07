@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Brepols Publishers",
+  "journals": 15,
+  "scihub": 9275,
+  "crossref_open_access": 0,
+  "crossref_active": 15212,
+  "crossref": 15539,
+  "coverage": 0.59688526,
+  "publisher_slug": "brepols-publishers",
+  "access_logs": {
+    "downloads": 0.36415,
+    "visitors": 0.35854,
+    "countries": 0.33613,
+    "days": 0.35154,
+    "months": 0.28571,
+    "n_articles_requested": 199,
+    "n_articles": 714
+  }
+}

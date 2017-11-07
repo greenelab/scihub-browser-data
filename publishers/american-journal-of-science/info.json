@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Journal of Science",
+  "journals": 1,
+  "scihub": 8932,
+  "crossref_open_access": 0,
+  "crossref_active": 11547,
+  "crossref": 11547,
+  "coverage": 0.77353425,
+  "publisher_slug": "american-journal-of-science",
+  "access_logs": {
+    "downloads": 2.9706,
+    "visitors": 2.6765,
+    "countries": 1.4706,
+    "days": 2.1324,
+    "months": 1.6324,
+    "n_articles_requested": 54,
+    "n_articles": 68
+  }
+}

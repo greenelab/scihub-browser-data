@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Institute of Mathematical Statistics",
+  "journals": 11,
+  "scihub": 6338,
+  "crossref_open_access": 3187,
+  "crossref_active": 16535,
+  "crossref": 16535,
+  "coverage": 0.38330813,
+  "publisher_slug": "institute-of-mathematical-statistics",
+  "access_logs": {
+    "downloads": 0.08986,
+    "visitors": 0.07148,
+    "countries": 0.04697,
+    "days": 0.06535,
+    "months": 0.05037,
+    "n_articles_requested": 53,
+    "n_articles": 1469
+  }
+}

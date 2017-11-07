@@ -1,0 +1,19 @@
+{
+  "publisher_name": "National Association of Social Workers Press",
+  "journals": 1,
+  "scihub": 1499,
+  "crossref_open_access": 0,
+  "crossref_active": 2197,
+  "crossref": 2197,
+  "coverage": 0.68229404,
+  "publisher_slug": "national-association-of-social-workers-press",
+  "access_logs": {
+    "downloads": 0.4127,
+    "visitors": 0.39683,
+    "countries": 0.30952,
+    "days": 0.30159,
+    "months": 0.2619,
+    "n_articles_requested": 26,
+    "n_articles": 126
+  }
+}

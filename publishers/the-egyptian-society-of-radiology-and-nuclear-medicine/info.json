@@ -1,0 +1,19 @@
+{
+  "publisher_name": "The Egyptian Society of Radiology and Nuclear Medicine",
+  "journals": 1,
+  "scihub": 860,
+  "crossref_open_access": 893,
+  "crossref_active": 893,
+  "crossref": 893,
+  "coverage": 0.96304591,
+  "publisher_slug": "the-egyptian-society-of-radiology-and-nuclear-medicine",
+  "access_logs": {
+    "downloads": 0.44304,
+    "visitors": 0.4135,
+    "countries": 0.37131,
+    "days": 0.40506,
+    "months": 0.36287,
+    "n_articles_requested": 65,
+    "n_articles": 237
+  }
+}

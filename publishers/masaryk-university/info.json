@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Masaryk University",
+  "journals": 5,
+  "scihub": 246,
+  "crossref_open_access": 394,
+  "crossref_active": 510,
+  "crossref": 510,
+  "coverage": 0.48235294,
+  "publisher_slug": "masaryk-university",
+  "access_logs": {
+    "downloads": 0.02857,
+    "visitors": 0.01905,
+    "countries": 0.01905,
+    "days": 0.02381,
+    "months": 0.01905,
+    "n_articles_requested": 4,
+    "n_articles": 210
+  }
+}

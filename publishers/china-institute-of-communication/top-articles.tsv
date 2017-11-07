@@ -1,0 +1,101 @@
+doi	title	authors	title_name	year	downloads	visitors	countries
+10.1109/cc.2014.7085614	Big Data security and privacy: A review	Bardi Matturdi, Xianwei Zhou, Shuai Li, Fuhong Lin	China Communications	2014	58	53	10
+10.1109/cc.2015.7122469	Secure big data storage and sharing scheme for cloud tenants	Hongbing Cheng, Chunming Rong, Kai Hwang, Weihong Wang, Yanyan Li	China Communications	2015	58	51	10
+10.1109/cc.2015.7112043	Low power sensor design for IoT and mobile healthcare applications	Xican Chen, Woogeun Rhee, Zhihua Wang	China Communications	2015	49	47	12
+10.1109/cc.2015.7084383	Toward energy-efficient and trustworthy eHealth monitoring system	Ajmal Sawand, Soufiene Djahel, Zonghua Zhang, Farid Nait-Abdesselam	China Communications	2015	43	39	10
+10.1109/cc.2014.6827577	MTBAC: A mutual trust based access control model in Cloud computing	None Guoyuan Lin, None Danru Wang, None Yuyu Bie, None Min Lei	China Communications	2014	47	35	4
+10.1109/cc.2015.7084401	A comprehensive survey of TDD-based mobile communication systems from TD-SCDMA 3G to TD-LTE(A) 4G and 5G directions	Shanzhi Chen, Shaohui Sun, Yingmin Wang, Guojun Xiao, Rakesh Tamrakar	China Communications	2015	37	32	13
+10.1109/cc.2015.7084371	A survey of security issues in Cognitive Radio Networks	Jianwu Li, Zebing Feng, Zhiyong Feng, Ping Zhang	China Communications	2015	33	28	8
+10.1109/cc.2015.7112037	Privacy-preserving relative location based services for mobile users	Ning Fei, Yi Zhuang, Jingjing Gu, Jiannong Cao, Liang Yang	China Communications	2015	32	28	3
+10.1109/cc.2014.7004520	Design and implementation of an active multibeam antenna system with 64 RF channels and 256 antenna elements for massive MIMO application in 5G wireless communications	Pang Xingdong, Hong Wei, Yang Tianyang, Li Linsheng	China Communications	2014	28	22	8
+10.1109/cc.2014.6821741	Optimized multicast routing algorithm based on tree structure in MANETs	Xu Li, Tianjiao Liu, Ying Liu, Yan Tang	China Communications	2014	26	21	4
+10.1109/cc.2014.6821746	Trust management mechanism for Internet of Things	Lize Gu, Jingpei Wang, Bin Sun	China Communications	2014	24	21	10
+10.1109/cc.2015.7112034	A universal fairness evaluation framework for resource allocation in cloud computing	Di Lu, Jianfeng Ma, Ning Xi	China Communications	2015	23	20	4
+10.1109/cc.2015.7224693	An ACO look-ahead approach to QOS enabled fault- tolerant routing in MANETs	S. Surendran, S. Prakash	China Communications	2015	27	20	3
+10.1109/cc.2015.7224709	The research of indoor positioning based on visible light communication	Chunyue Wang, Lang Wang, Xuefen Chi, Shuangxing Liu, Wenxiao Shi, Jing Deng	China Communications	2015	23	18	5
+10.1109/cc.2015.7112038	A survey on the privacy-preserving data aggregation in wireless sensor networks	Jian Xu, Geng Yang, Zhengyu Chen, Qianqian Wang	China Communications	2015	20	17	5
+10.1109/cc.2015.7114066	A portable fall detection and alerting system based on k-NN algorithm and remote medicine	He Jian, Hu Chen	China Communications	2015	17	16	2
+10.1109/cc.2014.6895381	Autonomic QoS management mechanism in Software Defined Network	Wendong Wang, Qinglei Qi, Xiangyang Gong, Yannan Hu, Xirong Que	China Communications	2014	17	15	6
+10.1109/cc.2014.6969791	Enabling energy efficient sensory data collection using multiple mobile sink	None Madhumathy P, None Sivakumar D	China Communications	2014	16	15	4
+10.1109/cc.2014.6969712	An efficient method for checking the integrity of data in the Cloud	Shuang Tan, Lin Tan, Xiaoling Li, Yan Jia	China Communications	2014	15	14	1
+10.1109/cc.2014.6969773	A fully homomorphic encryption scheme with better key size	Zhigang Chen, Jian Wang, Zengnian Zhang, Xinxia Song	China Communications	2014	17	14	3
+10.1109/cc.2014.6821312	Adaptive and dynamic mobile phone data encryption method	Cao Wanpeng, Bi Wei	China Communications	2014	13	13	4
+10.1109/cc.2014.6969789	An overview of Internet of Vehicles	Fangchun Yang, Shangguang Wang, Jinglin Li, Zhihan Liu, Qibo Sun	China Communications	2014	15	13	7
+10.1109/cc.2014.6821738	SDN based next generation Mobile Network with Service Slicing and trials	Xiaodong Xu, Huixin Zhang, Xun Dai, Yanzhao Hou, Xiaofeng Tao, Ping Zhang	China Communications	2014	14	12	6
+10.1109/cc.2014.6911083	Android malware detection with contrasting permission patterns	Ping Xiong, Xiaofeng Wang, Wenjia Niu, Tianqing Zhu, Gang Li	China Communications	2014	14	12	6
+10.1109/cc.2014.7085616	The cloud storage ciphertext retrieval scheme based on ORAM	Ningning Song, Yan Sun	China Communications	2014	14	12	2
+10.1109/cc.2015.7084389	On channel assignment for multicast in multi-radio multi-channel wireless mesh networks: A survey	Jihong Wang, Wenxiao Shi, Feng Jin	China Communications	2015	14	12	5
+10.1109/cc.2015.7084407	HTTP-sCAN: Detecting HTTP-flooding attack by modeling multi-features of web browsing behavior from noisy web-logs	Jin Wang, Min Zhang, Xiaolong Yang, Keping Long, Jie Xu	China Communications	2015	12	12	3
+10.1109/cc.2015.7084410	Energy-performance tradeoffs in IaaS cloud with virtual machine scheduling	Jiankang Dong, Hongbo Wang, Shiduan Cheng	China Communications	2015	15	12	6
+10.1109/cc.2015.7224708	Genetic algorithm-based redundancy optimization method for smart grid communication network	Yue Shi, Xuesong Qiu, Shaoyong Guo	China Communications	2015	14	12	7
+10.1109/cc.2014.6825259	Smart city architecture: A technology guide for implementation and design challenges	Rong Wenge, Xiong Zhang, Cooper Dave, Li Chao, Sheng Hao	China Communications	2014	11	11	5
+10.1109/cc.2014.6911090	A retrievable data perturbation method used in privacy-preserving in cloud computing	Pan Yang, Xiaolin Gui, Jian An, Jing Yao, Jiancai Lin, Feng Tian	China Communications	2014	13	11	5
+10.1109/cc.2014.7019849	User-level sentiment evolution analysis in microblog	Lumin Zhang, Yan Jia, Xiang Zhu, Bin Zhou, Yi Han	China Communications	2014	11	11	4
+10.1109/cc.2015.7084359	An anonymous authentication scheme for plug-in electric vehicles joining to charging/discharging station in vehicle-to-Grid (V2G) networks	Jie Chen, Yueyu Zhang, Wencong Su	China Communications	2015	11	11	5
+10.1109/cc.2015.7122483	Allocation and scheduling of network resource for multiple control applications in SDN	Tao Feng, Jun Bi, Ke Wang	China Communications	2015	14	11	7
+10.1109/cc.2015.7275253	A game theoretic approach for inter-network interference mitigation in wireless body area networks	Dakun Du, Fengye Hu, Feng Wang, Zhijun Wang, Yu Du, Lu Wang	China Communications	2015	11	11	5
+10.1109/cc.2014.6825257	A high-speed bi-directional visible light communication system based on RGB-LED	Wang Yuanquan, Chi Nan	China Communications	2014	10	10	4
+10.1109/cc.2014.6825268	A novel feature-based method for sentiment analysis of Chinese product reviews	Liu Lizhen, Song Wei, Wang Hanshi, Li Chuchu, Lu Jingli	China Communications	2014	13	10	3
+10.1109/cc.2014.7004517	New antenna technology for 5G wireless communications [Guest editors' introduction]	Hong Wei, Ching-Kuang Clive Tzuang, Yang Fan	China Communications	2014	13	10	7
+10.1109/cc.2015.7084358	Next generation Narrowband (under 500 kHz) Power Line Communications (PLC) standards	Stefano Galli, Thierry Lys	China Communications	2015	14	10	3
+10.1109/cc.2015.7112035	HiQoS: An SDN-based multipath QoS solution	Jinyao Yan, Hailong Zhang, Qianjun Shuai, Bo Liu, Xiao Guo	China Communications	2015	12	10	7
+10.1109/cc.2015.7114062	A precise RFID indoor localization system with sensor network assistance	Zhang Dian, Lu Kezhong, Mao Rui	China Communications	2015	11	10	4
+10.1109/cc.2015.7188520	A survey on Information-centric Networking: Rationales, designs and debates	Xiaoke Jiang, Jun Bi, Guoshun Nan, Zhaogeng Li	China Communications	2015	11	10	6
+10.1109/cc.2014.6827572	A data assured deletion scheme in cloud storage	None Li Chaoling, None Chen Yue, None Zhou Yanzhou	China Communications	2014	13	9	3
+10.1109/cc.2014.7004528	Certificateless public key encryption with keyword search	Peng Yanguo, Cui Jiangtao, Peng Changgen, Ying Zuobin	China Communications	2014	12	9	1
+10.1109/cc.2014.7022535	Securing patient-centric personal health records sharing system in cloud computing	None Chen Danwei, None Chen Linling, None Fan Xiaowei, None He Liwen, None Pan Su, None Hu Ruoxiang	China Communications	2014	12	9	3
+10.1109/cc.2015.7114058	A trust management scheme based on behavior feedback for opportunistic networks	Chen Xi, Sun Liang, Ma Jianfeng, Ma Zhuo	China Communications	2015	9	9	2
+10.1109/cc.2015.7122471	MAVP-FE: Multi-authority vector policy functional encryption with efficient encryption and decryption	Jing Wang, Chuanhe Huang, Kan Yang, Jinhai Wang, Xiaomao Wang, Xi Chen	China Communications	2015	11	9	2
+10.1109/cc.2014.6821736	On reliability-optimized controller placement for Software-Defined Networks	Yannan Hu, Wendong Wang, Xiangyang Gong, Xirong Que, Shiduan Cheng	China Communications	2014	8	8	6
+10.1109/cc.2015.7084365	Separate dimming controlling and data transmission for an indoor visible light communication system	Xiang Liu, Aiying Yang, Yankun Li, Lihui Feng	China Communications	2015	10	8	4
+10.1109/cc.2015.7084370	A novel smart forwarding scheme in LTE-Advanced networks	Jengyueng Chen, Chunchuan Yang, Yiting Mai	China Communications	2015	8	8	4
+10.1109/cc.2015.7122479	Analysis on the parameter selection method for FLUSH+RELOAD based cache timing attack on RSA	Ping Zhou, Tao Wang, Guang Li, Fan Zhang, Xinjie Zhao	China Communications	2015	8	8	4
+10.1109/cc.2015.7188533	An immunization strategy for social network worms based on network vertex influence	Wei Yang, Haibo Wang, Yu Yao	China Communications	2015	10	8	3
+10.1109/cc.2015.7224698	Steiner tree based optimal resource caching scheme in fog computing	Jingtao Su, Fuhong Lin, Xianwei Zhou, Xing Lu	China Communications	2015	14	8	4
+10.1109/cc.2014.6880470	QoS-aware dynamic resource management in heterogeneous mobile cloud computing networks	Pengbo Si, Qian Zhang, F. Richard Yu, Yanhua Zhang	China Communications	2014	9	7	3
+10.1109/cc.2014.6895390	An audio zero-watermark scheme based on energy comparing	Yu Yang, Min Lei, Mingzhi Cheng, Bohuai Liu, Guoyuan Lin, Da Xiao	China Communications	2014	8	7	5
+10.1109/cc.2014.6969793	Cooperative spectrum allocation with QoS support in cognitive cooperative vehicular ad hoc networks	Lei Zhang, Tao Luo, Wei Liu, Siting Zhu, Jianfeng Li	China Communications	2014	9	7	3
+10.1109/cc.2014.7004529	Enable data dynamics for algebraic signatures based remote data possession checking in the cloud storage	Luo Yuchuan, Fu Shaojing, Xu Ming, Wang Dongsheng	China Communications	2014	8	7	2
+10.1109/cc.2014.7019844	Real-time implementation for reduced-complexity LDPC decoder in satellite communication	Yongqing Wang, Donglei Liu, Lida Sun, Siliang Wu	China Communications	2014	7	7	2
+10.1109/cc.2014.7019847	Efficient task scheduling for Many Task Computing with resource attribute selection	Yong Zhao, Liang Chen, Youfu Li, Wenhong Tian	China Communications	2014	7	7	2
+10.1109/cc.2014.7085617	A trusted routing protocol based on GeoDTN+Nav in VANET	Qiwu Wu, Qingzi Liu, Long Zhang, Zhiming Zhang	China Communications	2014	7	7	2
+10.1109/cc.2015.7084399	Matched filter based spectrum sensing when primary user has multiple power levels	Xinzhi Zhang, Feifei Gao, Rong Chai, Tao Jiang	China Communications	2015	8	7	2
+10.1109/cc.2015.7112031	Research on CMOS mm-wave circuits and systems for wireless communications	Haikun Jia, Baoyong Chi, Lixue Kuang, Xiaobao Yu, Lei Chen, Wei Zhu, Meng Wei, Zheng Song, Zhihua Wang	China Communications	2015	8	7	5
+10.1109/cc.2015.7224696	A SDN-based energy saving strategy in wireless access networks	Hongyu Peng, Weidong Wang, Chaowei Wang, Gang Chen, Yinghai Zhang	China Communications	2015	10	7	6
+10.1109/cc.2015.7275255	Modeling and mining the temporal patterns of service in cellular network	Weijian Sun, Xiaowei Qin, Guo Wei	China Communications	2015	7	7	1
+10.1109/cc.2014.6825253	Virtual machine scheduling for improving energy efciency in IaaS cloud	Dong Jiankang, Wang Hongbo, Li Yangyang, Cheng Shiduan	China Communications	2014	8	6	3
+10.1109/cc.2014.6827568	Attribute based DRM scheme with dynamic usage control in cloud computing	None Huang Qinlong, None Ma Zhaofeng, None Yang Yixian, None Niu Xinxin, None Fu Jingyi	China Communications	2014	8	6	3
+10.1109/cc.2014.6969710	A new anonymity model for privacy-preserving data publishing	Xuezhen Huang, Jiqiang Liu, Zhen Han, Jun Yang	China Communications	2014	7	6	4
+10.1109/cc.2014.7004525	Application scenarios and enabling technologies of 5G	Yuan Yifei, Zhu Longming	China Communications	2014	10	6	4
+10.1109/cc.2014.7022519	Multiple mobile sinks data dissemination mechanism for large scale Wireless Sensor Network	None Xie Dongliang, None Wu Xiaojie, None Li Dan, None Sun Jia	China Communications	2014	7	6	4
+10.1109/cc.2014.7085615	A survey of mapreduce based parallel processing technologies	Jiamin Lu, Jun Feng	China Communications	2014	7	6	6
+10.1109/cc.2014.7085619	Novel hyper-combined public key based cloud storage key management scheme	Ningning Song, Yueyun Chen	China Communications	2014	6	6	3
+10.1109/cc.2015.7084398	A novel energy efficient MAC protocol for Wireless Body Area Network	Jing Liu, Ming Li, Bin Yuan, Wenlong Liu	China Communications	2015	6	6	3
+10.1109/cc.2015.7084404	Energy efficiency optimization in relay-assisted networks with energy harvesting relay constraints	Ming Zhao, Jing Zhao, Wuyang Zhou, Jinkang Zhu, Sihai Zhang	China Communications	2015	7	6	5
+10.1109/cc.2015.7112040	An 85mW 14-bit 150MS/s pipelined ADC with a merged first and second MDAC	Weitao Li, Fule Li, Changyi Yang, Shengjing Li, Zhihua Wang	China Communications	2015	6	6	4
+10.1109/cc.2015.7114054	Healthcare algorithms by wearable inertial sensors: a survey	Ao Buke, Fang Gaoli, Wang Yongcai, Song Lei, Yang Zhiqi	China Communications	2015	8	6	3
+10.1109/cc.2015.7114057	An optimized vertical handoff algorithm based on Markov process in vehicle heterogeneous network	Ma Bin, Deng Hong, Xie Xianzhong, Liao Xiaofeng	China Communications	2015	6	6	3
+10.1109/cc.2015.7224702	SDN orchestration for dynamic end-to-end control of data center multi-domain optical networking	Lei Liu	China Communications	2015	7	6	5
+10.1109/cc.2015.7224704	Invited paper: The audacity of fiber-wireless (FiWi) networks: revisited for clouds and cloudlets	Martin Maier, Bhaskar Prasad Rimal	China Communications	2015	6	6	6
+10.1109/cc.2015.7275257	Cyclostationary feature detection based spectrum sensing algorithm under complicated electromagnetic environment in cognitive radio networks	Mingchuan Yang, Yuan Li, Xiaofeng Liu, Wenyan Tang	China Communications	2015	6	6	3
+10.1109/cc.2014.6825260	A joint encryption and error correction method used in satellite communications	Li Ning, Lin Kanfeng, Lin Wenliang, Deng Zhongliang	China Communications	2014	5	5	1
+10.1109/cc.2014.6879002	A fully integrated 60GHz four channel CMOS receiver with 7GHz ultra-wide bandwidth for IEEE 802.11ad standard	Zhang Lei, Zhou Chunyuan, Wang Hongrui, Wang Yan, Qian He, Yu Zhiping	China Communications	2014	5	5	4
+10.1109/cc.2014.6880464	A digital evidence fusion method in network forensics systems with Dempster-shafer theory	Zhihong Tian, Wei Jiang, Yang Li, Lan Dong	China Communications	2014	6	5	1
+10.1109/cc.2014.6911091	Improving MapReduce performance by balancing skewed loads	Yuanquan Fan, Weiguo Wu, Yunlong Xu, Heng Chen	China Communications	2014	5	5	3
+10.1109/cc.2014.6911094	Lossless digital watermarking scheme for image maps	Jianguo Sun, Chonghui Zheng, Di Gao	China Communications	2014	5	5	2
+10.1109/cc.2014.6911095	Mining user interest in microblogs with a user-topic model	Li He, Yan Jia, Weihong Han, Zhaoyun Ding	China Communications	2014	5	5	3
+10.1109/cc.2014.6969711	A location privacy preserving solution to resist passive and active attacks in VANET	Xiaoling Zhu, Donghui Hu, Zhengfeng Hou, Liang Ding	China Communications	2014	5	5	2
+10.1109/cc.2014.6969777	A resistant quantum key exchange protocol and its corresponding encryption scheme	Shaowu Mao, Huanguo Zhang, Wanqing Wu, Jinhui Liu, Shuanbao Li, Houzhen Wang	China Communications	2014	5	5	3
+10.1109/cc.2014.7019845	Transport layer optimization for cloud computing applications via satellite: TCP Noordwijk+	M. Luglio, C. Roseti, F. Zampognaro	China Communications	2014	6	5	3
+10.1109/cc.2014.7085379	Energy saving for automatic train control in moving block signaling system	Qing Gu, Yu Meng, Fei Ma	China Communications	2014	5	5	4
+10.1109/cc.2015.7084360	Investing and pricing with supply uncertainty in electricity market: A general view combining wholesale and retail market	Xiaobo Li, Li Gao, Gongpu Wang, Feifei Gao, Qingwei Wu	China Communications	2015	5	5	3
+10.1109/cc.2015.7084372	Next generation Internet and IPv6 transition	Wendong Wang	China Communications	2015	6	5	4
+10.1109/cc.2015.7084408	A novel parallel scheme for fast similarity search in large time series	Hong Yin, Shuqiang Yang, Shaodong Ma, Fei Liu, Zhikun Chen	China Communications	2015	5	5	1
+10.1109/cc.2015.7188532	Traffic scheduling mechanism based on interference avoidance for Meter Data Collection in wireless smart grid communication networks	Sujie Shao, Shaoyong Guo, Xuesong Qiu, Luoming Meng, Min Lei	China Communications	2015	6	5	2
+10.1109/cc.2014.6821304	Reputation-based hierarchically cooperative spectrum sensing scheme in cognitive radio networks	Chen Huifang, Xie Lei, Ni Xiong	China Communications	2014	4	4	3
+10.1109/cc.2014.6821306	Efficient resource allocation scheme to maximise number of users with quality of service demands in small cells	Liu Peng, Li Jiandong, Li Hongyan, Wang Kan, Meng Yun	China Communications	2014	4	4	3
+10.1109/cc.2014.6825262	Resource scheduling algorithm and ecnomic model in ForCES networks	Zhuge Bin, Deng Li, Dai Guowei, Wan Lei, Wang Weiming, Lan Julong	China Communications	2014	5	4	2
+10.1109/cc.2014.6879011	An effective differential fault analysis on the Serpent cryptosystem in the Internet of Things	Li Wei, Tao Zhi, Gu Dawu, Sun Li, Qu Bo, Liu Zhiqiang, Liu Ya	China Communications	2014	4	4	3
+10.1109/cc.2014.6911084	DIV: Dynamic integrity validation framework for detecting compromises on virtual machine based cloud services in real time	Chunlu Wang, Chuanyi Liu, Bin Liu, Yingfei Dong	China Communications	2014	4	4	2
+10.1109/cc.2014.6969707	A sensor anonymity enhancement scheme based on pseudonym for clustered Wireless Sensor Network	Leyi Shi, Wenjing Fu, Cong Jia, Xin Liu, Chunfu Jia	China Communications	2014	4	4	3
+10.1109/cc.2014.6969775	Asymmetrical quantum encryption protocol based on quantum search algorithm	Wenjun Luo, Guanli Liu	China Communications	2014	4	4	2

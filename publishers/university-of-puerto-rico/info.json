@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Puerto Rico",
+  "journals": 1,
+  "scihub": 224,
+  "crossref_open_access": 0,
+  "crossref_active": 0,
+  "crossref": 228,
+  "coverage": 0.98245614,
+  "publisher_slug": "university-of-puerto-rico",
+  "access_logs": {
+    "downloads": 0.05,
+    "visitors": 0.05,
+    "countries": 0.05,
+    "days": 0.05,
+    "months": 0.05,
+    "n_articles_requested": 1,
+    "n_articles": 20
+  }
+}

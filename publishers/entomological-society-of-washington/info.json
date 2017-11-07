@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Entomological Society of Washington",
+  "journals": 1,
+  "scihub": 586,
+  "crossref_open_access": 0,
+  "crossref_active": 604,
+  "crossref": 604,
+  "coverage": 0.97019868,
+  "publisher_slug": "entomological-society-of-washington",
+  "access_logs": {
+    "downloads": 0.2907,
+    "visitors": 0.27907,
+    "countries": 0.27907,
+    "days": 0.2907,
+    "months": 0.27907,
+    "n_articles_requested": 21,
+    "n_articles": 86
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Savezno Ministarstvo Odbrane",
+  "journals": 1,
+  "scihub": 732,
+  "crossref_open_access": 2449,
+  "crossref_active": 2449,
+  "crossref": 2449,
+  "coverage": 0.29889751,
+  "publisher_slug": "savezno-ministarstvo-odbrane",
+  "access_logs": {
+    "downloads": 0.03693,
+    "visitors": 0.03409,
+    "countries": 0.02841,
+    "days": 0.03409,
+    "months": 0.02557,
+    "n_articles_requested": 9,
+    "n_articles": 352
+  }
+}

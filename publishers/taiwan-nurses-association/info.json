@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Taiwan Nurses Association",
+  "journals": 1,
+  "scihub": 622,
+  "crossref_open_access": 0,
+  "crossref_active": 705,
+  "crossref": 705,
+  "coverage": 0.8822695,
+  "publisher_slug": "taiwan-nurses-association",
+  "access_logs": {
+    "downloads": 0.44595,
+    "visitors": 0.41892,
+    "countries": 0.36486,
+    "days": 0.36486,
+    "months": 0.33784,
+    "n_articles_requested": 17,
+    "n_articles": 74
+  }
+}

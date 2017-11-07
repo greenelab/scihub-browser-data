@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Instytut Psychiatrii I Neurologii",
+  "journals": 1,
+  "scihub": 107,
+  "crossref_open_access": 0,
+  "crossref_active": 109,
+  "crossref": 109,
+  "coverage": 0.98165138,
+  "publisher_slug": "instytut-psychiatrii-i-neurologii",
+  "access_logs": {
+    "downloads": 0.07812,
+    "visitors": 0.07812,
+    "countries": 0.0625,
+    "days": 0.07812,
+    "months": 0.0625,
+    "n_articles_requested": 4,
+    "n_articles": 64
+  }
+}

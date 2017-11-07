@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Zaklad Narodowy imienia Ossolinskich",
+  "journals": 1,
+  "scihub": 210,
+  "crossref_open_access": 369,
+  "crossref_active": 369,
+  "crossref": 369,
+  "coverage": 0.56910569,
+  "publisher_slug": "zaklad-narodowy-imienia-ossolinskich",
+  "access_logs": {
+    "downloads": 0.42391,
+    "visitors": 0.38043,
+    "countries": 0.31522,
+    "days": 0.36957,
+    "months": 0.31522,
+    "n_articles_requested": 21,
+    "n_articles": 92
+  }
+}

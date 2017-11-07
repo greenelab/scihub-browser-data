@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Veszprem",
+  "journals": 1,
+  "scihub": 5,
+  "crossref_open_access": 0,
+  "crossref_active": 0,
+  "crossref": 16,
+  "coverage": 0.3125,
+  "publisher_slug": "university-of-veszprem",
+  "access_logs": {
+    "downloads": 0.4,
+    "visitors": 0.3,
+    "countries": 0.2,
+    "days": 0.4,
+    "months": 0.3,
+    "n_articles_requested": 2,
+    "n_articles": 10
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Allen Press",
+  "journals": 6,
+  "scihub": 4204,
+  "crossref_open_access": 0,
+  "crossref_active": 2144,
+  "crossref": 4681,
+  "coverage": 0.8980987,
+  "publisher_slug": "allen-press",
+  "access_logs": {
+    "downloads": 2.5546,
+    "visitors": 2.2829,
+    "countries": 1.7591,
+    "days": 2.1204,
+    "months": 1.4118,
+    "n_articles_requested": 199,
+    "n_articles": 357
+  }
+}

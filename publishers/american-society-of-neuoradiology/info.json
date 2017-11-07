@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Society of Neuoradiology",
+  "journals": 1,
+  "scihub": 4538,
+  "crossref_open_access": 0,
+  "crossref_active": 4588,
+  "crossref": 4588,
+  "coverage": 0.98910201,
+  "publisher_slug": "american-society-of-neuoradiology",
+  "access_logs": {
+    "downloads": 2.5239,
+    "visitors": 2.3312,
+    "countries": 1.9013,
+    "days": 2.1768,
+    "months": 1.5239,
+    "n_articles_requested": 442,
+    "n_articles": 628
+  }
+}

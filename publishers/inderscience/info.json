@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Inderscience",
+  "journals": 232,
+  "scihub": 63378,
+  "crossref_open_access": 0,
+  "crossref_active": 69251,
+  "crossref": 70214,
+  "coverage": 0.9026405,
+  "publisher_slug": "inderscience",
+  "access_logs": {
+    "downloads": 0.33058,
+    "visitors": 0.29989,
+    "countries": 0.26139,
+    "days": 0.29631,
+    "months": 0.24329,
+    "n_articles_requested": 2267,
+    "n_articles": 10884
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Arkat USA",
+  "journals": 1,
+  "scihub": 35,
+  "crossref_open_access": 3900,
+  "crossref_active": 3900,
+  "crossref": 3900,
+  "coverage": 0.00897436,
+  "publisher_slug": "arkat-usa",
+  "access_logs": {
+    "downloads": 0.02051,
+    "visitors": 0.02051,
+    "countries": 0.02051,
+    "days": 0.02051,
+    "months": 0.02051,
+    "n_articles_requested": 4,
+    "n_articles": 195
+  }
+}

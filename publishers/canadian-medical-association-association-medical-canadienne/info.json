@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Canadian Medical Association/Association Medical Canadienne",
+  "journals": 5,
+  "scihub": 10851,
+  "crossref_open_access": 989,
+  "crossref_active": 12164,
+  "crossref": 12164,
+  "coverage": 0.89205853,
+  "publisher_slug": "canadian-medical-association-association-medical-canadienne",
+  "access_logs": {
+    "downloads": 0.43765,
+    "visitors": 0.40012,
+    "countries": 0.33293,
+    "days": 0.38923,
+    "months": 0.296,
+    "n_articles_requested": 274,
+    "n_articles": 1652
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "World Health Organization",
+  "journals": 2,
+  "scihub": 1006,
+  "crossref_open_access": 234,
+  "crossref_active": 2518,
+  "crossref": 2518,
+  "coverage": 0.39952343,
+  "publisher_slug": "world-health-organization",
+  "access_logs": {
+    "downloads": 0.11825,
+    "visitors": 0.07198,
+    "countries": 0.06941,
+    "days": 0.11825,
+    "months": 0.08226,
+    "n_articles_requested": 24,
+    "n_articles": 389
+  }
+}

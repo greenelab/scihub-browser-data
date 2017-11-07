@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Hanser Publishers",
+  "journals": 2,
+  "scihub": 2148,
+  "crossref_open_access": 0,
+  "crossref_active": 2332,
+  "crossref": 3267,
+  "coverage": 0.65748393,
+  "publisher_slug": "hanser-publishers",
+  "access_logs": {
+    "downloads": 1.307,
+    "visitors": 1.1793,
+    "countries": 0.82675,
+    "days": 1.0334,
+    "months": 0.82979,
+    "n_articles_requested": 164,
+    "n_articles": 329
+  }
+}

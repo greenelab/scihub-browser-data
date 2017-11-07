@@ -1,0 +1,19 @@
+{
+  "publisher_name": "West Virginia University",
+  "journals": 1,
+  "scihub": 72,
+  "crossref_open_access": 0,
+  "crossref_active": 681,
+  "crossref": 681,
+  "coverage": 0.10572687,
+  "publisher_slug": "west-virginia-university",
+  "access_logs": {
+    "downloads": 0.26866,
+    "visitors": 0.26866,
+    "countries": 0.26866,
+    "days": 0.26866,
+    "months": 0.26866,
+    "n_articles_requested": 18,
+    "n_articles": 67
+  }
+}

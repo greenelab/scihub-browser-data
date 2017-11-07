@@ -1,0 +1,19 @@
+{
+  "publisher_name": "W J G Press",
+  "journals": 1,
+  "scihub": 479,
+  "crossref_open_access": 16324,
+  "crossref_active": 16324,
+  "crossref": 16324,
+  "coverage": 0.0293433,
+  "publisher_slug": "w-j-g-press",
+  "access_logs": {
+    "downloads": 0.03491,
+    "visitors": 0.03171,
+    "countries": 0.02883,
+    "days": 0.03107,
+    "months": 0.02626,
+    "n_articles_requested": 53,
+    "n_articles": 3122
+  }
+}

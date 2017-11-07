@@ -1,0 +1,19 @@
+{
+  "publisher_name": "IGI Global",
+  "journals": 55,
+  "scihub": 150,
+  "crossref_open_access": 0,
+  "crossref_active": 10051,
+  "crossref": 10213,
+  "coverage": 0.01468716,
+  "publisher_slug": "igi-global",
+  "access_logs": {
+    "downloads": 0.00774,
+    "visitors": 0.0071,
+    "countries": 0.0071,
+    "days": 0.0071,
+    "months": 0.0071,
+    "n_articles_requested": 10,
+    "n_articles": 1550
+  }
+}

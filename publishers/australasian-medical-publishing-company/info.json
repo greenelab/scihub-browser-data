@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Australasian Medical Publishing Company",
+  "journals": 1,
+  "scihub": 15,
+  "crossref_open_access": 0,
+  "crossref_active": 3380,
+  "crossref": 3380,
+  "coverage": 0.00443787,
+  "publisher_slug": "australasian-medical-publishing-company",
+  "access_logs": {
+    "downloads": 0.00655,
+    "visitors": 0.00655,
+    "countries": 0.00374,
+    "days": 0.00655,
+    "months": 0.00374,
+    "n_articles_requested": 2,
+    "n_articles": 1069
+  }
+}

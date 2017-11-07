@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Bentham",
+  "journals": 231,
+  "scihub": 34981,
+  "crossref_open_access": 7285,
+  "crossref_active": 80016,
+  "crossref": 85980,
+  "coverage": 0.40685043,
+  "publisher_slug": "bentham",
+  "access_logs": {
+    "downloads": 0.00661,
+    "visitors": 0.00532,
+    "countries": 0.00475,
+    "days": 0.00532,
+    "months": 0.00435,
+    "n_articles_requested": 30,
+    "n_articles": 12409
+  }
+}

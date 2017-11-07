@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Wichtig Publishing",
+  "journals": 11,
+  "scihub": 878,
+  "crossref_open_access": 0,
+  "crossref_active": 5198,
+  "crossref": 5437,
+  "coverage": 0.16148611,
+  "publisher_slug": "wichtig-publishing",
+  "access_logs": {
+    "downloads": 0.15503,
+    "visitors": 0.13738,
+    "countries": 0.11665,
+    "days": 0.13047,
+    "months": 0.10821,
+    "n_articles_requested": 91,
+    "n_articles": 1303
+  }
+}

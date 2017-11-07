@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Research Network of Computational and Structural Biotechnology",
+  "journals": 1,
+  "scihub": 303,
+  "crossref_open_access": 311,
+  "crossref_active": 311,
+  "crossref": 311,
+  "coverage": 0.97427653,
+  "publisher_slug": "research-network-of-computational-and-structural-biotechnology",
+  "access_logs": {
+    "downloads": 1.7064,
+    "visitors": 1.5413,
+    "countries": 1.3119,
+    "days": 1.4954,
+    "months": 1.1376,
+    "n_articles_requested": 73,
+    "n_articles": 109
+  }
+}

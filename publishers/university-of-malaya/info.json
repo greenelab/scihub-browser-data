@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Malaya",
+  "journals": 3,
+  "scihub": 123,
+  "crossref_open_access": 335,
+  "crossref_active": 89,
+  "crossref": 345,
+  "coverage": 0.35652174,
+  "publisher_slug": "university-of-malaya",
+  "access_logs": {
+    "downloads": 1.449,
+    "visitors": 1.3265,
+    "countries": 0.91837,
+    "days": 1.3469,
+    "months": 0.93878,
+    "n_articles_requested": 25,
+    "n_articles": 49
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Ateneo de Manila University",
+  "journals": 3,
+  "scihub": 38,
+  "crossref_open_access": 56,
+  "crossref_active": 263,
+  "crossref": 272,
+  "coverage": 0.13970588,
+  "publisher_slug": "ateneo-de-manila-university",
+  "access_logs": {
+    "downloads": 0.2716,
+    "visitors": 0.25926,
+    "countries": 0.23457,
+    "days": 0.24691,
+    "months": 0.20988,
+    "n_articles_requested": 16,
+    "n_articles": 81
+  }
+}

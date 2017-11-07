@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Arkansas",
+  "journals": 1,
+  "scihub": 127,
+  "crossref_open_access": 0,
+  "crossref_active": 138,
+  "crossref": 138,
+  "coverage": 0.92028986,
+  "publisher_slug": "university-of-arkansas",
+  "access_logs": {
+    "downloads": 0.15942,
+    "visitors": 0.15942,
+    "countries": 0.15942,
+    "days": 0.15942,
+    "months": 0.15942,
+    "n_articles_requested": 10,
+    "n_articles": 69
+  }
+}

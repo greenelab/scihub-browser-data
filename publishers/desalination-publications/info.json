@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Desalination Publications",
+  "journals": 1,
+  "scihub": 8444,
+  "crossref_open_access": 0,
+  "crossref_active": 8555,
+  "crossref": 8555,
+  "coverage": 0.98702513,
+  "publisher_slug": "desalination-publications",
+  "access_logs": {
+    "downloads": 2.047,
+    "visitors": 1.8236,
+    "countries": 1.3423,
+    "days": 1.7698,
+    "months": 1.3467,
+    "n_articles_requested": 2045,
+    "n_articles": 2936
+  }
+}

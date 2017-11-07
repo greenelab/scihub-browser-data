@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Korean Institute of Electrical Engineers",
+  "journals": 3,
+  "scihub": 1288,
+  "crossref_open_access": 0,
+  "crossref_active": 4690,
+  "crossref": 4690,
+  "coverage": 0.27462687,
+  "publisher_slug": "korean-institute-of-electrical-engineers",
+  "access_logs": {
+    "downloads": 0.46973,
+    "visitors": 0.41324,
+    "countries": 0.27926,
+    "days": 0.41808,
+    "months": 0.30347,
+    "n_articles_requested": 190,
+    "n_articles": 1239
+  }
+}

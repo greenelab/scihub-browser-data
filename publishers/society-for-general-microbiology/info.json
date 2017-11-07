@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Society for General Microbiology",
+  "journals": 5,
+  "scihub": 40905,
+  "crossref_open_access": 0,
+  "crossref_active": 45577,
+  "crossref": 53113,
+  "coverage": 0.77015043,
+  "publisher_slug": "society-for-general-microbiology",
+  "access_logs": {
+    "downloads": 1.1645,
+    "visitors": 0.99344,
+    "countries": 0.72306,
+    "days": 0.94424,
+    "months": 0.7179,
+    "n_articles_requested": 902,
+    "n_articles": 2134
+  }
+}

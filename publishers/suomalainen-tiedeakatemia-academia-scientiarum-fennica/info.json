@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Suomalainen Tiedeakatemia/Academia Scientiarum Fennica",
+  "journals": 2,
+  "scihub": 227,
+  "crossref_open_access": 385,
+  "crossref_active": 388,
+  "crossref": 388,
+  "coverage": 0.58505155,
+  "publisher_slug": "suomalainen-tiedeakatemia-academia-scientiarum-fennica",
+  "access_logs": {
+    "downloads": 0.02679,
+    "visitors": 0.02679,
+    "countries": 0.02679,
+    "days": 0.01786,
+    "months": 0.01786,
+    "n_articles_requested": 2,
+    "n_articles": 112
+  }
+}

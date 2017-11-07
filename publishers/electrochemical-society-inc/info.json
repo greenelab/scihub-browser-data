@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Electrochemical Society, Inc.",
+  "journals": 5,
+  "scihub": 54884,
+  "crossref_open_access": 0,
+  "crossref_active": 51622,
+  "crossref": 55948,
+  "coverage": 0.98098234,
+  "publisher_slug": "electrochemical-society-inc",
+  "access_logs": {
+    "downloads": 1.6432,
+    "visitors": 1.4432,
+    "countries": 1.0154,
+    "days": 1.3633,
+    "months": 1.0138,
+    "n_articles_requested": 2850,
+    "n_articles": 5205
+  }
+}

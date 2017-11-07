@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Missouri at Columbia",
+  "journals": 1,
+  "scihub": 39,
+  "crossref_open_access": 0,
+  "crossref_active": 4068,
+  "crossref": 4068,
+  "coverage": 0.00958702,
+  "publisher_slug": "university-of-missouri-at-columbia",
+  "access_logs": {
+    "downloads": 0.01212,
+    "visitors": 0.01212,
+    "countries": 0.01212,
+    "days": 0.01212,
+    "months": 0.01212,
+    "n_articles_requested": 2,
+    "n_articles": 165
+  }
+}

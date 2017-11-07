@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Human Sciences Press",
+  "journals": 8,
+  "scihub": 5297,
+  "crossref_open_access": 0,
+  "crossref_active": 0,
+  "crossref": 5324,
+  "coverage": 0.99492863,
+  "publisher_slug": "human-sciences-press",
+  "access_logs": {
+    "downloads": 0.375,
+    "visitors": 0.36184,
+    "countries": 0.31579,
+    "days": 0.35526,
+    "months": 0.31579,
+    "n_articles_requested": 38,
+    "n_articles": 152
+  }
+}

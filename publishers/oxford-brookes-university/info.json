@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Oxford Brookes University",
+  "journals": 1,
+  "scihub": 136,
+  "crossref_open_access": 0,
+  "crossref_active": 354,
+  "crossref": 354,
+  "coverage": 0.38418079,
+  "publisher_slug": "oxford-brookes-university",
+  "access_logs": {
+    "downloads": 1.7333,
+    "visitors": 1.5667,
+    "countries": 1.2333,
+    "days": 1.6333,
+    "months": 1.3,
+    "n_articles_requested": 18,
+    "n_articles": 30
+  }
+}

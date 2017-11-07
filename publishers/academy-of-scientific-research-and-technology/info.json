@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Academy of Scientific Research and Technology",
+  "journals": 1,
+  "scihub": 184,
+  "crossref_open_access": 192,
+  "crossref_active": 192,
+  "crossref": 192,
+  "coverage": 0.95833333,
+  "publisher_slug": "academy-of-scientific-research-and-technology",
+  "access_logs": {
+    "downloads": 1.5758,
+    "visitors": 1.5152,
+    "countries": 1.2121,
+    "days": 1.5152,
+    "months": 1.0303,
+    "n_articles_requested": 20,
+    "n_articles": 33
+  }
+}

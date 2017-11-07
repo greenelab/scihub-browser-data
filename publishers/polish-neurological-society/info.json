@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Polish Neurological Society",
+  "journals": 1,
+  "scihub": 678,
+  "crossref_open_access": 0,
+  "crossref_active": 688,
+  "crossref": 688,
+  "coverage": 0.98546512,
+  "publisher_slug": "polish-neurological-society",
+  "access_logs": {
+    "downloads": 1.6449,
+    "visitors": 1.5217,
+    "countries": 1.3261,
+    "days": 1.4928,
+    "months": 1.1594,
+    "n_articles_requested": 87,
+    "n_articles": 138
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Phytopathological Society",
+  "journals": 3,
+  "scihub": 11417,
+  "crossref_open_access": 0,
+  "crossref_active": 32591,
+  "crossref": 32591,
+  "coverage": 0.35031144,
+  "publisher_slug": "american-phytopathological-society",
+  "access_logs": {
+    "downloads": 0.26181,
+    "visitors": 0.22295,
+    "countries": 0.18709,
+    "days": 0.21279,
+    "months": 0.17155,
+    "n_articles_requested": 194,
+    "n_articles": 1673
+  }
+}

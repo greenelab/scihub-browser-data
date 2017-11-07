@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Editorial Dips Rocas",
+  "journals": 1,
+  "scihub": 1254,
+  "crossref_open_access": 0,
+  "crossref_active": 1265,
+  "crossref": 1265,
+  "coverage": 0.99130435,
+  "publisher_slug": "editorial-dips-rocas",
+  "access_logs": {
+    "downloads": 1.6471,
+    "visitors": 1.4294,
+    "countries": 0.69412,
+    "days": 1.1,
+    "months": 0.65294,
+    "n_articles_requested": 61,
+    "n_articles": 170
+  }
+}

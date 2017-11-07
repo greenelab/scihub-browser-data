@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Duke University Press",
+  "journals": 39,
+  "scihub": 70319,
+  "crossref_open_access": 4265,
+  "crossref_active": 93358,
+  "crossref": 93358,
+  "coverage": 0.75321879,
+  "publisher_slug": "duke-university-press",
+  "access_logs": {
+    "downloads": 0.40073,
+    "visitors": 0.333,
+    "countries": 0.29416,
+    "days": 0.3257,
+    "months": 0.27291,
+    "n_articles_requested": 605,
+    "n_articles": 3012
+  }
+}

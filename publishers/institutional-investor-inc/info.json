@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Institutional Investor, Inc.",
+  "journals": 1,
+  "scihub": 145,
+  "crossref_open_access": 0,
+  "crossref_active": 163,
+  "crossref": 163,
+  "coverage": 0.88957055,
+  "publisher_slug": "institutional-investor-inc",
+  "access_logs": {
+    "downloads": 0.25397,
+    "visitors": 0.20635,
+    "countries": 0.15873,
+    "days": 0.1746,
+    "months": 0.14286,
+    "n_articles_requested": 7,
+    "n_articles": 63
+  }
+}

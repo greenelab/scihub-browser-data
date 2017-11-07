@@ -1,0 +1,19 @@
+{
+  "publisher_name": "National Academy of Sciences",
+  "journals": 1,
+  "scihub": 123984,
+  "crossref_open_access": 0,
+  "crossref_active": 132761,
+  "crossref": 132761,
+  "coverage": 0.93388872,
+  "publisher_slug": "national-academy-of-sciences",
+  "access_logs": {
+    "downloads": 2.1713,
+    "visitors": 1.9131,
+    "countries": 1.2647,
+    "days": 1.7389,
+    "months": 1.1279,
+    "n_articles_requested": 3968,
+    "n_articles": 7035
+  }
+}

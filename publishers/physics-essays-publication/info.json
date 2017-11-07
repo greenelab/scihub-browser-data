@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Physics Essays Publication",
+  "journals": 1,
+  "scihub": 505,
+  "crossref_open_access": 0,
+  "crossref_active": 2065,
+  "crossref": 2065,
+  "coverage": 0.24455206,
+  "publisher_slug": "physics-essays-publication",
+  "access_logs": {
+    "downloads": 0.02521,
+    "visitors": 0.02521,
+    "countries": 0.02521,
+    "days": 0.02521,
+    "months": 0.02521,
+    "n_articles_requested": 3,
+    "n_articles": 119
+  }
+}

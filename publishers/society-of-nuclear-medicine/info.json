@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Society of Nuclear Medicine",
+  "journals": 1,
+  "scihub": 468,
+  "crossref_open_access": 0,
+  "crossref_active": 478,
+  "crossref": 478,
+  "coverage": 0.9790795,
+  "publisher_slug": "society-of-nuclear-medicine",
+  "access_logs": {
+    "downloads": 0.6087,
+    "visitors": 0.54783,
+    "countries": 0.42609,
+    "days": 0.47826,
+    "months": 0.43478,
+    "n_articles_requested": 39,
+    "n_articles": 115
+  }
+}

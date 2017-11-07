@@ -1,0 +1,19 @@
+{
+  "publisher_name": "PagePress",
+  "journals": 27,
+  "scihub": 1820,
+  "crossref_open_access": 7531,
+  "crossref_active": 8027,
+  "crossref": 8064,
+  "coverage": 0.22569444,
+  "publisher_slug": "pagepress",
+  "access_logs": {
+    "downloads": 0.03988,
+    "visitors": 0.03689,
+    "countries": 0.0339,
+    "days": 0.03689,
+    "months": 0.0339,
+    "n_articles_requested": 29,
+    "n_articles": 1003
+  }
+}

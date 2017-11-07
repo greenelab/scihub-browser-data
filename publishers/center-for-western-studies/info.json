@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Center for Western Studies",
+  "journals": 1,
+  "scihub": 301,
+  "crossref_open_access": 305,
+  "crossref_active": 305,
+  "crossref": 305,
+  "coverage": 0.98688525,
+  "publisher_slug": "center-for-western-studies",
+  "access_logs": {
+    "downloads": 0.81818,
+    "visitors": 0.70455,
+    "countries": 0.54545,
+    "days": 0.72727,
+    "months": 0.56818,
+    "n_articles_requested": 17,
+    "n_articles": 44
+  }
+}

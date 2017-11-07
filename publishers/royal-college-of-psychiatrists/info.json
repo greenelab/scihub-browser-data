@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Royal College of Psychiatrists",
+  "journals": 5,
+  "scihub": 7051,
+  "crossref_open_access": 0,
+  "crossref_active": 40296,
+  "crossref": 53113,
+  "coverage": 0.13275469,
+  "publisher_slug": "royal-college-of-psychiatrists",
+  "access_logs": {
+    "downloads": 1.018,
+    "visitors": 0.94608,
+    "countries": 0.8344,
+    "days": 0.92555,
+    "months": 0.72015,
+    "n_articles_requested": 338,
+    "n_articles": 779
+  }
+}

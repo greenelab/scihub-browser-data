@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Beijing University of Posts and Telecommunications",
+  "journals": 1,
+  "scihub": 1424,
+  "crossref_open_access": 0,
+  "crossref_active": 1434,
+  "crossref": 1434,
+  "coverage": 0.9930265,
+  "publisher_slug": "beijing-university-of-posts-and-telecommunications",
+  "access_logs": {
+    "downloads": 1.6905,
+    "visitors": 1.4048,
+    "countries": 0.99405,
+    "days": 1.3571,
+    "months": 0.96429,
+    "n_articles_requested": 84,
+    "n_articles": 168
+  }
+}

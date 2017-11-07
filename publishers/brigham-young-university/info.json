@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Brigham Young University",
+  "journals": 2,
+  "scihub": 716,
+  "crossref_open_access": 0,
+  "crossref_active": 741,
+  "crossref": 1032,
+  "coverage": 0.69379845,
+  "publisher_slug": "brigham-young-university",
+  "access_logs": {
+    "downloads": 0.68966,
+    "visitors": 0.64368,
+    "countries": 0.58621,
+    "days": 0.6092,
+    "months": 0.55172,
+    "n_articles_requested": 39,
+    "n_articles": 87
+  }
+}

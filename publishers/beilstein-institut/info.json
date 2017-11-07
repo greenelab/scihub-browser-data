@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Beilstein-Institut",
+  "journals": 1,
+  "scihub": 255,
+  "crossref_open_access": 2142,
+  "crossref_active": 2142,
+  "crossref": 2142,
+  "coverage": 0.11904762,
+  "publisher_slug": "beilstein-institut",
+  "access_logs": {
+    "downloads": 0.07042,
+    "visitors": 0.06439,
+    "countries": 0.05835,
+    "days": 0.06439,
+    "months": 0.06036,
+    "n_articles_requested": 23,
+    "n_articles": 497
+  }
+}

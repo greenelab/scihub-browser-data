@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Wyoming",
+  "journals": 2,
+  "scihub": 184,
+  "crossref_open_access": 0,
+  "crossref_active": 155,
+  "crossref": 206,
+  "coverage": 0.89320388,
+  "publisher_slug": "university-of-wyoming",
+  "access_logs": {
+    "downloads": 0.3125,
+    "visitors": 0.25,
+    "countries": 0.25,
+    "days": 0.25,
+    "months": 0.25,
+    "n_articles_requested": 4,
+    "n_articles": 16
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "National Research Council Canada",
+  "journals": 4,
+  "scihub": 5079,
+  "crossref_open_access": 0,
+  "crossref_active": 1702,
+  "crossref": 5445,
+  "coverage": 0.93278237,
+  "publisher_slug": "national-research-council-canada",
+  "access_logs": {
+    "downloads": 1.6358,
+    "visitors": 1.463,
+    "countries": 1.0,
+    "days": 1.4259,
+    "months": 0.99383,
+    "n_articles_requested": 76,
+    "n_articles": 162
+  }
+}

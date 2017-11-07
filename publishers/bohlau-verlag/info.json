@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Bohlau Verlag",
+  "journals": 2,
+  "scihub": 4370,
+  "crossref_open_access": 0,
+  "crossref_active": 4634,
+  "crossref": 5727,
+  "coverage": 0.76305221,
+  "publisher_slug": "bohlau-verlag",
+  "access_logs": {
+    "downloads": 0.03906,
+    "visitors": 0.03906,
+    "countries": 0.02344,
+    "days": 0.03906,
+    "months": 0.03125,
+    "n_articles_requested": 3,
+    "n_articles": 128
+  }
+}

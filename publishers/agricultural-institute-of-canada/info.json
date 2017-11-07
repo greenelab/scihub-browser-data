@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Agricultural Institute of Canada",
+  "journals": 3,
+  "scihub": 3826,
+  "crossref_open_access": 0,
+  "crossref_active": 12990,
+  "crossref": 12990,
+  "coverage": 0.29453426,
+  "publisher_slug": "agricultural-institute-of-canada",
+  "access_logs": {
+    "downloads": 0.63353,
+    "visitors": 0.59454,
+    "countries": 0.49123,
+    "days": 0.5653,
+    "months": 0.50097,
+    "n_articles_requested": 176,
+    "n_articles": 513
+  }
+}

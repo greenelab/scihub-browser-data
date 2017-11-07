@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Chongqing University of Posts and Telecommunications",
+  "journals": 1,
+  "scihub": 78,
+  "crossref_open_access": 0,
+  "crossref_active": 82,
+  "crossref": 82,
+  "coverage": 0.95121951,
+  "publisher_slug": "chongqing-university-of-posts-and-telecommunications",
+  "access_logs": {
+    "downloads": 2.08,
+    "visitors": 1.96,
+    "countries": 1.56,
+    "days": 1.92,
+    "months": 1.32,
+    "n_articles_requested": 16,
+    "n_articles": 25
+  }
+}

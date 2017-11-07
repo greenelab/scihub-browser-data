@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Hospital Infantil de Mexico Federico Gomez",
+  "journals": 1,
+  "scihub": 165,
+  "crossref_open_access": 0,
+  "crossref_active": 185,
+  "crossref": 185,
+  "coverage": 0.89189189,
+  "publisher_slug": "hospital-infantil-de-mexico-federico-gomez",
+  "access_logs": {
+    "downloads": 1.7089,
+    "visitors": 1.4557,
+    "countries": 0.93671,
+    "days": 1.3671,
+    "months": 0.94937,
+    "n_articles_requested": 37,
+    "n_articles": 79
+  }
+}

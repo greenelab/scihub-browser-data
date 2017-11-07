@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Association of Cereal Chemists, Inc.",
+  "journals": 2,
+  "scihub": 2261,
+  "crossref_open_access": 0,
+  "crossref_active": 3234,
+  "crossref": 3234,
+  "coverage": 0.6991342,
+  "publisher_slug": "american-association-of-cereal-chemists-inc",
+  "access_logs": {
+    "downloads": 1.0072,
+    "visitors": 0.88849,
+    "countries": 0.64029,
+    "days": 0.83453,
+    "months": 0.66187,
+    "n_articles_requested": 106,
+    "n_articles": 278
+  }
+}

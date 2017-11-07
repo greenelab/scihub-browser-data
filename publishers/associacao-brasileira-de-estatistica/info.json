@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Associacao Brasileira de Estatistica",
+  "journals": 1,
+  "scihub": 215,
+  "crossref_open_access": 250,
+  "crossref_active": 250,
+  "crossref": 250,
+  "coverage": 0.86,
+  "publisher_slug": "associacao-brasileira-de-estatistica",
+  "access_logs": {
+    "downloads": 0.15152,
+    "visitors": 0.15152,
+    "countries": 0.13636,
+    "days": 0.13636,
+    "months": 0.10606,
+    "n_articles_requested": 5,
+    "n_articles": 66
+  }
+}

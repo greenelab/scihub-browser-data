@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Oklahoma",
+  "journals": 1,
+  "scihub": 28406,
+  "crossref_open_access": 0,
+  "crossref_active": 28759,
+  "crossref": 28759,
+  "coverage": 0.98772558,
+  "publisher_slug": "university-of-oklahoma",
+  "access_logs": {
+    "downloads": 0.02536,
+    "visitors": 0.02355,
+    "countries": 0.02355,
+    "days": 0.02355,
+    "months": 0.02355,
+    "n_articles_requested": 12,
+    "n_articles": 552
+  }
+}

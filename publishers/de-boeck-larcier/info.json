@@ -1,0 +1,19 @@
+{
+  "publisher_name": "De Boeck & Larcier",
+  "journals": 14,
+  "scihub": 107,
+  "crossref_open_access": 0,
+  "crossref_active": 6378,
+  "crossref": 6616,
+  "coverage": 0.01617291,
+  "publisher_slug": "de-boeck-larcier",
+  "access_logs": {
+    "downloads": 0.00131,
+    "visitors": 0.00131,
+    "countries": 0.00131,
+    "days": 0.00131,
+    "months": 0.00131,
+    "n_articles_requested": 1,
+    "n_articles": 763
+  }
+}

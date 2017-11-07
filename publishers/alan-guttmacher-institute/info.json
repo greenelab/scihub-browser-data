@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Alan Guttmacher Institute",
+  "journals": 3,
+  "scihub": 3887,
+  "crossref_open_access": 0,
+  "crossref_active": 207,
+  "crossref": 4100,
+  "coverage": 0.94804878,
+  "publisher_slug": "alan-guttmacher-institute",
+  "access_logs": {
+    "downloads": 0.04546,
+    "visitors": 0.04546,
+    "countries": 0.04546,
+    "days": 0.04546,
+    "months": 0.04546,
+    "n_articles_requested": 2,
+    "n_articles": 44
+  }
+}

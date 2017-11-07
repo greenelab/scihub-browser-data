@@ -1,0 +1,19 @@
+{
+  "publisher_name": "International College of Surgeons",
+  "journals": 1,
+  "scihub": 456,
+  "crossref_open_access": 0,
+  "crossref_active": 798,
+  "crossref": 798,
+  "coverage": 0.57142857,
+  "publisher_slug": "international-college-of-surgeons",
+  "access_logs": {
+    "downloads": 0.08684,
+    "visitors": 0.07895,
+    "countries": 0.0579,
+    "days": 0.07368,
+    "months": 0.0579,
+    "n_articles_requested": 13,
+    "n_articles": 380
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Society of Civil Engineers",
+  "journals": 35,
+  "scihub": 71573,
+  "crossref_open_access": 0,
+  "crossref_active": 68131,
+  "crossref": 72491,
+  "coverage": 0.98733636,
+  "publisher_slug": "american-society-of-civil-engineers",
+  "access_logs": {
+    "downloads": 1.6303,
+    "visitors": 1.3984,
+    "countries": 1.0677,
+    "days": 1.3497,
+    "months": 1.0511,
+    "n_articles_requested": 3027,
+    "n_articles": 5110
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Chinese Academy of Sciences",
+  "journals": 6,
+  "scihub": 437,
+  "crossref_open_access": 445,
+  "crossref_active": 6507,
+  "crossref": 6507,
+  "coverage": 0.06715844,
+  "publisher_slug": "chinese-academy-of-sciences",
+  "access_logs": {
+    "downloads": 0.16234,
+    "visitors": 0.14704,
+    "countries": 0.0978,
+    "days": 0.14238,
+    "months": 0.1018,
+    "n_articles_requested": 78,
+    "n_articles": 1503
+  }
+}

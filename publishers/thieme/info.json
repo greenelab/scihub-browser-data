@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Thieme",
+  "journals": 101,
+  "scihub": 311523,
+  "crossref_open_access": 1668,
+  "crossref_active": 390337,
+  "crossref": 435459,
+  "coverage": 0.71538997,
+  "publisher_slug": "thieme",
+  "access_logs": {
+    "downloads": 0.42503,
+    "visitors": 0.39264,
+    "countries": 0.27433,
+    "days": 0.32616,
+    "months": 0.24518,
+    "n_articles_requested": 4872,
+    "n_articles": 34925
+  }
+}

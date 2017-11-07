@@ -1,0 +1,19 @@
+{
+  "publisher_name": "International Society on Aging and Disease",
+  "journals": 1,
+  "scihub": 57,
+  "crossref_open_access": 176,
+  "crossref_active": 176,
+  "crossref": 176,
+  "coverage": 0.32386364,
+  "publisher_slug": "international-society-on-aging-and-disease",
+  "access_logs": {
+    "downloads": 0.3,
+    "visitors": 0.24444,
+    "countries": 0.16667,
+    "days": 0.21111,
+    "months": 0.14444,
+    "n_articles_requested": 9,
+    "n_articles": 90
+  }
+}

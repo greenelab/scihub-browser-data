@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Open Access Science Online",
+  "journals": 1,
+  "scihub": 399,
+  "crossref_open_access": 481,
+  "crossref_active": 481,
+  "crossref": 481,
+  "coverage": 0.82952183,
+  "publisher_slug": "open-access-science-online",
+  "access_logs": {
+    "downloads": 1.9561,
+    "visitors": 1.8158,
+    "countries": 1.1579,
+    "days": 1.6491,
+    "months": 1.0439,
+    "n_articles_requested": 60,
+    "n_articles": 114
+  }
+}

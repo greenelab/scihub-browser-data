@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Neoplasia Press",
+  "journals": 1,
+  "scihub": 589,
+  "crossref_open_access": 605,
+  "crossref_active": 605,
+  "crossref": 605,
+  "coverage": 0.97355372,
+  "publisher_slug": "neoplasia-press",
+  "access_logs": {
+    "downloads": 0.42953,
+    "visitors": 0.39597,
+    "countries": 0.34899,
+    "days": 0.36913,
+    "months": 0.36242,
+    "n_articles_requested": 42,
+    "n_articles": 149
+  }
+}

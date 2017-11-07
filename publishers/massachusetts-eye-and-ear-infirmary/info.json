@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Massachusetts Eye and Ear Infirmary",
+  "journals": 1,
+  "scihub": 35,
+  "crossref_open_access": 85,
+  "crossref_active": 85,
+  "crossref": 85,
+  "coverage": 0.41176471,
+  "publisher_slug": "massachusetts-eye-and-ear-infirmary",
+  "access_logs": {
+    "downloads": 0.0,
+    "visitors": 0.0,
+    "countries": 0.0,
+    "days": 0.0,
+    "months": 0.0,
+    "n_articles_requested": 0,
+    "n_articles": 13
+  }
+}

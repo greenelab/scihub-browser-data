@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Dustri-Verlag Dr. Karl Feistle",
+  "journals": 12,
+  "scihub": 247,
+  "crossref_open_access": 0,
+  "crossref_active": 8855,
+  "crossref": 10272,
+  "coverage": 0.02404595,
+  "publisher_slug": "dustri-verlag-dr-karl-feistle",
+  "access_logs": {
+    "downloads": 0.07685,
+    "visitors": 0.0706,
+    "countries": 0.05988,
+    "days": 0.06166,
+    "months": 0.05273,
+    "n_articles_requested": 33,
+    "n_articles": 1119
+  }
+}

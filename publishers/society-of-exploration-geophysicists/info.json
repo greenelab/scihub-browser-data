@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Society of Exploration Geophysicists",
+  "journals": 2,
+  "scihub": 13794,
+  "crossref_open_access": 0,
+  "crossref_active": 19335,
+  "crossref": 19335,
+  "coverage": 0.71342126,
+  "publisher_slug": "society-of-exploration-geophysicists",
+  "access_logs": {
+    "downloads": 0.80831,
+    "visitors": 0.64306,
+    "countries": 0.53919,
+    "days": 0.59018,
+    "months": 0.52975,
+    "n_articles_requested": 448,
+    "n_articles": 1059
+  }
+}

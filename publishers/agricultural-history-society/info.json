@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Agricultural History Society",
+  "journals": 1,
+  "scihub": 367,
+  "crossref_open_access": 0,
+  "crossref_active": 891,
+  "crossref": 891,
+  "coverage": 0.41189675,
+  "publisher_slug": "agricultural-history-society",
+  "access_logs": {
+    "downloads": 0.09043,
+    "visitors": 0.08511,
+    "countries": 0.07447,
+    "days": 0.07979,
+    "months": 0.07447,
+    "n_articles_requested": 12,
+    "n_articles": 188
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Maik Nauka/Interperiodica Publishing",
+  "journals": 99,
+  "scihub": 208577,
+  "crossref_open_access": 0,
+  "crossref_active": 213586,
+  "crossref": 214536,
+  "coverage": 0.97222378,
+  "publisher_slug": "maik-nauka-interperiodica-publishing",
+  "access_logs": {
+    "downloads": 0.78334,
+    "visitors": 0.68038,
+    "countries": 0.53673,
+    "days": 0.66783,
+    "months": 0.55753,
+    "n_articles_requested": 7404,
+    "n_articles": 19764
+  }
+}

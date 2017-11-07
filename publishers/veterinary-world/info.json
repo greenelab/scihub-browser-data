@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Veterinary World",
+  "journals": 1,
+  "scihub": 340,
+  "crossref_open_access": 1330,
+  "crossref_active": 1330,
+  "crossref": 1330,
+  "coverage": 0.2556391,
+  "publisher_slug": "veterinary-world",
+  "access_logs": {
+    "downloads": 0.00494,
+    "visitors": 0.00247,
+    "countries": 0.00247,
+    "days": 0.00247,
+    "months": 0.00247,
+    "n_articles_requested": 1,
+    "n_articles": 405
+  }
+}

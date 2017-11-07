@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Universidad de los Andes",
+  "journals": 5,
+  "scihub": 256,
+  "crossref_open_access": 1063,
+  "crossref_active": 1085,
+  "crossref": 1085,
+  "coverage": 0.2359447,
+  "publisher_slug": "universidad-de-los-andes",
+  "access_logs": {
+    "downloads": 0.0076,
+    "visitors": 0.0038,
+    "countries": 0.0038,
+    "days": 0.0038,
+    "months": 0.0038,
+    "n_articles_requested": 1,
+    "n_articles": 263
+  }
+}

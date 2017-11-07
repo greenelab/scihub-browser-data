@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Asociacion Nacional de Universidades e Instituciones de Educacion Superior A.C",
+  "journals": 1,
+  "scihub": 98,
+  "crossref_open_access": 104,
+  "crossref_active": 104,
+  "crossref": 104,
+  "coverage": 0.94230769,
+  "publisher_slug": "asociacion-nacional-de-universidades-e-instituciones-de-educacion-superior-a-c",
+  "access_logs": {
+    "downloads": 0.15873,
+    "visitors": 0.15873,
+    "countries": 0.14286,
+    "days": 0.15873,
+    "months": 0.15873,
+    "n_articles_requested": 9,
+    "n_articles": 63
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Medical Journals/Acta D-V",
+  "journals": 1,
+  "scihub": 2682,
+  "crossref_open_access": 3898,
+  "crossref_active": 3898,
+  "crossref": 3898,
+  "coverage": 0.68804515,
+  "publisher_slug": "medical-journals-acta-d-v",
+  "access_logs": {
+    "downloads": 0.35616,
+    "visitors": 0.30993,
+    "countries": 0.27055,
+    "days": 0.29966,
+    "months": 0.25856,
+    "n_articles_requested": 113,
+    "n_articles": 584
+  }
+}

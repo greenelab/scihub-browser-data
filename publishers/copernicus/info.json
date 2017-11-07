@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Copernicus",
+  "journals": 21,
+  "scihub": 4022,
+  "crossref_open_access": 29966,
+  "crossref_active": 27368,
+  "crossref": 31503,
+  "coverage": 0.12767038,
+  "publisher_slug": "copernicus",
+  "access_logs": {
+    "downloads": 0.0013,
+    "visitors": 0.0013,
+    "countries": 0.0013,
+    "days": 0.0013,
+    "months": 0.0013,
+    "n_articles_requested": 7,
+    "n_articles": 5399
+  }
+}

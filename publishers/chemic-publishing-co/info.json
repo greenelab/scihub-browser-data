@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Chemic Publishing Co.",
+  "journals": 1,
+  "scihub": 24,
+  "crossref_open_access": 0,
+  "crossref_active": 6265,
+  "crossref": 6265,
+  "coverage": 0.00383081,
+  "publisher_slug": "chemic-publishing-co",
+  "access_logs": {
+    "downloads": 0.00033,
+    "visitors": 0.00033,
+    "countries": 0.00033,
+    "days": 0.00033,
+    "months": 0.00033,
+    "n_articles_requested": 1,
+    "n_articles": 3039
+  }
+}

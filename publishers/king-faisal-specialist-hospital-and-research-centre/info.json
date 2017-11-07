@@ -1,0 +1,19 @@
+{
+  "publisher_name": "King Faisal Specialist Hospital and Research Centre",
+  "journals": 1,
+  "scihub": 403,
+  "crossref_open_access": 0,
+  "crossref_active": 441,
+  "crossref": 441,
+  "coverage": 0.9138322,
+  "publisher_slug": "king-faisal-specialist-hospital-and-research-centre",
+  "access_logs": {
+    "downloads": 0.73077,
+    "visitors": 0.59615,
+    "countries": 0.57692,
+    "days": 0.59615,
+    "months": 0.53846,
+    "n_articles_requested": 19,
+    "n_articles": 52
+  }
+}

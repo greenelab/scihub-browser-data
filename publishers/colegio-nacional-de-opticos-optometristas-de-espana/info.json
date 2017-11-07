@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Colegio Nacional de Opticos-Optometristas de Espana",
+  "journals": 1,
+  "scihub": 323,
+  "crossref_open_access": 330,
+  "crossref_active": 330,
+  "crossref": 330,
+  "coverage": 0.97878788,
+  "publisher_slug": "colegio-nacional-de-opticos-optometristas-de-espana",
+  "access_logs": {
+    "downloads": 0.87879,
+    "visitors": 0.84848,
+    "countries": 0.77273,
+    "days": 0.84848,
+    "months": 0.69697,
+    "n_articles_requested": 29,
+    "n_articles": 66
+  }
+}

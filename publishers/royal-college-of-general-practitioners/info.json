@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Royal College of General Practitioners",
+  "journals": 1,
+  "scihub": 955,
+  "crossref_open_access": 0,
+  "crossref_active": 3926,
+  "crossref": 3926,
+  "coverage": 0.24325013,
+  "publisher_slug": "royal-college-of-general-practitioners",
+  "access_logs": {
+    "downloads": 0.19499,
+    "visitors": 0.15599,
+    "countries": 0.14345,
+    "days": 0.17967,
+    "months": 0.14485,
+    "n_articles_requested": 72,
+    "n_articles": 718
+  }
+}

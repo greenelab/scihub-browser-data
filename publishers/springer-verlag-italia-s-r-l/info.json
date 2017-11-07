@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Springer-Verlag Italia s.r.l.",
+  "journals": 1,
+  "scihub": 2280,
+  "crossref_open_access": 0,
+  "crossref_active": 2336,
+  "crossref": 2336,
+  "coverage": 0.9760274,
+  "publisher_slug": "springer-verlag-italia-s-r-l",
+  "access_logs": {
+    "downloads": 1.4457,
+    "visitors": 1.2946,
+    "countries": 1.0814,
+    "days": 1.2868,
+    "months": 1.0271,
+    "n_articles_requested": 149,
+    "n_articles": 258
+  }
+}

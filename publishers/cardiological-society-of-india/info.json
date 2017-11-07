@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Cardiological Society of India",
+  "journals": 1,
+  "scihub": 1871,
+  "crossref_open_access": 0,
+  "crossref_active": 1922,
+  "crossref": 1922,
+  "coverage": 0.97346514,
+  "publisher_slug": "cardiological-society-of-india",
+  "access_logs": {
+    "downloads": 0.35983,
+    "visitors": 0.30925,
+    "countries": 0.25289,
+    "days": 0.30491,
+    "months": 0.25434,
+    "n_articles_requested": 123,
+    "n_articles": 692
+  }
+}

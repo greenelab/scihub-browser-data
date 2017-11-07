@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Goteborg University",
+  "journals": 1,
+  "scihub": 36,
+  "crossref_open_access": 408,
+  "crossref_active": 408,
+  "crossref": 408,
+  "coverage": 0.08823529,
+  "publisher_slug": "goteborg-university",
+  "access_logs": {
+    "downloads": 0.04651,
+    "visitors": 0.04651,
+    "countries": 0.04651,
+    "days": 0.04651,
+    "months": 0.04651,
+    "n_articles_requested": 2,
+    "n_articles": 43
+  }
+}

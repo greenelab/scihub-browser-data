@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Alfred University",
+  "journals": 1,
+  "scihub": 171,
+  "crossref_open_access": 0,
+  "crossref_active": 218,
+  "crossref": 218,
+  "coverage": 0.78440367,
+  "publisher_slug": "alfred-university",
+  "access_logs": {
+    "downloads": 0.27273,
+    "visitors": 0.27273,
+    "countries": 0.27273,
+    "days": 0.27273,
+    "months": 0.27273,
+    "n_articles_requested": 9,
+    "n_articles": 44
+  }
+}

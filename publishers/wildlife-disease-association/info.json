@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Wildlife Disease Association",
+  "journals": 1,
+  "scihub": 5760,
+  "crossref_open_access": 0,
+  "crossref_active": 5803,
+  "crossref": 5803,
+  "coverage": 0.99259004,
+  "publisher_slug": "wildlife-disease-association",
+  "access_logs": {
+    "downloads": 0.72894,
+    "visitors": 0.65201,
+    "countries": 0.58974,
+    "days": 0.65934,
+    "months": 0.58608,
+    "n_articles_requested": 121,
+    "n_articles": 273
+  }
+}

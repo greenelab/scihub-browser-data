@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Society for Nutrition",
+  "journals": 1,
+  "scihub": 652,
+  "crossref_open_access": 0,
+  "crossref_active": 654,
+  "crossref": 654,
+  "coverage": 0.9969419,
+  "publisher_slug": "american-society-for-nutrition",
+  "access_logs": {
+    "downloads": 2.8514,
+    "visitors": 2.5943,
+    "countries": 1.76,
+    "days": 2.2114,
+    "months": 1.2171,
+    "n_articles_requested": 90,
+    "n_articles": 175
+  }
+}

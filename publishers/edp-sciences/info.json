@@ -1,0 +1,19 @@
+{
+  "publisher_name": "EDP Sciences",
+  "journals": 46,
+  "scihub": 11666,
+  "crossref_open_access": 3135,
+  "crossref_active": 62635,
+  "crossref": 93861,
+  "coverage": 0.12429017,
+  "publisher_slug": "edp-sciences",
+  "access_logs": {
+    "downloads": 0.02212,
+    "visitors": 0.02054,
+    "countries": 0.01896,
+    "days": 0.02037,
+    "months": 0.01966,
+    "n_articles_requested": 94,
+    "n_articles": 5696
+  }
+}

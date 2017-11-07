@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Herpetologists League",
+  "journals": 2,
+  "scihub": 941,
+  "crossref_open_access": 0,
+  "crossref_active": 948,
+  "crossref": 948,
+  "coverage": 0.99261603,
+  "publisher_slug": "herpetologists-league",
+  "access_logs": {
+    "downloads": 1.7089,
+    "visitors": 1.6076,
+    "countries": 1.1646,
+    "days": 1.557,
+    "months": 1.1772,
+    "n_articles_requested": 52,
+    "n_articles": 79
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "International Institute of Ecology",
+  "journals": 2,
+  "scihub": 25,
+  "crossref_open_access": 1668,
+  "crossref_active": 1668,
+  "crossref": 1904,
+  "coverage": 0.01313025,
+  "publisher_slug": "international-institute-of-ecology",
+  "access_logs": {
+    "downloads": 0.02143,
+    "visitors": 0.02143,
+    "countries": 0.02143,
+    "days": 0.02143,
+    "months": 0.02143,
+    "n_articles_requested": 1,
+    "n_articles": 140
+  }
+}

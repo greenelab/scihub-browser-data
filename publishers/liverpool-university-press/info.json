@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Liverpool University Press",
+  "journals": 11,
+  "scihub": 17844,
+  "crossref_open_access": 0,
+  "crossref_active": 17805,
+  "crossref": 23592,
+  "coverage": 0.75635809,
+  "publisher_slug": "liverpool-university-press",
+  "access_logs": {
+    "downloads": 0.03426,
+    "visitors": 0.03212,
+    "countries": 0.02998,
+    "days": 0.03212,
+    "months": 0.02784,
+    "n_articles_requested": 10,
+    "n_articles": 467
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Geological Society",
+  "journals": 9,
+  "scihub": 20124,
+  "crossref_open_access": 0,
+  "crossref_active": 22605,
+  "crossref": 22605,
+  "coverage": 0.89024552,
+  "publisher_slug": "geological-society",
+  "access_logs": {
+    "downloads": 2.2824,
+    "visitors": 1.989,
+    "countries": 1.3937,
+    "days": 1.7728,
+    "months": 1.3183,
+    "n_articles_requested": 721,
+    "n_articles": 1087
+  }
+}

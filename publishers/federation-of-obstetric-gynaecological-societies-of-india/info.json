@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Federation of Obstetric & Gynaecological Societies of India",
+  "journals": 1,
+  "scihub": 966,
+  "crossref_open_access": 0,
+  "crossref_active": 1001,
+  "crossref": 1001,
+  "coverage": 0.96503497,
+  "publisher_slug": "federation-of-obstetric-gynaecological-societies-of-india",
+  "access_logs": {
+    "downloads": 0.91286,
+    "visitors": 0.87137,
+    "countries": 0.77593,
+    "days": 0.82988,
+    "months": 0.6888,
+    "n_articles_requested": 105,
+    "n_articles": 241
+  }
+}

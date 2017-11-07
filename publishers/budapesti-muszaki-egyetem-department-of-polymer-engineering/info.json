@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Budapesti Muszaki Egyetem, Department of Polymer Engineering",
+  "journals": 1,
+  "scihub": 551,
+  "crossref_open_access": 1075,
+  "crossref_active": 1075,
+  "crossref": 1075,
+  "coverage": 0.51255814,
+  "publisher_slug": "budapesti-muszaki-egyetem-department-of-polymer-engineering",
+  "access_logs": {
+    "downloads": 0.16751,
+    "visitors": 0.13706,
+    "countries": 0.13198,
+    "days": 0.14213,
+    "months": 0.13706,
+    "n_articles_requested": 25,
+    "n_articles": 197
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Royal Zoological Society of New South Wales",
+  "journals": 1,
+  "scihub": 19,
+  "crossref_open_access": 0,
+  "crossref_active": 696,
+  "crossref": 696,
+  "coverage": 0.02729885,
+  "publisher_slug": "royal-zoological-society-of-new-south-wales",
+  "access_logs": {
+    "downloads": 0.01786,
+    "visitors": 0.01786,
+    "countries": 0.01786,
+    "days": 0.01786,
+    "months": 0.01786,
+    "n_articles_requested": 1,
+    "n_articles": 56
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Emerald",
+  "journals": 398,
+  "scihub": 191393,
+  "crossref_open_access": 0,
+  "crossref_active": 244475,
+  "crossref": 268170,
+  "coverage": 0.71370026,
+  "publisher_slug": "emerald",
+  "access_logs": {
+    "downloads": 1.3423,
+    "visitors": 1.2094,
+    "countries": 0.74553,
+    "days": 1.1346,
+    "months": 0.66446,
+    "n_articles_requested": 6747,
+    "n_articles": 20203
+  }
+}

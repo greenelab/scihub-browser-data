@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Water Research Commission",
+  "journals": 1,
+  "scihub": 222,
+  "crossref_open_access": 1220,
+  "crossref_active": 1220,
+  "crossref": 1220,
+  "coverage": 0.18196721,
+  "publisher_slug": "water-research-commission",
+  "access_logs": {
+    "downloads": 0.04575,
+    "visitors": 0.03922,
+    "countries": 0.03922,
+    "days": 0.03922,
+    "months": 0.03922,
+    "n_articles_requested": 6,
+    "n_articles": 153
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Editions NecPlus",
+  "journals": 3,
+  "scihub": 316,
+  "crossref_open_access": 0,
+  "crossref_active": 4353,
+  "crossref": 4353,
+  "coverage": 0.07259361,
+  "publisher_slug": "editions-necplus",
+  "access_logs": {
+    "downloads": 0.00662,
+    "visitors": 0.00662,
+    "countries": 0.00662,
+    "days": 0.00662,
+    "months": 0.00662,
+    "n_articles_requested": 1,
+    "n_articles": 151
+  }
+}

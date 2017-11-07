@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Quintessence Publishing Company",
+  "journals": 6,
+  "scihub": 1320,
+  "crossref_open_access": 0,
+  "crossref_active": 1738,
+  "crossref": 1789,
+  "coverage": 0.73784237,
+  "publisher_slug": "quintessence-publishing-company",
+  "access_logs": {
+    "downloads": 0.04245,
+    "visitors": 0.02987,
+    "countries": 0.0283,
+    "days": 0.04245,
+    "months": 0.02673,
+    "n_articles_requested": 8,
+    "n_articles": 636
+  }
+}

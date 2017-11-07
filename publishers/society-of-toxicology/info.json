@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Society of Toxicology",
+  "journals": 1,
+  "scihub": 218,
+  "crossref_open_access": 251,
+  "crossref_active": 251,
+  "crossref": 251,
+  "coverage": 0.8685259,
+  "publisher_slug": "society-of-toxicology",
+  "access_logs": {
+    "downloads": 0.31868,
+    "visitors": 0.30769,
+    "countries": 0.28571,
+    "days": 0.28571,
+    "months": 0.25275,
+    "n_articles_requested": 18,
+    "n_articles": 91
+  }
+}

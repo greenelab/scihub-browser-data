@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Institute of Physics",
+  "journals": 73,
+  "scihub": 426159,
+  "crossref_open_access": 65757,
+  "crossref_active": 352527,
+  "crossref": 448312,
+  "coverage": 0.95058575,
+  "publisher_slug": "institute-of-physics",
+  "access_logs": {
+    "downloads": 0.66904,
+    "visitors": 0.57961,
+    "countries": 0.45161,
+    "days": 0.55941,
+    "months": 0.44298,
+    "n_articles_requested": 9873,
+    "n_articles": 34663
+  }
+}

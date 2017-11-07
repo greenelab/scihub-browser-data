@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Physical Society",
+  "journals": 19,
+  "scihub": 555125,
+  "crossref_open_access": 3628,
+  "crossref_active": 282508,
+  "crossref": 557614,
+  "coverage": 0.99553634,
+  "publisher_slug": "american-physical-society",
+  "access_logs": {
+    "downloads": 0.81341,
+    "visitors": 0.72785,
+    "countries": 0.56258,
+    "days": 0.69855,
+    "months": 0.55314,
+    "n_articles_requested": 10281,
+    "n_articles": 30307
+  }
+}

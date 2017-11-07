@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Institute for Medical Research and Occupational Health",
+  "journals": 1,
+  "scihub": 447,
+  "crossref_open_access": 476,
+  "crossref_active": 476,
+  "crossref": 476,
+  "coverage": 0.93907563,
+  "publisher_slug": "institute-for-medical-research-and-occupational-health",
+  "access_logs": {
+    "downloads": 0.62195,
+    "visitors": 0.59756,
+    "countries": 0.56098,
+    "days": 0.60976,
+    "months": 0.5,
+    "n_articles_requested": 29,
+    "n_articles": 82
+  }
+}

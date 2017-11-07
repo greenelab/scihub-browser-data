@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Geophysical Union",
+  "journals": 2,
+  "scihub": 21453,
+  "crossref_open_access": 0,
+  "crossref_active": 26391,
+  "crossref": 26391,
+  "coverage": 0.81289076,
+  "publisher_slug": "american-geophysical-union",
+  "access_logs": {
+    "downloads": 0.01148,
+    "visitors": 0.01066,
+    "countries": 0.0041,
+    "days": 0.00574,
+    "months": 0.0041,
+    "n_articles_requested": 4,
+    "n_articles": 1220
+  }
+}

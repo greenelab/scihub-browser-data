@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Massachusetts Medical Society",
+  "journals": 1,
+  "scihub": 180321,
+  "crossref_open_access": 0,
+  "crossref_active": 180467,
+  "crossref": 180467,
+  "coverage": 0.99919099,
+  "publisher_slug": "massachusetts-medical-society",
+  "access_logs": {
+    "downloads": 12.993,
+    "visitors": 8.7189,
+    "countries": 3.7205,
+    "days": 6.7108,
+    "months": 2.0662,
+    "n_articles_requested": 1270,
+    "n_articles": 1857
+  }
+}

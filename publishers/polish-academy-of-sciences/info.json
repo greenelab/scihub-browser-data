@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Polish Academy of Sciences",
+  "journals": 3,
+  "scihub": 338,
+  "crossref_open_access": 410,
+  "crossref_active": 651,
+  "crossref": 651,
+  "coverage": 0.51920123,
+  "publisher_slug": "polish-academy-of-sciences",
+  "access_logs": {
+    "downloads": 0.23295,
+    "visitors": 0.22727,
+    "countries": 0.19886,
+    "days": 0.22727,
+    "months": 0.22159,
+    "n_articles_requested": 31,
+    "n_articles": 176
+  }
+}

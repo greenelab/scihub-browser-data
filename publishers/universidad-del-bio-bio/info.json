@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Universidad del Bio-Bio",
+  "journals": 1,
+  "scihub": 161,
+  "crossref_open_access": 475,
+  "crossref_active": 475,
+  "crossref": 475,
+  "coverage": 0.33894737,
+  "publisher_slug": "universidad-del-bio-bio",
+  "access_logs": {
+    "downloads": 0.04167,
+    "visitors": 0.04167,
+    "countries": 0.04167,
+    "days": 0.04167,
+    "months": 0.04167,
+    "n_articles_requested": 4,
+    "n_articles": 120
+  }
+}

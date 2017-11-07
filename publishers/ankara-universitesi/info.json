@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Ankara Universitesi",
+  "journals": 3,
+  "scihub": 397,
+  "crossref_open_access": 656,
+  "crossref_active": 3397,
+  "crossref": 3925,
+  "coverage": 0.1011465,
+  "publisher_slug": "ankara-universitesi",
+  "access_logs": {
+    "downloads": 0.06967,
+    "visitors": 0.06148,
+    "countries": 0.06148,
+    "days": 0.06148,
+    "months": 0.04508,
+    "n_articles_requested": 10,
+    "n_articles": 244
+  }
+}

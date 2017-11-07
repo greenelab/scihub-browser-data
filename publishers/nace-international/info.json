@@ -1,0 +1,19 @@
+{
+  "publisher_name": "NACE International",
+  "journals": 1,
+  "scihub": 7362,
+  "crossref_open_access": 0,
+  "crossref_active": 7395,
+  "crossref": 7395,
+  "coverage": 0.99553753,
+  "publisher_slug": "nace-international",
+  "access_logs": {
+    "downloads": 2.395,
+    "visitors": 2.165,
+    "countries": 1.48,
+    "days": 1.83,
+    "months": 1.545,
+    "n_articles_requested": 155,
+    "n_articles": 200
+  }
+}

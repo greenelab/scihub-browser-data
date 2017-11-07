@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Cactus & Succulent Society of America",
+  "journals": 1,
+  "scihub": 150,
+  "crossref_open_access": 0,
+  "crossref_active": 157,
+  "crossref": 157,
+  "coverage": 0.95541401,
+  "publisher_slug": "cactus-succulent-society-of-america",
+  "access_logs": {
+    "downloads": 2.6,
+    "visitors": 2.35,
+    "countries": 2.15,
+    "days": 2.35,
+    "months": 1.75,
+    "n_articles_requested": 18,
+    "n_articles": 20
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "The Permanente Press",
+  "journals": 1,
+  "scihub": 3,
+  "crossref_open_access": 953,
+  "crossref_active": 953,
+  "crossref": 953,
+  "coverage": 0.00314795,
+  "publisher_slug": "the-permanente-press",
+  "access_logs": {
+    "downloads": 0.01212,
+    "visitors": 0.01212,
+    "countries": 0.01212,
+    "days": 0.01212,
+    "months": 0.01212,
+    "n_articles_requested": 1,
+    "n_articles": 165
+  }
+}

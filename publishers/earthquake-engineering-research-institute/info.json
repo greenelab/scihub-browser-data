@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Earthquake Engineering Research Institute",
+  "journals": 1,
+  "scihub": 2141,
+  "crossref_open_access": 0,
+  "crossref_active": 2183,
+  "crossref": 2183,
+  "coverage": 0.98076042,
+  "publisher_slug": "earthquake-engineering-research-institute",
+  "access_logs": {
+    "downloads": 3.2247,
+    "visitors": 2.9101,
+    "countries": 2.1067,
+    "days": 2.7528,
+    "months": 1.9888,
+    "n_articles_requested": 155,
+    "n_articles": 178
+  }
+}

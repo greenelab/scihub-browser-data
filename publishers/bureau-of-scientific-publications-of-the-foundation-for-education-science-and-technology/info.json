@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Bureau of Scientific Publications of the Foundation for Education, Science and Technology",
+  "journals": 1,
+  "scihub": 16,
+  "crossref_open_access": 308,
+  "crossref_active": 308,
+  "crossref": 308,
+  "coverage": 0.05194805,
+  "publisher_slug": "bureau-of-scientific-publications-of-the-foundation-for-education-science-and-technology",
+  "access_logs": {
+    "downloads": 0.00855,
+    "visitors": 0.00855,
+    "countries": 0.00855,
+    "days": 0.00855,
+    "months": 0.00855,
+    "n_articles_requested": 1,
+    "n_articles": 117
+  }
+}

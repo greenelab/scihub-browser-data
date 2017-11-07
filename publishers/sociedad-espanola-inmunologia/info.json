@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Sociedad Espanola Inmunologia",
+  "journals": 1,
+  "scihub": 181,
+  "crossref_open_access": 0,
+  "crossref_active": 0,
+  "crossref": 181,
+  "coverage": 1.0,
+  "publisher_slug": "sociedad-espanola-inmunologia",
+  "access_logs": {
+    "downloads": 2.9583,
+    "visitors": 2.7917,
+    "countries": 1.4583,
+    "days": 1.7917,
+    "months": 1.2917,
+    "n_articles_requested": 16,
+    "n_articles": 24
+  }
+}

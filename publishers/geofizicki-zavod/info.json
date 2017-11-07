@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Geofizicki Zavod",
+  "journals": 1,
+  "scihub": 8,
+  "crossref_open_access": 31,
+  "crossref_active": 31,
+  "crossref": 31,
+  "coverage": 0.25806452,
+  "publisher_slug": "geofizicki-zavod",
+  "access_logs": {
+    "downloads": 0.05,
+    "visitors": 0.05,
+    "countries": 0.05,
+    "days": 0.05,
+    "months": 0.05,
+    "n_articles_requested": 1,
+    "n_articles": 20
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "World Scientific",
+  "journals": 107,
+  "scihub": 126011,
+  "crossref_open_access": 891,
+  "crossref_active": 129938,
+  "crossref": 131835,
+  "coverage": 0.95582357,
+  "publisher_slug": "world-scientific",
+  "access_logs": {
+    "downloads": 1.1597,
+    "visitors": 0.99684,
+    "countries": 0.7447,
+    "days": 0.94963,
+    "months": 0.73811,
+    "n_articles_requested": 4843,
+    "n_articles": 11077
+  }
+}

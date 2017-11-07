@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Modern Humanities Research Association",
+  "journals": 4,
+  "scihub": 28700,
+  "crossref_open_access": 0,
+  "crossref_active": 29345,
+  "crossref": 29345,
+  "coverage": 0.97802011,
+  "publisher_slug": "modern-humanities-research-association",
+  "access_logs": {
+    "downloads": 0.039,
+    "visitors": 0.039,
+    "countries": 0.039,
+    "days": 0.039,
+    "months": 0.038,
+    "n_articles_requested": 38,
+    "n_articles": 1000
+  }
+}

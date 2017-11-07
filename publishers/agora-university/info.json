@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Agora University",
+  "journals": 1,
+  "scihub": 0,
+  "crossref_open_access": 0,
+  "crossref_active": 722,
+  "crossref": 722,
+  "coverage": 0.0,
+  "publisher_slug": "agora-university",
+  "access_logs": {
+    "downloads": 0.0,
+    "visitors": 0.0,
+    "countries": 0.0,
+    "days": 0.0,
+    "months": 0.0,
+    "n_articles_requested": 0,
+    "n_articles": 200
+  }
+}

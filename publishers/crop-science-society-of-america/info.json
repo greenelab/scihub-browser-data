@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Crop Science Society of America",
+  "journals": 3,
+  "scihub": 1035,
+  "crossref_open_access": 332,
+  "crossref_active": 21601,
+  "crossref": 21601,
+  "coverage": 0.04791445,
+  "publisher_slug": "crop-science-society-of-america",
+  "access_logs": {
+    "downloads": 0.00965,
+    "visitors": 0.00844,
+    "countries": 0.00724,
+    "days": 0.00844,
+    "months": 0.00844,
+    "n_articles_requested": 5,
+    "n_articles": 829
+  }
+}

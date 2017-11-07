@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Fundacao O Boticario de Protecao a Natureza",
+  "journals": 1,
+  "scihub": 109,
+  "crossref_open_access": 0,
+  "crossref_active": 0,
+  "crossref": 236,
+  "coverage": 0.46186441,
+  "publisher_slug": "fundacao-o-boticario-de-protecao-a-natureza",
+  "access_logs": {
+    "downloads": 0.67123,
+    "visitors": 0.67123,
+    "countries": 0.50685,
+    "days": 0.67123,
+    "months": 0.54795,
+    "n_articles_requested": 29,
+    "n_articles": 73
+  }
+}

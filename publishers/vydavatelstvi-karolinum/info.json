@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Vydavatelstvi Karolinum",
+  "journals": 2,
+  "scihub": 2,
+  "crossref_open_access": 255,
+  "crossref_active": 331,
+  "crossref": 331,
+  "coverage": 0.0060423,
+  "publisher_slug": "vydavatelstvi-karolinum",
+  "access_logs": {
+    "downloads": 0.00862,
+    "visitors": 0.00862,
+    "countries": 0.00862,
+    "days": 0.00862,
+    "months": 0.00862,
+    "n_articles_requested": 1,
+    "n_articles": 116
+  }
+}

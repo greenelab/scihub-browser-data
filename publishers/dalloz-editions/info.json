@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Dalloz Editions",
+  "journals": 1,
+  "scihub": 45,
+  "crossref_open_access": 0,
+  "crossref_active": 1224,
+  "crossref": 1224,
+  "coverage": 0.03676471,
+  "publisher_slug": "dalloz-editions",
+  "access_logs": {
+    "downloads": 0.0,
+    "visitors": 0.0,
+    "countries": 0.0,
+    "days": 0.0,
+    "months": 0.0,
+    "n_articles_requested": 0,
+    "n_articles": 140
+  }
+}

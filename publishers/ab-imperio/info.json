@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Ab Imperio",
+  "journals": 1,
+  "scihub": 77,
+  "crossref_open_access": 0,
+  "crossref_active": 2198,
+  "crossref": 2198,
+  "coverage": 0.03503185,
+  "publisher_slug": "ab-imperio",
+  "access_logs": {
+    "downloads": 0.05556,
+    "visitors": 0.05556,
+    "countries": 0.05128,
+    "days": 0.05556,
+    "months": 0.04701,
+    "n_articles_requested": 9,
+    "n_articles": 234
+  }
+}

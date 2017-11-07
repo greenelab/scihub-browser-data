@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Science and Technology Beijing",
+  "journals": 2,
+  "scihub": 1628,
+  "crossref_open_access": 0,
+  "crossref_active": 1254,
+  "crossref": 1651,
+  "coverage": 0.98606905,
+  "publisher_slug": "university-of-science-and-technology-beijing",
+  "access_logs": {
+    "downloads": 1.3223,
+    "visitors": 1.1795,
+    "countries": 0.90842,
+    "days": 1.1319,
+    "months": 0.9707,
+    "n_articles_requested": 159,
+    "n_articles": 273
+  }
+}

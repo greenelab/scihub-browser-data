@@ -1,0 +1,19 @@
+{
+  "publisher_name": "U.S. Agency for International Development",
+  "journals": 1,
+  "scihub": 212,
+  "crossref_open_access": 274,
+  "crossref_active": 274,
+  "crossref": 274,
+  "coverage": 0.77372263,
+  "publisher_slug": "u-s-agency-for-international-development",
+  "access_logs": {
+    "downloads": 0.10753,
+    "visitors": 0.10753,
+    "countries": 0.09677,
+    "days": 0.09677,
+    "months": 0.09677,
+    "n_articles_requested": 9,
+    "n_articles": 93
+  }
+}

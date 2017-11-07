@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Medisa Editora",
+  "journals": 1,
+  "scihub": 120,
+  "crossref_open_access": 2175,
+  "crossref_active": 2175,
+  "crossref": 2175,
+  "coverage": 0.05517241,
+  "publisher_slug": "medisa-editora",
+  "access_logs": {
+    "downloads": 0.00855,
+    "visitors": 0.00855,
+    "countries": 0.00855,
+    "days": 0.00855,
+    "months": 0.00855,
+    "n_articles_requested": 1,
+    "n_articles": 117
+  }
+}

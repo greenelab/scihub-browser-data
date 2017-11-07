@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Korean Stroke Society",
+  "journals": 1,
+  "scihub": 4,
+  "crossref_open_access": 0,
+  "crossref_active": 174,
+  "crossref": 174,
+  "coverage": 0.02298851,
+  "publisher_slug": "korean-stroke-society",
+  "access_logs": {
+    "downloads": 0.09836,
+    "visitors": 0.09836,
+    "countries": 0.06557,
+    "days": 0.08197,
+    "months": 0.06557,
+    "n_articles_requested": 2,
+    "n_articles": 61
+  }
+}

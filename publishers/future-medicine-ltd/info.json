@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Future Medicine Ltd.",
+  "journals": 32,
+  "scihub": 24210,
+  "crossref_open_access": 0,
+  "crossref_active": 20853,
+  "crossref": 24912,
+  "coverage": 0.97182081,
+  "publisher_slug": "future-medicine-ltd",
+  "access_logs": {
+    "downloads": 2.9578,
+    "visitors": 2.5632,
+    "countries": 1.7563,
+    "days": 2.3849,
+    "months": 1.4385,
+    "n_articles_requested": 2698,
+    "n_articles": 4650
+  }
+}

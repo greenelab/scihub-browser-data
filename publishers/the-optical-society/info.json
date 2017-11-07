@@ -1,0 +1,19 @@
+{
+  "publisher_name": "The Optical Society",
+  "journals": 2,
+  "scihub": 1986,
+  "crossref_open_access": 2326,
+  "crossref_active": 2419,
+  "crossref": 2419,
+  "coverage": 0.82100041,
+  "publisher_slug": "the-optical-society",
+  "access_logs": {
+    "downloads": 0.53438,
+    "visitors": 0.475,
+    "countries": 0.36719,
+    "days": 0.44219,
+    "months": 0.33594,
+    "n_articles_requested": 156,
+    "n_articles": 640
+  }
+}

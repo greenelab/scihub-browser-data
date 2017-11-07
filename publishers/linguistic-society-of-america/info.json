@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Linguistic Society of America",
+  "journals": 1,
+  "scihub": 8722,
+  "crossref_open_access": 0,
+  "crossref_active": 12166,
+  "crossref": 12166,
+  "coverage": 0.716916,
+  "publisher_slug": "linguistic-society-of-america",
+  "access_logs": {
+    "downloads": 0.18788,
+    "visitors": 0.18788,
+    "countries": 0.16364,
+    "days": 0.18182,
+    "months": 0.16364,
+    "n_articles_requested": 18,
+    "n_articles": 165
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Obsidiana Editores",
+  "journals": 1,
+  "scihub": 345,
+  "crossref_open_access": 0,
+  "crossref_active": 364,
+  "crossref": 364,
+  "coverage": 0.9478022,
+  "publisher_slug": "obsidiana-editores",
+  "access_logs": {
+    "downloads": 1.163,
+    "visitors": 1.0543,
+    "countries": 0.83696,
+    "days": 1.0326,
+    "months": 0.82609,
+    "n_articles_requested": 41,
+    "n_articles": 92
+  }
+}

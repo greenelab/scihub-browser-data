@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Society of Plant Biologists",
+  "journals": 2,
+  "scihub": 37670,
+  "crossref_open_access": 0,
+  "crossref_active": 39948,
+  "crossref": 39948,
+  "coverage": 0.94297587,
+  "publisher_slug": "american-society-of-plant-biologists",
+  "access_logs": {
+    "downloads": 2.7988,
+    "visitors": 2.4247,
+    "countries": 1.3509,
+    "days": 2.0753,
+    "months": 1.3546,
+    "n_articles_requested": 899,
+    "n_articles": 1382
+  }
+}

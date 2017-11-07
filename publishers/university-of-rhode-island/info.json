@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Rhode Island",
+  "journals": 1,
+  "scihub": 322,
+  "crossref_open_access": 0,
+  "crossref_active": 1145,
+  "crossref": 1145,
+  "coverage": 0.28122271,
+  "publisher_slug": "university-of-rhode-island",
+  "access_logs": {
+    "downloads": 0.33333,
+    "visitors": 0.33333,
+    "countries": 0.33333,
+    "days": 0.31481,
+    "months": 0.2963,
+    "n_articles_requested": 13,
+    "n_articles": 54
+  }
+}

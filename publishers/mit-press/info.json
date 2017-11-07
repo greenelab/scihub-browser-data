@@ -1,0 +1,19 @@
+{
+  "publisher_name": "MIT Press",
+  "journals": 30,
+  "scihub": 50180,
+  "crossref_open_access": 716,
+  "crossref_active": 59472,
+  "crossref": 59478,
+  "coverage": 0.84367329,
+  "publisher_slug": "mit-press",
+  "access_logs": {
+    "downloads": 0.71761,
+    "visitors": 0.63803,
+    "countries": 0.50986,
+    "days": 0.59894,
+    "months": 0.48873,
+    "n_articles_requested": 863,
+    "n_articles": 2840
+  }
+}

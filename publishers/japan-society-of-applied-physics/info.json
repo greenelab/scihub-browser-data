@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Japan Society of Applied Physics",
+  "journals": 3,
+  "scihub": 191841,
+  "crossref_open_access": 0,
+  "crossref_active": 148120,
+  "crossref": 222180,
+  "coverage": 0.86344856,
+  "publisher_slug": "japan-society-of-applied-physics",
+  "access_logs": {
+    "downloads": 0.62875,
+    "visitors": 0.53429,
+    "countries": 0.42094,
+    "days": 0.5039,
+    "months": 0.43039,
+    "n_articles_requested": 2226,
+    "n_articles": 7305
+  }
+}

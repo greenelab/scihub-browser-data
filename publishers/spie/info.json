@@ -1,0 +1,19 @@
+{
+  "publisher_name": "SPIE",
+  "journals": 8,
+  "scihub": 26481,
+  "crossref_open_access": 0,
+  "crossref_active": 26923,
+  "crossref": 26923,
+  "coverage": 0.98358281,
+  "publisher_slug": "spie",
+  "access_logs": {
+    "downloads": 1.0888,
+    "visitors": 0.95722,
+    "countries": 0.73565,
+    "days": 0.8808,
+    "months": 0.71371,
+    "n_articles_requested": 1245,
+    "n_articles": 2735
+  }
+}

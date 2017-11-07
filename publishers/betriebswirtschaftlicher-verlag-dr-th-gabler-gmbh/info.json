@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Betriebswirtschaftlicher Verlag Dr. Th. Gabler GmbH",
+  "journals": 1,
+  "scihub": 824,
+  "crossref_open_access": 0,
+  "crossref_active": 837,
+  "crossref": 837,
+  "coverage": 0.98446834,
+  "publisher_slug": "betriebswirtschaftlicher-verlag-dr-th-gabler-gmbh",
+  "access_logs": {
+    "downloads": 0.83117,
+    "visitors": 0.74026,
+    "countries": 0.55844,
+    "days": 0.72727,
+    "months": 0.57143,
+    "n_articles_requested": 29,
+    "n_articles": 77
+  }
+}

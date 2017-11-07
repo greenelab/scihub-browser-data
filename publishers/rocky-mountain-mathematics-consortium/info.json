@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Rocky Mountain Mathematics Consortium",
+  "journals": 2,
+  "scihub": 1220,
+  "crossref_open_access": 0,
+  "crossref_active": 4530,
+  "crossref": 4530,
+  "coverage": 0.26931567,
+  "publisher_slug": "rocky-mountain-mathematics-consortium",
+  "access_logs": {
+    "downloads": 0.26512,
+    "visitors": 0.1907,
+    "countries": 0.13488,
+    "days": 0.1814,
+    "months": 0.14419,
+    "n_articles_requested": 16,
+    "n_articles": 215
+  }
+}

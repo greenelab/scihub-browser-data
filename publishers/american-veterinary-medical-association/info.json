@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Veterinary Medical Association",
+  "journals": 2,
+  "scihub": 10450,
+  "crossref_open_access": 0,
+  "crossref_active": 10786,
+  "crossref": 10786,
+  "coverage": 0.96884851,
+  "publisher_slug": "american-veterinary-medical-association",
+  "access_logs": {
+    "downloads": 1.2072,
+    "visitors": 1.1386,
+    "countries": 0.9012,
+    "days": 1.094,
+    "months": 0.86867,
+    "n_articles_requested": 427,
+    "n_articles": 830
+  }
+}

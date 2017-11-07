@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Association of Physics Teachers",
+  "journals": 1,
+  "scihub": 24515,
+  "crossref_open_access": 0,
+  "crossref_active": 24593,
+  "crossref": 24593,
+  "coverage": 0.99682837,
+  "publisher_slug": "american-association-of-physics-teachers",
+  "access_logs": {
+    "downloads": 1.7681,
+    "visitors": 1.5994,
+    "countries": 1.4428,
+    "days": 1.5934,
+    "months": 1.2319,
+    "n_articles_requested": 215,
+    "n_articles": 332
+  }
+}

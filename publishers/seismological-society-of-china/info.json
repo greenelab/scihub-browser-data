@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Seismological Society of China",
+  "journals": 1,
+  "scihub": 432,
+  "crossref_open_access": 444,
+  "crossref_active": 444,
+  "crossref": 444,
+  "coverage": 0.97297297,
+  "publisher_slug": "seismological-society-of-china",
+  "access_logs": {
+    "downloads": 0.44737,
+    "visitors": 0.42105,
+    "countries": 0.36842,
+    "days": 0.40789,
+    "months": 0.35526,
+    "n_articles_requested": 22,
+    "n_articles": 76
+  }
+}

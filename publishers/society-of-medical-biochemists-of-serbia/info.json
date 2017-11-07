@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Society of Medical Biochemists of Serbia",
+  "journals": 1,
+  "scihub": 376,
+  "crossref_open_access": 428,
+  "crossref_active": 428,
+  "crossref": 428,
+  "coverage": 0.87850467,
+  "publisher_slug": "society-of-medical-biochemists-of-serbia",
+  "access_logs": {
+    "downloads": 0.10256,
+    "visitors": 0.10256,
+    "countries": 0.08974,
+    "days": 0.08974,
+    "months": 0.08974,
+    "n_articles_requested": 6,
+    "n_articles": 78
+  }
+}

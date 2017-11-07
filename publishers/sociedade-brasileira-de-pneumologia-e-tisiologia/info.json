@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Sociedade Brasileira de Pneumologia e Tisiologia",
+  "journals": 2,
+  "scihub": 9,
+  "crossref_open_access": 1816,
+  "crossref_active": 1816,
+  "crossref": 2136,
+  "coverage": 0.00421348,
+  "publisher_slug": "sociedade-brasileira-de-pneumologia-e-tisiologia",
+  "access_logs": {
+    "downloads": 0.01235,
+    "visitors": 0.01235,
+    "countries": 0.00617,
+    "days": 0.01235,
+    "months": 0.01235,
+    "n_articles_requested": 1,
+    "n_articles": 162
+  }
+}

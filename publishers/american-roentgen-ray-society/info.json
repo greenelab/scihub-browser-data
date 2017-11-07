@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Roentgen Ray Society",
+  "journals": 1,
+  "scihub": 28249,
+  "crossref_open_access": 0,
+  "crossref_active": 31394,
+  "crossref": 31394,
+  "coverage": 0.89982162,
+  "publisher_slug": "american-roentgen-ray-society",
+  "access_logs": {
+    "downloads": 1.921,
+    "visitors": 1.7582,
+    "countries": 1.2717,
+    "days": 1.5877,
+    "months": 1.0472,
+    "n_articles_requested": 525,
+    "n_articles": 1038
+  }
+}

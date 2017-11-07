@@ -1,0 +1,19 @@
+{
+  "publisher_name": "EMUNI Press",
+  "journals": 2,
+  "scihub": 11,
+  "crossref_open_access": 103,
+  "crossref_active": 103,
+  "crossref": 103,
+  "coverage": 0.10679612,
+  "publisher_slug": "emuni-press",
+  "access_logs": {
+    "downloads": 0.0,
+    "visitors": 0.0,
+    "countries": 0.0,
+    "days": 0.0,
+    "months": 0.0,
+    "n_articles_requested": 0,
+    "n_articles": 40
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Landes Bioscience",
+  "journals": 1,
+  "scihub": 79,
+  "crossref_open_access": 0,
+  "crossref_active": 86,
+  "crossref": 86,
+  "coverage": 0.91860465,
+  "publisher_slug": "landes-bioscience",
+  "access_logs": {
+    "downloads": 0.59375,
+    "visitors": 0.59375,
+    "countries": 0.4375,
+    "days": 0.53125,
+    "months": 0.34375,
+    "n_articles_requested": 9,
+    "n_articles": 32
+  }
+}

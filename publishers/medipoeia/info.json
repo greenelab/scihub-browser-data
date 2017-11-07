@@ -1,0 +1,19 @@
+{
+  "publisher_name": "MediPoeia",
+  "journals": 1,
+  "scihub": 35,
+  "crossref_open_access": 1177,
+  "crossref_active": 1177,
+  "crossref": 1177,
+  "coverage": 0.02973662,
+  "publisher_slug": "medipoeia",
+  "access_logs": {
+    "downloads": 0.02206,
+    "visitors": 0.01961,
+    "countries": 0.01226,
+    "days": 0.0098,
+    "months": 0.0098,
+    "n_articles_requested": 3,
+    "n_articles": 408
+  }
+}

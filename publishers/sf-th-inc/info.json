@@ -1,0 +1,19 @@
+{
+  "publisher_name": "SF-TH Inc.",
+  "journals": 1,
+  "scihub": 529,
+  "crossref_open_access": 0,
+  "crossref_active": 609,
+  "crossref": 609,
+  "coverage": 0.86863711,
+  "publisher_slug": "sf-th-inc",
+  "access_logs": {
+    "downloads": 0.1407,
+    "visitors": 0.1407,
+    "countries": 0.1407,
+    "days": 0.1407,
+    "months": 0.1407,
+    "n_articles_requested": 26,
+    "n_articles": 199
+  }
+}

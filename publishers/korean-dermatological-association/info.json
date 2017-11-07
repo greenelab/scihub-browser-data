@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Korean Dermatological Association",
+  "journals": 1,
+  "scihub": 17,
+  "crossref_open_access": 2260,
+  "crossref_active": 2260,
+  "crossref": 2260,
+  "coverage": 0.00752212,
+  "publisher_slug": "korean-dermatological-association",
+  "access_logs": {
+    "downloads": 0.0026,
+    "visitors": 0.0026,
+    "countries": 0.0026,
+    "days": 0.0026,
+    "months": 0.0026,
+    "n_articles_requested": 1,
+    "n_articles": 384
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "The Company of Biologists Ltd.",
+  "journals": 4,
+  "scihub": 24419,
+  "crossref_open_access": 1198,
+  "crossref_active": 25477,
+  "crossref": 25477,
+  "coverage": 0.95847235,
+  "publisher_slug": "the-company-of-biologists-ltd",
+  "access_logs": {
+    "downloads": 1.2975,
+    "visitors": 1.1456,
+    "countries": 0.80236,
+    "days": 1.0097,
+    "months": 0.7396,
+    "n_articles_requested": 1213,
+    "n_articles": 2884
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Museum National d'Histoire Naturelle",
+  "journals": 6,
+  "scihub": 786,
+  "crossref_open_access": 972,
+  "crossref_active": 1106,
+  "crossref": 1108,
+  "coverage": 0.70938628,
+  "publisher_slug": "museum-national-dhistoire-naturelle",
+  "access_logs": {
+    "downloads": 0.5297,
+    "visitors": 0.49505,
+    "countries": 0.42079,
+    "days": 0.4901,
+    "months": 0.40594,
+    "n_articles_requested": 60,
+    "n_articles": 202
+  }
+}

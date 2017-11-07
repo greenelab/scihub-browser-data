@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Johnson Matthey Public Limited Company",
+  "journals": 1,
+  "scihub": 89,
+  "crossref_open_access": 124,
+  "crossref_active": 124,
+  "crossref": 124,
+  "coverage": 0.71774194,
+  "publisher_slug": "johnson-matthey-public-limited-company",
+  "access_logs": {
+    "downloads": 0.30909,
+    "visitors": 0.27273,
+    "countries": 0.27273,
+    "days": 0.27273,
+    "months": 0.27273,
+    "n_articles_requested": 10,
+    "n_articles": 55
+  }
+}

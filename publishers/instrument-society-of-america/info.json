@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Instrument Society of America",
+  "journals": 1,
+  "scihub": 2289,
+  "crossref_open_access": 0,
+  "crossref_active": 2300,
+  "crossref": 2300,
+  "coverage": 0.99521739,
+  "publisher_slug": "instrument-society-of-america",
+  "access_logs": {
+    "downloads": 3.4884,
+    "visitors": 3.093,
+    "countries": 1.9535,
+    "days": 3.064,
+    "months": 1.9971,
+    "n_articles_requested": 274,
+    "n_articles": 344
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Thoracic Society",
+  "journals": 5,
+  "scihub": 26760,
+  "crossref_open_access": 0,
+  "crossref_active": 21314,
+  "crossref": 27344,
+  "coverage": 0.97864248,
+  "publisher_slug": "american-thoracic-society",
+  "access_logs": {
+    "downloads": 1.7749,
+    "visitors": 1.6052,
+    "countries": 1.1429,
+    "days": 1.4534,
+    "months": 0.97435,
+    "n_articles_requested": 959,
+    "n_articles": 1910
+  }
+}

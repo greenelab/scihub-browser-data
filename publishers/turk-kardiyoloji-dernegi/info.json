@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Turk Kardiyoloji Dernegi",
+  "journals": 1,
+  "scihub": 3,
+  "crossref_open_access": 0,
+  "crossref_active": 1044,
+  "crossref": 1044,
+  "coverage": 0.00287356,
+  "publisher_slug": "turk-kardiyoloji-dernegi",
+  "access_logs": {
+    "downloads": 0.00325,
+    "visitors": 0.00325,
+    "countries": 0.00325,
+    "days": 0.00325,
+    "months": 0.00325,
+    "n_articles_requested": 1,
+    "n_articles": 308
+  }
+}

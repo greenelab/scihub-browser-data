@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Gerontological Society of America",
+  "journals": 3,
+  "scihub": 17160,
+  "crossref_open_access": 0,
+  "crossref_active": 17736,
+  "crossref": 23686,
+  "coverage": 0.72447859,
+  "publisher_slug": "gerontological-society-of-america",
+  "access_logs": {
+    "downloads": 0.35008,
+    "visitors": 0.32339,
+    "countries": 0.29042,
+    "days": 0.30612,
+    "months": 0.27473,
+    "n_articles_requested": 145,
+    "n_articles": 637
+  }
+}

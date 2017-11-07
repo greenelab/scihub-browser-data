@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Wilson Ornithological Society",
+  "journals": 2,
+  "scihub": 2018,
+  "crossref_open_access": 0,
+  "crossref_active": 1467,
+  "crossref": 2043,
+  "coverage": 0.98776309,
+  "publisher_slug": "wilson-ornithological-society",
+  "access_logs": {
+    "downloads": 0.68323,
+    "visitors": 0.62112,
+    "countries": 0.53416,
+    "days": 0.63975,
+    "months": 0.57143,
+    "n_articles_requested": 67,
+    "n_articles": 161
+  }
+}

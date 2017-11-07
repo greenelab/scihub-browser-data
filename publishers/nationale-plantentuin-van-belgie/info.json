@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Nationale Plantentuin van Belgi\u00eb",
+  "journals": 1,
+  "scihub": 261,
+  "crossref_open_access": 0,
+  "crossref_active": 287,
+  "crossref": 287,
+  "coverage": 0.90940767,
+  "publisher_slug": "nationale-plantentuin-van-belgie",
+  "access_logs": {
+    "downloads": 0.15789,
+    "visitors": 0.14474,
+    "countries": 0.13158,
+    "days": 0.14474,
+    "months": 0.13158,
+    "n_articles_requested": 9,
+    "n_articles": 76
+  }
+}

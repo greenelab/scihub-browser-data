@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Soil Science Society of America",
+  "journals": 2,
+  "scihub": 10858,
+  "crossref_open_access": 0,
+  "crossref_active": 17140,
+  "crossref": 17140,
+  "coverage": 0.63348891,
+  "publisher_slug": "soil-science-society-of-america",
+  "access_logs": {
+    "downloads": 0.03791,
+    "visitors": 0.03791,
+    "countries": 0.03634,
+    "days": 0.03791,
+    "months": 0.03791,
+    "n_articles_requested": 21,
+    "n_articles": 633
+  }
+}

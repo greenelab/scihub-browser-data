@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Peter Lang AG",
+  "journals": 1,
+  "scihub": 133,
+  "crossref_open_access": 0,
+  "crossref_active": 0,
+  "crossref": 378,
+  "coverage": 0.35185185,
+  "publisher_slug": "peter-lang-ag",
+  "access_logs": {
+    "downloads": 0.05195,
+    "visitors": 0.05195,
+    "countries": 0.05195,
+    "days": 0.05195,
+    "months": 0.05195,
+    "n_articles_requested": 4,
+    "n_articles": 77
+  }
+}

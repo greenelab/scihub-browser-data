@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Frontiers Research Foundation",
+  "journals": 2,
+  "scihub": 23,
+  "crossref_open_access": 264,
+  "crossref_active": 435,
+  "crossref": 435,
+  "coverage": 0.05287356,
+  "publisher_slug": "frontiers-research-foundation",
+  "access_logs": {
+    "downloads": 0.16216,
+    "visitors": 0.14595,
+    "countries": 0.11892,
+    "days": 0.15135,
+    "months": 0.11892,
+    "n_articles_requested": 12,
+    "n_articles": 185
+  }
+}

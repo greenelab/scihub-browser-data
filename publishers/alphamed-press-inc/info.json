@@ -1,0 +1,19 @@
+{
+  "publisher_name": "AlphaMed Press Inc",
+  "journals": 2,
+  "scihub": 3861,
+  "crossref_open_access": 0,
+  "crossref_active": 3248,
+  "crossref": 3913,
+  "coverage": 0.98671096,
+  "publisher_slug": "alphamed-press-inc",
+  "access_logs": {
+    "downloads": 1.5672,
+    "visitors": 1.4425,
+    "countries": 1.0171,
+    "days": 1.2567,
+    "months": 0.88509,
+    "n_articles_requested": 187,
+    "n_articles": 409
+  }
+}

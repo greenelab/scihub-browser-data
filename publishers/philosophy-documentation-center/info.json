@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Philosophy Documentation Center",
+  "journals": 14,
+  "scihub": 622,
+  "crossref_open_access": 0,
+  "crossref_active": 18512,
+  "crossref": 19234,
+  "coverage": 0.03233857,
+  "publisher_slug": "philosophy-documentation-center",
+  "access_logs": {
+    "downloads": 0.01649,
+    "visitors": 0.01455,
+    "countries": 0.01261,
+    "days": 0.01552,
+    "months": 0.01358,
+    "n_articles_requested": 12,
+    "n_articles": 1031
+  }
+}

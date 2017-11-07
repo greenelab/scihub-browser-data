@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Tissue Viability Society",
+  "journals": 1,
+  "scihub": 1053,
+  "crossref_open_access": 0,
+  "crossref_active": 1063,
+  "crossref": 1063,
+  "coverage": 0.99059266,
+  "publisher_slug": "tissue-viability-society",
+  "access_logs": {
+    "downloads": 0.87755,
+    "visitors": 0.7551,
+    "countries": 0.67347,
+    "days": 0.7551,
+    "months": 0.65306,
+    "n_articles_requested": 19,
+    "n_articles": 49
+  }
+}

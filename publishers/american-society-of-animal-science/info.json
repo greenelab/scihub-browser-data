@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Society of Animal Science",
+  "journals": 1,
+  "scihub": 1198,
+  "crossref_open_access": 0,
+  "crossref_active": 20705,
+  "crossref": 20705,
+  "coverage": 0.05786042,
+  "publisher_slug": "american-society-of-animal-science",
+  "access_logs": {
+    "downloads": 0.21151,
+    "visitors": 0.16582,
+    "countries": 0.15228,
+    "days": 0.15905,
+    "months": 0.15736,
+    "n_articles_requested": 82,
+    "n_articles": 591
+  }
+}

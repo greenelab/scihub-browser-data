@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Feminist Studies, Inc.",
+  "journals": 1,
+  "scihub": 1194,
+  "crossref_open_access": 0,
+  "crossref_active": 1229,
+  "crossref": 1229,
+  "coverage": 0.97152156,
+  "publisher_slug": "feminist-studies-inc",
+  "access_logs": {
+    "downloads": 0.12,
+    "visitors": 0.12,
+    "countries": 0.12,
+    "days": 0.12,
+    "months": 0.1,
+    "n_articles_requested": 5,
+    "n_articles": 50
+  }
+}

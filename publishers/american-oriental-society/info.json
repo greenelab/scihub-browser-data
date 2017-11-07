@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Oriental Society",
+  "journals": 1,
+  "scihub": 14748,
+  "crossref_open_access": 0,
+  "crossref_active": 14880,
+  "crossref": 14880,
+  "coverage": 0.99112903,
+  "publisher_slug": "american-oriental-society",
+  "access_logs": {
+    "downloads": 0.19065,
+    "visitors": 0.18705,
+    "countries": 0.15108,
+    "days": 0.17986,
+    "months": 0.15108,
+    "n_articles_requested": 35,
+    "n_articles": 278
+  }
+}

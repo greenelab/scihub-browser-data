@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Naukova Dumka",
+  "journals": 3,
+  "scihub": 336,
+  "crossref_open_access": 2571,
+  "crossref_active": 3168,
+  "crossref": 3168,
+  "coverage": 0.10606061,
+  "publisher_slug": "naukova-dumka",
+  "access_logs": {
+    "downloads": 0.0334,
+    "visitors": 0.02923,
+    "countries": 0.02714,
+    "days": 0.03131,
+    "months": 0.02923,
+    "n_articles_requested": 11,
+    "n_articles": 479
+  }
+}

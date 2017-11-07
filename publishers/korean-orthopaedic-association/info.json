@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Korean Orthopaedic Association",
+  "journals": 1,
+  "scihub": 5,
+  "crossref_open_access": 492,
+  "crossref_active": 492,
+  "crossref": 492,
+  "coverage": 0.0101626,
+  "publisher_slug": "korean-orthopaedic-association",
+  "access_logs": {
+    "downloads": 0.00625,
+    "visitors": 0.00625,
+    "countries": 0.00625,
+    "days": 0.00625,
+    "months": 0.00625,
+    "n_articles_requested": 1,
+    "n_articles": 160
+  }
+}

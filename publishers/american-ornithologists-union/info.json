@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Ornithologists' Union",
+  "journals": 2,
+  "scihub": 23717,
+  "crossref_open_access": 0,
+  "crossref_active": 23298,
+  "crossref": 23785,
+  "coverage": 0.99714106,
+  "publisher_slug": "american-ornithologists-union",
+  "access_logs": {
+    "downloads": 1.0056,
+    "visitors": 0.9382,
+    "countries": 0.73034,
+    "days": 0.83146,
+    "months": 0.66854,
+    "n_articles_requested": 81,
+    "n_articles": 178
+  }
+}

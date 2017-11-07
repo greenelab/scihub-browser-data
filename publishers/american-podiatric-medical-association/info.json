@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Podiatric Medical Association",
+  "journals": 1,
+  "scihub": 2402,
+  "crossref_open_access": 0,
+  "crossref_active": 5933,
+  "crossref": 5933,
+  "coverage": 0.40485421,
+  "publisher_slug": "american-podiatric-medical-association",
+  "access_logs": {
+    "downloads": 0.94286,
+    "visitors": 0.84082,
+    "countries": 0.73061,
+    "days": 0.82449,
+    "months": 0.6449,
+    "n_articles_requested": 99,
+    "n_articles": 245
+  }
+}

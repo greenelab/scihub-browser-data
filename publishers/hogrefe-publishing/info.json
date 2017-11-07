@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Hogrefe Publishing",
+  "journals": 24,
+  "scihub": 273,
+  "crossref_open_access": 0,
+  "crossref_active": 14527,
+  "crossref": 15469,
+  "coverage": 0.0176482,
+  "publisher_slug": "hogrefe-publishing",
+  "access_logs": {
+    "downloads": 0.01448,
+    "visitors": 0.01296,
+    "countries": 0.01067,
+    "days": 0.01372,
+    "months": 0.01143,
+    "n_articles_requested": 11,
+    "n_articles": 1312
+  }
+}

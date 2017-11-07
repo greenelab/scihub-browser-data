@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Society of Ichthyologists and Herpetologists",
+  "journals": 1,
+  "scihub": 13089,
+  "crossref_open_access": 0,
+  "crossref_active": 13108,
+  "crossref": 13108,
+  "coverage": 0.9985505,
+  "publisher_slug": "american-society-of-ichthyologists-and-herpetologists",
+  "access_logs": {
+    "downloads": 1.0,
+    "visitors": 0.85401,
+    "countries": 0.67883,
+    "days": 0.81752,
+    "months": 0.69343,
+    "n_articles_requested": 63,
+    "n_articles": 137
+  }
+}

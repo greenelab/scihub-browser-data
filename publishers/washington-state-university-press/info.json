@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Washington State University Press",
+  "journals": 2,
+  "scihub": 986,
+  "crossref_open_access": 0,
+  "crossref_active": 478,
+  "crossref": 1016,
+  "coverage": 0.97047244,
+  "publisher_slug": "washington-state-university-press",
+  "access_logs": {
+    "downloads": 0.1087,
+    "visitors": 0.1087,
+    "countries": 0.1087,
+    "days": 0.09783,
+    "months": 0.09783,
+    "n_articles_requested": 9,
+    "n_articles": 92
+  }
+}

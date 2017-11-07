@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of North Carolina Press",
+  "journals": 1,
+  "scihub": 55,
+  "crossref_open_access": 0,
+  "crossref_active": 866,
+  "crossref": 866,
+  "coverage": 0.06351039,
+  "publisher_slug": "university-of-north-carolina-press",
+  "access_logs": {
+    "downloads": 0.04828,
+    "visitors": 0.04828,
+    "countries": 0.04828,
+    "days": 0.04828,
+    "months": 0.04828,
+    "n_articles_requested": 6,
+    "n_articles": 145
+  }
+}

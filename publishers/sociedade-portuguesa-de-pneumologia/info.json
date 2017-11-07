@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Sociedade Portuguesa de Pneumologia",
+  "journals": 1,
+  "scihub": 1464,
+  "crossref_open_access": 0,
+  "crossref_active": 1525,
+  "crossref": 1525,
+  "coverage": 0.96,
+  "publisher_slug": "sociedade-portuguesa-de-pneumologia",
+  "access_logs": {
+    "downloads": 0.5618,
+    "visitors": 0.47191,
+    "countries": 0.40449,
+    "days": 0.48315,
+    "months": 0.37079,
+    "n_articles_requested": 22,
+    "n_articles": 89
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "New York Entomological Society",
+  "journals": 2,
+  "scihub": 303,
+  "crossref_open_access": 0,
+  "crossref_active": 137,
+  "crossref": 305,
+  "coverage": 0.99344262,
+  "publisher_slug": "new-york-entomological-society",
+  "access_logs": {
+    "downloads": 0.2,
+    "visitors": 0.2,
+    "countries": 0.2,
+    "days": 0.2,
+    "months": 0.2,
+    "n_articles_requested": 3,
+    "n_articles": 15
+  }
+}

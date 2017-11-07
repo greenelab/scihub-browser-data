@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Association of Colleges of Pharmacy",
+  "journals": 1,
+  "scihub": 2486,
+  "crossref_open_access": 2519,
+  "crossref_active": 2519,
+  "crossref": 2519,
+  "coverage": 0.98689956,
+  "publisher_slug": "american-association-of-colleges-of-pharmacy",
+  "access_logs": {
+    "downloads": 0.05714,
+    "visitors": 0.05714,
+    "countries": 0.05397,
+    "days": 0.05714,
+    "months": 0.05714,
+    "n_articles_requested": 16,
+    "n_articles": 315
+  }
+}

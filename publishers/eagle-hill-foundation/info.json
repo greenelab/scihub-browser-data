@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Eagle Hill Foundation",
+  "journals": 1,
+  "scihub": 174,
+  "crossref_open_access": 0,
+  "crossref_active": 187,
+  "crossref": 187,
+  "coverage": 0.93048128,
+  "publisher_slug": "eagle-hill-foundation",
+  "access_logs": {
+    "downloads": 0.32759,
+    "visitors": 0.31034,
+    "countries": 0.17241,
+    "days": 0.18966,
+    "months": 0.15517,
+    "n_articles_requested": 5,
+    "n_articles": 58
+  }
+}

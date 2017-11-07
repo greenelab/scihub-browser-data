@@ -1,0 +1,19 @@
+{
+  "publisher_name": "China National Rice Research Institute",
+  "journals": 1,
+  "scihub": 459,
+  "crossref_open_access": 0,
+  "crossref_active": 467,
+  "crossref": 467,
+  "coverage": 0.98286938,
+  "publisher_slug": "china-national-rice-research-institute",
+  "access_logs": {
+    "downloads": 1.4242,
+    "visitors": 1.2576,
+    "countries": 0.95455,
+    "days": 1.2273,
+    "months": 1.0758,
+    "n_articles_requested": 38,
+    "n_articles": 66
+  }
+}

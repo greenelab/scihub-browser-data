@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Egyptian Society of Chest Diseases and Tuberculosis",
+  "journals": 1,
+  "scihub": 713,
+  "crossref_open_access": 0,
+  "crossref_active": 733,
+  "crossref": 733,
+  "coverage": 0.97271487,
+  "publisher_slug": "egyptian-society-of-chest-diseases-and-tuberculosis",
+  "access_logs": {
+    "downloads": 0.30877,
+    "visitors": 0.28772,
+    "countries": 0.27018,
+    "days": 0.29123,
+    "months": 0.27719,
+    "n_articles_requested": 71,
+    "n_articles": 285
+  }
+}

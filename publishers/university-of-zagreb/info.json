@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Zagreb",
+  "journals": 12,
+  "scihub": 219,
+  "crossref_open_access": 1250,
+  "crossref_active": 1766,
+  "crossref": 1766,
+  "coverage": 0.12400906,
+  "publisher_slug": "university-of-zagreb",
+  "access_logs": {
+    "downloads": 0.02294,
+    "visitors": 0.02294,
+    "countries": 0.02294,
+    "days": 0.02294,
+    "months": 0.02064,
+    "n_articles_requested": 9,
+    "n_articles": 436
+  }
+}

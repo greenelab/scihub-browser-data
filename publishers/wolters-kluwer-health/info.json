@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Wolters Kluwer Health",
+  "journals": 426,
+  "scihub": 1481291,
+  "crossref_open_access": 84234,
+  "crossref_active": 1803229,
+  "crossref": 1864435,
+  "coverage": 0.7944986,
+  "publisher_slug": "wolters-kluwer-health",
+  "access_logs": {
+    "downloads": 0.50151,
+    "visitors": 0.4362,
+    "countries": 0.33847,
+    "days": 0.41241,
+    "months": 0.29721,
+    "n_articles_requested": 18245,
+    "n_articles": 105553
+  }
+}

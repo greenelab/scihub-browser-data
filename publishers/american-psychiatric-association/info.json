@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Psychiatric Association",
+  "journals": 1,
+  "scihub": 20885,
+  "crossref_open_access": 0,
+  "crossref_active": 24421,
+  "crossref": 24421,
+  "coverage": 0.85520658,
+  "publisher_slug": "american-psychiatric-association",
+  "access_logs": {
+    "downloads": 0.22971,
+    "visitors": 0.19344,
+    "countries": 0.16753,
+    "days": 0.21244,
+    "months": 0.17444,
+    "n_articles_requested": 80,
+    "n_articles": 579
+  }
+}

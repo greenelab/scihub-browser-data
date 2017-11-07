@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Kent State University",
+  "journals": 2,
+  "scihub": 198,
+  "crossref_open_access": 0,
+  "crossref_active": 4974,
+  "crossref": 4974,
+  "coverage": 0.039807,
+  "publisher_slug": "kent-state-university",
+  "access_logs": {
+    "downloads": 0.00901,
+    "visitors": 0.00901,
+    "countries": 0.00901,
+    "days": 0.00901,
+    "months": 0.00901,
+    "n_articles_requested": 2,
+    "n_articles": 222
+  }
+}

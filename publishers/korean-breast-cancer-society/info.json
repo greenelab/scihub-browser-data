@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Korean Breast Cancer Society",
+  "journals": 1,
+  "scihub": 5,
+  "crossref_open_access": 0,
+  "crossref_active": 712,
+  "crossref": 712,
+  "coverage": 0.00702247,
+  "publisher_slug": "korean-breast-cancer-society",
+  "access_logs": {
+    "downloads": 0.02564,
+    "visitors": 0.02564,
+    "countries": 0.02564,
+    "days": 0.02564,
+    "months": 0.02564,
+    "n_articles_requested": 3,
+    "n_articles": 117
+  }
+}

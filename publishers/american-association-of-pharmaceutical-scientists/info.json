@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Association of Pharmaceutical Scientists",
+  "journals": 2,
+  "scihub": 2662,
+  "crossref_open_access": 2571,
+  "crossref_active": 2571,
+  "crossref": 2760,
+  "coverage": 0.96449275,
+  "publisher_slug": "american-association-of-pharmaceutical-scientists",
+  "access_logs": {
+    "downloads": 3.1291,
+    "visitors": 2.7538,
+    "countries": 1.8829,
+    "days": 2.7117,
+    "months": 1.7778,
+    "n_articles_requested": 251,
+    "n_articles": 333
+  }
+}

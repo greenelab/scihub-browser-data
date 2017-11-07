@@ -1,0 +1,19 @@
+{
+  "publisher_name": "European Respiratory Society",
+  "journals": 5,
+  "scihub": 11745,
+  "crossref_open_access": 1283,
+  "crossref_active": 19928,
+  "crossref": 19945,
+  "coverage": 0.58886939,
+  "publisher_slug": "european-respiratory-society",
+  "access_logs": {
+    "downloads": 1.8464,
+    "visitors": 1.6418,
+    "countries": 1.2611,
+    "days": 1.5372,
+    "months": 1.0405,
+    "n_articles_requested": 543,
+    "n_articles": 1061
+  }
+}

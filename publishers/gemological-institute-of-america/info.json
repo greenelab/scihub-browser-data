@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Gemological Institute of America",
+  "journals": 1,
+  "scihub": 35,
+  "crossref_open_access": 0,
+  "crossref_active": 1204,
+  "crossref": 1204,
+  "coverage": 0.02906977,
+  "publisher_slug": "gemological-institute-of-america",
+  "access_logs": {
+    "downloads": 0.20833,
+    "visitors": 0.04167,
+    "countries": 0.04167,
+    "days": 0.20833,
+    "months": 0.04167,
+    "n_articles_requested": 1,
+    "n_articles": 24
+  }
+}

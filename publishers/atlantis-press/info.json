@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Atlantis Press",
+  "journals": 2,
+  "scihub": 774,
+  "crossref_open_access": 0,
+  "crossref_active": 1193,
+  "crossref": 1193,
+  "coverage": 0.64878458,
+  "publisher_slug": "atlantis-press",
+  "access_logs": {
+    "downloads": 1.7222,
+    "visitors": 1.4667,
+    "countries": 0.98333,
+    "days": 1.4278,
+    "months": 0.92778,
+    "n_articles_requested": 72,
+    "n_articles": 180
+  }
+}

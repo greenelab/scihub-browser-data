@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Sociedade Braslleira de Quirnica",
+  "journals": 1,
+  "scihub": 84,
+  "crossref_open_access": 4702,
+  "crossref_active": 4702,
+  "crossref": 4702,
+  "coverage": 0.01786474,
+  "publisher_slug": "sociedade-braslleira-de-quirnica",
+  "access_logs": {
+    "downloads": 0.03172,
+    "visitors": 0.02568,
+    "countries": 0.02115,
+    "days": 0.02417,
+    "months": 0.02417,
+    "n_articles_requested": 11,
+    "n_articles": 662
+  }
+}

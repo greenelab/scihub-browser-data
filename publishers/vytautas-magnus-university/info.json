@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Vytautas Magnus University",
+  "journals": 1,
+  "scihub": 47,
+  "crossref_open_access": 127,
+  "crossref_active": 127,
+  "crossref": 127,
+  "coverage": 0.37007874,
+  "publisher_slug": "vytautas-magnus-university",
+  "access_logs": {
+    "downloads": 0.12121,
+    "visitors": 0.12121,
+    "countries": 0.12121,
+    "days": 0.12121,
+    "months": 0.09091,
+    "n_articles_requested": 3,
+    "n_articles": 33
+  }
+}

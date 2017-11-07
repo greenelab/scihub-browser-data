@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Medwave Estudios Limitada",
+  "journals": 1,
+  "scihub": 7,
+  "crossref_open_access": 2650,
+  "crossref_active": 2650,
+  "crossref": 2650,
+  "coverage": 0.00264151,
+  "publisher_slug": "medwave-estudios-limitada",
+  "access_logs": {
+    "downloads": 0.0226,
+    "visitors": 0.01695,
+    "countries": 0.0113,
+    "days": 0.01695,
+    "months": 0.0113,
+    "n_articles_requested": 1,
+    "n_articles": 177
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of British Columbia",
+  "journals": 1,
+  "scihub": 11713,
+  "crossref_open_access": 0,
+  "crossref_active": 11726,
+  "crossref": 11726,
+  "coverage": 0.99889135,
+  "publisher_slug": "university-of-british-columbia",
+  "access_logs": {
+    "downloads": 1.1579,
+    "visitors": 1.0789,
+    "countries": 0.94737,
+    "days": 0.97368,
+    "months": 0.81579,
+    "n_articles_requested": 23,
+    "n_articles": 38
+  }
+}

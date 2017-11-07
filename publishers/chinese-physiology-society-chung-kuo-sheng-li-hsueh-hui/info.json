@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Chinese Physiology Society/Chung-kuo Sheng Li Hsueh Hui",
+  "journals": 1,
+  "scihub": 6,
+  "crossref_open_access": 0,
+  "crossref_active": 380,
+  "crossref": 380,
+  "coverage": 0.01578947,
+  "publisher_slug": "chinese-physiology-society-chung-kuo-sheng-li-hsueh-hui",
+  "access_logs": {
+    "downloads": 0.05797,
+    "visitors": 0.05797,
+    "countries": 0.04348,
+    "days": 0.05797,
+    "months": 0.04348,
+    "n_articles_requested": 1,
+    "n_articles": 69
+  }
+}

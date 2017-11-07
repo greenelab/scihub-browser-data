@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Societa Geologica Italiana",
+  "journals": 2,
+  "scihub": 82,
+  "crossref_open_access": 0,
+  "crossref_active": 695,
+  "crossref": 695,
+  "coverage": 0.11798561,
+  "publisher_slug": "societa-geologica-italiana",
+  "access_logs": {
+    "downloads": 0.0303,
+    "visitors": 0.0303,
+    "countries": 0.0303,
+    "days": 0.0303,
+    "months": 0.02727,
+    "n_articles_requested": 8,
+    "n_articles": 330
+  }
+}

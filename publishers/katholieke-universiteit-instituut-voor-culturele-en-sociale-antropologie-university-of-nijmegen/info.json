@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Katholieke Universiteit, Instituut voor Culturele en Sociale Antropologie, University Of Nijmegen",
+  "journals": 1,
+  "scihub": 261,
+  "crossref_open_access": 0,
+  "crossref_active": 386,
+  "crossref": 386,
+  "coverage": 0.6761658,
+  "publisher_slug": "katholieke-universiteit-instituut-voor-culturele-en-sociale-antropologie-university-of-nijmegen",
+  "access_logs": {
+    "downloads": 0.54545,
+    "visitors": 0.50909,
+    "countries": 0.49091,
+    "days": 0.54545,
+    "months": 0.41818,
+    "n_articles_requested": 17,
+    "n_articles": 55
+  }
+}

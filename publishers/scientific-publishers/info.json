@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Scientific Publishers",
+  "journals": 2,
+  "scihub": 37,
+  "crossref_open_access": 1564,
+  "crossref_active": 1577,
+  "crossref": 1577,
+  "coverage": 0.02346227,
+  "publisher_slug": "scientific-publishers",
+  "access_logs": {
+    "downloads": 0.05319,
+    "visitors": 0.05319,
+    "countries": 0.04043,
+    "days": 0.04894,
+    "months": 0.03192,
+    "n_articles_requested": 10,
+    "n_articles": 470
+  }
+}

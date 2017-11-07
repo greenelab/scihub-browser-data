@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Ain Shams University",
+  "journals": 3,
+  "scihub": 1360,
+  "crossref_open_access": 1192,
+  "crossref_active": 1391,
+  "crossref": 1391,
+  "coverage": 0.97771387,
+  "publisher_slug": "ain-shams-university",
+  "access_logs": {
+    "downloads": 2.0691,
+    "visitors": 1.8723,
+    "countries": 1.3165,
+    "days": 1.8378,
+    "months": 1.2952,
+    "n_articles_requested": 237,
+    "n_articles": 376
+  }
+}

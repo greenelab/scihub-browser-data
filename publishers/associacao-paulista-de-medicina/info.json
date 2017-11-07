@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Associacao Paulista de Medicina",
+  "journals": 1,
+  "scihub": 7,
+  "crossref_open_access": 116,
+  "crossref_active": 116,
+  "crossref": 116,
+  "coverage": 0.06034483,
+  "publisher_slug": "associacao-paulista-de-medicina",
+  "access_logs": {
+    "downloads": 0.01724,
+    "visitors": 0.01724,
+    "countries": 0.01724,
+    "days": 0.01724,
+    "months": 0.01724,
+    "n_articles_requested": 1,
+    "n_articles": 58
+  }
+}

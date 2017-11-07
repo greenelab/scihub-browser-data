@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Chicago Press",
+  "journals": 55,
+  "scihub": 164907,
+  "crossref_open_access": 1123,
+  "crossref_active": 336277,
+  "crossref": 358046,
+  "coverage": 0.4605749,
+  "publisher_slug": "university-of-chicago-press",
+  "access_logs": {
+    "downloads": 0.31598,
+    "visitors": 0.29546,
+    "countries": 0.25411,
+    "days": 0.28007,
+    "months": 0.24189,
+    "n_articles_requested": 1092,
+    "n_articles": 6627
+  }
+}

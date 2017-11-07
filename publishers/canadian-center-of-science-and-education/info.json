@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Canadian Center of Science and Education",
+  "journals": 7,
+  "scihub": 31,
+  "crossref_open_access": 0,
+  "crossref_active": 1525,
+  "crossref": 13251,
+  "coverage": 0.00233945,
+  "publisher_slug": "canadian-center-of-science-and-education",
+  "access_logs": {
+    "downloads": 0.00048,
+    "visitors": 0.00048,
+    "countries": 0.00048,
+    "days": 0.00048,
+    "months": 0.00024,
+    "n_articles_requested": 1,
+    "n_articles": 4185
+  }
+}

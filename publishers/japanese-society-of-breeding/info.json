@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Japanese Society of Breeding",
+  "journals": 1,
+  "scihub": 304,
+  "crossref_open_access": 1091,
+  "crossref_active": 1091,
+  "crossref": 1091,
+  "coverage": 0.27864345,
+  "publisher_slug": "japanese-society-of-breeding",
+  "access_logs": {
+    "downloads": 0.0991,
+    "visitors": 0.08108,
+    "countries": 0.07207,
+    "days": 0.08108,
+    "months": 0.08108,
+    "n_articles_requested": 8,
+    "n_articles": 111
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Commonwealth Forestry Association",
+  "journals": 1,
+  "scihub": 707,
+  "crossref_open_access": 0,
+  "crossref_active": 797,
+  "crossref": 797,
+  "coverage": 0.88707654,
+  "publisher_slug": "commonwealth-forestry-association",
+  "access_logs": {
+    "downloads": 0.38835,
+    "visitors": 0.34951,
+    "countries": 0.33981,
+    "days": 0.35922,
+    "months": 0.35922,
+    "n_articles_requested": 31,
+    "n_articles": 103
+  }
+}

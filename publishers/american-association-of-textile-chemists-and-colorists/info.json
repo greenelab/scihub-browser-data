@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Association of Textile Chemists and Colorists",
+  "journals": 2,
+  "scihub": 85,
+  "crossref_open_access": 0,
+  "crossref_active": 138,
+  "crossref": 138,
+  "coverage": 0.61594203,
+  "publisher_slug": "american-association-of-textile-chemists-and-colorists",
+  "access_logs": {
+    "downloads": 0.52308,
+    "visitors": 0.50769,
+    "countries": 0.50769,
+    "days": 0.50769,
+    "months": 0.43077,
+    "n_articles_requested": 19,
+    "n_articles": 65
+  }
+}

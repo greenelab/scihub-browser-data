@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Zhongguo Kexue Zazhishe/Science in China Press",
+  "journals": 13,
+  "scihub": 29810,
+  "crossref_open_access": 0,
+  "crossref_active": 12013,
+  "crossref": 31065,
+  "coverage": 0.95960084,
+  "publisher_slug": "zhongguo-kexue-zazhishe-science-in-china-press",
+  "access_logs": {
+    "downloads": 0.9409,
+    "visitors": 0.83712,
+    "countries": 0.60901,
+    "days": 0.76757,
+    "months": 0.61694,
+    "n_articles_requested": 1064,
+    "n_articles": 2775
+  }
+}

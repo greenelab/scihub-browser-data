@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Kim Williams",
+  "journals": 1,
+  "scihub": 629,
+  "crossref_open_access": 0,
+  "crossref_active": 638,
+  "crossref": 638,
+  "coverage": 0.98589342,
+  "publisher_slug": "kim-williams",
+  "access_logs": {
+    "downloads": 0.63636,
+    "visitors": 0.58586,
+    "countries": 0.53535,
+    "days": 0.57576,
+    "months": 0.52525,
+    "n_articles_requested": 39,
+    "n_articles": 99
+  }
+}

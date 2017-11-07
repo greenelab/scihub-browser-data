@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Nordic Council for Wildlife Research",
+  "journals": 1,
+  "scihub": 580,
+  "crossref_open_access": 596,
+  "crossref_active": 596,
+  "crossref": 596,
+  "coverage": 0.97315436,
+  "publisher_slug": "nordic-council-for-wildlife-research",
+  "access_logs": {
+    "downloads": 0.29577,
+    "visitors": 0.29577,
+    "countries": 0.23944,
+    "days": 0.26761,
+    "months": 0.26761,
+    "n_articles_requested": 17,
+    "n_articles": 71
+  }
+}

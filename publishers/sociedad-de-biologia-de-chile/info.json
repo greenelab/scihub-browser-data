@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Sociedad de Biologia de Chile",
+  "journals": 1,
+  "scihub": 73,
+  "crossref_open_access": 832,
+  "crossref_active": 832,
+  "crossref": 832,
+  "coverage": 0.08774038,
+  "publisher_slug": "sociedad-de-biologia-de-chile",
+  "access_logs": {
+    "downloads": 0.34146,
+    "visitors": 0.34146,
+    "countries": 0.29268,
+    "days": 0.31707,
+    "months": 0.31707,
+    "n_articles_requested": 11,
+    "n_articles": 41
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Editura Economica",
+  "journals": 1,
+  "scihub": 20,
+  "crossref_open_access": 37,
+  "crossref_active": 37,
+  "crossref": 37,
+  "coverage": 0.54054054,
+  "publisher_slug": "editura-economica",
+  "access_logs": {
+    "downloads": 0.13636,
+    "visitors": 0.13636,
+    "countries": 0.13636,
+    "days": 0.13636,
+    "months": 0.13636,
+    "n_articles_requested": 3,
+    "n_articles": 22
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Society for the Study of Reproduction",
+  "journals": 1,
+  "scihub": 13680,
+  "crossref_open_access": 0,
+  "crossref_active": 19045,
+  "crossref": 19045,
+  "coverage": 0.71829877,
+  "publisher_slug": "society-for-the-study-of-reproduction",
+  "access_logs": {
+    "downloads": 1.7024,
+    "visitors": 1.5045,
+    "countries": 1.0073,
+    "days": 1.3303,
+    "months": 1.0,
+    "n_articles_requested": 292,
+    "n_articles": 551
+  }
+}

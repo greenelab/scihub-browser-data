@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Polymer Society of Korea",
+  "journals": 2,
+  "scihub": 2137,
+  "crossref_open_access": 0,
+  "crossref_active": 2809,
+  "crossref": 2809,
+  "coverage": 0.76076896,
+  "publisher_slug": "polymer-society-of-korea",
+  "access_logs": {
+    "downloads": 0.79303,
+    "visitors": 0.71721,
+    "countries": 0.56967,
+    "days": 0.69672,
+    "months": 0.56762,
+    "n_articles_requested": 166,
+    "n_articles": 488
+  }
+}

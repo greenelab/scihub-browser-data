@@ -1,0 +1,19 @@
+{
+  "publisher_name": "SCIENCEDOMAIN international",
+  "journals": 1,
+  "scihub": 4,
+  "crossref_open_access": 686,
+  "crossref_active": 686,
+  "crossref": 686,
+  "coverage": 0.0058309,
+  "publisher_slug": "sciencedomain-international",
+  "access_logs": {
+    "downloads": 0.01254,
+    "visitors": 0.00358,
+    "countries": 0.00358,
+    "days": 0.00538,
+    "months": 0.00538,
+    "n_articles_requested": 2,
+    "n_articles": 558
+  }
+}

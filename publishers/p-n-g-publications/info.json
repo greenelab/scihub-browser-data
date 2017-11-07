@@ -1,0 +1,19 @@
+{
+  "publisher_name": "P N G Publications",
+  "journals": 1,
+  "scihub": 1244,
+  "crossref_open_access": 0,
+  "crossref_active": 1303,
+  "crossref": 1303,
+  "coverage": 0.95471988,
+  "publisher_slug": "p-n-g-publications",
+  "access_logs": {
+    "downloads": 0.55975,
+    "visitors": 0.52201,
+    "countries": 0.41509,
+    "days": 0.49057,
+    "months": 0.40252,
+    "n_articles_requested": 47,
+    "n_articles": 159
+  }
+}

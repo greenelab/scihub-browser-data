@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Australian Society for the History of Medicine",
+  "journals": 1,
+  "scihub": 445,
+  "crossref_open_access": 0,
+  "crossref_active": 0,
+  "crossref": 505,
+  "coverage": 0.88118812,
+  "publisher_slug": "australian-society-for-the-history-of-medicine",
+  "access_logs": {
+    "downloads": 0.03226,
+    "visitors": 0.03226,
+    "countries": 0.03226,
+    "days": 0.03226,
+    "months": 0.03226,
+    "n_articles_requested": 2,
+    "n_articles": 62
+  }
+}

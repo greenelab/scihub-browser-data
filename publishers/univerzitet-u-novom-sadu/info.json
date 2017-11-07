@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Univerzitet u Novom Sadu",
+  "journals": 1,
+  "scihub": 7,
+  "crossref_open_access": 355,
+  "crossref_active": 355,
+  "crossref": 355,
+  "coverage": 0.01971831,
+  "publisher_slug": "univerzitet-u-novom-sadu",
+  "access_logs": {
+    "downloads": 0.02128,
+    "visitors": 0.02128,
+    "countries": 0.02128,
+    "days": 0.02128,
+    "months": 0.02128,
+    "n_articles_requested": 1,
+    "n_articles": 47
+  }
+}

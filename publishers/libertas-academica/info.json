@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Libertas Academica",
+  "journals": 32,
+  "scihub": 863,
+  "crossref_open_access": 2550,
+  "crossref_active": 2596,
+  "crossref": 2596,
+  "coverage": 0.33243451,
+  "publisher_slug": "libertas-academica",
+  "access_logs": {
+    "downloads": 0.05061,
+    "visitors": 0.04908,
+    "countries": 0.04448,
+    "days": 0.04755,
+    "months": 0.04294,
+    "n_articles_requested": 28,
+    "n_articles": 652
+  }
+}

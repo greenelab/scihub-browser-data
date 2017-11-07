@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Galenos Yayincilik",
+  "journals": 7,
+  "scihub": 866,
+  "crossref_open_access": 1599,
+  "crossref_active": 2516,
+  "crossref": 2516,
+  "coverage": 0.34419714,
+  "publisher_slug": "galenos-yayincilik",
+  "access_logs": {
+    "downloads": 0.04527,
+    "visitors": 0.04394,
+    "countries": 0.04128,
+    "days": 0.04128,
+    "months": 0.03995,
+    "n_articles_requested": 28,
+    "n_articles": 751
+  }
+}

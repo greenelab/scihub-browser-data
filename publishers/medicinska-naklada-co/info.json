@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Medicinska Naklada Co.",
+  "journals": 1,
+  "scihub": 503,
+  "crossref_open_access": 879,
+  "crossref_active": 879,
+  "crossref": 879,
+  "coverage": 0.57224118,
+  "publisher_slug": "medicinska-naklada-co",
+  "access_logs": {
+    "downloads": 0.05405,
+    "visitors": 0.05405,
+    "countries": 0.0473,
+    "days": 0.0473,
+    "months": 0.0473,
+    "n_articles_requested": 7,
+    "n_articles": 148
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Zhonghua Yixeuehui Zazhishe/Chinese Medical Association Publishing House",
+  "journals": 1,
+  "scihub": 3,
+  "crossref_open_access": 1374,
+  "crossref_active": 1374,
+  "crossref": 1374,
+  "coverage": 0.00218341,
+  "publisher_slug": "zhonghua-yixeuehui-zazhishe-chinese-medical-association-publishing-house",
+  "access_logs": {
+    "downloads": 0.00153,
+    "visitors": 0.00153,
+    "countries": 0.00153,
+    "days": 0.00153,
+    "months": 0.00153,
+    "n_articles_requested": 1,
+    "n_articles": 653
+  }
+}

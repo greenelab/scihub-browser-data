@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Association of the Chemical Engineers",
+  "journals": 1,
+  "scihub": 336,
+  "crossref_open_access": 654,
+  "crossref_active": 654,
+  "crossref": 654,
+  "coverage": 0.51376147,
+  "publisher_slug": "association-of-the-chemical-engineers",
+  "access_logs": {
+    "downloads": 0.02459,
+    "visitors": 0.02459,
+    "countries": 0.02459,
+    "days": 0.02459,
+    "months": 0.02459,
+    "n_articles_requested": 3,
+    "n_articles": 122
+  }
+}

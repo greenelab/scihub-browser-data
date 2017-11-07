@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Association Paleontologica Argentina",
+  "journals": 1,
+  "scihub": 359,
+  "crossref_open_access": 0,
+  "crossref_active": 412,
+  "crossref": 412,
+  "coverage": 0.87135922,
+  "publisher_slug": "association-paleontologica-argentina",
+  "access_logs": {
+    "downloads": 1.2418,
+    "visitors": 1.0989,
+    "countries": 0.89011,
+    "days": 1.0989,
+    "months": 0.89011,
+    "n_articles_requested": 47,
+    "n_articles": 91
+  }
+}

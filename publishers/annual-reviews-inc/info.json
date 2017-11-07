@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Annual Reviews, inc.",
+  "journals": 55,
+  "scihub": 34196,
+  "crossref_open_access": 0,
+  "crossref_active": 36873,
+  "crossref": 42859,
+  "coverage": 0.79787209,
+  "publisher_slug": "annual-reviews-inc",
+  "access_logs": {
+    "downloads": 10.407,
+    "visitors": 9.1199,
+    "countries": 5.4937,
+    "days": 8.2906,
+    "months": 3.3105,
+    "n_articles_requested": 1713,
+    "n_articles": 1910
+  }
+}

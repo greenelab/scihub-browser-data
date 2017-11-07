@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Meditsinski Universitet - Sofia",
+  "journals": 1,
+  "scihub": 144,
+  "crossref_open_access": 216,
+  "crossref_active": 216,
+  "crossref": 216,
+  "coverage": 0.66666667,
+  "publisher_slug": "meditsinski-universitet-sofia",
+  "access_logs": {
+    "downloads": 0.17073,
+    "visitors": 0.12195,
+    "countries": 0.09756,
+    "days": 0.14634,
+    "months": 0.12195,
+    "n_articles_requested": 5,
+    "n_articles": 41
+  }
+}

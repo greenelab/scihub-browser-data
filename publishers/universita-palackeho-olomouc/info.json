@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Universita Palackeho Olomouc",
+  "journals": 1,
+  "scihub": 15,
+  "crossref_open_access": 0,
+  "crossref_active": 1000,
+  "crossref": 1000,
+  "coverage": 0.015,
+  "publisher_slug": "universita-palackeho-olomouc",
+  "access_logs": {
+    "downloads": 0.00943,
+    "visitors": 0.00943,
+    "countries": 0.00943,
+    "days": 0.00943,
+    "months": 0.00943,
+    "n_articles_requested": 1,
+    "n_articles": 106
+  }
+}

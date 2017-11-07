@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Ondokuz Mayis University",
+  "journals": 1,
+  "scihub": 41,
+  "crossref_open_access": 0,
+  "crossref_active": 400,
+  "crossref": 400,
+  "coverage": 0.1025,
+  "publisher_slug": "ondokuz-mayis-university",
+  "access_logs": {
+    "downloads": 0.01449,
+    "visitors": 0.01449,
+    "countries": 0.01449,
+    "days": 0.01449,
+    "months": 0.01449,
+    "n_articles_requested": 1,
+    "n_articles": 69
+  }
+}

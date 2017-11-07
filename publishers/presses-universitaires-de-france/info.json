@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Presses Universitaires de France",
+  "journals": 23,
+  "scihub": 211,
+  "crossref_open_access": 522,
+  "crossref_active": 16735,
+  "crossref": 18894,
+  "coverage": 0.01116757,
+  "publisher_slug": "presses-universitaires-de-france",
+  "access_logs": {
+    "downloads": 0.00067,
+    "visitors": 0.00067,
+    "countries": 0.00067,
+    "days": 0.00067,
+    "months": 0.00067,
+    "n_articles_requested": 1,
+    "n_articles": 1495
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Nigerian Medical Association",
+  "journals": 2,
+  "scihub": 636,
+  "crossref_open_access": 0,
+  "crossref_active": 0,
+  "crossref": 894,
+  "coverage": 0.7114094,
+  "publisher_slug": "nigerian-medical-association",
+  "access_logs": {
+    "downloads": 0.18905,
+    "visitors": 0.1791,
+    "countries": 0.1592,
+    "days": 0.17413,
+    "months": 0.16418,
+    "n_articles_requested": 58,
+    "n_articles": 402
+  }
+}

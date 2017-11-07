@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Osteopathic Association",
+  "journals": 1,
+  "scihub": 16,
+  "crossref_open_access": 0,
+  "crossref_active": 954,
+  "crossref": 954,
+  "coverage": 0.01677149,
+  "publisher_slug": "american-osteopathic-association",
+  "access_logs": {
+    "downloads": 0.0386,
+    "visitors": 0.0386,
+    "countries": 0.03509,
+    "days": 0.0386,
+    "months": 0.03509,
+    "n_articles_requested": 7,
+    "n_articles": 285
+  }
+}

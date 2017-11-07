@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Frontiers in Bioscience",
+  "journals": 3,
+  "scihub": 181,
+  "crossref_open_access": 0,
+  "crossref_active": 6433,
+  "crossref": 6433,
+  "coverage": 0.02813617,
+  "publisher_slug": "frontiers-in-bioscience",
+  "access_logs": {
+    "downloads": 0.0178,
+    "visitors": 0.01484,
+    "countries": 0.01484,
+    "days": 0.01484,
+    "months": 0.01484,
+    "n_articles_requested": 3,
+    "n_articles": 337
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "British Institute of Non-Destructive Testing",
+  "journals": 1,
+  "scihub": 1701,
+  "crossref_open_access": 0,
+  "crossref_active": 1877,
+  "crossref": 1877,
+  "coverage": 0.90623335,
+  "publisher_slug": "british-institute-of-non-destructive-testing",
+  "access_logs": {
+    "downloads": 0.44444,
+    "visitors": 0.39815,
+    "countries": 0.33333,
+    "days": 0.38889,
+    "months": 0.32407,
+    "n_articles_requested": 29,
+    "n_articles": 108
+  }
+}

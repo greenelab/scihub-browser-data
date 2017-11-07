@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Harvard University Press",
+  "journals": 5,
+  "scihub": 2372,
+  "crossref_open_access": 296,
+  "crossref_active": 2942,
+  "crossref": 3961,
+  "coverage": 0.59883868,
+  "publisher_slug": "harvard-university-press",
+  "access_logs": {
+    "downloads": 0.3956,
+    "visitors": 0.2967,
+    "countries": 0.20879,
+    "days": 0.31868,
+    "months": 0.24176,
+    "n_articles_requested": 14,
+    "n_articles": 91
+  }
+}

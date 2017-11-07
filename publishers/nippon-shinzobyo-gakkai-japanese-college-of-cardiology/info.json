@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Nippon-Shinzobyo-Gakkai/Japanese College of Cardiology",
+  "journals": 1,
+  "scihub": 1501,
+  "crossref_open_access": 0,
+  "crossref_active": 1521,
+  "crossref": 1521,
+  "coverage": 0.98685076,
+  "publisher_slug": "nippon-shinzobyo-gakkai-japanese-college-of-cardiology",
+  "access_logs": {
+    "downloads": 0.87372,
+    "visitors": 0.79181,
+    "countries": 0.67918,
+    "days": 0.77133,
+    "months": 0.64846,
+    "n_articles_requested": 120,
+    "n_articles": 293
+  }
+}

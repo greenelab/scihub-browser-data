@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Korean Association of Medical Journal Edirors",
+  "journals": 3,
+  "scihub": 5,
+  "crossref_open_access": 0,
+  "crossref_active": 942,
+  "crossref": 942,
+  "coverage": 0.00530786,
+  "publisher_slug": "korean-association-of-medical-journal-edirors",
+  "access_logs": {
+    "downloads": 0.00452,
+    "visitors": 0.00452,
+    "countries": 0.00452,
+    "days": 0.00452,
+    "months": 0.00452,
+    "n_articles_requested": 1,
+    "n_articles": 221
+  }
+}

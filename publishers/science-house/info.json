@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Science House",
+  "journals": 1,
+  "scihub": 3724,
+  "crossref_open_access": 0,
+  "crossref_active": 0,
+  "crossref": 3754,
+  "coverage": 0.99200852,
+  "publisher_slug": "science-house",
+  "access_logs": {
+    "downloads": 0.72,
+    "visitors": 0.56333,
+    "countries": 0.51333,
+    "days": 0.69333,
+    "months": 0.51667,
+    "n_articles_requested": 104,
+    "n_articles": 300
+  }
+}

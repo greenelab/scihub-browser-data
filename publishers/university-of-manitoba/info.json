@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Manitoba",
+  "journals": 1,
+  "scihub": 26,
+  "crossref_open_access": 0,
+  "crossref_active": 184,
+  "crossref": 184,
+  "coverage": 0.14130435,
+  "publisher_slug": "university-of-manitoba",
+  "access_logs": {
+    "downloads": 0.14851,
+    "visitors": 0.12871,
+    "countries": 0.12871,
+    "days": 0.12871,
+    "months": 0.12871,
+    "n_articles_requested": 11,
+    "n_articles": 101
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "NeuroQuantology",
+  "journals": 1,
+  "scihub": 64,
+  "crossref_open_access": 0,
+  "crossref_active": 732,
+  "crossref": 732,
+  "coverage": 0.08743169,
+  "publisher_slug": "neuroquantology",
+  "access_logs": {
+    "downloads": 0.04598,
+    "visitors": 0.04598,
+    "countries": 0.04598,
+    "days": 0.04598,
+    "months": 0.04598,
+    "n_articles_requested": 4,
+    "n_articles": 87
+  }
+}

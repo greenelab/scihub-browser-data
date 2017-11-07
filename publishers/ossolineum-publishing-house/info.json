@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Ossolineum Publishing House",
+  "journals": 1,
+  "scihub": 589,
+  "crossref_open_access": 0,
+  "crossref_active": 597,
+  "crossref": 597,
+  "coverage": 0.98659966,
+  "publisher_slug": "ossolineum-publishing-house",
+  "access_logs": {
+    "downloads": 1.4,
+    "visitors": 1.3111,
+    "countries": 1.1222,
+    "days": 1.2889,
+    "months": 0.97778,
+    "n_articles_requested": 53,
+    "n_articles": 90
+  }
+}

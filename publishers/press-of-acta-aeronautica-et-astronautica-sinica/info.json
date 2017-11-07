@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Press of Acta Aeronautica et Astronautica Sinica",
+  "journals": 1,
+  "scihub": 1610,
+  "crossref_open_access": 1636,
+  "crossref_active": 1636,
+  "crossref": 1636,
+  "coverage": 0.98410758,
+  "publisher_slug": "press-of-acta-aeronautica-et-astronautica-sinica",
+  "access_logs": {
+    "downloads": 1.3239,
+    "visitors": 1.2264,
+    "countries": 0.96541,
+    "days": 1.2075,
+    "months": 0.98428,
+    "n_articles_requested": 186,
+    "n_articles": 318
+  }
+}

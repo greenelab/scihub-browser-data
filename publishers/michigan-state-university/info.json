@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Michigan State University",
+  "journals": 2,
+  "scihub": 748,
+  "crossref_open_access": 0,
+  "crossref_active": 420,
+  "crossref": 1146,
+  "coverage": 0.65270506,
+  "publisher_slug": "michigan-state-university",
+  "access_logs": {
+    "downloads": 0.02381,
+    "visitors": 0.02381,
+    "countries": 0.02381,
+    "days": 0.02381,
+    "months": 0.02381,
+    "n_articles_requested": 1,
+    "n_articles": 42
+  }
+}

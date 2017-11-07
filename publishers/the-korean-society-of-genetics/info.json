@@ -1,0 +1,19 @@
+{
+  "publisher_name": "The Korean Society of Genetics",
+  "journals": 1,
+  "scihub": 772,
+  "crossref_open_access": 0,
+  "crossref_active": 792,
+  "crossref": 792,
+  "coverage": 0.97474747,
+  "publisher_slug": "the-korean-society-of-genetics",
+  "access_logs": {
+    "downloads": 1.1627,
+    "visitors": 0.95181,
+    "countries": 0.64458,
+    "days": 0.86145,
+    "months": 0.69277,
+    "n_articles_requested": 78,
+    "n_articles": 166
+  }
+}

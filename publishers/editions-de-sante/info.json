@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Editions de Sante",
+  "journals": 1,
+  "scihub": 1093,
+  "crossref_open_access": 0,
+  "crossref_active": 1107,
+  "crossref": 1107,
+  "coverage": 0.98735321,
+  "publisher_slug": "editions-de-sante",
+  "access_logs": {
+    "downloads": 5.4891,
+    "visitors": 4.0438,
+    "countries": 2.1533,
+    "days": 4.2482,
+    "months": 2.0657,
+    "n_articles_requested": 108,
+    "n_articles": 137
+  }
+}

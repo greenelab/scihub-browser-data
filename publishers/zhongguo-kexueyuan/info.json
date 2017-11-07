@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Zhongguo Kexueyuan",
+  "journals": 2,
+  "scihub": 238,
+  "crossref_open_access": 0,
+  "crossref_active": 685,
+  "crossref": 685,
+  "coverage": 0.34744526,
+  "publisher_slug": "zhongguo-kexueyuan",
+  "access_logs": {
+    "downloads": 0.08955,
+    "visitors": 0.08955,
+    "countries": 0.04478,
+    "days": 0.08955,
+    "months": 0.08955,
+    "n_articles_requested": 3,
+    "n_articles": 67
+  }
+}

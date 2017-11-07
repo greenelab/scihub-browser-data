@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Mathematical Association of America",
+  "journals": 4,
+  "scihub": 37638,
+  "crossref_open_access": 679,
+  "crossref_active": 38505,
+  "crossref": 38505,
+  "coverage": 0.97748344,
+  "publisher_slug": "mathematical-association-of-america",
+  "access_logs": {
+    "downloads": 1.632,
+    "visitors": 1.5414,
+    "countries": 1.3602,
+    "days": 1.484,
+    "months": 0.96022,
+    "n_articles_requested": 508,
+    "n_articles": 905
+  }
+}

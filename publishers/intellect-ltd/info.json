@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Intellect Ltd.",
+  "journals": 4,
+  "scihub": 435,
+  "crossref_open_access": 0,
+  "crossref_active": 491,
+  "crossref": 491,
+  "coverage": 0.88594705,
+  "publisher_slug": "intellect-ltd",
+  "access_logs": {
+    "downloads": 0.08571,
+    "visitors": 0.08571,
+    "countries": 0.08571,
+    "days": 0.08571,
+    "months": 0.08571,
+    "n_articles_requested": 14,
+    "n_articles": 175
+  }
+}

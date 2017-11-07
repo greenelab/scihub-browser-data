@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University Of Michigan, Department of Mathematics",
+  "journals": 1,
+  "scihub": 122,
+  "crossref_open_access": 0,
+  "crossref_active": 683,
+  "crossref": 683,
+  "coverage": 0.17862372,
+  "publisher_slug": "university-of-michigan-department-of-mathematics",
+  "access_logs": {
+    "downloads": 0.54237,
+    "visitors": 0.11864,
+    "countries": 0.0339,
+    "days": 0.0339,
+    "months": 0.01695,
+    "n_articles_requested": 1,
+    "n_articles": 59
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Slovak Toxicology Society SETOX",
+  "journals": 1,
+  "scihub": 202,
+  "crossref_open_access": 241,
+  "crossref_active": 241,
+  "crossref": 241,
+  "coverage": 0.83817427,
+  "publisher_slug": "slovak-toxicology-society-setox",
+  "access_logs": {
+    "downloads": 0.34426,
+    "visitors": 0.32787,
+    "countries": 0.29508,
+    "days": 0.34426,
+    "months": 0.2623,
+    "n_articles_requested": 9,
+    "n_articles": 61
+  }
+}

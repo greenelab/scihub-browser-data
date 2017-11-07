@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Servicio de Publicaciones de la Universidad De Navarra",
+  "journals": 5,
+  "scihub": 10,
+  "crossref_open_access": 0,
+  "crossref_active": 202,
+  "crossref": 202,
+  "coverage": 0.04950495,
+  "publisher_slug": "servicio-de-publicaciones-de-la-universidad-de-navarra",
+  "access_logs": {
+    "downloads": 0.01333,
+    "visitors": 0.01333,
+    "countries": 0.01333,
+    "days": 0.01333,
+    "months": 0.01333,
+    "n_articles_requested": 1,
+    "n_articles": 75
+  }
+}

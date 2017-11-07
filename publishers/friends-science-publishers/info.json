@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Friends Science Publishers",
+  "journals": 1,
+  "scihub": 2,
+  "crossref_open_access": 345,
+  "crossref_active": 345,
+  "crossref": 345,
+  "coverage": 0.0057971,
+  "publisher_slug": "friends-science-publishers",
+  "access_logs": {
+    "downloads": 0.0,
+    "visitors": 0.0,
+    "countries": 0.0,
+    "days": 0.0,
+    "months": 0.0,
+    "n_articles_requested": 0,
+    "n_articles": 68
+  }
+}

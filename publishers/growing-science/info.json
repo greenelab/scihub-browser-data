@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Growing Science",
+  "journals": 4,
+  "scihub": 32,
+  "crossref_open_access": 577,
+  "crossref_active": 827,
+  "crossref": 827,
+  "coverage": 0.03869407,
+  "publisher_slug": "growing-science",
+  "access_logs": {
+    "downloads": 0.00346,
+    "visitors": 0.00346,
+    "countries": 0.00346,
+    "days": 0.00346,
+    "months": 0.00346,
+    "n_articles_requested": 1,
+    "n_articles": 289
+  }
+}

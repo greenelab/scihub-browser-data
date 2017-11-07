@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Concrete Institute",
+  "journals": 3,
+  "scihub": 59,
+  "crossref_open_access": 0,
+  "crossref_active": 4591,
+  "crossref": 8717,
+  "coverage": 0.00676838,
+  "publisher_slug": "american-concrete-institute",
+  "access_logs": {
+    "downloads": 0.0035,
+    "visitors": 0.0035,
+    "countries": 0.0035,
+    "days": 0.0035,
+    "months": 0.0035,
+    "n_articles_requested": 1,
+    "n_articles": 286
+  }
+}

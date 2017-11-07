@@ -1,0 +1,19 @@
+{
+  "publisher_name": "EDAM-Education Consultancy Limited",
+  "journals": 1,
+  "scihub": 207,
+  "crossref_open_access": 0,
+  "crossref_active": 402,
+  "crossref": 402,
+  "coverage": 0.51492537,
+  "publisher_slug": "edam-education-consultancy-limited",
+  "access_logs": {
+    "downloads": 0.02688,
+    "visitors": 0.02688,
+    "countries": 0.02688,
+    "days": 0.02688,
+    "months": 0.02688,
+    "n_articles_requested": 5,
+    "n_articles": 186
+  }
+}

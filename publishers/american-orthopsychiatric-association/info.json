@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Orthopsychiatric Association",
+  "journals": 1,
+  "scihub": 8328,
+  "crossref_open_access": 0,
+  "crossref_active": 9257,
+  "crossref": 9257,
+  "coverage": 0.89964351,
+  "publisher_slug": "american-orthopsychiatric-association",
+  "access_logs": {
+    "downloads": 0.00625,
+    "visitors": 0.00625,
+    "countries": 0.00625,
+    "days": 0.00625,
+    "months": 0.00625,
+    "n_articles_requested": 1,
+    "n_articles": 160
+  }
+}

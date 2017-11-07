@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Ganglie Yanjiu Xuebao",
+  "journals": 1,
+  "scihub": 1840,
+  "crossref_open_access": 0,
+  "crossref_active": 1862,
+  "crossref": 1862,
+  "coverage": 0.98818475,
+  "publisher_slug": "ganglie-yanjiu-xuebao",
+  "access_logs": {
+    "downloads": 0.99349,
+    "visitors": 0.90879,
+    "countries": 0.79479,
+    "days": 0.87622,
+    "months": 0.78827,
+    "n_articles_requested": 155,
+    "n_articles": 307
+  }
+}

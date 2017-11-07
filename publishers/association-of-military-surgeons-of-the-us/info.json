@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Association of Military Surgeons of the US",
+  "journals": 1,
+  "scihub": 723,
+  "crossref_open_access": 0,
+  "crossref_active": 3855,
+  "crossref": 3855,
+  "coverage": 0.18754864,
+  "publisher_slug": "association-of-military-surgeons-of-the-us",
+  "access_logs": {
+    "downloads": 0.19039,
+    "visitors": 0.1726,
+    "countries": 0.11922,
+    "days": 0.13523,
+    "months": 0.12456,
+    "n_articles_requested": 55,
+    "n_articles": 562
+  }
+}

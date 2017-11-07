@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Multidisciplinary Digital Publishing Institute (MDPI)",
+  "journals": 59,
+  "scihub": 24508,
+  "crossref_open_access": 80672,
+  "crossref_active": 82918,
+  "crossref": 82918,
+  "coverage": 0.29556912,
+  "publisher_slug": "multidisciplinary-digital-publishing-institute-mdpi",
+  "access_logs": {
+    "downloads": 0.14522,
+    "visitors": 0.13162,
+    "countries": 0.11723,
+    "days": 0.13023,
+    "months": 0.11638,
+    "n_articles_requested": 1839,
+    "n_articles": 20080
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Society of Mechanical Engineers",
+  "journals": 28,
+  "scihub": 50611,
+  "crossref_open_access": 0,
+  "crossref_active": 77901,
+  "crossref": 81679,
+  "coverage": 0.61963295,
+  "publisher_slug": "american-society-of-mechanical-engineers",
+  "access_logs": {
+    "downloads": 0.794,
+    "visitors": 0.69726,
+    "countries": 0.53574,
+    "days": 0.63615,
+    "months": 0.51177,
+    "n_articles_requested": 1672,
+    "n_articles": 4631
+  }
+}

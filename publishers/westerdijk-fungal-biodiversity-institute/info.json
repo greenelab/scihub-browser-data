@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Westerdijk Fungal Biodiversity Institute",
+  "journals": 1,
+  "scihub": 279,
+  "crossref_open_access": 282,
+  "crossref_active": 282,
+  "crossref": 282,
+  "coverage": 0.9893617,
+  "publisher_slug": "westerdijk-fungal-biodiversity-institute",
+  "access_logs": {
+    "downloads": 1.4062,
+    "visitors": 1.2812,
+    "countries": 1.0625,
+    "days": 1.1875,
+    "months": 1.0312,
+    "n_articles_requested": 19,
+    "n_articles": 32
+  }
+}

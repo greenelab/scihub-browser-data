@@ -1,0 +1,19 @@
+{
+  "publisher_name": "International Association for Great Lakes Research",
+  "journals": 1,
+  "scihub": 3710,
+  "crossref_open_access": 0,
+  "crossref_active": 3723,
+  "crossref": 3723,
+  "coverage": 0.99650819,
+  "publisher_slug": "international-association-for-great-lakes-research",
+  "access_logs": {
+    "downloads": 0.76708,
+    "visitors": 0.70807,
+    "countries": 0.53416,
+    "days": 0.65217,
+    "months": 0.58385,
+    "n_articles_requested": 130,
+    "n_articles": 322
+  }
+}

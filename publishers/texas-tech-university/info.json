@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Texas Tech University",
+  "journals": 3,
+  "scihub": 74,
+  "crossref_open_access": 0,
+  "crossref_active": 474,
+  "crossref": 662,
+  "coverage": 0.11178248,
+  "publisher_slug": "texas-tech-university",
+  "access_logs": {
+    "downloads": 0.04964,
+    "visitors": 0.04964,
+    "countries": 0.04255,
+    "days": 0.04964,
+    "months": 0.04964,
+    "n_articles_requested": 7,
+    "n_articles": 141
+  }
+}

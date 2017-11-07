@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Canadian Institute of Mining",
+  "journals": 1,
+  "scihub": 2894,
+  "crossref_open_access": 0,
+  "crossref_active": 2899,
+  "crossref": 2899,
+  "coverage": 0.99827527,
+  "publisher_slug": "canadian-institute-of-mining",
+  "access_logs": {
+    "downloads": 0.36,
+    "visitors": 0.34,
+    "countries": 0.28,
+    "days": 0.3,
+    "months": 0.2,
+    "n_articles_requested": 6,
+    "n_articles": 50
+  }
+}

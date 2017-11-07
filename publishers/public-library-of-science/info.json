@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Public Library of Science",
+  "journals": 9,
+  "scihub": 26134,
+  "crossref_open_access": 209274,
+  "crossref_active": 209874,
+  "crossref": 209942,
+  "coverage": 0.124482,
+  "publisher_slug": "public-library-of-science",
+  "access_logs": {
+    "downloads": 0.03586,
+    "visitors": 0.03212,
+    "countries": 0.02825,
+    "days": 0.0329,
+    "months": 0.02919,
+    "n_articles_requested": 1356,
+    "n_articles": 58694
+  }
+}

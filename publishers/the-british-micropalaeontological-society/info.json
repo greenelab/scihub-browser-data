@@ -1,0 +1,19 @@
+{
+  "publisher_name": "The British Micropalaeontological Society",
+  "journals": 1,
+  "scihub": 579,
+  "crossref_open_access": 0,
+  "crossref_active": 735,
+  "crossref": 735,
+  "coverage": 0.7877551,
+  "publisher_slug": "the-british-micropalaeontological-society",
+  "access_logs": {
+    "downloads": 0.87879,
+    "visitors": 0.75758,
+    "countries": 0.60606,
+    "days": 0.60606,
+    "months": 0.48485,
+    "n_articles_requested": 11,
+    "n_articles": 33
+  }
+}

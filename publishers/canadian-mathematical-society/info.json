@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Canadian Mathematical Society",
+  "journals": 2,
+  "scihub": 122,
+  "crossref_open_access": 0,
+  "crossref_active": 9916,
+  "crossref": 9916,
+  "coverage": 0.01230335,
+  "publisher_slug": "canadian-mathematical-society",
+  "access_logs": {
+    "downloads": 0.01047,
+    "visitors": 0.01047,
+    "countries": 0.00524,
+    "days": 0.00524,
+    "months": 0.00524,
+    "n_articles_requested": 1,
+    "n_articles": 191
+  }
+}

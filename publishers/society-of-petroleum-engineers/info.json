@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Society of Petroleum Engineers",
+  "journals": 14,
+  "scihub": 18417,
+  "crossref_open_access": 0,
+  "crossref_active": 4362,
+  "crossref": 18994,
+  "coverage": 0.96962199,
+  "publisher_slug": "society-of-petroleum-engineers",
+  "access_logs": {
+    "downloads": 0.17173,
+    "visitors": 0.1537,
+    "countries": 0.12144,
+    "days": 0.14137,
+    "months": 0.12239,
+    "n_articles_requested": 94,
+    "n_articles": 1054
+  }
+}

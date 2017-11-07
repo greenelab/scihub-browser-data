@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Cairo University",
+  "journals": 2,
+  "scihub": 755,
+  "crossref_open_access": 763,
+  "crossref_active": 763,
+  "crossref": 763,
+  "coverage": 0.98951507,
+  "publisher_slug": "cairo-university",
+  "access_logs": {
+    "downloads": 3.7107,
+    "visitors": 3.2843,
+    "countries": 2.0355,
+    "days": 3.0,
+    "months": 1.665,
+    "n_articles_requested": 136,
+    "n_articles": 197
+  }
+}

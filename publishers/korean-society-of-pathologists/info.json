@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Korean Society of Pathologists",
+  "journals": 2,
+  "scihub": 232,
+  "crossref_open_access": 193,
+  "crossref_active": 193,
+  "crossref": 825,
+  "coverage": 0.28121212,
+  "publisher_slug": "korean-society-of-pathologists",
+  "access_logs": {
+    "downloads": 0.01911,
+    "visitors": 0.01911,
+    "countries": 0.01911,
+    "days": 0.01911,
+    "months": 0.01911,
+    "n_articles_requested": 3,
+    "n_articles": 157
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Han'guk Mulli Hakhoe",
+  "journals": 1,
+  "scihub": 3401,
+  "crossref_open_access": 0,
+  "crossref_active": 8305,
+  "crossref": 8305,
+  "coverage": 0.40951234,
+  "publisher_slug": "hanguk-mulli-hakhoe",
+  "access_logs": {
+    "downloads": 0.65324,
+    "visitors": 0.58319,
+    "countries": 0.47023,
+    "days": 0.55604,
+    "months": 0.47198,
+    "n_articles_requested": 370,
+    "n_articles": 1142
+  }
+}

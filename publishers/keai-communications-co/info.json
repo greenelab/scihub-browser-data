@@ -1,0 +1,19 @@
+{
+  "publisher_name": "KeAi Communications Co",
+  "journals": 4,
+  "scihub": 463,
+  "crossref_open_access": 0,
+  "crossref_active": 523,
+  "crossref": 523,
+  "coverage": 0.88527725,
+  "publisher_slug": "keai-communications-co",
+  "access_logs": {
+    "downloads": 0.53846,
+    "visitors": 0.51648,
+    "countries": 0.48352,
+    "days": 0.51648,
+    "months": 0.46154,
+    "n_articles_requested": 36,
+    "n_articles": 91
+  }
+}

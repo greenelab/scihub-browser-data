@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Museum of Natural History",
+  "journals": 3,
+  "scihub": 758,
+  "crossref_open_access": 239,
+  "crossref_active": 846,
+  "crossref": 846,
+  "coverage": 0.89598109,
+  "publisher_slug": "american-museum-of-natural-history",
+  "access_logs": {
+    "downloads": 0.86441,
+    "visitors": 0.64407,
+    "countries": 0.42373,
+    "days": 0.62712,
+    "months": 0.49153,
+    "n_articles_requested": 19,
+    "n_articles": 59
+  }
+}

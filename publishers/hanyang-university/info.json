@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Hanyang University",
+  "journals": 1,
+  "scihub": 159,
+  "crossref_open_access": 0,
+  "crossref_active": 163,
+  "crossref": 163,
+  "coverage": 0.97546012,
+  "publisher_slug": "hanyang-university",
+  "access_logs": {
+    "downloads": 0.92683,
+    "visitors": 0.85366,
+    "countries": 0.73171,
+    "days": 0.87805,
+    "months": 0.73171,
+    "n_articles_requested": 20,
+    "n_articles": 41
+  }
+}

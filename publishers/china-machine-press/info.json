@@ -1,0 +1,19 @@
+{
+  "publisher_name": "China Machine Press",
+  "journals": 2,
+  "scihub": 756,
+  "crossref_open_access": 0,
+  "crossref_active": 11773,
+  "crossref": 11773,
+  "coverage": 0.06421473,
+  "publisher_slug": "china-machine-press",
+  "access_logs": {
+    "downloads": 0.16226,
+    "visitors": 0.15597,
+    "countries": 0.11572,
+    "days": 0.14465,
+    "months": 0.12642,
+    "n_articles_requested": 137,
+    "n_articles": 1590
+  }
+}

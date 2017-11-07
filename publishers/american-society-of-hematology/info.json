@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Society of Hematology",
+  "journals": 2,
+  "scihub": 25747,
+  "crossref_open_access": 1100,
+  "crossref_active": 26015,
+  "crossref": 26015,
+  "coverage": 0.98969825,
+  "publisher_slug": "american-society-of-hematology",
+  "access_logs": {
+    "downloads": 0.4928,
+    "visitors": 0.42119,
+    "countries": 0.33898,
+    "days": 0.41864,
+    "months": 0.29534,
+    "n_articles_requested": 351,
+    "n_articles": 2360
+  }
+}

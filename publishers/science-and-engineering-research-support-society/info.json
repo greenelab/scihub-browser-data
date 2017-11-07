@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Science and Engineering Research Support Society",
+  "journals": 11,
+  "scihub": 1231,
+  "crossref_open_access": 4867,
+  "crossref_active": 2909,
+  "crossref": 10638,
+  "coverage": 0.11571724,
+  "publisher_slug": "science-and-engineering-research-support-society",
+  "access_logs": {
+    "downloads": 0.00255,
+    "visitors": 0.00255,
+    "countries": 0.00232,
+    "days": 0.00255,
+    "months": 0.00255,
+    "n_articles_requested": 11,
+    "n_articles": 4319
+  }
+}

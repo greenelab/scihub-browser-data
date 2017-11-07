@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Bohn Stafleu van Loghum B.V",
+  "journals": 7,
+  "scihub": 13034,
+  "crossref_open_access": 0,
+  "crossref_active": 10467,
+  "crossref": 13516,
+  "coverage": 0.96433856,
+  "publisher_slug": "bohn-stafleu-van-loghum-b-v",
+  "access_logs": {
+    "downloads": 0.02872,
+    "visitors": 0.02698,
+    "countries": 0.02698,
+    "days": 0.02698,
+    "months": 0.02698,
+    "n_articles_requested": 31,
+    "n_articles": 1149
+  }
+}

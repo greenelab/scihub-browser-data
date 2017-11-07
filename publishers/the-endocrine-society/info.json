@@ -1,0 +1,19 @@
+{
+  "publisher_name": "The Endocrine Society",
+  "journals": 3,
+  "scihub": 6943,
+  "crossref_open_access": 0,
+  "crossref_active": 10507,
+  "crossref": 10586,
+  "coverage": 0.65586624,
+  "publisher_slug": "the-endocrine-society",
+  "access_logs": {
+    "downloads": 2.2188,
+    "visitors": 1.9847,
+    "countries": 1.2824,
+    "days": 1.8041,
+    "months": 1.0712,
+    "n_articles_requested": 195,
+    "n_articles": 393
+  }
+}

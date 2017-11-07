@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Royal Society of Chemistry",
+  "journals": 66,
+  "scihub": 382382,
+  "crossref_open_access": 0,
+  "crossref_active": 330478,
+  "crossref": 406837,
+  "coverage": 0.93988993,
+  "publisher_slug": "royal-society-of-chemistry",
+  "access_logs": {
+    "downloads": 4.8873,
+    "visitors": 4.1525,
+    "countries": 2.2596,
+    "days": 3.826,
+    "months": 2.1224,
+    "n_articles_requested": 68510,
+    "n_articles": 87601
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Association of American Geographers",
+  "journals": 1,
+  "scihub": 32,
+  "crossref_open_access": 0,
+  "crossref_active": 1128,
+  "crossref": 1128,
+  "coverage": 0.02836879,
+  "publisher_slug": "association-of-american-geographers",
+  "access_logs": {
+    "downloads": 0.0137,
+    "visitors": 0.0137,
+    "countries": 0.0137,
+    "days": 0.0137,
+    "months": 0.0137,
+    "n_articles_requested": 1,
+    "n_articles": 73
+  }
+}

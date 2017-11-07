@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Mycotaxon Ltd.",
+  "journals": 1,
+  "scihub": 1354,
+  "crossref_open_access": 0,
+  "crossref_active": 1508,
+  "crossref": 1508,
+  "coverage": 0.89787798,
+  "publisher_slug": "mycotaxon-ltd",
+  "access_logs": {
+    "downloads": 0.61929,
+    "visitors": 0.51777,
+    "countries": 0.4264,
+    "days": 0.52284,
+    "months": 0.47716,
+    "n_articles_requested": 66,
+    "n_articles": 197
+  }
+}

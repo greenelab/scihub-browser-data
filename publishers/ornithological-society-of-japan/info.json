@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Ornithological Society of Japan",
+  "journals": 1,
+  "scihub": 256,
+  "crossref_open_access": 0,
+  "crossref_active": 342,
+  "crossref": 342,
+  "coverage": 0.74853801,
+  "publisher_slug": "ornithological-society-of-japan",
+  "access_logs": {
+    "downloads": 0.76667,
+    "visitors": 0.76667,
+    "countries": 0.66667,
+    "days": 0.7,
+    "months": 0.7,
+    "n_articles_requested": 16,
+    "n_articles": 30
+  }
+}

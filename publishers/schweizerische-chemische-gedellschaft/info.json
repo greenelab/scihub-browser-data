@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Schweizerische Chemische Gedellschaft",
+  "journals": 1,
+  "scihub": 1975,
+  "crossref_open_access": 0,
+  "crossref_active": 2289,
+  "crossref": 2289,
+  "coverage": 0.86282219,
+  "publisher_slug": "schweizerische-chemische-gedellschaft",
+  "access_logs": {
+    "downloads": 0.91667,
+    "visitors": 0.8373,
+    "countries": 0.70635,
+    "days": 0.81746,
+    "months": 0.65873,
+    "n_articles_requested": 88,
+    "n_articles": 252
+  }
+}

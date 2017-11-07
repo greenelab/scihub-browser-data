@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Faculty of 1000 Ltd",
+  "journals": 1,
+  "scihub": 33,
+  "crossref_open_access": 0,
+  "crossref_active": 241,
+  "crossref": 241,
+  "coverage": 0.13692946,
+  "publisher_slug": "faculty-of-1000-ltd",
+  "access_logs": {
+    "downloads": 0.07936,
+    "visitors": 0.06878,
+    "countries": 0.06349,
+    "days": 0.07407,
+    "months": 0.06349,
+    "n_articles_requested": 11,
+    "n_articles": 189
+  }
+}

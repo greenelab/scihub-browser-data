@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Omics Publishing Group",
+  "journals": 15,
+  "scihub": 196,
+  "crossref_open_access": 0,
+  "crossref_active": 0,
+  "crossref": 7029,
+  "coverage": 0.02788448,
+  "publisher_slug": "omics-publishing-group",
+  "access_logs": {
+    "downloads": 0.00233,
+    "visitors": 0.00233,
+    "countries": 0.00233,
+    "days": 0.00233,
+    "months": 0.00233,
+    "n_articles_requested": 5,
+    "n_articles": 2144
+  }
+}

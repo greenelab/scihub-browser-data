@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Association of Neurological Surgeons",
+  "journals": 4,
+  "scihub": 30384,
+  "crossref_open_access": 3439,
+  "crossref_active": 31031,
+  "crossref": 31031,
+  "coverage": 0.97914988,
+  "publisher_slug": "american-association-of-neurological-surgeons",
+  "access_logs": {
+    "downloads": 1.6549,
+    "visitors": 1.5018,
+    "countries": 1.1828,
+    "days": 1.4135,
+    "months": 1.0904,
+    "n_articles_requested": 1071,
+    "n_articles": 1947
+  }
+}

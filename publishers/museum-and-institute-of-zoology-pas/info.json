@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Museum and Institute of Zoology PAS",
+  "journals": 1,
+  "scihub": 588,
+  "crossref_open_access": 0,
+  "crossref_active": 591,
+  "crossref": 591,
+  "coverage": 0.99492386,
+  "publisher_slug": "museum-and-institute-of-zoology-pas",
+  "access_logs": {
+    "downloads": 2.5254,
+    "visitors": 2.2542,
+    "countries": 1.9831,
+    "days": 2.2712,
+    "months": 1.7119,
+    "n_articles_requested": 42,
+    "n_articles": 59
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Medicine Publishing Company Ltd.",
+  "journals": 2,
+  "scihub": 1438,
+  "crossref_open_access": 0,
+  "crossref_active": 652,
+  "crossref": 1441,
+  "coverage": 0.99791811,
+  "publisher_slug": "medicine-publishing-company-ltd",
+  "access_logs": {
+    "downloads": 1.7788,
+    "visitors": 1.646,
+    "countries": 1.3451,
+    "days": 1.6372,
+    "months": 1.2035,
+    "n_articles_requested": 64,
+    "n_articles": 113
+  }
+}

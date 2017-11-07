@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Harrassowitz Verlag",
+  "journals": 2,
+  "scihub": 121,
+  "crossref_open_access": 0,
+  "crossref_active": 156,
+  "crossref": 156,
+  "coverage": 0.77564103,
+  "publisher_slug": "harrassowitz-verlag",
+  "access_logs": {
+    "downloads": 0.69412,
+    "visitors": 0.68235,
+    "countries": 0.67059,
+    "days": 0.68235,
+    "months": 0.63529,
+    "n_articles_requested": 44,
+    "n_articles": 85
+  }
+}

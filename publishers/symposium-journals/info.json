@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Symposium Journals",
+  "journals": 4,
+  "scihub": 2175,
+  "crossref_open_access": 0,
+  "crossref_active": 2236,
+  "crossref": 2236,
+  "coverage": 0.97271914,
+  "publisher_slug": "symposium-journals",
+  "access_logs": {
+    "downloads": 0.38769,
+    "visitors": 0.35692,
+    "countries": 0.32923,
+    "days": 0.36615,
+    "months": 0.33846,
+    "n_articles_requested": 83,
+    "n_articles": 325
+  }
+}

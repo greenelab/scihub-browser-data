@@ -1,0 +1,19 @@
+{
+  "publisher_name": "International Press of Boston, Inc.",
+  "journals": 12,
+  "scihub": 1289,
+  "crossref_open_access": 211,
+  "crossref_active": 9883,
+  "crossref": 9883,
+  "coverage": 0.13042598,
+  "publisher_slug": "international-press-of-boston-inc",
+  "access_logs": {
+    "downloads": 0.00331,
+    "visitors": 0.00331,
+    "countries": 0.00331,
+    "days": 0.00331,
+    "months": 0.00331,
+    "n_articles_requested": 3,
+    "n_articles": 907
+  }
+}

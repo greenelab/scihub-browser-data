@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Europa Ed",
+  "journals": 1,
+  "scihub": 7,
+  "crossref_open_access": 0,
+  "crossref_active": 2385,
+  "crossref": 2385,
+  "coverage": 0.00293501,
+  "publisher_slug": "europa-ed",
+  "access_logs": {
+    "downloads": 0.00194,
+    "visitors": 0.00194,
+    "countries": 0.00194,
+    "days": 0.00194,
+    "months": 0.00194,
+    "n_articles_requested": 1,
+    "n_articles": 515
+  }
+}

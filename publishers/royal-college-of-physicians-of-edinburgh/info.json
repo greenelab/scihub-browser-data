@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Royal College of Physicians of Edinburgh",
+  "journals": 1,
+  "scihub": 21,
+  "crossref_open_access": 472,
+  "crossref_active": 472,
+  "crossref": 472,
+  "coverage": 0.04449153,
+  "publisher_slug": "royal-college-of-physicians-of-edinburgh",
+  "access_logs": {
+    "downloads": 0.04386,
+    "visitors": 0.04386,
+    "countries": 0.03509,
+    "days": 0.04386,
+    "months": 0.03509,
+    "n_articles_requested": 2,
+    "n_articles": 114
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Novi Sad",
+  "journals": 2,
+  "scihub": 206,
+  "crossref_open_access": 277,
+  "crossref_active": 752,
+  "crossref": 752,
+  "coverage": 0.27393617,
+  "publisher_slug": "university-of-novi-sad",
+  "access_logs": {
+    "downloads": 0.22772,
+    "visitors": 0.20792,
+    "countries": 0.16832,
+    "days": 0.20792,
+    "months": 0.17822,
+    "n_articles_requested": 11,
+    "n_articles": 101
+  }
+}

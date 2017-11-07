@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Mohr Siebeck GmbH and Co. KG",
+  "journals": 5,
+  "scihub": 1666,
+  "crossref_open_access": 0,
+  "crossref_active": 2004,
+  "crossref": 2004,
+  "coverage": 0.83133733,
+  "publisher_slug": "mohr-siebeck-gmbh-and-co-kg",
+  "access_logs": {
+    "downloads": 0.39091,
+    "visitors": 0.38182,
+    "countries": 0.37727,
+    "days": 0.38182,
+    "months": 0.37273,
+    "n_articles_requested": 81,
+    "n_articles": 220
+  }
+}

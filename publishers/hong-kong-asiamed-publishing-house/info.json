@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Hong Kong Asiamed Publishing House",
+  "journals": 1,
+  "scihub": 421,
+  "crossref_open_access": 426,
+  "crossref_active": 426,
+  "crossref": 426,
+  "coverage": 0.98826291,
+  "publisher_slug": "hong-kong-asiamed-publishing-house",
+  "access_logs": {
+    "downloads": 5.9487,
+    "visitors": 5.1667,
+    "countries": 2.9103,
+    "days": 4.9744,
+    "months": 2.5256,
+    "n_articles_requested": 67,
+    "n_articles": 78
+  }
+}

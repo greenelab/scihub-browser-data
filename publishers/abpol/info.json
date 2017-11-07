@@ -1,0 +1,19 @@
+{
+  "publisher_name": "ABPol",
+  "journals": 1,
+  "scihub": 13,
+  "crossref_open_access": 1008,
+  "crossref_active": 1008,
+  "crossref": 1008,
+  "coverage": 0.01289683,
+  "publisher_slug": "abpol",
+  "access_logs": {
+    "downloads": 0.26667,
+    "visitors": 0.2,
+    "countries": 0.2,
+    "days": 0.2,
+    "months": 0.2,
+    "n_articles_requested": 1,
+    "n_articles": 15
+  }
+}

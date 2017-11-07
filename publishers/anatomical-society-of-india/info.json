@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Anatomical Society of India",
+  "journals": 1,
+  "scihub": 973,
+  "crossref_open_access": 0,
+  "crossref_active": 995,
+  "crossref": 995,
+  "coverage": 0.97788945,
+  "publisher_slug": "anatomical-society-of-india",
+  "access_logs": {
+    "downloads": 1.1071,
+    "visitors": 0.90476,
+    "countries": 0.78571,
+    "days": 0.91667,
+    "months": 0.7381,
+    "n_articles_requested": 39,
+    "n_articles": 84
+  }
+}

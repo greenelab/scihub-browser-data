@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Nepal Paediatric Society",
+  "journals": 1,
+  "scihub": 151,
+  "crossref_open_access": 462,
+  "crossref_active": 462,
+  "crossref": 462,
+  "coverage": 0.32683983,
+  "publisher_slug": "nepal-paediatric-society",
+  "access_logs": {
+    "downloads": 0.06557,
+    "visitors": 0.06557,
+    "countries": 0.03279,
+    "days": 0.01639,
+    "months": 0.01639,
+    "n_articles_requested": 1,
+    "n_articles": 61
+  }
+}

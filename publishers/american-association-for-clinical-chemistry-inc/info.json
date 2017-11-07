@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Association for Clinical Chemistry, Inc.",
+  "journals": 1,
+  "scihub": 5862,
+  "crossref_open_access": 0,
+  "crossref_active": 5987,
+  "crossref": 5987,
+  "coverage": 0.97912143,
+  "publisher_slug": "american-association-for-clinical-chemistry-inc",
+  "access_logs": {
+    "downloads": 4.2822,
+    "visitors": 3.6909,
+    "countries": 1.888,
+    "days": 3.1286,
+    "months": 1.4917,
+    "n_articles_requested": 296,
+    "n_articles": 482
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Economic Association",
+  "journals": 8,
+  "scihub": 6945,
+  "crossref_open_access": 38,
+  "crossref_active": 8670,
+  "crossref": 8670,
+  "coverage": 0.80103806,
+  "publisher_slug": "american-economic-association",
+  "access_logs": {
+    "downloads": 0.32182,
+    "visitors": 0.31091,
+    "countries": 0.25545,
+    "days": 0.28455,
+    "months": 0.23818,
+    "n_articles_requested": 187,
+    "n_articles": 1100
+  }
+}

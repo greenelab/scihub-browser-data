@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Asociacion Espanola de Andrologia",
+  "journals": 1,
+  "scihub": 459,
+  "crossref_open_access": 0,
+  "crossref_active": 465,
+  "crossref": 465,
+  "coverage": 0.98709677,
+  "publisher_slug": "asociacion-espanola-de-andrologia",
+  "access_logs": {
+    "downloads": 0.96491,
+    "visitors": 0.87719,
+    "countries": 0.7193,
+    "days": 0.84211,
+    "months": 0.70175,
+    "n_articles_requested": 27,
+    "n_articles": 57
+  }
+}

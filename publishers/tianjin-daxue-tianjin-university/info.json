@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Tianjin Daxue/Tianjin University",
+  "journals": 1,
+  "scihub": 700,
+  "crossref_open_access": 0,
+  "crossref_active": 736,
+  "crossref": 736,
+  "coverage": 0.95108696,
+  "publisher_slug": "tianjin-daxue-tianjin-university",
+  "access_logs": {
+    "downloads": 0.808,
+    "visitors": 0.736,
+    "countries": 0.608,
+    "days": 0.712,
+    "months": 0.648,
+    "n_articles_requested": 60,
+    "n_articles": 125
+  }
+}

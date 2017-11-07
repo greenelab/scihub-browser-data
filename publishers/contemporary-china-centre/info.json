@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Contemporary China Centre",
+  "journals": 2,
+  "scihub": 3194,
+  "crossref_open_access": 0,
+  "crossref_active": 2495,
+  "crossref": 3375,
+  "coverage": 0.94637037,
+  "publisher_slug": "contemporary-china-centre",
+  "access_logs": {
+    "downloads": 0.05687,
+    "visitors": 0.05687,
+    "countries": 0.05213,
+    "days": 0.05687,
+    "months": 0.05213,
+    "n_articles_requested": 10,
+    "n_articles": 211
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "West Chester State College",
+  "journals": 1,
+  "scihub": 84,
+  "crossref_open_access": 0,
+  "crossref_active": 776,
+  "crossref": 776,
+  "coverage": 0.10824742,
+  "publisher_slug": "west-chester-state-college",
+  "access_logs": {
+    "downloads": 0.09,
+    "visitors": 0.07,
+    "countries": 0.06,
+    "days": 0.07,
+    "months": 0.07,
+    "n_articles_requested": 6,
+    "n_articles": 100
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Royal Society of Medicine",
+  "journals": 4,
+  "scihub": 430,
+  "crossref_open_access": 0,
+  "crossref_active": 4813,
+  "crossref": 5224,
+  "coverage": 0.0823124,
+  "publisher_slug": "royal-society-of-medicine",
+  "access_logs": {
+    "downloads": 0.06387,
+    "visitors": 0.0292,
+    "countries": 0.02555,
+    "days": 0.0292,
+    "months": 0.02555,
+    "n_articles_requested": 10,
+    "n_articles": 548
+  }
+}

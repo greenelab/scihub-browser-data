@@ -1,0 +1,19 @@
+{
+  "publisher_name": "AVS Science and Technology Society",
+  "journals": 1,
+  "scihub": 2370,
+  "crossref_open_access": 0,
+  "crossref_active": 2616,
+  "crossref": 2616,
+  "coverage": 0.9059633,
+  "publisher_slug": "avs-science-and-technology-society",
+  "access_logs": {
+    "downloads": 7.6696,
+    "visitors": 0.86161,
+    "countries": 0.70536,
+    "days": 0.875,
+    "months": 0.70759,
+    "n_articles_requested": 204,
+    "n_articles": 448
+  }
+}

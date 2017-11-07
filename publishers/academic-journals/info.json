@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Academic Journals",
+  "journals": 34,
+  "scihub": 383,
+  "crossref_open_access": 0,
+  "crossref_active": 0,
+  "crossref": 23195,
+  "coverage": 0.01651218,
+  "publisher_slug": "academic-journals",
+  "access_logs": {
+    "downloads": 0.00046,
+    "visitors": 0.00046,
+    "countries": 0.00046,
+    "days": 0.00046,
+    "months": 0.00046,
+    "n_articles_requested": 2,
+    "n_articles": 4352
+  }
+}

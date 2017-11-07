@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Canadian Psychological Association",
+  "journals": 2,
+  "scihub": 3833,
+  "crossref_open_access": 0,
+  "crossref_active": 2144,
+  "crossref": 4028,
+  "coverage": 0.95158888,
+  "publisher_slug": "canadian-psychological-association",
+  "access_logs": {
+    "downloads": 0.14444,
+    "visitors": 0.13333,
+    "countries": 0.12222,
+    "days": 0.14444,
+    "months": 0.13333,
+    "n_articles_requested": 12,
+    "n_articles": 90
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Mineralogical Association of Canada",
+  "journals": 1,
+  "scihub": 1622,
+  "crossref_open_access": 0,
+  "crossref_active": 1945,
+  "crossref": 1945,
+  "coverage": 0.83393316,
+  "publisher_slug": "mineralogical-association-of-canada",
+  "access_logs": {
+    "downloads": 1.5812,
+    "visitors": 1.3932,
+    "countries": 1.0598,
+    "days": 1.3932,
+    "months": 0.88889,
+    "n_articles_requested": 65,
+    "n_articles": 117
+  }
+}

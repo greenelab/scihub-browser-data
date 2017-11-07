@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Hawaii Press",
+  "journals": 12,
+  "scihub": 4282,
+  "crossref_open_access": 322,
+  "crossref_active": 10209,
+  "crossref": 10819,
+  "coverage": 0.39578519,
+  "publisher_slug": "university-of-hawaii-press",
+  "access_logs": {
+    "downloads": 0.16667,
+    "visitors": 0.15723,
+    "countries": 0.13994,
+    "days": 0.14623,
+    "months": 0.14465,
+    "n_articles_requested": 67,
+    "n_articles": 636
+  }
+}

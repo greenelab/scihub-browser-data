@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Wuhan Daxue",
+  "journals": 1,
+  "scihub": 2911,
+  "crossref_open_access": 0,
+  "crossref_active": 2936,
+  "crossref": 2936,
+  "coverage": 0.99148501,
+  "publisher_slug": "wuhan-daxue",
+  "access_logs": {
+    "downloads": 0.80882,
+    "visitors": 0.70588,
+    "countries": 0.56618,
+    "days": 0.63235,
+    "months": 0.56618,
+    "n_articles_requested": 51,
+    "n_articles": 136
+  }
+}

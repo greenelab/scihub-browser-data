@@ -1,0 +1,19 @@
+{
+  "publisher_name": "China Academy of Traditional Chinese Medicine",
+  "journals": 1,
+  "scihub": 1792,
+  "crossref_open_access": 0,
+  "crossref_active": 1808,
+  "crossref": 1808,
+  "coverage": 0.99115044,
+  "publisher_slug": "china-academy-of-traditional-chinese-medicine",
+  "access_logs": {
+    "downloads": 1.329,
+    "visitors": 1.2323,
+    "countries": 0.98387,
+    "days": 1.2065,
+    "months": 0.95161,
+    "n_articles_requested": 174,
+    "n_articles": 310
+  }
+}

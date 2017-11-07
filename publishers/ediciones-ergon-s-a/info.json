@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Ediciones Ergon S.A.",
+  "journals": 1,
+  "scihub": 389,
+  "crossref_open_access": 766,
+  "crossref_active": 766,
+  "crossref": 766,
+  "coverage": 0.5078329,
+  "publisher_slug": "ediciones-ergon-s-a",
+  "access_logs": {
+    "downloads": 0.64211,
+    "visitors": 0.61053,
+    "countries": 0.53684,
+    "days": 0.62105,
+    "months": 0.52632,
+    "n_articles_requested": 32,
+    "n_articles": 95
+  }
+}

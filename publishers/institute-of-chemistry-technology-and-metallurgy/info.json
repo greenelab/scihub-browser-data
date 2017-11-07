@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Institute of Chemistry, Technology and Metallurgy",
+  "journals": 1,
+  "scihub": 115,
+  "crossref_open_access": 381,
+  "crossref_active": 381,
+  "crossref": 381,
+  "coverage": 0.30183727,
+  "publisher_slug": "institute-of-chemistry-technology-and-metallurgy",
+  "access_logs": {
+    "downloads": 0.06,
+    "visitors": 0.04,
+    "countries": 0.04,
+    "days": 0.04,
+    "months": 0.04,
+    "n_articles_requested": 2,
+    "n_articles": 50
+  }
+}

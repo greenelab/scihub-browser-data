@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Chemical Society of Japan/Nippon Kagakukai",
+  "journals": 3,
+  "scihub": 62605,
+  "crossref_open_access": 0,
+  "crossref_active": 62585,
+  "crossref": 71636,
+  "coverage": 0.8739321,
+  "publisher_slug": "chemical-society-of-japan-nippon-kagakukai",
+  "access_logs": {
+    "downloads": 0.06358,
+    "visitors": 0.05809,
+    "countries": 0.04631,
+    "days": 0.05495,
+    "months": 0.04631,
+    "n_articles_requested": 34,
+    "n_articles": 1274
+  }
+}

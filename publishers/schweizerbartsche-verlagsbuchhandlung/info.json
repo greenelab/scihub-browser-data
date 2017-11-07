@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Schweizerbartsche Verlagsbuchhandlung",
+  "journals": 1,
+  "scihub": 456,
+  "crossref_open_access": 0,
+  "crossref_active": 500,
+  "crossref": 500,
+  "coverage": 0.912,
+  "publisher_slug": "schweizerbartsche-verlagsbuchhandlung",
+  "access_logs": {
+    "downloads": 0.12903,
+    "visitors": 0.12903,
+    "countries": 0.1129,
+    "days": 0.12903,
+    "months": 0.1129,
+    "n_articles_requested": 6,
+    "n_articles": 62
+  }
+}

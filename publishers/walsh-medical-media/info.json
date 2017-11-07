@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Walsh Medical Media",
+  "journals": 1,
+  "scihub": 59,
+  "crossref_open_access": 0,
+  "crossref_active": 301,
+  "crossref": 301,
+  "coverage": 0.19601329,
+  "publisher_slug": "walsh-medical-media",
+  "access_logs": {
+    "downloads": 0.43939,
+    "visitors": 0.30303,
+    "countries": 0.27273,
+    "days": 0.39394,
+    "months": 0.24242,
+    "n_articles_requested": 13,
+    "n_articles": 66
+  }
+}

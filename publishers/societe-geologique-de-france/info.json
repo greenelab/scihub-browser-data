@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Societe Geologique de France",
+  "journals": 1,
+  "scihub": 1786,
+  "crossref_open_access": 0,
+  "crossref_active": 2639,
+  "crossref": 2639,
+  "coverage": 0.6767715,
+  "publisher_slug": "societe-geologique-de-france",
+  "access_logs": {
+    "downloads": 13.2,
+    "visitors": 1.56,
+    "countries": 1.28,
+    "days": 1.54,
+    "months": 1.28,
+    "n_articles_requested": 32,
+    "n_articles": 50
+  }
+}

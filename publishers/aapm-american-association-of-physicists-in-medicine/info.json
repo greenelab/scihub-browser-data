@@ -1,0 +1,19 @@
+{
+  "publisher_name": "AAPM - American Association of Physicists in Medicine",
+  "journals": 1,
+  "scihub": 58,
+  "crossref_open_access": 146,
+  "crossref_active": 146,
+  "crossref": 146,
+  "coverage": 0.39726027,
+  "publisher_slug": "aapm-american-association-of-physicists-in-medicine",
+  "access_logs": {
+    "downloads": 0.15789,
+    "visitors": 0.15789,
+    "countries": 0.10526,
+    "days": 0.12281,
+    "months": 0.10526,
+    "n_articles_requested": 5,
+    "n_articles": 57
+  }
+}

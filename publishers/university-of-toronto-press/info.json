@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Toronto Press",
+  "journals": 27,
+  "scihub": 31576,
+  "crossref_open_access": 2347,
+  "crossref_active": 39021,
+  "crossref": 46598,
+  "coverage": 0.67762565,
+  "publisher_slug": "university-of-toronto-press",
+  "access_logs": {
+    "downloads": 0.04895,
+    "visitors": 0.04838,
+    "countries": 0.04553,
+    "days": 0.0461,
+    "months": 0.04326,
+    "n_articles_requested": 66,
+    "n_articles": 1757
+  }
+}

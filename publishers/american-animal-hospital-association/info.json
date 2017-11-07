@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Animal Hospital Association",
+  "journals": 1,
+  "scihub": 1201,
+  "crossref_open_access": 0,
+  "crossref_active": 1698,
+  "crossref": 1698,
+  "coverage": 0.70730271,
+  "publisher_slug": "american-animal-hospital-association",
+  "access_logs": {
+    "downloads": 0.12295,
+    "visitors": 0.12295,
+    "countries": 0.12295,
+    "days": 0.12295,
+    "months": 0.12295,
+    "n_articles_requested": 10,
+    "n_articles": 122
+  }
+}

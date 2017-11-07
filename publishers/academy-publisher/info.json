@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Academy Publisher",
+  "journals": 7,
+  "scihub": 64,
+  "crossref_open_access": 0,
+  "crossref_active": 0,
+  "crossref": 10588,
+  "coverage": 0.00604458,
+  "publisher_slug": "academy-publisher",
+  "access_logs": {
+    "downloads": 0.0008,
+    "visitors": 0.0004,
+    "countries": 0.0004,
+    "days": 0.0004,
+    "months": 0.0004,
+    "n_articles_requested": 1,
+    "n_articles": 2497
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Korean Pediatric Society",
+  "journals": 1,
+  "scihub": 13,
+  "crossref_open_access": 1572,
+  "crossref_active": 1572,
+  "crossref": 1572,
+  "coverage": 0.00826972,
+  "publisher_slug": "korean-pediatric-society",
+  "access_logs": {
+    "downloads": 0.03297,
+    "visitors": 0.03297,
+    "countries": 0.02747,
+    "days": 0.02747,
+    "months": 0.02198,
+    "n_articles_requested": 3,
+    "n_articles": 182
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "J.Michael Ryan Publishing Inc.",
+  "journals": 1,
+  "scihub": 97,
+  "crossref_open_access": 0,
+  "crossref_active": 120,
+  "crossref": 120,
+  "coverage": 0.80833333,
+  "publisher_slug": "j-michael-ryan-publishing-inc",
+  "access_logs": {
+    "downloads": 1.0682,
+    "visitors": 1.0227,
+    "countries": 0.72727,
+    "days": 1.0,
+    "months": 0.79545,
+    "n_articles_requested": 19,
+    "n_articles": 44
+  }
+}

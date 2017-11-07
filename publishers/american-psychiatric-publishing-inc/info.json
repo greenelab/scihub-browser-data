@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Psychiatric Publishing, Inc.",
+  "journals": 2,
+  "scihub": 43581,
+  "crossref_open_access": 0,
+  "crossref_active": 49224,
+  "crossref": 49224,
+  "coverage": 0.8853608,
+  "publisher_slug": "american-psychiatric-publishing-inc",
+  "access_logs": {
+    "downloads": 2.466,
+    "visitors": 2.3132,
+    "countries": 1.62,
+    "days": 2.2285,
+    "months": 1.3068,
+    "n_articles_requested": 404,
+    "n_articles": 779
+  }
+}

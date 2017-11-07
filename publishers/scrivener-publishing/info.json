@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Scrivener Publishing",
+  "journals": 2,
+  "scihub": 107,
+  "crossref_open_access": 0,
+  "crossref_active": 222,
+  "crossref": 222,
+  "coverage": 0.48198198,
+  "publisher_slug": "scrivener-publishing",
+  "access_logs": {
+    "downloads": 0.51807,
+    "visitors": 0.51807,
+    "countries": 0.46988,
+    "days": 0.49398,
+    "months": 0.43373,
+    "n_articles_requested": 26,
+    "n_articles": 83
+  }
+}

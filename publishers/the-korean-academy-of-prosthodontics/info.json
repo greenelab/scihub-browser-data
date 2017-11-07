@@ -1,0 +1,19 @@
+{
+  "publisher_name": "The Korean Academy of prosthodontics",
+  "journals": 1,
+  "scihub": 11,
+  "crossref_open_access": 440,
+  "crossref_active": 440,
+  "crossref": 440,
+  "coverage": 0.025,
+  "publisher_slug": "the-korean-academy-of-prosthodontics",
+  "access_logs": {
+    "downloads": 0.02013,
+    "visitors": 0.01342,
+    "countries": 0.01342,
+    "days": 0.01342,
+    "months": 0.01342,
+    "n_articles_requested": 2,
+    "n_articles": 149
+  }
+}

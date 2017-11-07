@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Foundry Society",
+  "journals": 1,
+  "scihub": 342,
+  "crossref_open_access": 0,
+  "crossref_active": 361,
+  "crossref": 361,
+  "coverage": 0.94736842,
+  "publisher_slug": "american-foundry-society",
+  "access_logs": {
+    "downloads": 1.5439,
+    "visitors": 0.98246,
+    "countries": 0.84211,
+    "days": 1.1228,
+    "months": 0.84211,
+    "n_articles_requested": 31,
+    "n_articles": 57
+  }
+}

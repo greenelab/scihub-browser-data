@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Asociacion Colombiana de Infectologia",
+  "journals": 1,
+  "scihub": 342,
+  "crossref_open_access": 0,
+  "crossref_active": 342,
+  "crossref": 342,
+  "coverage": 1.0,
+  "publisher_slug": "asociacion-colombiana-de-infectologia",
+  "access_logs": {
+    "downloads": 1.9038,
+    "visitors": 1.7885,
+    "countries": 1.1923,
+    "days": 1.75,
+    "months": 1.3462,
+    "n_articles_requested": 34,
+    "n_articles": 52
+  }
+}

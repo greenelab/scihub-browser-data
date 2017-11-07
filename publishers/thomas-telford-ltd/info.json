@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Thomas Telford Ltd.",
+  "journals": 10,
+  "scihub": 5455,
+  "crossref_open_access": 0,
+  "crossref_active": 6707,
+  "crossref": 7093,
+  "coverage": 0.7690681,
+  "publisher_slug": "thomas-telford-ltd",
+  "access_logs": {
+    "downloads": 0.24096,
+    "visitors": 0.22547,
+    "countries": 0.20138,
+    "days": 0.21687,
+    "months": 0.19793,
+    "n_articles_requested": 93,
+    "n_articles": 581
+  }
+}

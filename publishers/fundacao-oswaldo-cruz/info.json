@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Fundacao Oswaldo Cruz",
+  "journals": 2,
+  "scihub": 46,
+  "crossref_open_access": 9457,
+  "crossref_active": 9457,
+  "crossref": 9457,
+  "coverage": 0.00486412,
+  "publisher_slug": "fundacao-oswaldo-cruz",
+  "access_logs": {
+    "downloads": 0.00641,
+    "visitors": 0.00641,
+    "countries": 0.00641,
+    "days": 0.00641,
+    "months": 0.00641,
+    "n_articles_requested": 2,
+    "n_articles": 312
+  }
+}

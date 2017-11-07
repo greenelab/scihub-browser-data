@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Institute of Applied Biochemistry",
+  "journals": 1,
+  "scihub": 33,
+  "crossref_open_access": 0,
+  "crossref_active": 1583,
+  "crossref": 1583,
+  "coverage": 0.02084649,
+  "publisher_slug": "institute-of-applied-biochemistry",
+  "access_logs": {
+    "downloads": 0.0274,
+    "visitors": 0.02055,
+    "countries": 0.02055,
+    "days": 0.0274,
+    "months": 0.02055,
+    "n_articles_requested": 1,
+    "n_articles": 146
+  }
+}

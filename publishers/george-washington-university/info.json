@@ -1,0 +1,19 @@
+{
+  "publisher_name": "George Washington University",
+  "journals": 1,
+  "scihub": 299,
+  "crossref_open_access": 0,
+  "crossref_active": 960,
+  "crossref": 960,
+  "coverage": 0.31145833,
+  "publisher_slug": "george-washington-university",
+  "access_logs": {
+    "downloads": 1.3982,
+    "visitors": 1.3363,
+    "countries": 1.1947,
+    "days": 1.3186,
+    "months": 1.0619,
+    "n_articles_requested": 67,
+    "n_articles": 113
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Pennsylvania Press",
+  "journals": 3,
+  "scihub": 5192,
+  "crossref_open_access": 0,
+  "crossref_active": 5977,
+  "crossref": 5977,
+  "coverage": 0.86866321,
+  "publisher_slug": "university-of-pennsylvania-press",
+  "access_logs": {
+    "downloads": 0.12371,
+    "visitors": 0.1134,
+    "countries": 0.1134,
+    "days": 0.1134,
+    "months": 0.10825,
+    "n_articles_requested": 14,
+    "n_articles": 194
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Sociedade Brasileira de Coloproctologia",
+  "journals": 1,
+  "scihub": 201,
+  "crossref_open_access": 229,
+  "crossref_active": 229,
+  "crossref": 229,
+  "coverage": 0.87772926,
+  "publisher_slug": "sociedade-brasileira-de-coloproctologia",
+  "access_logs": {
+    "downloads": 0.53086,
+    "visitors": 0.49383,
+    "countries": 0.4321,
+    "days": 0.49383,
+    "months": 0.4321,
+    "n_articles_requested": 30,
+    "n_articles": 81
+  }
+}

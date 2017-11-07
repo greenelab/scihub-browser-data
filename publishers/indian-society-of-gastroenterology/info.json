@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Indian Society of Gastroenterology",
+  "journals": 1,
+  "scihub": 803,
+  "crossref_open_access": 0,
+  "crossref_active": 816,
+  "crossref": 816,
+  "coverage": 0.98406863,
+  "publisher_slug": "indian-society-of-gastroenterology",
+  "access_logs": {
+    "downloads": 1.4771,
+    "visitors": 1.4052,
+    "countries": 1.183,
+    "days": 1.3399,
+    "months": 1.2026,
+    "n_articles_requested": 101,
+    "n_articles": 153
+  }
+}

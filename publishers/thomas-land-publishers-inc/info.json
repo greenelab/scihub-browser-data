@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Thomas Land Publishers Inc.",
+  "journals": 2,
+  "scihub": 603,
+  "crossref_open_access": 0,
+  "crossref_active": 2141,
+  "crossref": 2141,
+  "coverage": 0.28164409,
+  "publisher_slug": "thomas-land-publishers-inc",
+  "access_logs": {
+    "downloads": 0.11364,
+    "visitors": 0.11364,
+    "countries": 0.09375,
+    "days": 0.10511,
+    "months": 0.09943,
+    "n_articles_requested": 28,
+    "n_articles": 352
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "In House Publications",
+  "journals": 2,
+  "scihub": 3,
+  "crossref_open_access": 0,
+  "crossref_active": 69,
+  "crossref": 580,
+  "coverage": 0.00517241,
+  "publisher_slug": "in-house-publications",
+  "access_logs": {
+    "downloads": 0.0,
+    "visitors": 0.0,
+    "countries": 0.0,
+    "days": 0.0,
+    "months": 0.0,
+    "n_articles_requested": 0,
+    "n_articles": 188
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Tuberculosis Association of India",
+  "journals": 1,
+  "scihub": 245,
+  "crossref_open_access": 0,
+  "crossref_active": 266,
+  "crossref": 266,
+  "coverage": 0.92105263,
+  "publisher_slug": "tuberculosis-association-of-india",
+  "access_logs": {
+    "downloads": 0.85185,
+    "visitors": 0.82716,
+    "countries": 0.60494,
+    "days": 0.69136,
+    "months": 0.53086,
+    "n_articles_requested": 23,
+    "n_articles": 81
+  }
+}

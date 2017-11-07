@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Morgan & Claypool Publishers",
+  "journals": 16,
+  "scihub": 295,
+  "crossref_open_access": 0,
+  "crossref_active": 242,
+  "crossref": 298,
+  "coverage": 0.98993289,
+  "publisher_slug": "morgan-claypool-publishers",
+  "access_logs": {
+    "downloads": 6.8378,
+    "visitors": 5.3514,
+    "countries": 3.8919,
+    "days": 4.8108,
+    "months": 2.8919,
+    "n_articles_requested": 34,
+    "n_articles": 37
+  }
+}

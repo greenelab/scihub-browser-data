@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Botanical Society of America Inc.",
+  "journals": 2,
+  "scihub": 14443,
+  "crossref_open_access": 419,
+  "crossref_active": 14567,
+  "crossref": 14567,
+  "coverage": 0.99148761,
+  "publisher_slug": "botanical-society-of-america-inc",
+  "access_logs": {
+    "downloads": 1.2422,
+    "visitors": 1.1263,
+    "countries": 0.80331,
+    "days": 0.97516,
+    "months": 0.74948,
+    "n_articles_requested": 212,
+    "n_articles": 483
+  }
+}

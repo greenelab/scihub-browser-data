@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Editions E D K",
+  "journals": 1,
+  "scihub": 79,
+  "crossref_open_access": 0,
+  "crossref_active": 8033,
+  "crossref": 8033,
+  "coverage": 0.00983443,
+  "publisher_slug": "editions-e-d-k",
+  "access_logs": {
+    "downloads": 0.01675,
+    "visitors": 0.01435,
+    "countries": 0.01435,
+    "days": 0.01196,
+    "months": 0.00957,
+    "n_articles_requested": 3,
+    "n_articles": 418
+  }
+}

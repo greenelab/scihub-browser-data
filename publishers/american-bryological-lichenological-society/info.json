@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Bryological & Lichenological Society",
+  "journals": 1,
+  "scihub": 6588,
+  "crossref_open_access": 0,
+  "crossref_active": 10446,
+  "crossref": 10446,
+  "coverage": 0.63067203,
+  "publisher_slug": "american-bryological-lichenological-society",
+  "access_logs": {
+    "downloads": 0.8125,
+    "visitors": 0.71875,
+    "countries": 0.65625,
+    "days": 0.75,
+    "months": 0.61458,
+    "n_articles_requested": 31,
+    "n_articles": 96
+  }
+}

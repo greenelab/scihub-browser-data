@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Magnolia Press",
+  "journals": 2,
+  "scihub": 6769,
+  "crossref_open_access": 0,
+  "crossref_active": 14601,
+  "crossref": 14601,
+  "coverage": 0.46359838,
+  "publisher_slug": "magnolia-press",
+  "access_logs": {
+    "downloads": 0.0134,
+    "visitors": 0.0116,
+    "countries": 0.0092,
+    "days": 0.012,
+    "months": 0.0086,
+    "n_articles_requested": 30,
+    "n_articles": 4999
+  }
+}

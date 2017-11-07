@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Universidade Federal de Sao Carlos",
+  "journals": 3,
+  "scihub": 177,
+  "crossref_open_access": 3116,
+  "crossref_active": 3116,
+  "crossref": 3116,
+  "coverage": 0.05680359,
+  "publisher_slug": "universidade-federal-de-sao-carlos",
+  "access_logs": {
+    "downloads": 0.0365,
+    "visitors": 0.03163,
+    "countries": 0.0292,
+    "days": 0.03163,
+    "months": 0.02433,
+    "n_articles_requested": 9,
+    "n_articles": 411
+  }
+}

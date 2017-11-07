@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Asian Network for Scientific Information",
+  "journals": 30,
+  "scihub": 3082,
+  "crossref_open_access": 243,
+  "crossref_active": 22589,
+  "crossref": 37592,
+  "coverage": 0.08198553,
+  "publisher_slug": "asian-network-for-scientific-information",
+  "access_logs": {
+    "downloads": 0.0,
+    "visitors": 0.0,
+    "countries": 0.0,
+    "days": 0.0,
+    "months": 0.0,
+    "n_articles_requested": 0,
+    "n_articles": 2897
+  }
+}

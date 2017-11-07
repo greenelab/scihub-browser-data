@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Acoustical Society of America",
+  "journals": 2,
+  "scihub": 56174,
+  "crossref_open_access": 0,
+  "crossref_active": 146304,
+  "crossref": 146452,
+  "coverage": 0.38356595,
+  "publisher_slug": "acoustical-society-of-america",
+  "access_logs": {
+    "downloads": 0.17545,
+    "visitors": 0.15834,
+    "countries": 0.13644,
+    "days": 0.15241,
+    "months": 0.13393,
+    "n_articles_requested": 410,
+    "n_articles": 4383
+  }
+}

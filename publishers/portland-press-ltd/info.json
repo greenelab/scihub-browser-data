@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Portland Press, Ltd.",
+  "journals": 5,
+  "scihub": 103788,
+  "crossref_open_access": 232,
+  "crossref_active": 105204,
+  "crossref": 105204,
+  "coverage": 0.98654044,
+  "publisher_slug": "portland-press-ltd",
+  "access_logs": {
+    "downloads": 1.0887,
+    "visitors": 0.98636,
+    "countries": 0.82947,
+    "days": 0.95771,
+    "months": 0.74147,
+    "n_articles_requested": 679,
+    "n_articles": 1466
+  }
+}

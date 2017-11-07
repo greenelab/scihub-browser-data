@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Indian Physical Society",
+  "journals": 1,
+  "scihub": 1497,
+  "crossref_open_access": 0,
+  "crossref_active": 1515,
+  "crossref": 1515,
+  "coverage": 0.98811881,
+  "publisher_slug": "indian-physical-society",
+  "access_logs": {
+    "downloads": 1.3994,
+    "visitors": 1.2703,
+    "countries": 1.009,
+    "days": 1.2222,
+    "months": 0.98198,
+    "n_articles_requested": 190,
+    "n_articles": 333
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "HARD Pub. Co.",
+  "journals": 2,
+  "scihub": 386,
+  "crossref_open_access": 0,
+  "crossref_active": 1013,
+  "crossref": 1013,
+  "coverage": 0.3810464,
+  "publisher_slug": "hard-pub-co",
+  "access_logs": {
+    "downloads": 0.02174,
+    "visitors": 0.02174,
+    "countries": 0.02174,
+    "days": 0.02174,
+    "months": 0.01812,
+    "n_articles_requested": 5,
+    "n_articles": 276
+  }
+}

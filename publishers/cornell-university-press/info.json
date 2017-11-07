@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Cornell University Press",
+  "journals": 2,
+  "scihub": 17505,
+  "crossref_open_access": 0,
+  "crossref_active": 17635,
+  "crossref": 17635,
+  "coverage": 0.9926283,
+  "publisher_slug": "cornell-university-press",
+  "access_logs": {
+    "downloads": 0.61224,
+    "visitors": 0.56122,
+    "countries": 0.43367,
+    "days": 0.47449,
+    "months": 0.37755,
+    "n_articles_requested": 53,
+    "n_articles": 196
+  }
+}

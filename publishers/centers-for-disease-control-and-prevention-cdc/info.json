@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Centers for Disease Control and Prevention (CDC)",
+  "journals": 4,
+  "scihub": 2288,
+  "crossref_open_access": 10789,
+  "crossref_active": 10789,
+  "crossref": 10789,
+  "coverage": 0.21206785,
+  "publisher_slug": "centers-for-disease-control-and-prevention-cdc",
+  "access_logs": {
+    "downloads": 0.11385,
+    "visitors": 0.10769,
+    "countries": 0.09462,
+    "days": 0.1,
+    "months": 0.07846,
+    "n_articles_requested": 82,
+    "n_articles": 1300
+  }
+}

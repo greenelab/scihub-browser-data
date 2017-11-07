@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Trans Tech Publications",
+  "journals": 2,
+  "scihub": 145,
+  "crossref_open_access": 0,
+  "crossref_active": 618,
+  "crossref": 618,
+  "coverage": 0.23462783,
+  "publisher_slug": "trans-tech-publications",
+  "access_logs": {
+    "downloads": 0.1,
+    "visitors": 0.1,
+    "countries": 0.1,
+    "days": 0.1,
+    "months": 0.1,
+    "n_articles_requested": 1,
+    "n_articles": 10
+  }
+}

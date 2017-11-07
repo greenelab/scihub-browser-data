@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Pharmaceutical Society of Korea",
+  "journals": 1,
+  "scihub": 4908,
+  "crossref_open_access": 0,
+  "crossref_active": 4914,
+  "crossref": 4914,
+  "coverage": 0.998779,
+  "publisher_slug": "pharmaceutical-society-of-korea",
+  "access_logs": {
+    "downloads": 2.6006,
+    "visitors": 2.3079,
+    "countries": 1.7317,
+    "days": 2.2561,
+    "months": 1.6402,
+    "n_articles_requested": 250,
+    "n_articles": 328
+  }
+}

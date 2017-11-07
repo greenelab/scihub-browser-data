@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Chemical Industry Press",
+  "journals": 1,
+  "scihub": 2087,
+  "crossref_open_access": 0,
+  "crossref_active": 2110,
+  "crossref": 2110,
+  "coverage": 0.98909953,
+  "publisher_slug": "chemical-industry-press",
+  "access_logs": {
+    "downloads": 2.4637,
+    "visitors": 2.2098,
+    "countries": 1.614,
+    "days": 2.1503,
+    "months": 1.544,
+    "n_articles_requested": 286,
+    "n_articles": 386
+  }
+}

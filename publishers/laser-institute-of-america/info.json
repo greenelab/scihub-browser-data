@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Laser Institute of America",
+  "journals": 1,
+  "scihub": 1063,
+  "crossref_open_access": 0,
+  "crossref_active": 1113,
+  "crossref": 1113,
+  "coverage": 0.95507637,
+  "publisher_slug": "laser-institute-of-america",
+  "access_logs": {
+    "downloads": 1.2101,
+    "visitors": 1.1092,
+    "countries": 0.79832,
+    "days": 1.0084,
+    "months": 0.80672,
+    "n_articles_requested": 55,
+    "n_articles": 119
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "National Cancer Institute",
+  "journals": 1,
+  "scihub": 217,
+  "crossref_open_access": 222,
+  "crossref_active": 222,
+  "crossref": 222,
+  "coverage": 0.97747748,
+  "publisher_slug": "national-cancer-institute",
+  "access_logs": {
+    "downloads": 0.59615,
+    "visitors": 0.59615,
+    "countries": 0.5,
+    "days": 0.55769,
+    "months": 0.53846,
+    "n_articles_requested": 19,
+    "n_articles": 52
+  }
+}

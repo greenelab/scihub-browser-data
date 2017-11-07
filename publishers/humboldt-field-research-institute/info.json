@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Humboldt Field Research Institute",
+  "journals": 2,
+  "scihub": 2361,
+  "crossref_open_access": 0,
+  "crossref_active": 2444,
+  "crossref": 2444,
+  "coverage": 0.96603928,
+  "publisher_slug": "humboldt-field-research-institute",
+  "access_logs": {
+    "downloads": 0.30249,
+    "visitors": 0.26335,
+    "countries": 0.24199,
+    "days": 0.27046,
+    "months": 0.25623,
+    "n_articles_requested": 55,
+    "n_articles": 281
+  }
+}

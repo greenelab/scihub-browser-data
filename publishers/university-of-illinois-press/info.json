@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Illinois Press",
+  "journals": 8,
+  "scihub": 21194,
+  "crossref_open_access": 0,
+  "crossref_active": 21092,
+  "crossref": 22657,
+  "coverage": 0.93542834,
+  "publisher_slug": "university-of-illinois-press",
+  "access_logs": {
+    "downloads": 0.18966,
+    "visitors": 0.17639,
+    "countries": 0.15782,
+    "days": 0.17374,
+    "months": 0.14854,
+    "n_articles_requested": 81,
+    "n_articles": 754
+  }
+}

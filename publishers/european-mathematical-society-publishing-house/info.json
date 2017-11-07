@@ -1,0 +1,19 @@
+{
+  "publisher_name": "European Mathematical Society Publishing House",
+  "journals": 12,
+  "scihub": 3016,
+  "crossref_open_access": 0,
+  "crossref_active": 9643,
+  "crossref": 9643,
+  "coverage": 0.31276574,
+  "publisher_slug": "european-mathematical-society-publishing-house",
+  "access_logs": {
+    "downloads": 0.01469,
+    "visitors": 0.01469,
+    "countries": 0.01469,
+    "days": 0.01469,
+    "months": 0.01469,
+    "n_articles_requested": 11,
+    "n_articles": 817
+  }
+}

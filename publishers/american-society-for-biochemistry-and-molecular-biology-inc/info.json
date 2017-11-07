@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Society for Biochemistry and Molecular Biology Inc.",
+  "journals": 4,
+  "scihub": 112039,
+  "crossref_open_access": 0,
+  "crossref_active": 109364,
+  "crossref": 114089,
+  "coverage": 0.98203157,
+  "publisher_slug": "american-society-for-biochemistry-and-molecular-biology-inc",
+  "access_logs": {
+    "downloads": 2.5873,
+    "visitors": 2.242,
+    "countries": 1.4486,
+    "days": 2.0404,
+    "months": 1.3807,
+    "n_articles_requested": 3746,
+    "n_articles": 5811
+  }
+}

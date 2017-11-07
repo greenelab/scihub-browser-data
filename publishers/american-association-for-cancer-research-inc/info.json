@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Association for Cancer Research Inc.",
+  "journals": 2,
+  "scihub": 2613,
+  "crossref_open_access": 0,
+  "crossref_active": 4765,
+  "crossref": 4765,
+  "coverage": 0.54837356,
+  "publisher_slug": "american-association-for-cancer-research-inc",
+  "access_logs": {
+    "downloads": 2.0925,
+    "visitors": 1.8375,
+    "countries": 0.99598,
+    "days": 1.543,
+    "months": 0.88817,
+    "n_articles_requested": 452,
+    "n_articles": 1243
+  }
+}

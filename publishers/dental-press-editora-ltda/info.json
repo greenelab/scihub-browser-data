@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Dental Press Editora Ltda",
+  "journals": 2,
+  "scihub": 12,
+  "crossref_open_access": 879,
+  "crossref_active": 879,
+  "crossref": 879,
+  "coverage": 0.01365188,
+  "publisher_slug": "dental-press-editora-ltda",
+  "access_logs": {
+    "downloads": 0.00917,
+    "visitors": 0.00917,
+    "countries": 0.00917,
+    "days": 0.00917,
+    "months": 0.00917,
+    "n_articles_requested": 2,
+    "n_articles": 218
+  }
+}

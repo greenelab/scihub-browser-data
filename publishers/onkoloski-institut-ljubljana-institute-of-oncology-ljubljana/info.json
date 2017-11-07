@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Onkoloski Institut Ljubljana/Institute of Oncology Ljubljana",
+  "journals": 1,
+  "scihub": 235,
+  "crossref_open_access": 465,
+  "crossref_active": 465,
+  "crossref": 465,
+  "coverage": 0.50537634,
+  "publisher_slug": "onkoloski-institut-ljubljana-institute-of-oncology-ljubljana",
+  "access_logs": {
+    "downloads": 0.33065,
+    "visitors": 0.32258,
+    "countries": 0.30645,
+    "days": 0.31452,
+    "months": 0.28226,
+    "n_articles_requested": 31,
+    "n_articles": 124
+  }
+}

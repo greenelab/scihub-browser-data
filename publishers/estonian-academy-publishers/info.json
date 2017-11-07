@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Estonian Academy Publishers",
+  "journals": 7,
+  "scihub": 853,
+  "crossref_open_access": 1205,
+  "crossref_active": 1053,
+  "crossref": 1533,
+  "coverage": 0.55642531,
+  "publisher_slug": "estonian-academy-publishers",
+  "access_logs": {
+    "downloads": 0.01338,
+    "visitors": 0.01338,
+    "countries": 0.01338,
+    "days": 0.01338,
+    "months": 0.01338,
+    "n_articles_requested": 4,
+    "n_articles": 299
+  }
+}

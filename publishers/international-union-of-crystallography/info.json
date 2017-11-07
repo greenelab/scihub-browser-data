@@ -1,0 +1,19 @@
+{
+  "publisher_name": "International Union of Crystallography",
+  "journals": 5,
+  "scihub": 39110,
+  "crossref_open_access": 42526,
+  "crossref_active": 42526,
+  "crossref": 68999,
+  "coverage": 0.56681981,
+  "publisher_slug": "international-union-of-crystallography",
+  "access_logs": {
+    "downloads": 0.24396,
+    "visitors": 0.2184,
+    "countries": 0.17147,
+    "days": 0.20864,
+    "months": 0.18959,
+    "n_articles_requested": 320,
+    "n_articles": 2152
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Academia Sinica",
+  "journals": 2,
+  "scihub": 530,
+  "crossref_open_access": 1289,
+  "crossref_active": 1885,
+  "crossref": 1885,
+  "coverage": 0.28116711,
+  "publisher_slug": "academia-sinica",
+  "access_logs": {
+    "downloads": 0.0098,
+    "visitors": 0.0098,
+    "countries": 0.0098,
+    "days": 0.0098,
+    "months": 0.0098,
+    "n_articles_requested": 3,
+    "n_articles": 306
+  }
+}

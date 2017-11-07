@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Surey Beatty & Sons",
+  "journals": 1,
+  "scihub": 222,
+  "crossref_open_access": 0,
+  "crossref_active": 1126,
+  "crossref": 1126,
+  "coverage": 0.19715808,
+  "publisher_slug": "surey-beatty-sons",
+  "access_logs": {
+    "downloads": 0.19277,
+    "visitors": 0.18072,
+    "countries": 0.12048,
+    "days": 0.14458,
+    "months": 0.12048,
+    "n_articles_requested": 9,
+    "n_articles": 83
+  }
+}

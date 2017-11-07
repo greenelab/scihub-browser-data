@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Indian Academy of Neurosciences",
+  "journals": 1,
+  "scihub": 201,
+  "crossref_open_access": 565,
+  "crossref_active": 565,
+  "crossref": 565,
+  "coverage": 0.35575221,
+  "publisher_slug": "indian-academy-of-neurosciences",
+  "access_logs": {
+    "downloads": 0.03571,
+    "visitors": 0.02381,
+    "countries": 0.02381,
+    "days": 0.02381,
+    "months": 0.02381,
+    "n_articles_requested": 2,
+    "n_articles": 84
+  }
+}

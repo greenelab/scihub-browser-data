@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Brill",
+  "journals": 189,
+  "scihub": 150537,
+  "crossref_open_access": 10908,
+  "crossref_active": 165928,
+  "crossref": 177077,
+  "coverage": 0.8501217,
+  "publisher_slug": "brill",
+  "access_logs": {
+    "downloads": 0.36336,
+    "visitors": 0.34195,
+    "countries": 0.31734,
+    "days": 0.33173,
+    "months": 0.28805,
+    "n_articles_requested": 1953,
+    "n_articles": 8127
+  }
+}

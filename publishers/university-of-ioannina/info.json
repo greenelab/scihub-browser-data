@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Ioannina",
+  "journals": 1,
+  "scihub": 897,
+  "crossref_open_access": 904,
+  "crossref_active": 904,
+  "crossref": 904,
+  "coverage": 0.99225664,
+  "publisher_slug": "university-of-ioannina",
+  "access_logs": {
+    "downloads": 2.9874,
+    "visitors": 2.6415,
+    "countries": 1.5283,
+    "days": 2.5723,
+    "months": 1.6226,
+    "n_articles_requested": 116,
+    "n_articles": 159
+  }
+}

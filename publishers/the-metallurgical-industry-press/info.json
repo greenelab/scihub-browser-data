@@ -1,0 +1,19 @@
+{
+  "publisher_name": "The Metallurgical Industry Press",
+  "journals": 1,
+  "scihub": 2509,
+  "crossref_open_access": 0,
+  "crossref_active": 2511,
+  "crossref": 2511,
+  "coverage": 0.9992035,
+  "publisher_slug": "the-metallurgical-industry-press",
+  "access_logs": {
+    "downloads": 2.3127,
+    "visitors": 1.9121,
+    "countries": 1.3941,
+    "days": 1.9577,
+    "months": 1.4072,
+    "n_articles_requested": 214,
+    "n_articles": 307
+  }
+}

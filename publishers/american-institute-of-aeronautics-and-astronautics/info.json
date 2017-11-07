@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Institute of Aeronautics and Astronautics",
+  "journals": 8,
+  "scihub": 57125,
+  "crossref_open_access": 0,
+  "crossref_active": 59413,
+  "crossref": 59723,
+  "coverage": 0.95649917,
+  "publisher_slug": "american-institute-of-aeronautics-and-astronautics",
+  "access_logs": {
+    "downloads": 2.1532,
+    "visitors": 1.8177,
+    "countries": 1.5126,
+    "days": 1.7594,
+    "months": 1.453,
+    "n_articles_requested": 1564,
+    "n_articles": 2095
+  }
+}

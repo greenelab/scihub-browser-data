@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Histochemical Society",
+  "journals": 1,
+  "scihub": 9098,
+  "crossref_open_access": 0,
+  "crossref_active": 9154,
+  "crossref": 9154,
+  "coverage": 0.99388246,
+  "publisher_slug": "histochemical-society",
+  "access_logs": {
+    "downloads": 2.2869,
+    "visitors": 2.0492,
+    "countries": 1.4016,
+    "days": 1.7131,
+    "months": 1.2213,
+    "n_articles_requested": 75,
+    "n_articles": 122
+  }
+}

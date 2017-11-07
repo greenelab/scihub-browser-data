@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Chelonian Research Foundation",
+  "journals": 1,
+  "scihub": 471,
+  "crossref_open_access": 0,
+  "crossref_active": 473,
+  "crossref": 473,
+  "coverage": 0.99577167,
+  "publisher_slug": "chelonian-research-foundation",
+  "access_logs": {
+    "downloads": 2.4821,
+    "visitors": 2.1786,
+    "countries": 1.875,
+    "days": 2.1429,
+    "months": 1.6964,
+    "n_articles_requested": 46,
+    "n_articles": 56
+  }
+}

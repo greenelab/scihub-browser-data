@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Calgary Press",
+  "journals": 1,
+  "scihub": 554,
+  "crossref_open_access": 0,
+  "crossref_active": 582,
+  "crossref": 582,
+  "coverage": 0.95189003,
+  "publisher_slug": "university-of-calgary-press",
+  "access_logs": {
+    "downloads": 0.05882,
+    "visitors": 0.05882,
+    "countries": 0.05882,
+    "days": 0.05882,
+    "months": 0.05882,
+    "n_articles_requested": 1,
+    "n_articles": 17
+  }
+}

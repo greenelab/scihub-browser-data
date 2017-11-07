@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Turkish Society of Gastroenterology",
+  "journals": 1,
+  "scihub": 15,
+  "crossref_open_access": 0,
+  "crossref_active": 1182,
+  "crossref": 1182,
+  "coverage": 0.01269036,
+  "publisher_slug": "turkish-society-of-gastroenterology",
+  "access_logs": {
+    "downloads": 0.02514,
+    "visitors": 0.02514,
+    "countries": 0.02235,
+    "days": 0.02514,
+    "months": 0.02514,
+    "n_articles_requested": 5,
+    "n_articles": 358
+  }
+}

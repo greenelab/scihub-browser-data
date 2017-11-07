@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Schattauer GmbH",
+  "journals": 10,
+  "scihub": 732,
+  "crossref_open_access": 0,
+  "crossref_active": 8031,
+  "crossref": 8031,
+  "coverage": 0.09114681,
+  "publisher_slug": "schattauer-gmbh",
+  "access_logs": {
+    "downloads": 0.0464,
+    "visitors": 0.0408,
+    "countries": 0.04,
+    "days": 0.0416,
+    "months": 0.0368,
+    "n_articles_requested": 30,
+    "n_articles": 1250
+  }
+}

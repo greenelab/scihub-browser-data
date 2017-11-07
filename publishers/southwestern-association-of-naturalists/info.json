@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Southwestern Association of Naturalists",
+  "journals": 1,
+  "scihub": 4658,
+  "crossref_open_access": 0,
+  "crossref_active": 4681,
+  "crossref": 4681,
+  "coverage": 0.99508652,
+  "publisher_slug": "southwestern-association-of-naturalists",
+  "access_logs": {
+    "downloads": 0.29655,
+    "visitors": 0.29655,
+    "countries": 0.24828,
+    "days": 0.26897,
+    "months": 0.24828,
+    "n_articles_requested": 30,
+    "n_articles": 145
+  }
+}

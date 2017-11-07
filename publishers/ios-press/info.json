@@ -1,0 +1,19 @@
+{
+  "publisher_name": "IOS Press",
+  "journals": 76,
+  "scihub": 12835,
+  "crossref_open_access": 0,
+  "crossref_active": 24549,
+  "crossref": 24878,
+  "coverage": 0.51591768,
+  "publisher_slug": "ios-press",
+  "access_logs": {
+    "downloads": 0.54128,
+    "visitors": 0.48009,
+    "countries": 0.363,
+    "days": 0.4555,
+    "months": 0.34133,
+    "n_articles_requested": 616,
+    "n_articles": 3416
+  }
+}

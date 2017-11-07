@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Vacuum Society",
+  "journals": 1,
+  "scihub": 544,
+  "crossref_open_access": 594,
+  "crossref_active": 594,
+  "crossref": 594,
+  "coverage": 0.91582492,
+  "publisher_slug": "american-vacuum-society",
+  "access_logs": {
+    "downloads": 2.4779,
+    "visitors": 2.0088,
+    "countries": 1.3628,
+    "days": 1.9646,
+    "months": 1.2832,
+    "n_articles_requested": 68,
+    "n_articles": 113
+  }
+}

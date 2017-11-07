@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Speech-Language-Hearing Association",
+  "journals": 6,
+  "scihub": 4803,
+  "crossref_open_access": 0,
+  "crossref_active": 11611,
+  "crossref": 14327,
+  "coverage": 0.33524115,
+  "publisher_slug": "american-speech-language-hearing-association",
+  "access_logs": {
+    "downloads": 0.24382,
+    "visitors": 0.20716,
+    "countries": 0.19182,
+    "days": 0.19864,
+    "months": 0.16709,
+    "n_articles_requested": 180,
+    "n_articles": 1173
+  }
+}

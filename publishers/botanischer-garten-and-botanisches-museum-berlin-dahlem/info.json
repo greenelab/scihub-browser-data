@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Botanischer Garten and Botanisches Museum Berlin-Dahlem",
+  "journals": 2,
+  "scihub": 389,
+  "crossref_open_access": 0,
+  "crossref_active": 944,
+  "crossref": 975,
+  "coverage": 0.39897436,
+  "publisher_slug": "botanischer-garten-and-botanisches-museum-berlin-dahlem",
+  "access_logs": {
+    "downloads": 0.2381,
+    "visitors": 0.2381,
+    "countries": 0.19048,
+    "days": 0.22619,
+    "months": 0.20238,
+    "n_articles_requested": 15,
+    "n_articles": 84
+  }
+}

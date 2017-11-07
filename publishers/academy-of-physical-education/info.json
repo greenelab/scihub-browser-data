@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Academy of Physical Education",
+  "journals": 1,
+  "scihub": 597,
+  "crossref_open_access": 781,
+  "crossref_active": 781,
+  "crossref": 781,
+  "coverage": 0.76440461,
+  "publisher_slug": "academy-of-physical-education",
+  "access_logs": {
+    "downloads": 0.37097,
+    "visitors": 0.36694,
+    "countries": 0.34677,
+    "days": 0.36694,
+    "months": 0.32258,
+    "n_articles_requested": 69,
+    "n_articles": 248
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Archaeological Institute of America",
+  "journals": 1,
+  "scihub": 10115,
+  "crossref_open_access": 0,
+  "crossref_active": 10487,
+  "crossref": 10487,
+  "coverage": 0.96452751,
+  "publisher_slug": "archaeological-institute-of-america",
+  "access_logs": {
+    "downloads": 0.31646,
+    "visitors": 0.29114,
+    "countries": 0.27848,
+    "days": 0.3038,
+    "months": 0.25316,
+    "n_articles_requested": 16,
+    "n_articles": 79
+  }
+}

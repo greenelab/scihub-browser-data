@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Oficyna Wydawnicza Politechniki Warszawskiej",
+  "journals": 1,
+  "scihub": 75,
+  "crossref_open_access": 0,
+  "crossref_active": 118,
+  "crossref": 118,
+  "coverage": 0.63559322,
+  "publisher_slug": "oficyna-wydawnicza-politechniki-warszawskiej",
+  "access_logs": {
+    "downloads": 0.09091,
+    "visitors": 0.09091,
+    "countries": 0.09091,
+    "days": 0.09091,
+    "months": 0.09091,
+    "n_articles_requested": 1,
+    "n_articles": 11
+  }
+}

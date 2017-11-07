@@ -1,0 +1,19 @@
+{
+  "publisher_name": "The National Bureau of Asian Research",
+  "journals": 1,
+  "scihub": 75,
+  "crossref_open_access": 0,
+  "crossref_active": 485,
+  "crossref": 485,
+  "coverage": 0.15463918,
+  "publisher_slug": "the-national-bureau-of-asian-research",
+  "access_logs": {
+    "downloads": 0.25974,
+    "visitors": 0.20779,
+    "countries": 0.12987,
+    "days": 0.15584,
+    "months": 0.12987,
+    "n_articles_requested": 7,
+    "n_articles": 77
+  }
+}

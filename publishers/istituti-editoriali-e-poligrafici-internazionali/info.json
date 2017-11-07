@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Istituti Editoriali e Poligrafici Internazionali",
+  "journals": 2,
+  "scihub": 3618,
+  "crossref_open_access": 0,
+  "crossref_active": 3698,
+  "crossref": 3698,
+  "coverage": 0.97836668,
+  "publisher_slug": "istituti-editoriali-e-poligrafici-internazionali",
+  "access_logs": {
+    "downloads": 0.66865,
+    "visitors": 0.47251,
+    "countries": 0.39673,
+    "days": 0.45171,
+    "months": 0.39079,
+    "n_articles_requested": 177,
+    "n_articles": 673
+  }
+}

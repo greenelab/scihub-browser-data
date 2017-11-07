@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Mineralogical Society",
+  "journals": 2,
+  "scihub": 2421,
+  "crossref_open_access": 0,
+  "crossref_active": 12031,
+  "crossref": 12031,
+  "coverage": 0.20123016,
+  "publisher_slug": "mineralogical-society",
+  "access_logs": {
+    "downloads": 1.375,
+    "visitors": 1.1912,
+    "countries": 0.90074,
+    "days": 1.1728,
+    "months": 0.94118,
+    "n_articles_requested": 156,
+    "n_articles": 272
+  }
+}

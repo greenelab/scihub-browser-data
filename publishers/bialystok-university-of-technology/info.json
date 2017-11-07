@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Bialystok University of Technology",
+  "journals": 1,
+  "scihub": 68,
+  "crossref_open_access": 173,
+  "crossref_active": 173,
+  "crossref": 173,
+  "coverage": 0.39306358,
+  "publisher_slug": "bialystok-university-of-technology",
+  "access_logs": {
+    "downloads": 0.21951,
+    "visitors": 0.21951,
+    "countries": 0.20732,
+    "days": 0.21951,
+    "months": 0.20732,
+    "n_articles_requested": 14,
+    "n_articles": 82
+  }
+}

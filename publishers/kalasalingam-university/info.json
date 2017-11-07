@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Kalasalingam University",
+  "journals": 1,
+  "scihub": 79,
+  "crossref_open_access": 88,
+  "crossref_active": 88,
+  "crossref": 88,
+  "coverage": 0.89772727,
+  "publisher_slug": "kalasalingam-university",
+  "access_logs": {
+    "downloads": 0.36364,
+    "visitors": 0.36364,
+    "countries": 0.36364,
+    "days": 0.36364,
+    "months": 0.36364,
+    "n_articles_requested": 4,
+    "n_articles": 11
+  }
+}

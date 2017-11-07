@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Shanghai Jiaotong University Press",
+  "journals": 1,
+  "scihub": 1112,
+  "crossref_open_access": 0,
+  "crossref_active": 1131,
+  "crossref": 1131,
+  "coverage": 0.98320071,
+  "publisher_slug": "shanghai-jiaotong-university-press",
+  "access_logs": {
+    "downloads": 0.80423,
+    "visitors": 0.66138,
+    "countries": 0.53439,
+    "days": 0.69312,
+    "months": 0.59259,
+    "n_articles_requested": 75,
+    "n_articles": 189
+  }
+}

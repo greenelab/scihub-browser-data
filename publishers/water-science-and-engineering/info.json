@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Water Science and Engineering",
+  "journals": 1,
+  "scihub": 102,
+  "crossref_open_access": 112,
+  "crossref_active": 112,
+  "crossref": 112,
+  "coverage": 0.91071429,
+  "publisher_slug": "water-science-and-engineering",
+  "access_logs": {
+    "downloads": 1.5,
+    "visitors": 1.3611,
+    "countries": 1.1389,
+    "days": 1.3333,
+    "months": 1.0278,
+    "n_articles_requested": 22,
+    "n_articles": 36
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Society for the Study of Amphibians and Reptiles",
+  "journals": 1,
+  "scihub": 4470,
+  "crossref_open_access": 0,
+  "crossref_active": 4480,
+  "crossref": 4480,
+  "coverage": 0.99776786,
+  "publisher_slug": "society-for-the-study-of-amphibians-and-reptiles",
+  "access_logs": {
+    "downloads": 1.4769,
+    "visitors": 1.3462,
+    "countries": 0.87692,
+    "days": 1.3154,
+    "months": 0.99231,
+    "n_articles_requested": 70,
+    "n_articles": 130
+  }
+}

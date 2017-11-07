@@ -1,0 +1,19 @@
+{
+  "publisher_name": "The Association for the Study of Literature and Environment (ASLE)",
+  "journals": 1,
+  "scihub": 2493,
+  "crossref_open_access": 0,
+  "crossref_active": 2558,
+  "crossref": 2558,
+  "coverage": 0.97458952,
+  "publisher_slug": "the-association-for-the-study-of-literature-and-environment-asle",
+  "access_logs": {
+    "downloads": 0.12448,
+    "visitors": 0.12033,
+    "countries": 0.12033,
+    "days": 0.12033,
+    "months": 0.11618,
+    "n_articles_requested": 26,
+    "n_articles": 241
+  }
+}

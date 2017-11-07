@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Baycinar Medical Publishing",
+  "journals": 1,
+  "scihub": 61,
+  "crossref_open_access": 0,
+  "crossref_active": 214,
+  "crossref": 214,
+  "coverage": 0.28504673,
+  "publisher_slug": "baycinar-medical-publishing",
+  "access_logs": {
+    "downloads": 0.01869,
+    "visitors": 0.00935,
+    "countries": 0.00935,
+    "days": 0.00935,
+    "months": 0.00935,
+    "n_articles_requested": 1,
+    "n_articles": 107
+  }
+}

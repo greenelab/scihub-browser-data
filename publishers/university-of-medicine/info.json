@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Medicine",
+  "journals": 1,
+  "scihub": 212,
+  "crossref_open_access": 264,
+  "crossref_active": 264,
+  "crossref": 264,
+  "coverage": 0.8030303,
+  "publisher_slug": "university-of-medicine",
+  "access_logs": {
+    "downloads": 0.82716,
+    "visitors": 0.80247,
+    "countries": 0.67901,
+    "days": 0.75309,
+    "months": 0.5679,
+    "n_articles_requested": 26,
+    "n_articles": 81
+  }
+}

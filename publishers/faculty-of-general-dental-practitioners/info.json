@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Faculty of General Dental Practitioners",
+  "journals": 2,
+  "scihub": 763,
+  "crossref_open_access": 0,
+  "crossref_active": 293,
+  "crossref": 980,
+  "coverage": 0.77857143,
+  "publisher_slug": "faculty-of-general-dental-practitioners",
+  "access_logs": {
+    "downloads": 0.59155,
+    "visitors": 0.55634,
+    "countries": 0.44366,
+    "days": 0.52817,
+    "months": 0.30986,
+    "n_articles_requested": 25,
+    "n_articles": 142
+  }
+}

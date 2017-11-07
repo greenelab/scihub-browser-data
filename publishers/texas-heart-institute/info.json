@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Texas Heart Institute",
+  "journals": 1,
+  "scihub": 230,
+  "crossref_open_access": 532,
+  "crossref_active": 532,
+  "crossref": 532,
+  "coverage": 0.43233083,
+  "publisher_slug": "texas-heart-institute",
+  "access_logs": {
+    "downloads": 0.02373,
+    "visitors": 0.02373,
+    "countries": 0.02373,
+    "days": 0.02373,
+    "months": 0.02373,
+    "n_articles_requested": 7,
+    "n_articles": 295
+  }
+}

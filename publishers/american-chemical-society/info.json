@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Chemical Society",
+  "journals": 62,
+  "scihub": 1388282,
+  "crossref_open_access": 0,
+  "crossref_active": 1307383,
+  "crossref": 1405388,
+  "coverage": 0.98782827,
+  "publisher_slug": "american-chemical-society",
+  "access_logs": {
+    "downloads": 4.352,
+    "visitors": 3.7143,
+    "countries": 2.1998,
+    "days": 3.4434,
+    "months": 2.0182,
+    "n_articles_requested": 58178,
+    "n_articles": 75179
+  }
+}

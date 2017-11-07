@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Hindawi",
+  "journals": 223,
+  "scihub": 63655,
+  "crossref_open_access": 130263,
+  "crossref_active": 142379,
+  "crossref": 152050,
+  "coverage": 0.41864518,
+  "publisher_slug": "hindawi",
+  "access_logs": {
+    "downloads": 0.09277,
+    "visitors": 0.08507,
+    "countries": 0.07187,
+    "days": 0.08383,
+    "months": 0.07268,
+    "n_articles_requested": 2309,
+    "n_articles": 42061
+  }
+}

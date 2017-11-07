@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Biophysical Society",
+  "journals": 1,
+  "scihub": 51928,
+  "crossref_open_access": 0,
+  "crossref_active": 54500,
+  "crossref": 54500,
+  "coverage": 0.95280734,
+  "publisher_slug": "biophysical-society",
+  "access_logs": {
+    "downloads": 0.21366,
+    "visitors": 0.19304,
+    "countries": 0.15834,
+    "days": 0.18684,
+    "months": 0.15238,
+    "n_articles_requested": 864,
+    "n_articles": 8387
+  }
+}

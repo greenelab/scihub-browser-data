@@ -1,0 +1,19 @@
+{
+  "publisher_name": "WWF-U.S. Primate Program",
+  "journals": 1,
+  "scihub": 158,
+  "crossref_open_access": 0,
+  "crossref_active": 158,
+  "crossref": 158,
+  "coverage": 1.0,
+  "publisher_slug": "wwf-u-s-primate-program",
+  "access_logs": {
+    "downloads": 0.09091,
+    "visitors": 0.09091,
+    "countries": 0.09091,
+    "days": 0.09091,
+    "months": 0.09091,
+    "n_articles_requested": 2,
+    "n_articles": 22
+  }
+}

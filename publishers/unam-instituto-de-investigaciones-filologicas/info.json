@@ -1,0 +1,19 @@
+{
+  "publisher_name": "UNAM, Instituto de Investigaciones Filologicas",
+  "journals": 1,
+  "scihub": 44,
+  "crossref_open_access": 237,
+  "crossref_active": 237,
+  "crossref": 237,
+  "coverage": 0.18565401,
+  "publisher_slug": "unam-instituto-de-investigaciones-filologicas",
+  "access_logs": {
+    "downloads": 0.05,
+    "visitors": 0.05,
+    "countries": 0.05,
+    "days": 0.05,
+    "months": 0.05,
+    "n_articles_requested": 2,
+    "n_articles": 40
+  }
+}

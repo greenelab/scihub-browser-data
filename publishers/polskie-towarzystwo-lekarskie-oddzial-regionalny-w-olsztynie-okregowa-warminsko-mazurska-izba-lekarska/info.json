@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Polskie Towarzystwo Lekarskie, Oddzial Regionalny w Olsztynie, Okregowa Warminsko-Mazurska Izba Lekarska",
+  "journals": 1,
+  "scihub": 257,
+  "crossref_open_access": 0,
+  "crossref_active": 266,
+  "crossref": 266,
+  "coverage": 0.96616541,
+  "publisher_slug": "polskie-towarzystwo-lekarskie-oddzial-regionalny-w-olsztynie-okregowa-warminsko-mazurska-izba-lekarska",
+  "access_logs": {
+    "downloads": 0.94118,
+    "visitors": 0.90196,
+    "countries": 0.68627,
+    "days": 0.90196,
+    "months": 0.62745,
+    "n_articles_requested": 23,
+    "n_articles": 51
+  }
+}

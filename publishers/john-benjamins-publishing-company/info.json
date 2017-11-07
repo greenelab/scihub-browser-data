@@ -1,0 +1,19 @@
+{
+  "publisher_name": "John Benjamins Publishing Company",
+  "journals": 50,
+  "scihub": 21016,
+  "crossref_open_access": 0,
+  "crossref_active": 24291,
+  "crossref": 24391,
+  "coverage": 0.86162929,
+  "publisher_slug": "john-benjamins-publishing-company",
+  "access_logs": {
+    "downloads": 0.22656,
+    "visitors": 0.20703,
+    "countries": 0.16629,
+    "days": 0.19587,
+    "months": 0.17634,
+    "n_articles_requested": 241,
+    "n_articles": 1792
+  }
+}

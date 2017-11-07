@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Aran Ediciones SA",
+  "journals": 6,
+  "scihub": 1047,
+  "crossref_open_access": 2835,
+  "crossref_active": 3535,
+  "crossref": 5503,
+  "coverage": 0.19025986,
+  "publisher_slug": "aran-ediciones-sa",
+  "access_logs": {
+    "downloads": 0.20886,
+    "visitors": 0.18354,
+    "countries": 0.14557,
+    "days": 0.18671,
+    "months": 0.15506,
+    "n_articles_requested": 28,
+    "n_articles": 316
+  }
+}

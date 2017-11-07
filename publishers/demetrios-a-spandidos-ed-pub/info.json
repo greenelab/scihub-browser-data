@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Demetrios A. Spandidos Ed. & Pub.",
+  "journals": 3,
+  "scihub": 17783,
+  "crossref_open_access": 0,
+  "crossref_active": 24809,
+  "crossref": 24809,
+  "coverage": 0.71679632,
+  "publisher_slug": "demetrios-a-spandidos-ed-pub",
+  "access_logs": {
+    "downloads": 0.54504,
+    "visitors": 0.49078,
+    "countries": 0.40177,
+    "days": 0.45816,
+    "months": 0.34574,
+    "n_articles_requested": 810,
+    "n_articles": 2820
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Dhaka",
+  "journals": 1,
+  "scihub": 2,
+  "crossref_open_access": 343,
+  "crossref_active": 343,
+  "crossref": 343,
+  "coverage": 0.0058309,
+  "publisher_slug": "university-of-dhaka",
+  "access_logs": {
+    "downloads": 0.0,
+    "visitors": 0.0,
+    "countries": 0.0,
+    "days": 0.0,
+    "months": 0.0,
+    "n_articles_requested": 0,
+    "n_articles": 64
+  }
+}

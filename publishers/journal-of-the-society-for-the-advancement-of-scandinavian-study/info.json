@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Journal of the Society for the Advancement of Scandinavian Study",
+  "journals": 1,
+  "scihub": 130,
+  "crossref_open_access": 0,
+  "crossref_active": 184,
+  "crossref": 184,
+  "coverage": 0.70652174,
+  "publisher_slug": "journal-of-the-society-for-the-advancement-of-scandinavian-study",
+  "access_logs": {
+    "downloads": 0.02041,
+    "visitors": 0.02041,
+    "countries": 0.02041,
+    "days": 0.02041,
+    "months": 0.02041,
+    "n_articles_requested": 2,
+    "n_articles": 98
+  }
+}

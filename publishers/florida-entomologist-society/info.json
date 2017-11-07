@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Florida Entomologist Society",
+  "journals": 1,
+  "scihub": 5799,
+  "crossref_open_access": 5881,
+  "crossref_active": 5881,
+  "crossref": 5881,
+  "coverage": 0.98605679,
+  "publisher_slug": "florida-entomologist-society",
+  "access_logs": {
+    "downloads": 0.32346,
+    "visitors": 0.29383,
+    "countries": 0.25679,
+    "days": 0.28889,
+    "months": 0.25679,
+    "n_articles_requested": 86,
+    "n_articles": 405
+  }
+}

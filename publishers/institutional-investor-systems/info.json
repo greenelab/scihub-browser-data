@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Institutional Investor Systems",
+  "journals": 5,
+  "scihub": 5062,
+  "crossref_open_access": 0,
+  "crossref_active": 5420,
+  "crossref": 5420,
+  "coverage": 0.93394834,
+  "publisher_slug": "institutional-investor-systems",
+  "access_logs": {
+    "downloads": 0.96963,
+    "visitors": 0.87383,
+    "countries": 0.6028,
+    "days": 0.69159,
+    "months": 0.62383,
+    "n_articles_requested": 174,
+    "n_articles": 428
+  }
+}

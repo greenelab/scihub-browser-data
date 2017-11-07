@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Tree-Ring Society",
+  "journals": 1,
+  "scihub": 215,
+  "crossref_open_access": 0,
+  "crossref_active": 221,
+  "crossref": 221,
+  "coverage": 0.97285068,
+  "publisher_slug": "tree-ring-society",
+  "access_logs": {
+    "downloads": 0.43902,
+    "visitors": 0.41463,
+    "countries": 0.39024,
+    "days": 0.39024,
+    "months": 0.39024,
+    "n_articles_requested": 13,
+    "n_articles": 41
+  }
+}

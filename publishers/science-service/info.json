@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Science Service",
+  "journals": 1,
+  "scihub": 38016,
+  "crossref_open_access": 0,
+  "crossref_active": 0,
+  "crossref": 38021,
+  "coverage": 0.99986849,
+  "publisher_slug": "science-service",
+  "access_logs": {
+    "downloads": 0.02977,
+    "visitors": 0.02464,
+    "countries": 0.02259,
+    "days": 0.02567,
+    "months": 0.02361,
+    "n_articles_requested": 19,
+    "n_articles": 974
+  }
+}

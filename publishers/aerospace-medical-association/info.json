@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Aerospace Medical Association",
+  "journals": 2,
+  "scihub": 1616,
+  "crossref_open_access": 0,
+  "crossref_active": 382,
+  "crossref": 1772,
+  "coverage": 0.91196388,
+  "publisher_slug": "aerospace-medical-association",
+  "access_logs": {
+    "downloads": 0.00308,
+    "visitors": 0.00308,
+    "countries": 0.00308,
+    "days": 0.00308,
+    "months": 0.00308,
+    "n_articles_requested": 1,
+    "n_articles": 325
+  }
+}

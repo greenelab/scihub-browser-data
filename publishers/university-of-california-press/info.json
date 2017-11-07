@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of California Press",
+  "journals": 27,
+  "scihub": 66680,
+  "crossref_open_access": 2093,
+  "crossref_active": 102854,
+  "crossref": 105175,
+  "coverage": 0.63399097,
+  "publisher_slug": "university-of-california-press",
+  "access_logs": {
+    "downloads": 0.14486,
+    "visitors": 0.13737,
+    "countries": 0.12301,
+    "days": 0.13175,
+    "months": 0.11645,
+    "n_articles_requested": 294,
+    "n_articles": 3203
+  }
+}

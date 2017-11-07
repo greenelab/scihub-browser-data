@@ -1,0 +1,19 @@
+{
+  "publisher_name": "National Herbarium Nederland/Leiden Branch",
+  "journals": 2,
+  "scihub": 605,
+  "crossref_open_access": 203,
+  "crossref_active": 675,
+  "crossref": 675,
+  "coverage": 0.8962963,
+  "publisher_slug": "national-herbarium-nederland-leiden-branch",
+  "access_logs": {
+    "downloads": 0.29412,
+    "visitors": 0.29412,
+    "countries": 0.29412,
+    "days": 0.27941,
+    "months": 0.27941,
+    "n_articles_requested": 19,
+    "n_articles": 68
+  }
+}

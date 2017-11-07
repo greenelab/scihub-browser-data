@@ -1,0 +1,19 @@
+{
+  "publisher_name": "International Mycological Association",
+  "journals": 1,
+  "scihub": 156,
+  "crossref_open_access": 175,
+  "crossref_active": 175,
+  "crossref": 175,
+  "coverage": 0.89142857,
+  "publisher_slug": "international-mycological-association",
+  "access_logs": {
+    "downloads": 0.19512,
+    "visitors": 0.17073,
+    "countries": 0.17073,
+    "days": 0.19512,
+    "months": 0.17073,
+    "n_articles_requested": 6,
+    "n_articles": 41
+  }
+}

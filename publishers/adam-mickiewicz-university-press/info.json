@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Adam Mickiewicz University Press",
+  "journals": 4,
+  "scihub": 125,
+  "crossref_open_access": 647,
+  "crossref_active": 1045,
+  "crossref": 1045,
+  "coverage": 0.11961722,
+  "publisher_slug": "adam-mickiewicz-university-press",
+  "access_logs": {
+    "downloads": 0.01571,
+    "visitors": 0.01571,
+    "countries": 0.01047,
+    "days": 0.01571,
+    "months": 0.01571,
+    "n_articles_requested": 2,
+    "n_articles": 191
+  }
+}

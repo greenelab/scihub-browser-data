@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Nanjing Medical University",
+  "journals": 2,
+  "scihub": 442,
+  "crossref_open_access": 0,
+  "crossref_active": 473,
+  "crossref": 722,
+  "coverage": 0.61218837,
+  "publisher_slug": "nanjing-medical-university",
+  "access_logs": {
+    "downloads": 0.0339,
+    "visitors": 0.0339,
+    "countries": 0.02542,
+    "days": 0.02542,
+    "months": 0.02542,
+    "n_articles_requested": 3,
+    "n_articles": 118
+  }
+}

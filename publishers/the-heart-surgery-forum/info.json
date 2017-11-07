@@ -1,0 +1,19 @@
+{
+  "publisher_name": "The Heart Surgery Forum",
+  "journals": 1,
+  "scihub": 6,
+  "crossref_open_access": 0,
+  "crossref_active": 1244,
+  "crossref": 1244,
+  "coverage": 0.00482315,
+  "publisher_slug": "the-heart-surgery-forum",
+  "access_logs": {
+    "downloads": 0.0339,
+    "visitors": 0.02542,
+    "countries": 0.02542,
+    "days": 0.0339,
+    "months": 0.02542,
+    "n_articles_requested": 2,
+    "n_articles": 118
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Princeton University Press",
+  "journals": 1,
+  "scihub": 5141,
+  "crossref_open_access": 0,
+  "crossref_active": 5847,
+  "crossref": 5847,
+  "coverage": 0.87925432,
+  "publisher_slug": "princeton-university-press",
+  "access_logs": {
+    "downloads": 0.06757,
+    "visitors": 0.05405,
+    "countries": 0.05405,
+    "days": 0.05405,
+    "months": 0.05405,
+    "n_articles_requested": 4,
+    "n_articles": 74
+  }
+}

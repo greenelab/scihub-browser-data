@@ -1,0 +1,19 @@
+{
+  "publisher_name": "European Association of Hospital Pharmacists (EAHP)",
+  "journals": 1,
+  "scihub": 688,
+  "crossref_open_access": 0,
+  "crossref_active": 3338,
+  "crossref": 3338,
+  "coverage": 0.20611144,
+  "publisher_slug": "european-association-of-hospital-pharmacists-eahp",
+  "access_logs": {
+    "downloads": 0.07967,
+    "visitors": 0.07469,
+    "countries": 0.06722,
+    "days": 0.07469,
+    "months": 0.06639,
+    "n_articles_requested": 56,
+    "n_articles": 1205
+  }
+}

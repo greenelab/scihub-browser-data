@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Consultants Bureau",
+  "journals": 10,
+  "scihub": 73297,
+  "crossref_open_access": 0,
+  "crossref_active": 9118,
+  "crossref": 73438,
+  "coverage": 0.99808001,
+  "publisher_slug": "consultants-bureau",
+  "access_logs": {
+    "downloads": 1.4525,
+    "visitors": 1.338,
+    "countries": 1.2821,
+    "days": 1.3324,
+    "months": 1.2235,
+    "n_articles_requested": 355,
+    "n_articles": 358
+  }
+}

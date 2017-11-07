@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Tehran University of Medical Sciences",
+  "journals": 4,
+  "scihub": 169,
+  "crossref_open_access": 288,
+  "crossref_active": 390,
+  "crossref": 458,
+  "coverage": 0.36899563,
+  "publisher_slug": "tehran-university-of-medical-sciences",
+  "access_logs": {
+    "downloads": 0.31068,
+    "visitors": 0.31068,
+    "countries": 0.23301,
+    "days": 0.30097,
+    "months": 0.24272,
+    "n_articles_requested": 14,
+    "n_articles": 103
+  }
+}

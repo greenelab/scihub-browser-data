@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Korean Urological Association",
+  "journals": 2,
+  "scihub": 287,
+  "crossref_open_access": 114,
+  "crossref_active": 1240,
+  "crossref": 1240,
+  "coverage": 0.23145161,
+  "publisher_slug": "korean-urological-association",
+  "access_logs": {
+    "downloads": 0.18021,
+    "visitors": 0.18021,
+    "countries": 0.16608,
+    "days": 0.17314,
+    "months": 0.16608,
+    "n_articles_requested": 42,
+    "n_articles": 283
+  }
+}

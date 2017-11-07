@@ -1,0 +1,19 @@
+{
+  "publisher_name": "National Medical Association",
+  "journals": 1,
+  "scihub": 1475,
+  "crossref_open_access": 1514,
+  "crossref_active": 1514,
+  "crossref": 1514,
+  "coverage": 0.97424042,
+  "publisher_slug": "national-medical-association",
+  "access_logs": {
+    "downloads": 0.05085,
+    "visitors": 0.05085,
+    "countries": 0.05085,
+    "days": 0.05085,
+    "months": 0.05085,
+    "n_articles_requested": 3,
+    "n_articles": 59
+  }
+}

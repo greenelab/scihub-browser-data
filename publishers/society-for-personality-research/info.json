@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Society for Personality Research",
+  "journals": 1,
+  "scihub": 2916,
+  "crossref_open_access": 0,
+  "crossref_active": 3032,
+  "crossref": 3032,
+  "coverage": 0.96174142,
+  "publisher_slug": "society-for-personality-research",
+  "access_logs": {
+    "downloads": 0.89764,
+    "visitors": 0.79921,
+    "countries": 0.53937,
+    "days": 0.70472,
+    "months": 0.55512,
+    "n_articles_requested": 91,
+    "n_articles": 254
+  }
+}

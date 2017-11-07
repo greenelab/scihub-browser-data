@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Turk Biyokimya Dernegi",
+  "journals": 1,
+  "scihub": 300,
+  "crossref_open_access": 0,
+  "crossref_active": 476,
+  "crossref": 476,
+  "coverage": 0.6302521,
+  "publisher_slug": "turk-biyokimya-dernegi",
+  "access_logs": {
+    "downloads": 0.2381,
+    "visitors": 0.23129,
+    "countries": 0.22449,
+    "days": 0.23129,
+    "months": 0.20408,
+    "n_articles_requested": 21,
+    "n_articles": 147
+  }
+}

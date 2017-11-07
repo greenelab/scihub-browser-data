@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Human Nature Review",
+  "journals": 1,
+  "scihub": 703,
+  "crossref_open_access": 724,
+  "crossref_active": 724,
+  "crossref": 724,
+  "coverage": 0.97099448,
+  "publisher_slug": "human-nature-review",
+  "access_logs": {
+    "downloads": 0.19091,
+    "visitors": 0.19091,
+    "countries": 0.19091,
+    "days": 0.19091,
+    "months": 0.19091,
+    "n_articles_requested": 17,
+    "n_articles": 110
+  }
+}

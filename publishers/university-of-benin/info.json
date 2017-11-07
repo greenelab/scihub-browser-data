@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Benin",
+  "journals": 2,
+  "scihub": 672,
+  "crossref_open_access": 1648,
+  "crossref_active": 1737,
+  "crossref": 1737,
+  "coverage": 0.38687392,
+  "publisher_slug": "university-of-benin",
+  "access_logs": {
+    "downloads": 0.05096,
+    "visitors": 0.04883,
+    "countries": 0.04034,
+    "days": 0.04246,
+    "months": 0.04034,
+    "n_articles_requested": 19,
+    "n_articles": 471
+  }
+}

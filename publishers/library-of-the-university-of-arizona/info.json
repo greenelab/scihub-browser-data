@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Library of the University of Arizona",
+  "journals": 1,
+  "scihub": 1806,
+  "crossref_open_access": 2049,
+  "crossref_active": 2049,
+  "crossref": 2049,
+  "coverage": 0.88140556,
+  "publisher_slug": "library-of-the-university-of-arizona",
+  "access_logs": {
+    "downloads": 0.37713,
+    "visitors": 0.33959,
+    "countries": 0.28157,
+    "days": 0.32253,
+    "months": 0.29863,
+    "n_articles_requested": 138,
+    "n_articles": 586
+  }
+}

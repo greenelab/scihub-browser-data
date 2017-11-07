@@ -1,0 +1,19 @@
+{
+  "publisher_name": "KARE Publishing",
+  "journals": 1,
+  "scihub": 84,
+  "crossref_open_access": 587,
+  "crossref_active": 587,
+  "crossref": 587,
+  "coverage": 0.14310051,
+  "publisher_slug": "kare-publishing",
+  "access_logs": {
+    "downloads": 0.13158,
+    "visitors": 0.12632,
+    "countries": 0.11579,
+    "days": 0.12632,
+    "months": 0.11053,
+    "n_articles_requested": 17,
+    "n_articles": 190
+  }
+}

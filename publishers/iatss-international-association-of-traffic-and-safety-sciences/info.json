@@ -1,0 +1,19 @@
+{
+  "publisher_name": "IATSS - International Association of Traffic and Safety Sciences",
+  "journals": 1,
+  "scihub": 1900,
+  "crossref_open_access": 2040,
+  "crossref_active": 2040,
+  "crossref": 2040,
+  "coverage": 0.93137255,
+  "publisher_slug": "iatss-international-association-of-traffic-and-safety-sciences",
+  "access_logs": {
+    "downloads": 1.9128,
+    "visitors": 1.6711,
+    "countries": 1.2886,
+    "days": 1.5906,
+    "months": 1.2953,
+    "n_articles_requested": 106,
+    "n_articles": 149
+  }
+}

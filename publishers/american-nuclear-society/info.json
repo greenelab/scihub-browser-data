@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Nuclear Society",
+  "journals": 3,
+  "scihub": 7,
+  "crossref_open_access": 0,
+  "crossref_active": 3012,
+  "crossref": 3012,
+  "coverage": 0.00232404,
+  "publisher_slug": "american-nuclear-society",
+  "access_logs": {
+    "downloads": 0.00277,
+    "visitors": 0.00277,
+    "countries": 0.00277,
+    "days": 0.00277,
+    "months": 0.00277,
+    "n_articles_requested": 1,
+    "n_articles": 721
+  }
+}

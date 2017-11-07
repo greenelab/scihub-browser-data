@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Central Missouri State University",
+  "journals": 1,
+  "scihub": 63,
+  "crossref_open_access": 0,
+  "crossref_active": 70,
+  "crossref": 70,
+  "coverage": 0.9,
+  "publisher_slug": "central-missouri-state-university",
+  "access_logs": {
+    "downloads": 0.07692,
+    "visitors": 0.07692,
+    "countries": 0.07692,
+    "days": 0.07692,
+    "months": 0.07692,
+    "n_articles_requested": 2,
+    "n_articles": 26
+  }
+}

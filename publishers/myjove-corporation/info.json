@@ -1,0 +1,19 @@
+{
+  "publisher_name": "MYJoVE Corporation",
+  "journals": 1,
+  "scihub": 963,
+  "crossref_open_access": 0,
+  "crossref_active": 5974,
+  "crossref": 5974,
+  "coverage": 0.16119853,
+  "publisher_slug": "myjove-corporation",
+  "access_logs": {
+    "downloads": 0.24046,
+    "visitors": 0.21433,
+    "countries": 0.18151,
+    "days": 0.21366,
+    "months": 0.14869,
+    "n_articles_requested": 118,
+    "n_articles": 1493
+  }
+}

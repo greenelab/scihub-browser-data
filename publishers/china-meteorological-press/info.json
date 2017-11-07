@@ -1,0 +1,19 @@
+{
+  "publisher_name": "China Meteorological Press",
+  "journals": 1,
+  "scihub": 206,
+  "crossref_open_access": 0,
+  "crossref_active": 206,
+  "crossref": 206,
+  "coverage": 1.0,
+  "publisher_slug": "china-meteorological-press",
+  "access_logs": {
+    "downloads": 0.3,
+    "visitors": 0.2,
+    "countries": 0.2,
+    "days": 0.2,
+    "months": 0.2,
+    "n_articles_requested": 2,
+    "n_articles": 10
+  }
+}

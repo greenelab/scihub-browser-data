@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Korea Ocean Research and Development Institute",
+  "journals": 2,
+  "scihub": 426,
+  "crossref_open_access": 658,
+  "crossref_active": 1105,
+  "crossref": 1105,
+  "coverage": 0.38552036,
+  "publisher_slug": "korea-ocean-research-and-development-institute",
+  "access_logs": {
+    "downloads": 0.58904,
+    "visitors": 0.43836,
+    "countries": 0.36986,
+    "days": 0.43151,
+    "months": 0.39726,
+    "n_articles_requested": 40,
+    "n_articles": 146
+  }
+}

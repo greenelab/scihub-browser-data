@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Chemical Society of Ethiopia",
+  "journals": 1,
+  "scihub": 73,
+  "crossref_open_access": 747,
+  "crossref_active": 747,
+  "crossref": 747,
+  "coverage": 0.09772423,
+  "publisher_slug": "chemical-society-of-ethiopia",
+  "access_logs": {
+    "downloads": 0.27711,
+    "visitors": 0.25301,
+    "countries": 0.22892,
+    "days": 0.25301,
+    "months": 0.21687,
+    "n_articles_requested": 15,
+    "n_articles": 83
+  }
+}

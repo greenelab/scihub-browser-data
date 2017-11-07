@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Korean Academy of Periodontology",
+  "journals": 1,
+  "scihub": 9,
+  "crossref_open_access": 331,
+  "crossref_active": 331,
+  "crossref": 331,
+  "coverage": 0.02719033,
+  "publisher_slug": "korean-academy-of-periodontology",
+  "access_logs": {
+    "downloads": 0.04546,
+    "visitors": 0.04546,
+    "countries": 0.03409,
+    "days": 0.03409,
+    "months": 0.02273,
+    "n_articles_requested": 2,
+    "n_articles": 88
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Hippokrates Verlag",
+  "journals": 1,
+  "scihub": 627,
+  "crossref_open_access": 0,
+  "crossref_active": 1117,
+  "crossref": 1117,
+  "coverage": 0.56132498,
+  "publisher_slug": "hippokrates-verlag",
+  "access_logs": {
+    "downloads": 0.08333,
+    "visitors": 0.08333,
+    "countries": 0.08333,
+    "days": 0.08333,
+    "months": 0.08333,
+    "n_articles_requested": 7,
+    "n_articles": 84
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Texas Press",
+  "journals": 5,
+  "scihub": 767,
+  "crossref_open_access": 0,
+  "crossref_active": 768,
+  "crossref": 2560,
+  "coverage": 0.29960938,
+  "publisher_slug": "university-of-texas-press",
+  "access_logs": {
+    "downloads": 0.07643,
+    "visitors": 0.07643,
+    "countries": 0.06369,
+    "days": 0.06688,
+    "months": 0.06051,
+    "n_articles_requested": 19,
+    "n_articles": 314
+  }
+}

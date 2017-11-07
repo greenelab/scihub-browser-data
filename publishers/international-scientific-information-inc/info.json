@@ -1,0 +1,19 @@
+{
+  "publisher_name": "International Scientific Information, Inc.",
+  "journals": 2,
+  "scihub": 3,
+  "crossref_open_access": 652,
+  "crossref_active": 652,
+  "crossref": 652,
+  "coverage": 0.00460123,
+  "publisher_slug": "international-scientific-information-inc",
+  "access_logs": {
+    "downloads": 0.01333,
+    "visitors": 0.01333,
+    "countries": 0.01333,
+    "days": 0.00889,
+    "months": 0.00889,
+    "n_articles_requested": 2,
+    "n_articles": 225
+  }
+}

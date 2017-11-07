@@ -1,0 +1,19 @@
+{
+  "publisher_name": "The Egyptian Society for Joint Diseases and Arthritis",
+  "journals": 1,
+  "scihub": 272,
+  "crossref_open_access": 281,
+  "crossref_active": 281,
+  "crossref": 281,
+  "coverage": 0.96797153,
+  "publisher_slug": "the-egyptian-society-for-joint-diseases-and-arthritis",
+  "access_logs": {
+    "downloads": 0.5625,
+    "visitors": 0.53125,
+    "countries": 0.5,
+    "days": 0.51562,
+    "months": 0.45312,
+    "n_articles_requested": 26,
+    "n_articles": 64
+  }
+}

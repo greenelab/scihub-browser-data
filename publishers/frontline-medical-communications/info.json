@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Frontline Medical Communications",
+  "journals": 1,
+  "scihub": 2,
+  "crossref_open_access": 0,
+  "crossref_active": 316,
+  "crossref": 316,
+  "coverage": 0.00632911,
+  "publisher_slug": "frontline-medical-communications",
+  "access_logs": {
+    "downloads": 0.01923,
+    "visitors": 0.01923,
+    "countries": 0.01923,
+    "days": 0.01923,
+    "months": 0.01923,
+    "n_articles_requested": 2,
+    "n_articles": 156
+  }
+}

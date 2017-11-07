@@ -1,0 +1,19 @@
+{
+  "publisher_name": "American Society of Mammalogists",
+  "journals": 1,
+  "scihub": 846,
+  "crossref_open_access": 0,
+  "crossref_active": 898,
+  "crossref": 898,
+  "coverage": 0.94209354,
+  "publisher_slug": "american-society-of-mammalogists",
+  "access_logs": {
+    "downloads": 2.95,
+    "visitors": 2.85,
+    "countries": 2.35,
+    "days": 2.85,
+    "months": 1.95,
+    "n_articles_requested": 16,
+    "n_articles": 20
+  }
+}

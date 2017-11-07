@@ -1,0 +1,19 @@
+{
+  "publisher_name": "IWA Publishing",
+  "journals": 10,
+  "scihub": 14740,
+  "crossref_open_access": 0,
+  "crossref_active": 17644,
+  "crossref": 17644,
+  "coverage": 0.83541147,
+  "publisher_slug": "iwa-publishing",
+  "access_logs": {
+    "downloads": 0.48618,
+    "visitors": 0.42085,
+    "countries": 0.33291,
+    "days": 0.38903,
+    "months": 0.32035,
+    "n_articles_requested": 548,
+    "n_articles": 2388
+  }
+}

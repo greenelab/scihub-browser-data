@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Open Access House of Science and Technology (OAHOST)",
+  "journals": 1,
+  "scihub": 76,
+  "crossref_open_access": 0,
+  "crossref_active": 229,
+  "crossref": 229,
+  "coverage": 0.33187773,
+  "publisher_slug": "open-access-house-of-science-and-technology-oahost",
+  "access_logs": {
+    "downloads": 0.0,
+    "visitors": 0.0,
+    "countries": 0.0,
+    "days": 0.0,
+    "months": 0.0,
+    "n_articles_requested": 0,
+    "n_articles": 22
+  }
+}

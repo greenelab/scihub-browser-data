@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Annals of Family Medicine, Inc.",
+  "journals": 1,
+  "scihub": 1739,
+  "crossref_open_access": 1822,
+  "crossref_active": 1822,
+  "crossref": 1822,
+  "coverage": 0.95444566,
+  "publisher_slug": "annals-of-family-medicine-inc",
+  "access_logs": {
+    "downloads": 0.51681,
+    "visitors": 0.44118,
+    "countries": 0.36134,
+    "days": 0.44538,
+    "months": 0.37395,
+    "n_articles_requested": 69,
+    "n_articles": 238
+  }
+}

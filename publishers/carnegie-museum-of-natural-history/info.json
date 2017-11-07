@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Carnegie Museum of Natural History",
+  "journals": 1,
+  "scihub": 157,
+  "crossref_open_access": 0,
+  "crossref_active": 164,
+  "crossref": 164,
+  "coverage": 0.95731707,
+  "publisher_slug": "carnegie-museum-of-natural-history",
+  "access_logs": {
+    "downloads": 1.25,
+    "visitors": 0.83333,
+    "countries": 0.66667,
+    "days": 0.75,
+    "months": 0.66667,
+    "n_articles_requested": 7,
+    "n_articles": 12
+  }
+}

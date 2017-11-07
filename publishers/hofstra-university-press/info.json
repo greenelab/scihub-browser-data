@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Hofstra University Press",
+  "journals": 1,
+  "scihub": 1153,
+  "crossref_open_access": 0,
+  "crossref_active": 1376,
+  "crossref": 1376,
+  "coverage": 0.83793605,
+  "publisher_slug": "hofstra-university-press",
+  "access_logs": {
+    "downloads": 0.11628,
+    "visitors": 0.11628,
+    "countries": 0.11628,
+    "days": 0.11628,
+    "months": 0.11628,
+    "n_articles_requested": 4,
+    "n_articles": 43
+  }
+}

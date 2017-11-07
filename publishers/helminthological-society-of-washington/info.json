@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Helminthological Society of Washington",
+  "journals": 1,
+  "scihub": 708,
+  "crossref_open_access": 0,
+  "crossref_active": 727,
+  "crossref": 727,
+  "coverage": 0.9738652,
+  "publisher_slug": "helminthological-society-of-washington",
+  "access_logs": {
+    "downloads": 1.0095,
+    "visitors": 0.87619,
+    "countries": 0.6,
+    "days": 0.73333,
+    "months": 0.65714,
+    "n_articles_requested": 44,
+    "n_articles": 105
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Korean Society of Mechanical Engineers",
+  "journals": 5,
+  "scihub": 6498,
+  "crossref_open_access": 0,
+  "crossref_active": 10375,
+  "crossref": 11974,
+  "coverage": 0.5426758,
+  "publisher_slug": "korean-society-of-mechanical-engineers",
+  "access_logs": {
+    "downloads": 0.96502,
+    "visitors": 0.8642,
+    "countries": 0.62894,
+    "days": 0.82785,
+    "months": 0.66049,
+    "n_articles_requested": 557,
+    "n_articles": 1458
+  }
+}

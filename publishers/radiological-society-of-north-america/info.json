@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Radiological Society of North America",
+  "journals": 1,
+  "scihub": 34385,
+  "crossref_open_access": 0,
+  "crossref_active": 56339,
+  "crossref": 56339,
+  "coverage": 0.61032322,
+  "publisher_slug": "radiological-society-of-north-america",
+  "access_logs": {
+    "downloads": 1.4681,
+    "visitors": 1.3474,
+    "countries": 1.0376,
+    "days": 1.2267,
+    "months": 0.95216,
+    "n_articles_requested": 447,
+    "n_articles": 878
+  }
+}

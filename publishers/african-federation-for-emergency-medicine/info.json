@@ -1,0 +1,19 @@
+{
+  "publisher_name": "African Federation for Emergency Medicine",
+  "journals": 1,
+  "scihub": 377,
+  "crossref_open_access": 390,
+  "crossref_active": 390,
+  "crossref": 390,
+  "coverage": 0.96666667,
+  "publisher_slug": "african-federation-for-emergency-medicine",
+  "access_logs": {
+    "downloads": 0.225,
+    "visitors": 0.1875,
+    "countries": 0.175,
+    "days": 0.1875,
+    "months": 0.175,
+    "n_articles_requested": 12,
+    "n_articles": 80
+  }
+}

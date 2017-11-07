@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Ciudad Universitaria",
+  "journals": 1,
+  "scihub": 103,
+  "crossref_open_access": 104,
+  "crossref_active": 104,
+  "crossref": 104,
+  "coverage": 0.99038462,
+  "publisher_slug": "ciudad-universitaria",
+  "access_logs": {
+    "downloads": 0.05882,
+    "visitors": 0.05882,
+    "countries": 0.05882,
+    "days": 0.05882,
+    "months": 0.05882,
+    "n_articles_requested": 3,
+    "n_articles": 51
+  }
+}

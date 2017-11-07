@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Notre Dame, Law School",
+  "journals": 1,
+  "scihub": 884,
+  "crossref_open_access": 0,
+  "crossref_active": 892,
+  "crossref": 892,
+  "coverage": 0.99103139,
+  "publisher_slug": "university-of-notre-dame-law-school",
+  "access_logs": {
+    "downloads": 1.05,
+    "visitors": 1.05,
+    "countries": 0.95,
+    "days": 1.05,
+    "months": 0.8,
+    "n_articles_requested": 12,
+    "n_articles": 20
+  }
+}

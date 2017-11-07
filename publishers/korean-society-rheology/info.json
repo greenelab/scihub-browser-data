@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Korean Society Rheology",
+  "journals": 1,
+  "scihub": 219,
+  "crossref_open_access": 0,
+  "crossref_active": 222,
+  "crossref": 222,
+  "coverage": 0.98648649,
+  "publisher_slug": "korean-society-rheology",
+  "access_logs": {
+    "downloads": 1.0141,
+    "visitors": 0.97183,
+    "countries": 0.78873,
+    "days": 0.94366,
+    "months": 0.78873,
+    "n_articles_requested": 35,
+    "n_articles": 71
+  }
+}

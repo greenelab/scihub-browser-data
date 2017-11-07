@@ -1,0 +1,19 @@
+{
+  "publisher_name": "International Association for Food Protection",
+  "journals": 1,
+  "scihub": 1710,
+  "crossref_open_access": 0,
+  "crossref_active": 10490,
+  "crossref": 10490,
+  "coverage": 0.16301239,
+  "publisher_slug": "international-association-for-food-protection",
+  "access_logs": {
+    "downloads": 1.8929,
+    "visitors": 1.5946,
+    "countries": 1.2467,
+    "days": 1.4723,
+    "months": 1.1071,
+    "n_articles_requested": 310,
+    "n_articles": 523
+  }
+}

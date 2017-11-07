@@ -1,0 +1,19 @@
+{
+  "publisher_name": "New England Botanical Club, Inc.",
+  "journals": 1,
+  "scihub": 423,
+  "crossref_open_access": 0,
+  "crossref_active": 441,
+  "crossref": 441,
+  "coverage": 0.95918367,
+  "publisher_slug": "new-england-botanical-club-inc",
+  "access_logs": {
+    "downloads": 0.36986,
+    "visitors": 0.32877,
+    "countries": 0.31507,
+    "days": 0.32877,
+    "months": 0.28767,
+    "n_articles_requested": 16,
+    "n_articles": 73
+  }
+}

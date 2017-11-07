@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Instituto de la Grasa",
+  "journals": 1,
+  "scihub": 256,
+  "crossref_open_access": 1306,
+  "crossref_active": 1306,
+  "crossref": 1306,
+  "coverage": 0.19601838,
+  "publisher_slug": "instituto-de-la-grasa",
+  "access_logs": {
+    "downloads": 0.2069,
+    "visitors": 0.1954,
+    "countries": 0.17241,
+    "days": 0.18391,
+    "months": 0.18391,
+    "n_articles_requested": 13,
+    "n_articles": 87
+  }
+}

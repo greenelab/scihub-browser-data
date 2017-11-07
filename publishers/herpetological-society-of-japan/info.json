@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Herpetological Society of Japan",
+  "journals": 1,
+  "scihub": 214,
+  "crossref_open_access": 0,
+  "crossref_active": 288,
+  "crossref": 288,
+  "coverage": 0.74305556,
+  "publisher_slug": "herpetological-society-of-japan",
+  "access_logs": {
+    "downloads": 2.1395,
+    "visitors": 1.907,
+    "countries": 1.2558,
+    "days": 1.4884,
+    "months": 1.0698,
+    "n_articles_requested": 24,
+    "n_articles": 43
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Panstwowy Zaklad Wydawnictw Lekarskich",
+  "journals": 3,
+  "scihub": 2,
+  "crossref_open_access": 656,
+  "crossref_active": 904,
+  "crossref": 999,
+  "coverage": 0.002002,
+  "publisher_slug": "panstwowy-zaklad-wydawnictw-lekarskich",
+  "access_logs": {
+    "downloads": 0.00357,
+    "visitors": 0.00357,
+    "countries": 0.00357,
+    "days": 0.00357,
+    "months": 0.00357,
+    "n_articles_requested": 1,
+    "n_articles": 280
+  }
+}

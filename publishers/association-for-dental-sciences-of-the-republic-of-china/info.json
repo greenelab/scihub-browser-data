@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Association for Dental Sciences of the Republic of China",
+  "journals": 1,
+  "scihub": 546,
+  "crossref_open_access": 0,
+  "crossref_active": 555,
+  "crossref": 555,
+  "coverage": 0.98378378,
+  "publisher_slug": "association-for-dental-sciences-of-the-republic-of-china",
+  "access_logs": {
+    "downloads": 1.605,
+    "visitors": 1.4202,
+    "countries": 1.1008,
+    "days": 1.3445,
+    "months": 1.0084,
+    "n_articles_requested": 59,
+    "n_articles": 119
+  }
+}

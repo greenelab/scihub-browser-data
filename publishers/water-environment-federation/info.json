@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Water Environment Federation",
+  "journals": 1,
+  "scihub": 3046,
+  "crossref_open_access": 0,
+  "crossref_active": 3433,
+  "crossref": 3433,
+  "coverage": 0.88727061,
+  "publisher_slug": "water-environment-federation",
+  "access_logs": {
+    "downloads": 1.3524,
+    "visitors": 1.1938,
+    "countries": 0.90308,
+    "days": 1.1894,
+    "months": 0.88987,
+    "n_articles_requested": 116,
+    "n_articles": 227
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Springer Nature",
+  "journals": 2803,
+  "scihub": 6147387,
+  "crossref_open_access": 480720,
+  "crossref_active": 6214574,
+  "crossref": 6856822,
+  "coverage": 0.89653589,
+  "publisher_slug": "springer-nature",
+  "access_logs": {
+    "downloads": 1.4853,
+    "visitors": 1.307,
+    "countries": 0.8992,
+    "days": 1.2134,
+    "months": 0.79887,
+    "n_articles_requested": 226130,
+    "n_articles": 526666
+  }
+}

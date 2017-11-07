@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Institute of Pure and Applied Physics",
+  "journals": 2,
+  "scihub": 36377,
+  "crossref_open_access": 0,
+  "crossref_active": 38356,
+  "crossref": 55885,
+  "coverage": 0.65092601,
+  "publisher_slug": "institute-of-pure-and-applied-physics",
+  "access_logs": {
+    "downloads": 0.78385,
+    "visitors": 0.67969,
+    "countries": 0.49349,
+    "days": 0.6263,
+    "months": 0.53516,
+    "n_articles_requested": 277,
+    "n_articles": 768
+  }
+}

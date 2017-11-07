@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Notre Dame",
+  "journals": 1,
+  "scihub": 8238,
+  "crossref_open_access": 0,
+  "crossref_active": 8246,
+  "crossref": 8246,
+  "coverage": 0.99902983,
+  "publisher_slug": "university-of-notre-dame",
+  "access_logs": {
+    "downloads": 0.3945,
+    "visitors": 0.37615,
+    "countries": 0.3211,
+    "days": 0.3578,
+    "months": 0.31193,
+    "n_articles_requested": 28,
+    "n_articles": 109
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Russian Academy of Sciences",
+  "journals": 5,
+  "scihub": 3019,
+  "crossref_open_access": 0,
+  "crossref_active": 3653,
+  "crossref": 4423,
+  "coverage": 0.68256839,
+  "publisher_slug": "russian-academy-of-sciences",
+  "access_logs": {
+    "downloads": 0.15193,
+    "visitors": 0.12707,
+    "countries": 0.10083,
+    "days": 0.12983,
+    "months": 0.0953,
+    "n_articles_requested": 43,
+    "n_articles": 724
+  }
+}

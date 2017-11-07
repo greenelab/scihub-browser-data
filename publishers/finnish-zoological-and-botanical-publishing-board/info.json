@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Finnish Zoological and Botanical Publishing Board",
+  "journals": 2,
+  "scihub": 961,
+  "crossref_open_access": 0,
+  "crossref_active": 969,
+  "crossref": 969,
+  "coverage": 0.99174407,
+  "publisher_slug": "finnish-zoological-and-botanical-publishing-board",
+  "access_logs": {
+    "downloads": 0.88312,
+    "visitors": 0.77273,
+    "countries": 0.63636,
+    "days": 0.74026,
+    "months": 0.62987,
+    "n_articles_requested": 72,
+    "n_articles": 154
+  }
+}

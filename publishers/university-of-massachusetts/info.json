@@ -1,0 +1,19 @@
+{
+  "publisher_name": "University of Massachusetts",
+  "journals": 1,
+  "scihub": 313,
+  "crossref_open_access": 0,
+  "crossref_active": 439,
+  "crossref": 439,
+  "coverage": 0.71298405,
+  "publisher_slug": "university-of-massachusetts",
+  "access_logs": {
+    "downloads": 0.08974,
+    "visitors": 0.08974,
+    "countries": 0.08974,
+    "days": 0.08974,
+    "months": 0.0641,
+    "n_articles_requested": 5,
+    "n_articles": 78
+  }
+}

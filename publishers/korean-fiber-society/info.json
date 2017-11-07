@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Korean Fiber Society",
+  "journals": 1,
+  "scihub": 2491,
+  "crossref_open_access": 0,
+  "crossref_active": 2519,
+  "crossref": 2519,
+  "coverage": 0.98888448,
+  "publisher_slug": "korean-fiber-society",
+  "access_logs": {
+    "downloads": 1.4966,
+    "visitors": 1.3874,
+    "countries": 1.0683,
+    "days": 1.3072,
+    "months": 1.0563,
+    "n_articles_requested": 358,
+    "n_articles": 586
+  }
+}

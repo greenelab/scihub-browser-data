@@ -1,0 +1,19 @@
+{
+  "publisher_name": "IFAC Secretariat",
+  "journals": 1,
+  "scihub": 5334,
+  "crossref_open_access": 0,
+  "crossref_active": 5485,
+  "crossref": 5485,
+  "coverage": 0.97247037,
+  "publisher_slug": "ifac-secretariat",
+  "access_logs": {
+    "downloads": 0.65451,
+    "visitors": 0.62216,
+    "countries": 0.49277,
+    "days": 0.61253,
+    "months": 0.49828,
+    "n_articles_requested": 994,
+    "n_articles": 2906
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Berkeley Electronic Press",
+  "journals": 2,
+  "scihub": 353,
+  "crossref_open_access": 0,
+  "crossref_active": 390,
+  "crossref": 390,
+  "coverage": 0.90512821,
+  "publisher_slug": "berkeley-electronic-press",
+  "access_logs": {
+    "downloads": 0.0875,
+    "visitors": 0.0875,
+    "countries": 0.0875,
+    "days": 0.0875,
+    "months": 0.0875,
+    "n_articles_requested": 5,
+    "n_articles": 80
+  }
+}

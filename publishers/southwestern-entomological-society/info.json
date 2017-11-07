@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Southwestern Entomological Society",
+  "journals": 1,
+  "scihub": 702,
+  "crossref_open_access": 0,
+  "crossref_active": 728,
+  "crossref": 728,
+  "coverage": 0.96428571,
+  "publisher_slug": "southwestern-entomological-society",
+  "access_logs": {
+    "downloads": 0.77612,
+    "visitors": 0.70896,
+    "countries": 0.57463,
+    "days": 0.70149,
+    "months": 0.58955,
+    "n_articles_requested": 52,
+    "n_articles": 134
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Universidade Federal de Mato Grosso do Sul, Departamento de Quimica",
+  "journals": 1,
+  "scihub": 9,
+  "crossref_open_access": 0,
+  "crossref_active": 98,
+  "crossref": 98,
+  "coverage": 0.09183673,
+  "publisher_slug": "universidade-federal-de-mato-grosso-do-sul-departamento-de-quimica",
+  "access_logs": {
+    "downloads": 0.125,
+    "visitors": 0.08333,
+    "countries": 0.04167,
+    "days": 0.08333,
+    "months": 0.08333,
+    "n_articles_requested": 1,
+    "n_articles": 24
+  }
+}

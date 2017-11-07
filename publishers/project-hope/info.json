@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Project Hope",
+  "journals": 1,
+  "scihub": 8535,
+  "crossref_open_access": 0,
+  "crossref_active": 8781,
+  "crossref": 8781,
+  "coverage": 0.97198497,
+  "publisher_slug": "project-hope",
+  "access_logs": {
+    "downloads": 0.46417,
+    "visitors": 0.40031,
+    "countries": 0.33333,
+    "days": 0.38941,
+    "months": 0.30374,
+    "n_articles_requested": 124,
+    "n_articles": 642
+  }
+}

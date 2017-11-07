@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Elsevier",
+  "journals": 3410,
+  "scihub": 13115639,
+  "crossref_open_access": 210333,
+  "crossref_active": 12308330,
+  "crossref": 13528561,
+  "coverage": 0.96947776,
+  "publisher_slug": "elsevier",
+  "access_logs": {
+    "downloads": 1.898,
+    "visitors": 1.6893,
+    "countries": 1.1769,
+    "days": 1.6095,
+    "months": 1.0649,
+    "n_articles_requested": 458718,
+    "n_articles": 910056
+  }
+}

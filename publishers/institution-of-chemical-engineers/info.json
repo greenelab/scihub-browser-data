@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Institution of Chemical Engineers",
+  "journals": 2,
+  "scihub": 3504,
+  "crossref_open_access": 0,
+  "crossref_active": 3535,
+  "crossref": 3535,
+  "coverage": 0.99123055,
+  "publisher_slug": "institution-of-chemical-engineers",
+  "access_logs": {
+    "downloads": 3.6333,
+    "visitors": 3.2345,
+    "countries": 2.2388,
+    "days": 3.0704,
+    "months": 1.9083,
+    "n_articles_requested": 350,
+    "n_articles": 469
+  }
+}

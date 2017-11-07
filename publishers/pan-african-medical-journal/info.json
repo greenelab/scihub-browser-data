@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Pan African Medical Journal",
+  "journals": 1,
+  "scihub": 31,
+  "crossref_open_access": 3872,
+  "crossref_active": 3872,
+  "crossref": 3872,
+  "coverage": 0.0080062,
+  "publisher_slug": "pan-african-medical-journal",
+  "access_logs": {
+    "downloads": 0.00226,
+    "visitors": 0.00226,
+    "countries": 0.00181,
+    "days": 0.00226,
+    "months": 0.00226,
+    "n_articles_requested": 4,
+    "n_articles": 2210
+  }
+}

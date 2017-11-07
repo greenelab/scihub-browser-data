@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Netherlandse Ornithologische Unie/Netherlands Ornithological Union",
+  "journals": 1,
+  "scihub": 395,
+  "crossref_open_access": 0,
+  "crossref_active": 401,
+  "crossref": 401,
+  "coverage": 0.98503741,
+  "publisher_slug": "netherlandse-ornithologische-unie-netherlands-ornithological-union",
+  "access_logs": {
+    "downloads": 1.0189,
+    "visitors": 0.90566,
+    "countries": 0.84906,
+    "days": 0.9434,
+    "months": 0.73585,
+    "n_articles_requested": 27,
+    "n_articles": 53
+  }
+}

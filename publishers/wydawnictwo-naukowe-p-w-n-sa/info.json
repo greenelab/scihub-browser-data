@@ -1,0 +1,19 @@
+{
+  "publisher_name": "Wydawnictwo Naukowe P W N SA",
+  "journals": 1,
+  "scihub": 81,
+  "crossref_open_access": 0,
+  "crossref_active": 0,
+  "crossref": 168,
+  "coverage": 0.48214286,
+  "publisher_slug": "wydawnictwo-naukowe-p-w-n-sa",
+  "access_logs": {
+    "downloads": 0.1,
+    "visitors": 0.1,
+    "countries": 0.1,
+    "days": 0.1,
+    "months": 0.1,
+    "n_articles_requested": 1,
+    "n_articles": 10
+  }
+}

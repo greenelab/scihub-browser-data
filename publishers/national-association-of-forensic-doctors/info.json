@@ -1,0 +1,19 @@
+{
+  "publisher_name": "National Association of Forensic Doctors",
+  "journals": 1,
+  "scihub": 278,
+  "crossref_open_access": 0,
+  "crossref_active": 282,
+  "crossref": 282,
+  "coverage": 0.9858156,
+  "publisher_slug": "national-association-of-forensic-doctors",
+  "access_logs": {
+    "downloads": 1.3667,
+    "visitors": 1.25,
+    "countries": 0.96667,
+    "days": 1.25,
+    "months": 1.0,
+    "n_articles_requested": 36,
+    "n_articles": 60
+  }
+}
